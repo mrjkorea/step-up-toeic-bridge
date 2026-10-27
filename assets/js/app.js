@@ -233,6 +233,17 @@
     return root.stepupUrl("assets/photos/" + s);
   }
 
+  function attachPhotoFallback(img, url) {
+    img.src = url;
+    img.onerror = function () {
+      if (img.dataset.swapped) return;
+      img.dataset.swapped = "1";
+      img.src = /\.png$/i.test(url)
+        ? url.replace(/\.png$/i, ".jpg")
+        : url.replace(/\.jpe?g$/i, ".png");
+    };
+  }
+
   function passageImageRef(item, practice) {
     if (item.passageImage) return item.passageImage;
     if (item.passagePage == null || item.passagePage === "") return null;
@@ -262,8 +273,8 @@
     var photoWrap = el("div", "q-photo");
     var img = document.createElement("img");
     img.alt = altText || "Picture for this question";
-    img.src = url;
     img.loading = "lazy";
+    attachPhotoFallback(img, url);
     photoWrap.appendChild(img);
     card.appendChild(photoWrap);
   }
