@@ -14,6 +14,32 @@
    "label": "1",
    "type": "choice",
    "choices": {
+    "A": "The door is open.",
+    "B": "The man is opening the door."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "There is a bicycle in front of a shop.",
+    "B": "The boy is riding a bicycle."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
     "A": "The horse is running in a field.",
     "B": "The woman is driving the carriage.",
     "C": "The car is parked on the road.",
@@ -22,11 +48,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "basic/p1-s04/q01.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q4",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "The ball is on the ground.",
@@ -37,11 +64,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "basic/p1-s04/q02.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q5",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "The animal is eating grass.",
@@ -52,11 +80,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "basic/p1-s04/q03.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q6",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "The parking lot is empty.",
@@ -67,11 +96,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "basic/p1-s04/q04.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q7",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "The plate is full of fruit.",
@@ -82,11 +112,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "basic/p1-s04/q05.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q8",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "The back of the car is open.",
@@ -97,7 +128,8 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "basic/p1-s04/q06.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   }
  ],
  "contentVersion": "v2-2026-10-28"

@@ -14,6 +14,34 @@
    "label": "1",
    "type": "choice",
    "choices": {
+    "A": "There is no one in the restaurant.",
+    "B": "There are a lot of people in the restaurant.",
+    "C": "All the tables are being used."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The store is closed.",
+    "B": "The books are being bought.",
+    "C": "The store is full of people."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
     "A": "There are many people on the beach.",
     "B": "A man is walking the dog.",
     "C": "The woman is lying in the chair.",
@@ -22,11 +50,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "intermediate/p1-s04/q01.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q4",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "There are many people buying flowers.",
@@ -37,11 +66,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "intermediate/p1-s04/q02.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q5",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "All the cups are the same.",
@@ -52,11 +82,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s04/q03.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q6",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "The man is reading the signs.",
@@ -67,11 +98,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "intermediate/p1-s04/q04.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q7",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "There are lots of people playing.",
@@ -82,11 +114,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "intermediate/p1-s04/q05.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q8",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "The bicycle is behind the bus.",
@@ -97,7 +130,8 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "intermediate/p1-s04/q06.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   }
  ],
  "contentVersion": "v2-2026-10-28"

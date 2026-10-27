@@ -20,7 +20,8 @@
    },
    "prompt": "The annual bonus was large this year, wasn't it?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "Our new office manager is from Australia, isn't he?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "The company's in financial trouble, isn't it?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "The jazz band was great, wasn't it?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "I love to hear birds singing in the morning. don't you?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "You used to work on the 6th floor, didn't you?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, she's been working overtime.",
+    "B": "Yes, we need a spare tire.",
+    "C": "No, she was very quiet."
+   },
+   "prompt": "Susan seemed tired yesterday, didn't she?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I'm a little disappointed.",
+    "B": "No, I used to work in the old office.",
+    "C": "Yes, I think the office is very large."
+   },
+   "prompt": "Our new office is small, isn't it?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I stayed inside all weekend.",
+    "B": "Yes, it says it's going to snow.",
+    "C": "Yes, I'd like to go hiking on the weekend."
+   },
+   "prompt": "The weather this weekend was terrible, wasn't it?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

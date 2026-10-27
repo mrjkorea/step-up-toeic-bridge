@@ -171,6 +171,18 @@ body {
   color: var(--muted);
 }
 
+.practice-section-banner {
+  margin: 1.25rem 0 0.5rem;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted, #5c6570);
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+}
+
 .practice-group {
   margin-bottom: 1.75rem;
 }

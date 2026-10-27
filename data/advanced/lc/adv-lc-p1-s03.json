@@ -14,6 +14,36 @@
    "label": "1",
    "type": "choice",
    "choices": {
+    "A": "The plates are piled up on the counter.",
+    "B": "The plates are lined up in the cupboard.",
+    "C": "The plates are piled up in the cupboard.",
+    "D": "The plates are arranged on the table."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The parking lot is empty.",
+    "B": "The cars are parked in the parking lot.",
+    "C": "The cars are parked along the road.",
+    "D": "The cars are lined up along the road."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
     "A": "The benches are full.",
     "B": "The benches are empty.",
     "C": "The benches are crowded.",
@@ -22,11 +52,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "advanced/p1-s03/q01.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q4",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "The drawers are all open.",
@@ -37,11 +68,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "advanced/p1-s03/q02.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q5",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "The boats are in the water.",
@@ -52,11 +84,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "advanced/p1-s03/q03.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q6",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "The school supplies are arranged on the table.",
@@ -67,11 +100,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "advanced/p1-s03/q04.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q7",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "The parking lot is full of cars.",
@@ -82,11 +116,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "advanced/p1-s03/q05.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q8",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "The airplane is taking off.",
@@ -97,7 +132,8 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "A",
    "photo": "advanced/p1-s03/q06.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   }
  ],
  "contentVersion": "v2-2026-10-28"

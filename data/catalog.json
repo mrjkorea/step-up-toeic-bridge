@@ -11,18 +11,6 @@
       "skillLabel": "Listening",
       "practices": [
         {
-          "id": "bas-lc-p1-s01-warmup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 01 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "bas-lc-p1-s01",
-          "dataPath": "data/basic/lc/bas-lc-p1-s01-warmup.json",
-          "stub": false,
-          "photoDir": "basic/p1-s01"
-        },
-        {
           "id": "bas-lc-p1-s01",
           "level": "basic",
           "skill": "lc",
@@ -33,18 +21,6 @@
           "photoDir": "basic/p1-s01",
           "dataPath": "data/basic/lc/bas-lc-p1-s01.json",
           "stub": false
-        },
-        {
-          "id": "bas-lc-p1-s02-warmup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 02 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "bas-lc-p1-s02",
-          "dataPath": "data/basic/lc/bas-lc-p1-s02-warmup.json",
-          "stub": false,
-          "photoDir": "basic/p1-s02"
         },
         {
           "id": "bas-lc-p1-s02",
@@ -59,18 +35,6 @@
           "stub": false
         },
         {
-          "id": "bas-lc-p1-s03-warmup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 03 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "bas-lc-p1-s03",
-          "dataPath": "data/basic/lc/bas-lc-p1-s03-warmup.json",
-          "stub": false,
-          "photoDir": "basic/p1-s03"
-        },
-        {
           "id": "bas-lc-p1-s03",
           "level": "basic",
           "skill": "lc",
@@ -81,18 +45,6 @@
           "photoDir": "basic/p1-s03",
           "dataPath": "data/basic/lc/bas-lc-p1-s03.json",
           "stub": false
-        },
-        {
-          "id": "bas-lc-p1-s04-warmup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 04 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "bas-lc-p1-s04",
-          "dataPath": "data/basic/lc/bas-lc-p1-s04-warmup.json",
-          "stub": false,
-          "photoDir": "basic/p1-s04"
         },
         {
           "id": "bas-lc-p1-s04",
@@ -118,17 +70,6 @@
           "stub": false
         },
         {
-          "id": "bas-lc-p2-s01-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 01 · Check-Up",
-          "subtitle": "Yes/No",
-          "audioRef": "bas-lc-p2-s01",
-          "dataPath": "data/basic/lc/bas-lc-p2-s01-checkup.json",
-          "stub": false
-        },
-        {
           "id": "bas-lc-p2-s02",
           "level": "basic",
           "skill": "lc",
@@ -137,17 +78,6 @@
           "subtitle": "What",
           "audioRef": "bas-lc-p2-s02",
           "dataPath": "data/basic/lc/bas-lc-p2-s02.json",
-          "stub": false
-        },
-        {
-          "id": "bas-lc-p2-s02-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 02 · Check-Up",
-          "subtitle": "What",
-          "audioRef": "bas-lc-p2-s02",
-          "dataPath": "data/basic/lc/bas-lc-p2-s02-checkup.json",
           "stub": false
         },
         {
@@ -162,17 +92,6 @@
           "stub": false
         },
         {
-          "id": "bas-lc-p2-s03-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 03 · Check-Up",
-          "subtitle": "Where",
-          "audioRef": "bas-lc-p2-s03",
-          "dataPath": "data/basic/lc/bas-lc-p2-s03-checkup.json",
-          "stub": false
-        },
-        {
           "id": "bas-lc-p2-s04",
           "level": "basic",
           "skill": "lc",
@@ -184,17 +103,6 @@
           "stub": false
         },
         {
-          "id": "bas-lc-p2-s04-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 04 · Check-Up",
-          "subtitle": "When",
-          "audioRef": "bas-lc-p2-s04",
-          "dataPath": "data/basic/lc/bas-lc-p2-s04-checkup.json",
-          "stub": false
-        },
-        {
           "id": "bas-lc-p2-s05",
           "level": "basic",
           "skill": "lc",
@@ -203,17 +111,6 @@
           "subtitle": "Who",
           "audioRef": "bas-lc-p2-s05",
           "dataPath": "data/basic/lc/bas-lc-p2-s05.json",
-          "stub": false
-        },
-        {
-          "id": "bas-lc-p2-s05-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 05 · Check-Up",
-          "subtitle": "Who",
-          "audioRef": "bas-lc-p2-s05",
-          "dataPath": "data/basic/lc/bas-lc-p2-s05-checkup.json",
           "stub": false
         },
         {
@@ -236,17 +133,6 @@
           "subtitle": "How",
           "audioRef": "bas-lc-p2-s07",
           "dataPath": "data/basic/lc/bas-lc-p2-s07.json",
-          "stub": false
-        },
-        {
-          "id": "bas-lc-p2-s07-checkup",
-          "level": "basic",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 07 · Check-Up",
-          "subtitle": "How",
-          "audioRef": "bas-lc-p2-s07",
-          "dataPath": "data/basic/lc/bas-lc-p2-s07-checkup.json",
           "stub": false
         },
         {
@@ -611,18 +497,6 @@
           "stub": false
         },
         {
-          "id": "int-lc-p1-s02-warmup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 02 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "int-lc-p1-s02",
-          "dataPath": "data/intermediate/lc/int-lc-p1-s02-warmup.json",
-          "stub": false,
-          "photoDir": "intermediate/p1-s02"
-        },
-        {
           "id": "int-lc-p1-s02",
           "level": "intermediate",
           "skill": "lc",
@@ -635,18 +509,6 @@
           "stub": false
         },
         {
-          "id": "int-lc-p1-s03-warmup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 03 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "int-lc-p1-s03",
-          "dataPath": "data/intermediate/lc/int-lc-p1-s03-warmup.json",
-          "stub": false,
-          "photoDir": "intermediate/p1-s03"
-        },
-        {
           "id": "int-lc-p1-s03",
           "level": "intermediate",
           "skill": "lc",
@@ -657,18 +519,6 @@
           "photoDir": "intermediate/p1-s03",
           "dataPath": "data/intermediate/lc/int-lc-p1-s03.json",
           "stub": false
-        },
-        {
-          "id": "int-lc-p1-s04-warmup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 04 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "int-lc-p1-s04",
-          "dataPath": "data/intermediate/lc/int-lc-p1-s04-warmup.json",
-          "stub": false,
-          "photoDir": "intermediate/p1-s04"
         },
         {
           "id": "int-lc-p1-s04",
@@ -694,17 +544,6 @@
           "stub": false
         },
         {
-          "id": "int-lc-p2-s01-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 01 · Check-Up",
-          "subtitle": "Yes/No",
-          "audioRef": "int-lc-p2-s01",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s01-checkup.json",
-          "stub": false
-        },
-        {
           "id": "int-lc-p2-s02",
           "level": "intermediate",
           "skill": "lc",
@@ -713,17 +552,6 @@
           "subtitle": "What",
           "audioRef": "int-lc-p2-s02",
           "dataPath": "data/intermediate/lc/int-lc-p2-s02.json",
-          "stub": false
-        },
-        {
-          "id": "int-lc-p2-s02-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 02 · Check-Up",
-          "subtitle": "What",
-          "audioRef": "int-lc-p2-s02",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s02-checkup.json",
           "stub": false
         },
         {
@@ -749,17 +577,6 @@
           "stub": false
         },
         {
-          "id": "int-lc-p2-s04-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 04 · Check-Up",
-          "subtitle": "When",
-          "audioRef": "int-lc-p2-s04",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s04-checkup.json",
-          "stub": false
-        },
-        {
           "id": "int-lc-p2-s05",
           "level": "intermediate",
           "skill": "lc",
@@ -768,17 +585,6 @@
           "subtitle": "Who",
           "audioRef": "int-lc-p2-s05",
           "dataPath": "data/intermediate/lc/int-lc-p2-s05.json",
-          "stub": false
-        },
-        {
-          "id": "int-lc-p2-s05-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 05 · Check-Up",
-          "subtitle": "Who",
-          "audioRef": "int-lc-p2-s05",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s05-checkup.json",
           "stub": false
         },
         {
@@ -793,17 +599,6 @@
           "stub": false
         },
         {
-          "id": "int-lc-p2-s06-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 06 · Check-Up",
-          "subtitle": "Why",
-          "audioRef": "int-lc-p2-s06",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s06-checkup.json",
-          "stub": false
-        },
-        {
           "id": "int-lc-p2-s07",
           "level": "intermediate",
           "skill": "lc",
@@ -812,17 +607,6 @@
           "subtitle": "How",
           "audioRef": "int-lc-p2-s07",
           "dataPath": "data/intermediate/lc/int-lc-p2-s07.json",
-          "stub": false
-        },
-        {
-          "id": "int-lc-p2-s07-checkup",
-          "level": "intermediate",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 07 · Check-Up",
-          "subtitle": "How",
-          "audioRef": "int-lc-p2-s07",
-          "dataPath": "data/intermediate/lc/int-lc-p2-s07-checkup.json",
           "stub": false
         },
         {
@@ -1187,18 +971,6 @@
           "stub": false
         },
         {
-          "id": "adv-lc-p1-s02-warmup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 02 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "adv-lc-p1-s02",
-          "dataPath": "data/advanced/lc/adv-lc-p1-s02-warmup.json",
-          "stub": false,
-          "photoDir": "advanced/p1-s02"
-        },
-        {
           "id": "adv-lc-p1-s02",
           "level": "advanced",
           "skill": "lc",
@@ -1211,18 +983,6 @@
           "stub": false
         },
         {
-          "id": "adv-lc-p1-s03-warmup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 03 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "adv-lc-p1-s03",
-          "dataPath": "data/advanced/lc/adv-lc-p1-s03-warmup.json",
-          "stub": false,
-          "photoDir": "advanced/p1-s03"
-        },
-        {
           "id": "adv-lc-p1-s03",
           "level": "advanced",
           "skill": "lc",
@@ -1233,18 +993,6 @@
           "photoDir": "advanced/p1-s03",
           "dataPath": "data/advanced/lc/adv-lc-p1-s03.json",
           "stub": false
-        },
-        {
-          "id": "adv-lc-p1-s04-warmup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part I : Picture Description",
-          "title": "Part I · Section 04 · Warm-Up",
-          "subtitle": "Picture Description",
-          "audioRef": "adv-lc-p1-s04",
-          "dataPath": "data/advanced/lc/adv-lc-p1-s04-warmup.json",
-          "stub": false,
-          "photoDir": "advanced/p1-s04"
         },
         {
           "id": "adv-lc-p1-s04",
@@ -1270,17 +1018,6 @@
           "stub": false
         },
         {
-          "id": "adv-lc-p2-s01-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 01 · Check-Up",
-          "subtitle": "Yes/No",
-          "audioRef": "adv-lc-p2-s01",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s01-checkup.json",
-          "stub": false
-        },
-        {
           "id": "adv-lc-p2-s02",
           "level": "advanced",
           "skill": "lc",
@@ -1289,17 +1026,6 @@
           "subtitle": "Future-tense Q",
           "audioRef": "adv-lc-p2-s02",
           "dataPath": "data/advanced/lc/adv-lc-p2-s02.json",
-          "stub": false
-        },
-        {
-          "id": "adv-lc-p2-s02-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 02 · Check-Up",
-          "subtitle": "Future-tense Q",
-          "audioRef": "adv-lc-p2-s02",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s02-checkup.json",
           "stub": false
         },
         {
@@ -1314,17 +1040,6 @@
           "stub": false
         },
         {
-          "id": "adv-lc-p2-s03-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 03 · Check-Up",
-          "subtitle": "Which",
-          "audioRef": "adv-lc-p2-s03",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s03-checkup.json",
-          "stub": false
-        },
-        {
           "id": "adv-lc-p2-s04",
           "level": "advanced",
           "skill": "lc",
@@ -1333,17 +1048,6 @@
           "subtitle": "Choice Q",
           "audioRef": "adv-lc-p2-s04",
           "dataPath": "data/advanced/lc/adv-lc-p2-s04.json",
-          "stub": false
-        },
-        {
-          "id": "adv-lc-p2-s04-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 04 · Check-Up",
-          "subtitle": "Choice Q",
-          "audioRef": "adv-lc-p2-s04",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s04-checkup.json",
           "stub": false
         },
         {
@@ -1358,17 +1062,6 @@
           "stub": false
         },
         {
-          "id": "adv-lc-p2-s05-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 05 · Check-Up",
-          "subtitle": "Tag questions",
-          "audioRef": "adv-lc-p2-s05",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s05-checkup.json",
-          "stub": false
-        },
-        {
           "id": "adv-lc-p2-s06",
           "level": "advanced",
           "skill": "lc",
@@ -1377,17 +1070,6 @@
           "subtitle": "Statements",
           "audioRef": "adv-lc-p2-s06",
           "dataPath": "data/advanced/lc/adv-lc-p2-s06.json",
-          "stub": false
-        },
-        {
-          "id": "adv-lc-p2-s06-checkup",
-          "level": "advanced",
-          "skill": "lc",
-          "group": "Part II : Question and Response",
-          "title": "Part II · Section 06 · Check-Up",
-          "subtitle": "Statements",
-          "audioRef": "adv-lc-p2-s06",
-          "dataPath": "data/advanced/lc/adv-lc-p2-s06-checkup.json",
           "stub": false
         },
         {
@@ -1745,18 +1427,6 @@
     }
   ],
   "practiceIndex": {
-    "bas-lc-p1-s01-warmup": {
-      "id": "bas-lc-p1-s01-warmup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 01 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "bas-lc-p1-s01",
-      "dataPath": "data/basic/lc/bas-lc-p1-s01-warmup.json",
-      "stub": false,
-      "photoDir": "basic/p1-s01"
-    },
     "bas-lc-p1-s01": {
       "id": "bas-lc-p1-s01",
       "level": "basic",
@@ -1768,18 +1438,6 @@
       "photoDir": "basic/p1-s01",
       "dataPath": "data/basic/lc/bas-lc-p1-s01.json",
       "stub": false
-    },
-    "bas-lc-p1-s02-warmup": {
-      "id": "bas-lc-p1-s02-warmup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 02 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "bas-lc-p1-s02",
-      "dataPath": "data/basic/lc/bas-lc-p1-s02-warmup.json",
-      "stub": false,
-      "photoDir": "basic/p1-s02"
     },
     "bas-lc-p1-s02": {
       "id": "bas-lc-p1-s02",
@@ -1793,18 +1451,6 @@
       "dataPath": "data/basic/lc/bas-lc-p1-s02.json",
       "stub": false
     },
-    "bas-lc-p1-s03-warmup": {
-      "id": "bas-lc-p1-s03-warmup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 03 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "bas-lc-p1-s03",
-      "dataPath": "data/basic/lc/bas-lc-p1-s03-warmup.json",
-      "stub": false,
-      "photoDir": "basic/p1-s03"
-    },
     "bas-lc-p1-s03": {
       "id": "bas-lc-p1-s03",
       "level": "basic",
@@ -1816,18 +1462,6 @@
       "photoDir": "basic/p1-s03",
       "dataPath": "data/basic/lc/bas-lc-p1-s03.json",
       "stub": false
-    },
-    "bas-lc-p1-s04-warmup": {
-      "id": "bas-lc-p1-s04-warmup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 04 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "bas-lc-p1-s04",
-      "dataPath": "data/basic/lc/bas-lc-p1-s04-warmup.json",
-      "stub": false,
-      "photoDir": "basic/p1-s04"
     },
     "bas-lc-p1-s04": {
       "id": "bas-lc-p1-s04",
@@ -1852,17 +1486,6 @@
       "dataPath": "data/basic/lc/bas-lc-p2-s01.json",
       "stub": false
     },
-    "bas-lc-p2-s01-checkup": {
-      "id": "bas-lc-p2-s01-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 01 · Check-Up",
-      "subtitle": "Yes/No",
-      "audioRef": "bas-lc-p2-s01",
-      "dataPath": "data/basic/lc/bas-lc-p2-s01-checkup.json",
-      "stub": false
-    },
     "bas-lc-p2-s02": {
       "id": "bas-lc-p2-s02",
       "level": "basic",
@@ -1872,17 +1495,6 @@
       "subtitle": "What",
       "audioRef": "bas-lc-p2-s02",
       "dataPath": "data/basic/lc/bas-lc-p2-s02.json",
-      "stub": false
-    },
-    "bas-lc-p2-s02-checkup": {
-      "id": "bas-lc-p2-s02-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 02 · Check-Up",
-      "subtitle": "What",
-      "audioRef": "bas-lc-p2-s02",
-      "dataPath": "data/basic/lc/bas-lc-p2-s02-checkup.json",
       "stub": false
     },
     "bas-lc-p2-s03": {
@@ -1896,17 +1508,6 @@
       "dataPath": "data/basic/lc/bas-lc-p2-s03.json",
       "stub": false
     },
-    "bas-lc-p2-s03-checkup": {
-      "id": "bas-lc-p2-s03-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 03 · Check-Up",
-      "subtitle": "Where",
-      "audioRef": "bas-lc-p2-s03",
-      "dataPath": "data/basic/lc/bas-lc-p2-s03-checkup.json",
-      "stub": false
-    },
     "bas-lc-p2-s04": {
       "id": "bas-lc-p2-s04",
       "level": "basic",
@@ -1918,17 +1519,6 @@
       "dataPath": "data/basic/lc/bas-lc-p2-s04.json",
       "stub": false
     },
-    "bas-lc-p2-s04-checkup": {
-      "id": "bas-lc-p2-s04-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 04 · Check-Up",
-      "subtitle": "When",
-      "audioRef": "bas-lc-p2-s04",
-      "dataPath": "data/basic/lc/bas-lc-p2-s04-checkup.json",
-      "stub": false
-    },
     "bas-lc-p2-s05": {
       "id": "bas-lc-p2-s05",
       "level": "basic",
@@ -1938,17 +1528,6 @@
       "subtitle": "Who",
       "audioRef": "bas-lc-p2-s05",
       "dataPath": "data/basic/lc/bas-lc-p2-s05.json",
-      "stub": false
-    },
-    "bas-lc-p2-s05-checkup": {
-      "id": "bas-lc-p2-s05-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 05 · Check-Up",
-      "subtitle": "Who",
-      "audioRef": "bas-lc-p2-s05",
-      "dataPath": "data/basic/lc/bas-lc-p2-s05-checkup.json",
       "stub": false
     },
     "bas-lc-p2-s06": {
@@ -1971,17 +1550,6 @@
       "subtitle": "How",
       "audioRef": "bas-lc-p2-s07",
       "dataPath": "data/basic/lc/bas-lc-p2-s07.json",
-      "stub": false
-    },
-    "bas-lc-p2-s07-checkup": {
-      "id": "bas-lc-p2-s07-checkup",
-      "level": "basic",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 07 · Check-Up",
-      "subtitle": "How",
-      "audioRef": "bas-lc-p2-s07",
-      "dataPath": "data/basic/lc/bas-lc-p2-s07-checkup.json",
       "stub": false
     },
     "bas-lc-p3-s01": {
@@ -2327,18 +1895,6 @@
       "dataPath": "data/intermediate/lc/int-lc-p1-s01.json",
       "stub": false
     },
-    "int-lc-p1-s02-warmup": {
-      "id": "int-lc-p1-s02-warmup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 02 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "int-lc-p1-s02",
-      "dataPath": "data/intermediate/lc/int-lc-p1-s02-warmup.json",
-      "stub": false,
-      "photoDir": "intermediate/p1-s02"
-    },
     "int-lc-p1-s02": {
       "id": "int-lc-p1-s02",
       "level": "intermediate",
@@ -2351,18 +1907,6 @@
       "dataPath": "data/intermediate/lc/int-lc-p1-s02.json",
       "stub": false
     },
-    "int-lc-p1-s03-warmup": {
-      "id": "int-lc-p1-s03-warmup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 03 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "int-lc-p1-s03",
-      "dataPath": "data/intermediate/lc/int-lc-p1-s03-warmup.json",
-      "stub": false,
-      "photoDir": "intermediate/p1-s03"
-    },
     "int-lc-p1-s03": {
       "id": "int-lc-p1-s03",
       "level": "intermediate",
@@ -2374,18 +1918,6 @@
       "photoDir": "intermediate/p1-s03",
       "dataPath": "data/intermediate/lc/int-lc-p1-s03.json",
       "stub": false
-    },
-    "int-lc-p1-s04-warmup": {
-      "id": "int-lc-p1-s04-warmup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 04 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "int-lc-p1-s04",
-      "dataPath": "data/intermediate/lc/int-lc-p1-s04-warmup.json",
-      "stub": false,
-      "photoDir": "intermediate/p1-s04"
     },
     "int-lc-p1-s04": {
       "id": "int-lc-p1-s04",
@@ -2410,17 +1942,6 @@
       "dataPath": "data/intermediate/lc/int-lc-p2-s01.json",
       "stub": false
     },
-    "int-lc-p2-s01-checkup": {
-      "id": "int-lc-p2-s01-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 01 · Check-Up",
-      "subtitle": "Yes/No",
-      "audioRef": "int-lc-p2-s01",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s01-checkup.json",
-      "stub": false
-    },
     "int-lc-p2-s02": {
       "id": "int-lc-p2-s02",
       "level": "intermediate",
@@ -2430,17 +1951,6 @@
       "subtitle": "What",
       "audioRef": "int-lc-p2-s02",
       "dataPath": "data/intermediate/lc/int-lc-p2-s02.json",
-      "stub": false
-    },
-    "int-lc-p2-s02-checkup": {
-      "id": "int-lc-p2-s02-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 02 · Check-Up",
-      "subtitle": "What",
-      "audioRef": "int-lc-p2-s02",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s02-checkup.json",
       "stub": false
     },
     "int-lc-p2-s03": {
@@ -2465,17 +1975,6 @@
       "dataPath": "data/intermediate/lc/int-lc-p2-s04.json",
       "stub": false
     },
-    "int-lc-p2-s04-checkup": {
-      "id": "int-lc-p2-s04-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 04 · Check-Up",
-      "subtitle": "When",
-      "audioRef": "int-lc-p2-s04",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s04-checkup.json",
-      "stub": false
-    },
     "int-lc-p2-s05": {
       "id": "int-lc-p2-s05",
       "level": "intermediate",
@@ -2485,17 +1984,6 @@
       "subtitle": "Who",
       "audioRef": "int-lc-p2-s05",
       "dataPath": "data/intermediate/lc/int-lc-p2-s05.json",
-      "stub": false
-    },
-    "int-lc-p2-s05-checkup": {
-      "id": "int-lc-p2-s05-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 05 · Check-Up",
-      "subtitle": "Who",
-      "audioRef": "int-lc-p2-s05",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s05-checkup.json",
       "stub": false
     },
     "int-lc-p2-s06": {
@@ -2509,17 +1997,6 @@
       "dataPath": "data/intermediate/lc/int-lc-p2-s06.json",
       "stub": false
     },
-    "int-lc-p2-s06-checkup": {
-      "id": "int-lc-p2-s06-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 06 · Check-Up",
-      "subtitle": "Why",
-      "audioRef": "int-lc-p2-s06",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s06-checkup.json",
-      "stub": false
-    },
     "int-lc-p2-s07": {
       "id": "int-lc-p2-s07",
       "level": "intermediate",
@@ -2529,17 +2006,6 @@
       "subtitle": "How",
       "audioRef": "int-lc-p2-s07",
       "dataPath": "data/intermediate/lc/int-lc-p2-s07.json",
-      "stub": false
-    },
-    "int-lc-p2-s07-checkup": {
-      "id": "int-lc-p2-s07-checkup",
-      "level": "intermediate",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 07 · Check-Up",
-      "subtitle": "How",
-      "audioRef": "int-lc-p2-s07",
-      "dataPath": "data/intermediate/lc/int-lc-p2-s07-checkup.json",
       "stub": false
     },
     "int-lc-p3-s01": {
@@ -2885,18 +2351,6 @@
       "dataPath": "data/advanced/lc/adv-lc-p1-s01.json",
       "stub": false
     },
-    "adv-lc-p1-s02-warmup": {
-      "id": "adv-lc-p1-s02-warmup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 02 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "adv-lc-p1-s02",
-      "dataPath": "data/advanced/lc/adv-lc-p1-s02-warmup.json",
-      "stub": false,
-      "photoDir": "advanced/p1-s02"
-    },
     "adv-lc-p1-s02": {
       "id": "adv-lc-p1-s02",
       "level": "advanced",
@@ -2909,18 +2363,6 @@
       "dataPath": "data/advanced/lc/adv-lc-p1-s02.json",
       "stub": false
     },
-    "adv-lc-p1-s03-warmup": {
-      "id": "adv-lc-p1-s03-warmup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 03 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "adv-lc-p1-s03",
-      "dataPath": "data/advanced/lc/adv-lc-p1-s03-warmup.json",
-      "stub": false,
-      "photoDir": "advanced/p1-s03"
-    },
     "adv-lc-p1-s03": {
       "id": "adv-lc-p1-s03",
       "level": "advanced",
@@ -2932,18 +2374,6 @@
       "photoDir": "advanced/p1-s03",
       "dataPath": "data/advanced/lc/adv-lc-p1-s03.json",
       "stub": false
-    },
-    "adv-lc-p1-s04-warmup": {
-      "id": "adv-lc-p1-s04-warmup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part I : Picture Description",
-      "title": "Part I · Section 04 · Warm-Up",
-      "subtitle": "Picture Description",
-      "audioRef": "adv-lc-p1-s04",
-      "dataPath": "data/advanced/lc/adv-lc-p1-s04-warmup.json",
-      "stub": false,
-      "photoDir": "advanced/p1-s04"
     },
     "adv-lc-p1-s04": {
       "id": "adv-lc-p1-s04",
@@ -2968,17 +2398,6 @@
       "dataPath": "data/advanced/lc/adv-lc-p2-s01.json",
       "stub": false
     },
-    "adv-lc-p2-s01-checkup": {
-      "id": "adv-lc-p2-s01-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 01 · Check-Up",
-      "subtitle": "Yes/No",
-      "audioRef": "adv-lc-p2-s01",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s01-checkup.json",
-      "stub": false
-    },
     "adv-lc-p2-s02": {
       "id": "adv-lc-p2-s02",
       "level": "advanced",
@@ -2988,17 +2407,6 @@
       "subtitle": "Future-tense Q",
       "audioRef": "adv-lc-p2-s02",
       "dataPath": "data/advanced/lc/adv-lc-p2-s02.json",
-      "stub": false
-    },
-    "adv-lc-p2-s02-checkup": {
-      "id": "adv-lc-p2-s02-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 02 · Check-Up",
-      "subtitle": "Future-tense Q",
-      "audioRef": "adv-lc-p2-s02",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s02-checkup.json",
       "stub": false
     },
     "adv-lc-p2-s03": {
@@ -3012,17 +2420,6 @@
       "dataPath": "data/advanced/lc/adv-lc-p2-s03.json",
       "stub": false
     },
-    "adv-lc-p2-s03-checkup": {
-      "id": "adv-lc-p2-s03-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 03 · Check-Up",
-      "subtitle": "Which",
-      "audioRef": "adv-lc-p2-s03",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s03-checkup.json",
-      "stub": false
-    },
     "adv-lc-p2-s04": {
       "id": "adv-lc-p2-s04",
       "level": "advanced",
@@ -3032,17 +2429,6 @@
       "subtitle": "Choice Q",
       "audioRef": "adv-lc-p2-s04",
       "dataPath": "data/advanced/lc/adv-lc-p2-s04.json",
-      "stub": false
-    },
-    "adv-lc-p2-s04-checkup": {
-      "id": "adv-lc-p2-s04-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 04 · Check-Up",
-      "subtitle": "Choice Q",
-      "audioRef": "adv-lc-p2-s04",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s04-checkup.json",
       "stub": false
     },
     "adv-lc-p2-s05": {
@@ -3056,17 +2442,6 @@
       "dataPath": "data/advanced/lc/adv-lc-p2-s05.json",
       "stub": false
     },
-    "adv-lc-p2-s05-checkup": {
-      "id": "adv-lc-p2-s05-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 05 · Check-Up",
-      "subtitle": "Tag questions",
-      "audioRef": "adv-lc-p2-s05",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s05-checkup.json",
-      "stub": false
-    },
     "adv-lc-p2-s06": {
       "id": "adv-lc-p2-s06",
       "level": "advanced",
@@ -3076,17 +2451,6 @@
       "subtitle": "Statements",
       "audioRef": "adv-lc-p2-s06",
       "dataPath": "data/advanced/lc/adv-lc-p2-s06.json",
-      "stub": false
-    },
-    "adv-lc-p2-s06-checkup": {
-      "id": "adv-lc-p2-s06-checkup",
-      "level": "advanced",
-      "skill": "lc",
-      "group": "Part II : Question and Response",
-      "title": "Part II · Section 06 · Check-Up",
-      "subtitle": "Statements",
-      "audioRef": "adv-lc-p2-s06",
-      "dataPath": "data/advanced/lc/adv-lc-p2-s06-checkup.json",
       "stub": false
     },
     "adv-lc-p2-s07": {

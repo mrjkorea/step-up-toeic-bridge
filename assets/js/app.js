@@ -362,7 +362,12 @@
               )
             );
           } else {
+            var lastSection = null;
             items.forEach(function (item) {
+              if (item.section && item.section !== lastSection) {
+                form.appendChild(el("div", "practice-section-banner", item.section));
+                lastSection = item.section;
+              }
               if (item.type === "match") form.appendChild(renderMatchItem(item, responses));
               else form.appendChild(renderChoiceItem(item, responses));
             });
@@ -423,6 +428,8 @@
     if (progressUnsub) progressUnsub();
     if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.onChange) {
       progressUnsub = root.STEPUP_PROGRESS.onChange(function () {
+        var route = parseRoute();
+        if (route.view === "practice") return;
         render();
       });
     }
