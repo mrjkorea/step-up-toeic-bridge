@@ -8,8 +8,254 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "better than",
+    "B": "no longer"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p4-s05/page-047.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "better than",
+    "B": "no longer"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p4-s05/page-047.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
+   "accept": [
+    "longer longest"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
+   "accept": [
+    "nicer - nicest"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
+   "accept": [
+    "bigger - biggest"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
+   "accept": [
+    "easier - easiest hottest hotter- f"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(e): type the answer (see the book page).",
+   "accept": [
+    "more wonderful - most wonderful"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "accept": [
+    "better"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
+   "accept": [
+    "as"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
+   "accept": [
+    "Which"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
+   "accept": [
+    "colder"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(d): type the answer (see the book page).",
+   "accept": [
+    "tallest"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "more expensive"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "the tallest"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "bigger"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(d): type the answer (see the book page).",
+   "accept": [
+    "smart"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "This program is the funniest on TV."
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "He is the greatest teacher in our school."
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "It is the largest building in the city."
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "Who is older, your mother or your father?"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "I can run as fast as a car."
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
+   "accept": [
+    "scientist - scientists"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "id": "q23",
+   "label": "23",
    "type": "choice",
    "choices": {
     "A": "play computer games",
@@ -21,8 +267,8 @@
    "accept": "D"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q24",
+   "label": "24",
    "type": "choice",
    "choices": {
     "A": "very",
@@ -34,8 +280,8 @@
    "accept": "B"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q25",
+   "label": "25",
    "type": "choice",
    "choices": {
     "A": "so",
@@ -47,8 +293,8 @@
    "accept": "C"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q26",
+   "label": "26",
    "type": "choice",
    "choices": {
     "A": "the good",
@@ -60,8 +306,8 @@
    "accept": "B"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q27",
+   "label": "27",
    "type": "choice",
    "choices": {
     "A": "no longer",
@@ -73,8 +319,8 @@
    "accept": "C"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q28",
+   "label": "28",
    "type": "choice",
    "choices": {
     "A": "big",
@@ -86,5 +332,12 @@
    "accept": "B"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p4-s05/page-047.jpg",
+  "intermediate/rc-p4-s05/page-048.jpg",
+  "intermediate/rc-p4-s05/page-049.jpg",
+  "intermediate/rc-p4-s05/page-050.jpg",
+  "intermediate/rc-p4-s05/page-051.jpg"
+ ]
 }

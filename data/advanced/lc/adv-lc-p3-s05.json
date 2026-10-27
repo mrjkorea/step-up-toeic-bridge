@@ -1,199 +1,474 @@
 {
-  "practiceId": "adv-lc-p3-s05",
-  "title": "Part III · Section 05",
-  "subtitle": "Conversations & talks",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p3-s05",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-      "accept": "F",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "At 3:45",
-        "B": "At an airport",
-        "C": "In a parking lot for the handicapped",
-        "D": "In a train station",
-        "E": "Residents",
-        "F": "Track 9"
-      },
-      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "On an airplane",
-        "B": "In a taxi",
-        "C": "On a train",
-        "D": "In a hospital"
-      },
-      "prompt": "Where would this message be heard?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "In a bus station",
-        "B": "In a train station",
-        "C": "In a shopping mall",
-        "D": "In an airport"
-      },
-      "prompt": "Where wou Id this announcement be heard?",
-      "accept": "D",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "On an airplane",
-        "B": "On a subway train",
-        "C": "In a taxi",
-        "D": "In an elevator"
-      },
-      "prompt": "Where would this announcement be heard?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "Some baggage is not allowed on the plane.",
-        "B": "Some baggage may be inspected.",
-        "C": "The lost-and-found office will be closed for an hour.",
-        "D": "The lost-and-found office is on the second floor."
-      },
-      "prompt": "What is being announced?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "The train from Southport is arriving now.",
-        "B": "The train to Southport is arriving.",
-        "C": "The train to Southport is delayed.",
-        "D": "The train to Southport's beach has just left platform 7."
-      },
-      "prompt": "What is being announced?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "The car will not start.",
-        "B": "The car will be towed.",
-        "C": "The license plate number is wrong.",
-        "D": "The parking lot is full."
-      },
-      "prompt": "What is the problem?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "adv-lc-p3-s05",
+ "title": "Part III · Section 05",
+ "subtitle": "Conversations & talks",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p3-s05",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "F",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "A",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "B",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "C",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "E",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "Move the car",
+    "E": "On a bus",
+    "F": "present"
+   },
+   "accept": "D",
+   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1: listen and type the answer.",
+   "accept": [
+    "Take out all electronic devices"
+   ],
+   "audioOnly": true,
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2: listen and type the answer.",
+   "accept": [
+    "On a bus"
+   ],
+   "audioOnly": true,
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3: listen and type the answer.",
+   "accept": [
+    "Move the car"
+   ],
+   "audioOnly": true,
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+   "accept": [
+    "has been delayed for 25 minutes"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "section": "Listening Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+   "accept": [
+    "sorry for any inconvenience"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "section": "Listening Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+   "accept": [
+    "We'll be stopping over in Chicago"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "section": "Listening Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
+   "accept": [
+    "The present time is 11:45."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "section": "Listening Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "id": "q16",
+   "label": "16",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+   "accept": "F",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "id": "q17",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+   "accept": [
+    "present their tickets to the conductor"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "section": "Listening Practice 2",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+   "accept": [
+    "should proceed to Track 9"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "section": "Listening Practice 2",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+   "accept": [
+    "smoking is not allowed on the train"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "section": "Listening Practice 2",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "id": "q21",
+   "label": "21",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "id": "q22",
+   "label": "22",
+   "type": "choice",
+   "choices": {
+    "A": "At 3:45",
+    "B": "At an airport",
+    "C": "In a parking lot for the handicapped",
+    "D": "In a train station",
+    "E": "Residents",
+    "F": "Track 9"
+   },
+   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+   "accept": [
+    "is restricted to resident's vehicles"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "section": "Listening Practice 3",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
+   "accept": [
+    "Failure to do so"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "section": "Listening Practice 3",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+   "accept": [
+    "This is the announcement for the owner"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "section": "Listening Practice 3",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
+   "accept": [
+    "in a restricted area"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "section": "Listening Practice 3",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "id": "q27",
+   "label": "27",
+   "type": "choice",
+   "choices": {
+    "A": "On an airplane",
+    "B": "In a taxi",
+    "C": "On a train",
+    "D": "In a hospital"
+   },
+   "prompt": "Where would this message be heard?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q28",
+   "label": "28",
+   "type": "choice",
+   "choices": {
+    "A": "In a bus station",
+    "B": "In a train station",
+    "C": "In a shopping mall",
+    "D": "In an airport"
+   },
+   "prompt": "Where wou Id this announcement be heard?",
+   "accept": "D",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q29",
+   "label": "29",
+   "type": "choice",
+   "choices": {
+    "A": "On an airplane",
+    "B": "On a subway train",
+    "C": "In a taxi",
+    "D": "In an elevator"
+   },
+   "prompt": "Where would this announcement be heard?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q30",
+   "label": "30",
+   "type": "choice",
+   "choices": {
+    "A": "Some baggage is not allowed on the plane.",
+    "B": "Some baggage may be inspected.",
+    "C": "The lost-and-found office will be closed for an hour.",
+    "D": "The lost-and-found office is on the second floor."
+   },
+   "prompt": "What is being announced?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q31",
+   "label": "31",
+   "type": "choice",
+   "choices": {
+    "A": "The train from Southport is arriving now.",
+    "B": "The train to Southport is arriving.",
+    "C": "The train to Southport is delayed.",
+    "D": "The train to Southport's beach has just left platform 7."
+   },
+   "prompt": "What is being announced?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q32",
+   "label": "32",
+   "type": "choice",
+   "choices": {
+    "A": "The car will not start.",
+    "B": "The car will be towed.",
+    "C": "The license plate number is wrong.",
+    "D": "The parking lot is full."
+   },
+   "prompt": "What is the problem?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/lc-p3-s05/page-109.jpg",
+  "advanced/lc-p3-s05/page-110.jpg",
+  "advanced/lc-p3-s05/page-111.jpg",
+  "advanced/lc-p3-s05/page-112.jpg",
+  "advanced/lc-p3-s05/page-113.jpg",
+  "advanced/lc-p3-s05/page-114.jpg"
+ ]
 }

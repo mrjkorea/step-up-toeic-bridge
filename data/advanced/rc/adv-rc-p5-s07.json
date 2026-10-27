@@ -8,8 +8,201 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "agree",
+    "B": "contact",
+    "C": "process"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "agree",
+    "B": "contact",
+    "C": "process"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "agree",
+    "B": "contact",
+    "C": "process"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "expiry date"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "search for"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "library card"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "all the time"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "subject matter"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "overall rating"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "abundant knowledge"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "company size"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "as soon as"
+   ],
+   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which of the following activities is scheduled?",
+   "choices": {
+    "A": "A test",
+    "B": "A class trip"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s07/page-118.jpg",
+   "section": "Reading Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "What does Jenny need?",
+   "choices": {
+    "A": "Friday’s lab results",
+    "B": "Notes from history class"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s07/page-118.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is the purpose of this form?",
+   "choices": {
+    "A": "To apply for a library card",
+    "B": "To search for a staff"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s07/page-119.jpg",
+   "section": "Reading Practice 2",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which of the following is not asked to fill in by the applicant?",
+   "choices": {
+    "A": "Information about the applicant",
+    "B": "The expiry date of card being issued"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s07/page-119.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "Pay for the membership",
@@ -22,11 +215,12 @@
    "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-120.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "Manager",
@@ -39,11 +233,12 @@
    "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-120.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "To evaluate the student's grade",
@@ -56,11 +251,12 @@
    "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-121.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "Dr. Douglas taught in this class.",
@@ -73,8 +269,15 @@
    "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-121.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p5-s07/page-116.jpg",
+  "advanced/rc-p5-s07/page-117.jpg",
+  "advanced/rc-p5-s07/page-118.jpg",
+  "advanced/rc-p5-s07/page-119.jpg"
+ ]
 }

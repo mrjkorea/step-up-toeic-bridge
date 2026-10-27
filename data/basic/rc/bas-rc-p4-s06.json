@@ -8,8 +8,167 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "baked",
+    "B": "drink",
+    "C": "salad",
+    "D": "spaghetti"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "baked",
+    "B": "drink",
+    "C": "salad",
+    "D": "spaghetti"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "baked",
+    "B": "drink",
+    "C": "salad",
+    "D": "spaghetti"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "baked",
+    "B": "drink",
+    "C": "salad",
+    "D": "spaghetti"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "bread"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "spaghetti"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "pizza"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "cut"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "bake"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "Boil"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "sour"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "sweet"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
+   "accept": [
+    "hot"
+   ],
+   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "id": "q14",
+   "label": "14",
    "type": "choice",
    "choices": {
     "A": "drink",
@@ -21,8 +180,8 @@
    "accept": "A"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "bake",
@@ -34,8 +193,8 @@
    "accept": "B"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "hot",
@@ -47,8 +206,8 @@
    "accept": "B"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "fried",
@@ -60,5 +219,12 @@
    "accept": "B"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p4-s06/page-054.jpg",
+  "basic/rc-p4-s06/page-055.jpg",
+  "basic/rc-p4-s06/page-056.jpg",
+  "basic/rc-p4-s06/page-057.jpg",
+  "basic/rc-p4-s06/page-058.jpg"
+ ]
 }

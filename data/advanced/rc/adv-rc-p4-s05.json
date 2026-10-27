@@ -86,5 +86,13 @@
    "accept": "B"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v2-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p4-s05/page-046.jpg",
+  "advanced/rc-p4-s05/page-047.jpg",
+  "advanced/rc-p4-s05/page-048.jpg",
+  "advanced/rc-p4-s05/page-049.jpg",
+  "advanced/rc-p4-s05/page-050.jpg",
+  "advanced/rc-p4-s05/page-051.jpg"
+ ]
 }

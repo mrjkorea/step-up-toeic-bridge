@@ -8,8 +8,160 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "aerobics",
+    "B": "organ",
+    "C": "windsurfing"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "aerobics",
+    "B": "organ",
+    "C": "windsurfing"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "aerobics",
+    "B": "organ",
+    "C": "windsurfing"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "knitting"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "elephant"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "surf"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "Internet surfing : Internet surfing"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "scuba diving: scuba diving"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "playing with pets"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
+   "accept": [
+    "waterskiing : water-skiing"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "comic books"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "exciting"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
+   "accept": [
+    "moving"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "id": "q14",
+   "label": "14",
    "type": "choice",
    "choices": {
     "A": "Speak",
@@ -21,8 +173,8 @@
    "accept": "B"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "skiing",
@@ -34,8 +186,8 @@
    "accept": "A"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "feel",
@@ -47,8 +199,8 @@
    "accept": "D"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "think",
@@ -60,5 +212,12 @@
    "accept": "A"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p4-s08/page-066.jpg",
+  "intermediate/rc-p4-s08/page-067.jpg",
+  "intermediate/rc-p4-s08/page-068.jpg",
+  "intermediate/rc-p4-s08/page-069.jpg",
+  "intermediate/rc-p4-s08/page-070.jpg"
+ ]
 }

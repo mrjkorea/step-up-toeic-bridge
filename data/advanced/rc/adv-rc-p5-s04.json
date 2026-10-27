@@ -8,8 +8,190 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "believe",
+    "B": "improve",
+    "C": "inform"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "believe",
+    "B": "improve",
+    "C": "inform"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "believe",
+    "B": "improve",
+    "C": "inform"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "would like A to B"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "I"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "next time bet"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "would like to"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "apply for"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "ask for"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "enclosed résumé"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "advertised in the newspaper"
+   ],
+   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "Why has David written to his uncle and aunt?",
+   "choices": {
+    "A": "To thank them for a present",
+    "B": "To ask if he can visit them"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
+   "section": "Reading Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "What does David claim?",
+   "choices": {
+    "A": "He is getting better at basketball.",
+    "B": "He has met a famous basketball player."
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
+   "section": "Reading Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Who buys glass from Nu-Glass Inc.?",
+   "choices": {
+    "A": "Mr. Charles",
+    "B": "Mr. Ben"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
+   "section": "Reading Practice 2",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "How much will Mr. Charles receive if he gives the talk?",
+   "choices": {
+    "A": "$1,000",
+    "B": "$1,000 plus expenses"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
+   "section": "Reading Practice 2",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "It is opening a new store.",
@@ -22,11 +204,12 @@
    "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-102.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "March 1",
@@ -39,11 +222,12 @@
    "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-102.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "To get a job with J&R Technologies",
@@ -56,11 +240,12 @@
    "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-103.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "His résumé",
@@ -73,8 +258,15 @@
    "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-103.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p5-s04/page-098.jpg",
+  "advanced/rc-p5-s04/page-099.jpg",
+  "advanced/rc-p5-s04/page-100.jpg",
+  "advanced/rc-p5-s04/page-101.jpg"
+ ]
 }

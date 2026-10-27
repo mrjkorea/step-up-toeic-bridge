@@ -1,356 +1,586 @@
 {
-  "practiceId": "int-lc-p2-s03",
-  "title": "Part II · Section 03",
-  "subtitle": "Where",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p2-s03",
-  "introEn": "Listen to each question and choose the best response (Where).",
-  "timerMinutes": 12,
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "did you get",
-        "B": "going now",
-        "C": "on your vacation",
-        "D": "put the letter",
-        "E": "should"
-      },
-      "prompt": "Warm-Up 1-(a): Choose what you hear.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "did you get",
-        "B": "going now",
-        "C": "on your vacation",
-        "D": "put the letter",
-        "E": "should"
-      },
-      "prompt": "Warm-Up 1-(b): Choose what you hear.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "did you get",
-        "B": "going now",
-        "C": "on your vacation",
-        "D": "put the letter",
-        "E": "should"
-      },
-      "prompt": "Warm-Up 1-(c): Choose what you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "did you get",
-        "B": "going now",
-        "C": "on your vacation",
-        "D": "put the letter",
-        "E": "should"
-      },
-      "prompt": "Warm-Up 1-(d): Choose what you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "did you get",
-        "B": "going now",
-        "C": "on your vacation",
-        "D": "put the letter",
-        "E": "should"
-      },
-      "prompt": "Warm-Up 1-(e): Choose what you hear.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park.",
-        "D": "It was held in the café?",
-        "E": "To the house with a red roof."
-      },
-      "prompt": "Warm-Up 2-(a): Choose what you hear.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park.",
-        "D": "It was held in the café?",
-        "E": "To the house with a red roof."
-      },
-      "prompt": "Warm-Up 2-(b): Choose what you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park.",
-        "D": "It was held in the café?",
-        "E": "To the house with a red roof."
-      },
-      "prompt": "Warm-Up 2-(c): Choose what you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park.",
-        "D": "It was held in the café?",
-        "E": "To the house with a red roof."
-      },
-      "prompt": "Warm-Up 2-(d): Choose what you hear.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park.",
-        "D": "It was held in the café?",
-        "E": "To the house with a red roof."
-      },
-      "prompt": "Warm-Up 2-(e): Choose what you hear.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q13",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q14",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q15",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Check-Up 1: Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q16",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Check-Up 2: Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q17",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Check-Up 3: Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q18",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "At 9 o'clock.",
-        "B": "It's about the recent take-over.",
-        "C": "In the restaurant."
-      },
-      "prompt": "Where is the meeting being held?",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q19",
-      "label": "19",
-      "type": "choice",
-      "choices": {
-        "A": "They are a size 9.",
-        "B": "Thanks, I bought them yesterday.",
-        "C": "Next to the door."
-      },
-      "prompt": "Where should I put these shoes?",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q20",
-      "label": "20",
-      "type": "choice",
-      "choices": {
-        "A": "At that new restaurant by the movie theater.",
-        "B": "At 7:30 p.m.",
-        "C": "Yes, she was very interesting."
-      },
-      "prompt": "Where are we supposed to be meeting Helen?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q21",
-      "label": "21",
-      "type": "choice",
-      "choices": {
-        "A": "Yes, he came with us.",
-        "B": "I have not decided yet.",
-        "C": "No, I don't like dogs."
-      },
-      "prompt": "Where are you going to leave your dog when you are on vacation?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q22",
-      "label": "22",
-      "type": "choice",
-      "choices": {
-        "A": "Thanks, it's parked outside.",
-        "B": "A friend of mine sold it to me.",
-        "C": "A friend of mine bought it from me."
-      },
-      "prompt": "Where did you get your new car from?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q23",
-      "label": "23",
-      "type": "choice",
-      "choices": {
-        "A": "I'm glad you liked it.",
-        "B": "I wanted to look nice for the party.",
-        "C": "My girlfriend bought it for me."
-      },
-      "prompt": "Where did you get that great shirt from?",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "int-lc-p2-s03",
+ "title": "Part II · Section 03",
+ "subtitle": "Where",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p2-s03",
+ "introEn": "Listen to each question and choose the best response (Where).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "leave",
+    "C": "on vacation",
+    "D": "put",
+    "E": "was supposed to"
+   },
+   "accept": "A",
+   "photo": "intermediate/lc-p2-s03/page-052.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "leave",
+    "C": "on vacation",
+    "D": "put",
+    "E": "was supposed to"
+   },
+   "accept": "E",
+   "photo": "intermediate/lc-p2-s03/page-052.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "leave",
+    "C": "on vacation",
+    "D": "put",
+    "E": "was supposed to"
+   },
+   "accept": "D",
+   "photo": "intermediate/lc-p2-s03/page-052.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "leave",
+    "C": "on vacation",
+    "D": "put",
+    "E": "was supposed to"
+   },
+   "accept": "B",
+   "photo": "intermediate/lc-p2-s03/page-052.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "leave",
+    "C": "on vacation",
+    "D": "put",
+    "E": "was supposed to"
+   },
+   "accept": "C",
+   "photo": "intermediate/lc-p2-s03/page-052.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "did you get",
+    "B": "going now",
+    "C": "on your vacation",
+    "D": "put the letter",
+    "E": "should"
+   },
+   "prompt": "Warm-Up 1-(a): Choose what you hear.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "did you get",
+    "B": "going now",
+    "C": "on your vacation",
+    "D": "put the letter",
+    "E": "should"
+   },
+   "prompt": "Warm-Up 1-(b): Choose what you hear.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "did you get",
+    "B": "going now",
+    "C": "on your vacation",
+    "D": "put the letter",
+    "E": "should"
+   },
+   "prompt": "Warm-Up 1-(c): Choose what you hear.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "did you get",
+    "B": "going now",
+    "C": "on your vacation",
+    "D": "put the letter",
+    "E": "should"
+   },
+   "prompt": "Warm-Up 1-(d): Choose what you hear.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "type": "choice",
+   "choices": {
+    "A": "did you get",
+    "B": "going now",
+    "C": "on your vacation",
+    "D": "put the letter",
+    "E": "should"
+   },
+   "prompt": "Warm-Up 1-(e): Choose what you hear.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "At the Chinese restaurant",
+    "B": "I got this from my grandpa.",
+    "C": "I was in the park.",
+    "D": "It was held in the café?",
+    "E": "To the house with a red roof."
+   },
+   "prompt": "Warm-Up 2-(a): Choose what you hear.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q12",
+   "label": "12",
+   "type": "choice",
+   "choices": {
+    "A": "At the Chinese restaurant",
+    "B": "I got this from my grandpa.",
+    "C": "I was in the park.",
+    "D": "It was held in the café?",
+    "E": "To the house with a red roof."
+   },
+   "prompt": "Warm-Up 2-(b): Choose what you hear.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q13",
+   "label": "13",
+   "type": "choice",
+   "choices": {
+    "A": "At the Chinese restaurant",
+    "B": "I got this from my grandpa.",
+    "C": "I was in the park.",
+    "D": "It was held in the café?",
+    "E": "To the house with a red roof."
+   },
+   "prompt": "Warm-Up 2-(c): Choose what you hear.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q14",
+   "label": "14",
+   "type": "choice",
+   "choices": {
+    "A": "At the Chinese restaurant",
+    "B": "I got this from my grandpa.",
+    "C": "I was in the park.",
+    "D": "It was held in the café?",
+    "E": "To the house with a red roof."
+   },
+   "prompt": "Warm-Up 2-(d): Choose what you hear.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q15",
+   "label": "15",
+   "type": "choice",
+   "choices": {
+    "A": "At the Chinese restaurant",
+    "B": "I got this from my grandpa.",
+    "C": "I was in the park.",
+    "D": "It was held in the café?",
+    "E": "To the house with a red roof."
+   },
+   "prompt": "Warm-Up 2-(e): Choose what you hear.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q16",
+   "label": "16",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q17",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q18",
+   "label": "18",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q19",
+   "label": "19",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 1: type the words you hear.",
+   "accept": [
+    "Where"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 2: type the words you hear.",
+   "accept": [
+    "school"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 3: type the words you hear.",
+   "accept": [
+    "at home"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 4: type the words you hear.",
+   "accept": [
+    "museum"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-2) blank 1: type the words you hear.",
+   "accept": [
+    "post office"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-2) blank 2: type the words you hear.",
+   "accept": [
+    "right there"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-2) blank 3: type the words you hear.",
+   "accept": [
+    "send"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-3) blank 1: type the words you hear.",
+   "accept": [
+    "In the library"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-3) blank 2: type the words you hear.",
+   "accept": [
+    "watch a movie"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 1: type the words you hear.",
+   "accept": [
+    "hometown"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 2: type the words you hear.",
+   "accept": [
+    "sunny"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q30",
+   "label": "30"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 3: type the words you hear.",
+   "accept": [
+    "miss"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s03/page-054.jpg",
+   "section": "Listening Practice",
+   "id": "q31",
+   "label": "31"
+  },
+  {
+   "id": "q32",
+   "label": "32",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Check-Up 1: Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q33",
+   "label": "33",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Check-Up 2: Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q34",
+   "label": "34",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Check-Up 3: Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q35",
+   "label": "35",
+   "type": "choice",
+   "choices": {
+    "A": "At 9 o'clock.",
+    "B": "It's about the recent take-over.",
+    "C": "In the restaurant."
+   },
+   "prompt": "Where is the meeting being held?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q36",
+   "label": "36",
+   "type": "choice",
+   "choices": {
+    "A": "They are a size 9.",
+    "B": "Thanks, I bought them yesterday.",
+    "C": "Next to the door."
+   },
+   "prompt": "Where should I put these shoes?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q37",
+   "label": "37",
+   "type": "choice",
+   "choices": {
+    "A": "At that new restaurant by the movie theater.",
+    "B": "At 7:30 p.m.",
+    "C": "Yes, she was very interesting."
+   },
+   "prompt": "Where are we supposed to be meeting Helen?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q38",
+   "label": "38",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, he came with us.",
+    "B": "I have not decided yet.",
+    "C": "No, I don't like dogs."
+   },
+   "prompt": "Where are you going to leave your dog when you are on vacation?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q39",
+   "label": "39",
+   "type": "choice",
+   "choices": {
+    "A": "Thanks, it's parked outside.",
+    "B": "A friend of mine sold it to me.",
+    "C": "A friend of mine bought it from me."
+   },
+   "prompt": "Where did you get your new car from?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q40",
+   "label": "40",
+   "type": "choice",
+   "choices": {
+    "A": "I'm glad you liked it.",
+    "B": "I wanted to look nice for the party.",
+    "C": "My girlfriend bought it for me."
+   },
+   "prompt": "Where did you get that great shirt from?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/lc-p2-s03/page-052.jpg",
+  "intermediate/lc-p2-s03/page-053.jpg",
+  "intermediate/lc-p2-s03/page-054.jpg",
+  "intermediate/lc-p2-s03/page-055.jpg"
+ ]
 }

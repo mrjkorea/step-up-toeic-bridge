@@ -8,8 +8,175 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "frightened",
+    "B": "serious",
+    "C": "shuttle bus"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "frightened",
+    "B": "serious",
+    "C": "shuttle bus"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "frightened",
+    "B": "serious",
+    "C": "shuttle bus"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "proceed to"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "slow down"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "speed limit"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "in case of"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "get out of"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "line up"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "bound for"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "on board"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "be requested to"
+   ],
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is this sign for?",
+   "choices": {
+    "A": "To instruct students in case of a fire",
+    "B": "To ask students to line up when entering the room"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s01/page-083.jpg",
+   "section": "Reading Practice 2",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Where can you see this sign?",
+   "choices": {
+    "A": "In a theater",
+    "B": "At a school"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s01/page-083.jpg",
+   "section": "Reading Practice 2",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "At an airport",
@@ -22,11 +189,12 @@
    "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
    "passageHead": "Questions 1-2 refer to the following announcement.",
    "passagePage": 84,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-084.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "Passengers who are leaving for Incheon",
@@ -39,11 +207,12 @@
    "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
    "passageHead": "Questions 1-2 refer to the following announcement.",
    "passagePage": 84,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-084.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "To notify of the cancellation of a shuttle bus",
@@ -56,11 +225,12 @@
    "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-085.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "Because the bus driver is not feeling well",
@@ -73,8 +243,15 @@
    "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-085.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p5-s01/page-080.jpg",
+  "intermediate/rc-p5-s01/page-081.jpg",
+  "intermediate/rc-p5-s01/page-082.jpg",
+  "intermediate/rc-p5-s01/page-083.jpg"
+ ]
 }

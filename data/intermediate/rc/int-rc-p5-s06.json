@@ -8,8 +8,219 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "computer",
+    "B": "fix",
+    "C": "guess",
+    "D": "message"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "computer",
+    "B": "fix",
+    "C": "guess",
+    "D": "message"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "computer",
+    "B": "fix",
+    "C": "guess",
+    "D": "message"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "computer",
+    "B": "fix",
+    "C": "guess",
+    "D": "message"
+   },
+   "accept": "D",
+   "photo": "intermediate/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "no later than"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "be invited to"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "make a reservation"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "in these days"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "suffer from"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "between classes"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "wash one's hands"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "at all times"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "be welcome to"
+   ],
+   "photo": "intermediate/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is this memo for?",
+   "choices": {
+    "A": "To give John a telephone message",
+    "B": "To give Jane and John a telephone message"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s06/page-112.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Who has written down this memo?",
+   "choices": {
+    "A": "John and Bob",
+    "B": "Bob"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s06/page-112.jpg",
+   "section": "Reading Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "Who would read this memo?",
+   "choices": {
+    "A": "Super Computers’ employees",
+    "B": "The events coordinator"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s06/page-113.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "How often is the barbecue party held?",
+   "choices": {
+    "A": "Every year",
+    "B": "Every 4 months"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s06/page-113.jpg",
+   "section": "Reading Practice 2",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "It is broken.",
@@ -22,11 +233,12 @@
    "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
    "passageHead": "Questions 1-2 refer to the following memo.",
    "passagePage": 114,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-114.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "A plumber",
@@ -39,11 +251,12 @@
    "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
    "passageHead": "Questions 1-2 refer to the following memo.",
    "passagePage": 114,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-114.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "A reminder about the prevention of eye disease",
@@ -56,11 +269,12 @@
    "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
    "passageHead": "Questions 3-4 refer to the following memo.",
    "passagePage": 115,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-115.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "Students can visit the School Health Care",
@@ -73,8 +287,15 @@
    "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
    "passageHead": "Questions 3-4 refer to the following memo.",
    "passagePage": 115,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-115.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p5-s06/page-110.jpg",
+  "intermediate/rc-p5-s06/page-111.jpg",
+  "intermediate/rc-p5-s06/page-112.jpg",
+  "intermediate/rc-p5-s06/page-113.jpg"
+ ]
 }

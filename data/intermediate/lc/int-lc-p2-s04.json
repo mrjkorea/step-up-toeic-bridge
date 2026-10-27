@@ -1,356 +1,562 @@
 {
-  "practiceId": "int-lc-p2-s04",
-  "title": "Part II · Section 04",
-  "subtitle": "When",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p2-s04",
-  "introEn": "Listen to each question and choose the best response (When).",
-  "timerMinutes": 12,
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "did you meet",
-        "B": "going to study",
-        "C": "take the class",
-        "D": "will it snow",
-        "E": "will your mom"
-      },
-      "prompt": "Warm-Up 1-(a): Choose what you hear.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "did you meet",
-        "B": "going to study",
-        "C": "take the class",
-        "D": "will it snow",
-        "E": "will your mom"
-      },
-      "prompt": "Warm-Up 1-(b): Choose what you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "did you meet",
-        "B": "going to study",
-        "C": "take the class",
-        "D": "will it snow",
-        "E": "will your mom"
-      },
-      "prompt": "Warm-Up 1-(c): Choose what you hear.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "did you meet",
-        "B": "going to study",
-        "C": "take the class",
-        "D": "will it snow",
-        "E": "will your mom"
-      },
-      "prompt": "Warm-Up 1-(d): Choose what you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "did you meet",
-        "B": "going to study",
-        "C": "take the class",
-        "D": "will it snow",
-        "E": "will your mom"
-      },
-      "prompt": "Warm-Up 1-(e): Choose what you hear.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "I came back a month ago.",
-        "B": "I met her after lunch.",
-        "C": "I'll go there in the evening.",
-        "D": "In 30 minutes.",
-        "E": "Yesterday."
-      },
-      "prompt": "Warm-Up 2-(a): Choose what you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "I came back a month ago.",
-        "B": "I met her after lunch.",
-        "C": "I'll go there in the evening.",
-        "D": "In 30 minutes.",
-        "E": "Yesterday."
-      },
-      "prompt": "Warm-Up 2-(b): Choose what you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "I came back a month ago.",
-        "B": "I met her after lunch.",
-        "C": "I'll go there in the evening.",
-        "D": "In 30 minutes.",
-        "E": "Yesterday."
-      },
-      "prompt": "Warm-Up 2-(c): Choose what you hear.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "I came back a month ago.",
-        "B": "I met her after lunch.",
-        "C": "I'll go there in the evening.",
-        "D": "In 30 minutes.",
-        "E": "Yesterday."
-      },
-      "prompt": "Warm-Up 2-(d): Choose what you hear.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "I came back a month ago.",
-        "B": "I met her after lunch.",
-        "C": "I'll go there in the evening.",
-        "D": "In 30 minutes.",
-        "E": "Yesterday."
-      },
-      "prompt": "Warm-Up 2-(e): Choose what you hear.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q13",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q14",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
-      },
-      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice"
-    },
-    {
-      "id": "q15",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "In five minutes.",
-        "B": "I arrived here at 5:00.",
-        "C": "I am going to Europe."
-      },
-      "prompt": "When will you be back?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q16",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "The day before yesterday.",
-        "B": "The day after tomorrow.",
-        "C": "The movie was interesting."
-      },
-      "prompt": "When did you see the movie?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q17",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "It was over two months ago.",
-        "B": "I don't know how to swim.",
-        "C": "I try to go twice a month."
-      },
-      "prompt": "When was the last time you went swimming?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q18",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "Yes, and then math.",
-        "B": "Sure, I have the notes in my bag.",
-        "C": "After taking Mr. Roberts' science class."
-      },
-      "prompt": "When did you get interested in science?",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q19",
-      "label": "19",
-      "type": "choice",
-      "choices": {
-        "A": "Yes, on Main Street.",
-        "B": "Last night.",
-        "C": "Today, after work."
-      },
-      "prompt": "When will you go to the post office?",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q20",
-      "label": "20",
-      "type": "choice",
-      "choices": {
-        "A": "He is very clever.",
-        "B": "Maybe next week.",
-        "C": "Twice a week."
-      },
-      "prompt": "When will the teacher be back?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q21",
-      "label": "21",
-      "type": "choice",
-      "choices": {
-        "A": "It was about the annual pay bonus.",
-        "B": "The day after tomorrow.",
-        "C": "The meeting was very interesting."
-      },
-      "prompt": "When was the meeting scheduled for?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q22",
-      "label": "22",
-      "type": "choice",
-      "choices": {
-        "A": "It's the forecast for next week.",
-        "B": "I don't think it ever has.",
-        "C": "Yes, the snow makes it very cold."
-      },
-      "prompt": "When was the last time it snowed this muc",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q23",
-      "label": "23",
-      "type": "choice",
-      "choices": {
-        "A": "After the meeting this morning.",
-        "B": "I have a meeting this morning.",
-        "C": "They contacted me this morning."
-      },
-      "prompt": "When did you sign the contract?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "int-lc-p2-s04",
+ "title": "Part II · Section 04",
+ "subtitle": "When",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p2-s04",
+ "introEn": "Listen to each question and choose the best response (When).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bonus",
+    "B": "contract",
+    "C": "last",
+    "D": "post office",
+    "E": "twice"
+   },
+   "accept": "D",
+   "photo": "intermediate/lc-p2-s04/page-058.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bonus",
+    "B": "contract",
+    "C": "last",
+    "D": "post office",
+    "E": "twice"
+   },
+   "accept": "E",
+   "photo": "intermediate/lc-p2-s04/page-058.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bonus",
+    "B": "contract",
+    "C": "last",
+    "D": "post office",
+    "E": "twice"
+   },
+   "accept": "B",
+   "photo": "intermediate/lc-p2-s04/page-058.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bonus",
+    "B": "contract",
+    "C": "last",
+    "D": "post office",
+    "E": "twice"
+   },
+   "accept": "C",
+   "photo": "intermediate/lc-p2-s04/page-058.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bonus",
+    "B": "contract",
+    "C": "last",
+    "D": "post office",
+    "E": "twice"
+   },
+   "accept": "A",
+   "photo": "intermediate/lc-p2-s04/page-058.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "did you meet",
+    "B": "going to study",
+    "C": "take the class",
+    "D": "will it snow",
+    "E": "will your mom"
+   },
+   "prompt": "Warm-Up 1-(a): Choose what you hear.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "did you meet",
+    "B": "going to study",
+    "C": "take the class",
+    "D": "will it snow",
+    "E": "will your mom"
+   },
+   "prompt": "Warm-Up 1-(b): Choose what you hear.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "did you meet",
+    "B": "going to study",
+    "C": "take the class",
+    "D": "will it snow",
+    "E": "will your mom"
+   },
+   "prompt": "Warm-Up 1-(c): Choose what you hear.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "did you meet",
+    "B": "going to study",
+    "C": "take the class",
+    "D": "will it snow",
+    "E": "will your mom"
+   },
+   "prompt": "Warm-Up 1-(d): Choose what you hear.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "type": "choice",
+   "choices": {
+    "A": "did you meet",
+    "B": "going to study",
+    "C": "take the class",
+    "D": "will it snow",
+    "E": "will your mom"
+   },
+   "prompt": "Warm-Up 1-(e): Choose what you hear.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "I came back a month ago.",
+    "B": "I met her after lunch.",
+    "C": "I'll go there in the evening.",
+    "D": "In 30 minutes.",
+    "E": "Yesterday."
+   },
+   "prompt": "Warm-Up 2-(a): Choose what you hear.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q12",
+   "label": "12",
+   "type": "choice",
+   "choices": {
+    "A": "I came back a month ago.",
+    "B": "I met her after lunch.",
+    "C": "I'll go there in the evening.",
+    "D": "In 30 minutes.",
+    "E": "Yesterday."
+   },
+   "prompt": "Warm-Up 2-(b): Choose what you hear.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q13",
+   "label": "13",
+   "type": "choice",
+   "choices": {
+    "A": "I came back a month ago.",
+    "B": "I met her after lunch.",
+    "C": "I'll go there in the evening.",
+    "D": "In 30 minutes.",
+    "E": "Yesterday."
+   },
+   "prompt": "Warm-Up 2-(c): Choose what you hear.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q14",
+   "label": "14",
+   "type": "choice",
+   "choices": {
+    "A": "I came back a month ago.",
+    "B": "I met her after lunch.",
+    "C": "I'll go there in the evening.",
+    "D": "In 30 minutes.",
+    "E": "Yesterday."
+   },
+   "prompt": "Warm-Up 2-(d): Choose what you hear.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q15",
+   "label": "15",
+   "type": "choice",
+   "choices": {
+    "A": "I came back a month ago.",
+    "B": "I met her after lunch.",
+    "C": "I'll go there in the evening.",
+    "D": "In 30 minutes.",
+    "E": "Yesterday."
+   },
+   "prompt": "Warm-Up 2-(e): Choose what you hear.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q16",
+   "label": "16",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q17",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q18",
+   "label": "18",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "id": "q19",
+   "label": "19",
+   "type": "choice",
+   "choices": {
+    "A": "(A)",
+    "B": "(B)",
+    "C": "(C)"
+   },
+   "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 1: type the words you hear.",
+   "accept": [
+    "birthday"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-1) blank 2: type the words you hear.",
+   "accept": [
+    "birthday gift"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-2) blank 1: type the words you hear.",
+   "accept": [
+    "have lunch"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-2) blank 2: type the words you hear.",
+   "accept": [
+    "Early this morning"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-3) blank 1: type the words you hear.",
+   "accept": [
+    "go to bed"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-3) blank 2: type the words you hear.",
+   "accept": [
+    "Soon"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-3) blank 3: type the words you hear.",
+   "accept": [
+    "finish the report"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 1: type the words you hear.",
+   "accept": [
+    "take a shower"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 2: type the words you hear.",
+   "accept": [
+    "having dinner"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2-4) blank 3: type the words you hear.",
+   "accept": [
+    "soap"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p2-s04/page-060.jpg",
+   "section": "Listening Practice",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "id": "q30",
+   "label": "30",
+   "type": "choice",
+   "choices": {
+    "A": "In five minutes.",
+    "B": "I arrived here at 5:00.",
+    "C": "I am going to Europe."
+   },
+   "prompt": "When will you be back?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q31",
+   "label": "31",
+   "type": "choice",
+   "choices": {
+    "A": "The day before yesterday.",
+    "B": "The day after tomorrow.",
+    "C": "The movie was interesting."
+   },
+   "prompt": "When did you see the movie?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q32",
+   "label": "32",
+   "type": "choice",
+   "choices": {
+    "A": "It was over two months ago.",
+    "B": "I don't know how to swim.",
+    "C": "I try to go twice a month."
+   },
+   "prompt": "When was the last time you went swimming?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q33",
+   "label": "33",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, and then math.",
+    "B": "Sure, I have the notes in my bag.",
+    "C": "After taking Mr. Roberts' science class."
+   },
+   "prompt": "When did you get interested in science?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q34",
+   "label": "34",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, on Main Street.",
+    "B": "Last night.",
+    "C": "Today, after work."
+   },
+   "prompt": "When will you go to the post office?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q35",
+   "label": "35",
+   "type": "choice",
+   "choices": {
+    "A": "He is very clever.",
+    "B": "Maybe next week.",
+    "C": "Twice a week."
+   },
+   "prompt": "When will the teacher be back?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q36",
+   "label": "36",
+   "type": "choice",
+   "choices": {
+    "A": "It was about the annual pay bonus.",
+    "B": "The day after tomorrow.",
+    "C": "The meeting was very interesting."
+   },
+   "prompt": "When was the meeting scheduled for?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q37",
+   "label": "37",
+   "type": "choice",
+   "choices": {
+    "A": "It's the forecast for next week.",
+    "B": "I don't think it ever has.",
+    "C": "Yes, the snow makes it very cold."
+   },
+   "prompt": "When was the last time it snowed this muc",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q38",
+   "label": "38",
+   "type": "choice",
+   "choices": {
+    "A": "After the meeting this morning.",
+    "B": "I have a meeting this morning.",
+    "C": "They contacted me this morning."
+   },
+   "prompt": "When did you sign the contract?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/lc-p2-s04/page-058.jpg",
+  "intermediate/lc-p2-s04/page-059.jpg",
+  "intermediate/lc-p2-s04/page-060.jpg",
+  "intermediate/lc-p2-s04/page-061.jpg"
+ ]
 }

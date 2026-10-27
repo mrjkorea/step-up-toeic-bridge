@@ -8,8 +8,208 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Admission",
+    "B": "application",
+    "C": "more",
+    "D": "off"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Admission",
+    "B": "application",
+    "C": "more",
+    "D": "off"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Admission",
+    "B": "application",
+    "C": "more",
+    "D": "off"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Admission",
+    "B": "application",
+    "C": "more",
+    "D": "off"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p5-s07/page-116.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "Departure time"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "Flight No."
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "Application card"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "Expiry date"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "Free admission"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "Table No."
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "Student ID"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "Teacher's guide"
+   ],
+   "photo": "basic/rc-p5-s07/page-117.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "What kind of form is this?",
+   "choices": {
+    "A": "A diary",
+    "B": "A coupon"
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s07/page-118.jpg",
+   "section": "Reading Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which of the following is not true?",
+   "choices": {
+    "A": "The company started in 1920.",
+    "B": "Every item is 50% off."
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s07/page-118.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is this ticket for?",
+   "choices": {
+    "A": "Aship",
+    "B": "A plane"
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s07/page-119.jpg",
+   "section": "Reading Practice 2",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which of the following is not true?",
+   "choices": {
+    "A": "The passenger will travel from Chicago to Houston.",
+    "B": "The flight will arrive in Houston at 12:10."
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s07/page-119.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "Mark Twain",
@@ -22,11 +222,12 @@
    "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
    "passageHead": "Questions 1-2 refer to the following flyer.",
    "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-120.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "Seoul International School Drama Club members will perform the play.",
@@ -39,11 +240,12 @@
    "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
    "passageHead": "Questions 1-2 refer to the following flyer.",
    "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-120.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "For clothes",
@@ -56,11 +258,12 @@
    "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
    "passageHead": "Questions 3-4 refer to the following receipt.",
    "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-121.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "$7",
@@ -73,8 +276,15 @@
    "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
    "passageHead": "Questions 3-4 refer to the following receipt.",
    "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-121.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p5-s07/page-116.jpg",
+  "basic/rc-p5-s07/page-117.jpg",
+  "basic/rc-p5-s07/page-118.jpg",
+  "basic/rc-p5-s07/page-119.jpg"
+ ]
 }

@@ -8,8 +8,190 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "dangerous",
+    "B": "heavier",
+    "C": "international"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "dangerous",
+    "B": "heavier",
+    "C": "international"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "dangerous",
+    "B": "heavier",
+    "C": "international"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "traffic accident"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "late night"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "per hour"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "in a year"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "international news"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "cooking hour"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "children's show"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "how many hours"
+   ],
+   "photo": "advanced/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "How many hours are the children’s programs?",
+   "choices": {
+    "A": "Two and a half hours",
+    "B": "Three and a half hours"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "How many times can a person watch the news today?",
+   "choices": {
+    "A": "Four times",
+    "B": "Five times"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which type of weather appears to be the safest to drive on?",
+   "choices": {
+    "A": "Wind",
+    "B": "Sun"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which of the following statements is NOT true?",
+   "choices": {
+    "A": "More accidents occur when it rains than when it is windy.",
+    "B": "Sunny days are the second most dangerous days to drive on."
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "January",
@@ -22,11 +204,12 @@
    "passage": "The number of family and sports cars sold in a year / family car / sportscar",
    "passageHead": "Questions 1-2 refer to the following graph.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-108.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "February",
@@ -39,11 +222,12 @@
    "passage": "The number of family and sports cars sold in a year / family car / sportscar",
    "passageHead": "Questions 1-2 refer to the following graph.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-108.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "Running 10 mph",
@@ -56,11 +240,12 @@
    "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-109.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "650",
@@ -73,8 +258,15 @@
    "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-109.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p5-s05/page-104.jpg",
+  "advanced/rc-p5-s05/page-105.jpg",
+  "advanced/rc-p5-s05/page-106.jpg",
+  "advanced/rc-p5-s05/page-107.jpg"
+ ]
 }

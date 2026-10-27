@@ -8,8 +8,341 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "F",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 3-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 3-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "enjoy",
+    "C": "glad",
+    "D": "hospital",
+    "E": "sad",
+    "F": "volleyball"
+   },
+   "accept": "E",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
+   "accept": [
+    "are"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
+   "accept": [
+    "was"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
+   "accept": [
+    "were"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
+   "accept": [
+    "studied"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "accept": [
+    "enjoyed"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
+   "accept": [
+    "hoped"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
+   "accept": [
+    "is"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
+   "accept": [
+    "going"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
+   "accept": [
+    "were"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
+   "accept": [
+    "don't"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
+   "accept": [
+    "doesn't"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
+   "accept": [
+    "didn't"
+   ],
+   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "section": "Warm-Up",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "He is writing a letter."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "She is watching TV."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "He kicks the ball."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "sleep"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "was"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "taught"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
+   "accept": [
+    "quitted quit"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
+   "accept": [
+    "comed- came"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
+   "accept": [
+    "washs washes"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "id": "q28",
+   "label": "28",
    "type": "choice",
    "choices": {
     "A": "are",
@@ -21,8 +354,8 @@
    "accept": "D"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q29",
+   "label": "29",
    "type": "choice",
    "choices": {
     "A": "is",
@@ -34,8 +367,8 @@
    "accept": "D"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "mix",
@@ -47,8 +380,8 @@
    "accept": "B"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "cry",
@@ -60,8 +393,8 @@
    "accept": "B"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "drink",
@@ -73,8 +406,8 @@
    "accept": "D"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "write",
@@ -86,5 +419,13 @@
    "accept": "C"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p4-s04/page-036.jpg",
+  "basic/rc-p4-s04/page-037.jpg",
+  "basic/rc-p4-s04/page-038.jpg",
+  "basic/rc-p4-s04/page-039.jpg",
+  "basic/rc-p4-s04/page-040.jpg",
+  "basic/rc-p4-s04/page-041.jpg"
+ ]
 }

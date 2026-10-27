@@ -8,8 +8,219 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "care",
+    "B": "contest",
+    "C": "forecast",
+    "D": "show"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "care",
+    "B": "contest",
+    "C": "forecast",
+    "D": "show"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "care",
+    "B": "contest",
+    "C": "forecast",
+    "D": "show"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "care",
+    "B": "contest",
+    "C": "forecast",
+    "D": "show"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "DC"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "Weather forecast"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "Number of item"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "Speech contest"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "Favorite subject"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "Jane's schedule"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "Number of students"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "Classroom board"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "Original price"
+   ],
+   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Who keeps this kind of table?",
+   "choices": {
+    "A": "Clothing store manager",
+    "B": "Restaurant manager"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Which item has been sold out most throughout the year?",
+   "choices": {
+    "A": "Jacket",
+    "B": "Coat"
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "What does this chart show?",
+   "choices": {
+    "A": "Favorite subjects and number of students",
+    "B": "Favorite hobbies and number of subjects"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "How many students are there in Mary’s class?",
+   "choices": {
+    "A": "30",
+    "B": "31"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "In a planner",
@@ -22,11 +233,12 @@
    "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
    "passageHead": "Questions 1-2 refer to the following table.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-108.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "He is a police officer.",
@@ -39,11 +251,12 @@
    "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
    "passageHead": "Questions 1-2 refer to the following table.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-108.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "For a picnic",
@@ -56,11 +269,12 @@
    "passage": "Survey: Let's go to the Every Land for School Picnic!",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-109.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "5% of the students like the idea.",
@@ -73,8 +287,15 @@
    "passage": "Survey: Let's go to the Every Land for School Picnic!",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-109.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p5-s05/page-104.jpg",
+  "basic/rc-p5-s05/page-105.jpg",
+  "basic/rc-p5-s05/page-106.jpg",
+  "basic/rc-p5-s05/page-107.jpg"
+ ]
 }

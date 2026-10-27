@@ -8,8 +8,159 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "with an ocean view"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "sign up"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "special price"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "free shipping"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "business day"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "as long as"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "from the list"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "at one time"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "breakfast included"
+   ],
+   "photo": "intermediate/rc-p5-s02/page-087.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "choice",
+   "prompt": "What event is this advertisement for?",
+   "choices": {
+    "A": "A classical concert",
+    "B": "A jazz concert"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s02/page-088.jpg",
+   "section": "Reading Practice 1",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is the admission for students?",
+   "choices": {
+    "A": "5 dollars",
+    "B": "10 dollars"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s02/page-088.jpg",
+   "section": "Reading Practice 1",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "When does a customer get the special treats?",
+   "choices": {
+    "A": "On weekends, before 9 p.m.",
+    "B": "On weekdays, before 9 p.m."
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s02/page-089.jpg",
+   "section": "Reading Practice 2",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "When does this special offer end?",
+   "choices": {
+    "A": "November 10",
+    "B": "December 23"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s02/page-089.jpg",
+   "section": "Reading Practice 2",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "id": "q14",
+   "label": "14",
    "type": "choice",
    "choices": {
     "A": "Wellington Holiday Inn is a hotel.",
@@ -22,11 +173,12 @@
    "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
    "passageHead": "Questions 1-2 refer to the following advertisement.",
    "passagePage": 90,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-090.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "At least two nights",
@@ -39,11 +191,12 @@
    "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
    "passageHead": "Questions 1-2 refer to the following advertisement.",
    "passagePage": 90,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-090.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "Selling videos online",
@@ -56,11 +209,12 @@
    "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
    "passageHead": "Questions 3-4 refer to the following advertisement.",
    "passagePage": 91,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-091.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "The company pays for delivery.",
@@ -73,8 +227,15 @@
    "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
    "passageHead": "Questions 3-4 refer to the following advertisement.",
    "passagePage": 91,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-091.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p5-s02/page-086.jpg",
+  "intermediate/rc-p5-s02/page-087.jpg",
+  "intermediate/rc-p5-s02/page-088.jpg",
+  "intermediate/rc-p5-s02/page-089.jpg"
+ ]
 }
