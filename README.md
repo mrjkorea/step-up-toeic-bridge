@@ -23,7 +23,7 @@ Each track has **43 practice days** aligned with LearnWorlds (section practices 
 
 - **Answer keys** in the pack (`keys/*-answers.json`) drive `accept` values; `stub: false` when every item has a key.
 - Some RC / Actual Test stems still carry OCR gaps (`_note` on items) — proofread against the book before classroom use.
-- **Audio MP4s** under `audio/<level>/` are still **short silent placeholders**. Replace with real Drive exports using the same paths (`audio/manifest.json`).
+- **Section audio** — **55 MP4s** from Drive are committed under `audio/<level>/`. LC practices play them in-quiz via `audio/manifest.json` (`audioRef` on each practice JSON).
 
 ## Local preview
 
@@ -50,14 +50,14 @@ Part II / Part IV theme subtitles follow the LearnWorlds day-split cheat sheet (
 
 ## Audio
 
-- Section MP4s live under `audio/<level>/` (see `audio/manifest.json` for `practiceId` → file mapping).
-- LC practices use `audioRef` on the JSON (usually same as `practiceId`; Actual Test chunks share `<prefix>-lc-at`).
+- **55 section MP4s** (Drive exports) live under `audio/<level>/` and are wired through `audio/manifest.json` (`practiceId` / `audioRef` → file paths).
+- The in-quiz player loads those files for LC practices (`audioRef` on the JSON; Actual Test chunks share `<prefix>-lc-at`).
 - **Intermediate Part II §06** uses two files: `p2-s06a.mp4` + `p2-s06b.mp4` (two players in the UI).
-- Regenerate manifest paths after structural changes: `node scripts/generate-stubs.mjs` (does not replace real MP4s if files already exist).
+- After adding or renaming tracks only: `node scripts/generate-stubs.mjs` updates manifest paths (existing MP4 files are left in place).
 
 ## Part I photos
 
-Place images under `assets/photos/<level>/p1-sNN/` (SVG/PNG/JPG). The UI loads `placeholder.svg` until real photos are added; item `photo` fields reference filenames under that folder when multi-photo sections are wired up.
+Part I picture assets are still **placeholders** (`assets/photos/<level>/p1-sNN/placeholder.svg`). Replace with real book photos (SVG/PNG/JPG) under the same folders; item `photo` fields reference filenames there when multi-photo sections are wired up.
 
 ## Scores & sign-in
 
