@@ -31,6 +31,10 @@
     };
     saveLocal(practiceId, payload);
 
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.onScorePersisted) {
+      root.STEPUP_PROGRESS.onScorePersisted(practiceId, payload);
+    }
+
     if (root.MRJ_SCORES && typeof root.MRJ_SCORES.post === "function") {
       var levelLabel = practice.level || "";
       var skill = practice.skill === "lc" ? "Listening" : "Reading";

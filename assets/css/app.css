@@ -4,13 +4,15 @@
   --text: #1a2332;
   --muted: #5a6b7d;
   --accent: #0d6e8a;
+  --accent-dark: #0a5569;
   --accent-soft: #e6f3f7;
+  --border: #ccd5df;
   --basic: #2e7d4e;
   --intermediate: #0d6e8a;
   --advanced: #6b3fa0;
   --ok: #1b7f4a;
   --bad: #b42318;
-  --radius: 12px;
+  --radius: 14px;
   --shadow: 0 2px 12px rgba(26, 35, 50, 0.08);
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
 }
@@ -32,17 +34,74 @@ body {
   padding: 1.25rem 1rem 3rem;
 }
 
-.app-header {
+.auth-mount {
+  margin-bottom: 0.5rem;
+}
+
+.topbar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.65rem 0.75rem;
   margin-bottom: 1rem;
 }
 
-.app-title {
-  font-size: 1.35rem;
-  margin: 0;
+.brand {
   font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--accent-dark);
+  flex: 1;
+  min-width: 0;
+  line-height: 1.3;
+}
+
+.back-link {
+  font-size: 0.9rem;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  background: var(--card);
+  border-radius: 8px;
+  padding: 0.35rem 0.65rem;
+}
+
+.back-link:hover {
+  background: var(--accent-soft);
+}
+
+.student-pill {
+  font-size: 0.88rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
+  margin-left: auto;
+  white-space: nowrap;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.resume-bar {
+  margin: 0 0 1rem;
+}
+
+.btn-resume {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+}
+
+.btn-resume:hover {
+  filter: brightness(1.06);
 }
 
 .lead {
@@ -76,6 +135,7 @@ body {
   box-shadow: var(--shadow);
   text-decoration: none;
   color: inherit;
+  border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
   transition: transform 0.12s ease, box-shadow 0.12s ease;
 }
@@ -135,10 +195,16 @@ body {
   gap: 0.5rem 0.75rem;
   padding: 0.75rem 1rem;
   background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 10px;
   text-decoration: none;
   color: inherit;
   box-shadow: var(--shadow);
+}
+
+.practice-card--done {
+  border-color: #b8dfc8;
+  background: linear-gradient(90deg, #f3fbf6 0%, var(--card) 2.5rem);
 }
 
 .practice-card--sample {
@@ -156,12 +222,21 @@ body {
 
 .badge-stub,
 .badge-live,
+.badge-done,
 .score-pill {
   font-size: 0.75rem;
   padding: 0.15rem 0.45rem;
   border-radius: 999px;
   background: #eef1f5;
   color: var(--muted);
+}
+
+.badge-done {
+  background: var(--ok);
+  color: #fff;
+  font-weight: 700;
+  min-width: 1.35rem;
+  text-align: center;
 }
 
 .badge-live {
@@ -211,9 +286,18 @@ body {
   margin-top: 0.75rem;
 }
 
-.photo-panel img {
+.q-photo {
+  margin: 0.35rem 0 0.65rem;
+}
+
+.q-photo img {
+  display: block;
   max-width: 100%;
+  max-height: 280px;
+  margin: 0 auto;
   border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #f8fafc;
 }
 
 .q-card {
@@ -309,6 +393,3 @@ body {
   color: var(--muted);
 }
 
-#mrj-auth-mount {
-  margin-bottom: 0.75rem;
-}
