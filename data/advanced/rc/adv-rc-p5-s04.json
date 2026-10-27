@@ -1,64 +1,80 @@
 {
-  "practiceId": "adv-rc-p5-s04",
-  "title": "Part V · Section 04",
-  "subtitle": "Letters & email",
-  "level": "advanced",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "It is opening a new store.",
-        "B": "It is based outside the U.S. music CDs, DVDs and",
-        "C": "It sells videos as well as CDs.",
-        "D": "It guarantees the lowest prices."
-      },
-      "prompt": "What is learned about CD World?",
-      "accept": "C",
-      "passage": "Questions 1-2 refer to the following e-mail. From: To: promotions@cdworld.com jerry@garcianetworks.com Date: Thursday Feb 24, 2007 Subject: You get $5 off $30! CD World would like to thank you for choosing cdworld.com as your source for music CDs, DVDs, and videos. To show our appreciation we are offering you $5 off your next purchase of $30 or more. Just visit http://www.cdworld.com and choose from the latest releases. But hurry, this offer ends March 31! Coupon Code: 95309UPZVLM Thanks, CD World."
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "March 1",
-        "B": "March 24",
-        "C": "March 30",
-        "D": "March 31 Questions 3-4 refer to the following letter. Technical Department J&R Technologies, 16 James Street Swindon SW 671 Dear Sir/Madam: I would like to apply for the position of \"Technical Assistant\" as advertised in today's newspaper. I have all the required qualifications and experience that you are asking for. I strongly believe that I am the right person for the position. Please find enclosed my résumé and let me know if you require any other documents. Yours sincerely, Andrew Whalley"
-      },
-      "prompt": "When does the offer end?",
-      "accept": "D"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "To get a job with J&R Technologies",
-        "B": "To advertise in a newspaper",
-        "C": "To gain some experience",
-        "D": "To ask for some qualifications"
-      },
-      "prompt": "Why has Mr. Whalley written the letter?",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "His résumé",
-        "B": "Recommendations",
-        "C": "Today's newspaper",
-        "D": "Copy of university diploma"
-      },
-      "prompt": "What has Mr. Whalley sent with the letter?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "adv-rc-p5-s04",
+ "title": "Part V · Section 04",
+ "subtitle": "Letters & email",
+ "level": "advanced",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It is opening a new store.",
+    "B": "It is based outside the U.S.",
+    "C": "It sells videos as well as CDs.",
+    "D": "It guarantees the lowest prices."
+   },
+   "prompt": "What is learned about CD World?",
+   "accept": "C",
+   "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
+   "passageHead": "Questions 1-2 refer to the following e-mail.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "March 1",
+    "B": "March 24",
+    "C": "March 30",
+    "D": "March 31"
+   },
+   "prompt": "When does the offer end?",
+   "accept": "D",
+   "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
+   "passageHead": "Questions 1-2 refer to the following e-mail.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "To get a job with J&R Technologies",
+    "B": "To advertise in a newspaper",
+    "C": "To gain some experience",
+    "D": "To ask for some qualifications"
+   },
+   "prompt": "Why has Mr. Whalley written the letter?",
+   "accept": "A",
+   "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+   "passageHead": "Questions 3-4 refer to the following letter.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "His résumé",
+    "B": "Recommendations",
+    "C": "Today's newspaper",
+    "D": "Copy of university diploma"
+   },
+   "prompt": "What has Mr. Whalley sent with the letter?",
+   "accept": "A",
+   "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+   "passageHead": "Questions 3-4 refer to the following letter.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

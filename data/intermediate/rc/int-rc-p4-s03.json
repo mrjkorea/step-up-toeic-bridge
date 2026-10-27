@@ -1,95 +1,90 @@
 {
-  "practiceId": "int-rc-p4-s03",
-  "title": "Part IV · Section 03",
-  "subtitle": "Adjectives",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "All",
-        "B": "Each",
-        "C": "Many",
-        "D": "A lot of"
-      },
-      "prompt": "girl in the club has her own instrument.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "happy",
-        "B": "happiness",
-        "C": "happily",
-        "D": "is happy"
-      },
-      "prompt": "The boy looks very",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "many",
-        "B": "quiet a few",
-        "C": "few",
-        "D": "a lot of"
-      },
-      "prompt": "We had rain last summer.",
-      "accept": "D",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "happy",
-        "B": "afraid",
-        "C": "angry",
-        "D": "beautiful"
-      },
-      "prompt": "Many children are of ghosts and monsters.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "the one of December",
-        "B": "the fourth of March",
-        "C": "the second May",
-        "D": "the nine of April"
-      },
-      "prompt": "I was born on",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "something cold",
-        "B": "cold something",
-        "C": "nothing cold",
-        "D": "cold nothing"
-      },
-      "prompt": "It's very hot today. Please give me to drink.",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "int-rc-p4-s03",
+ "title": "Part IV · Section 03",
+ "subtitle": "Adjectives",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "All",
+    "B": "Each",
+    "C": "Many",
+    "D": "A lot of"
+   },
+   "prompt": "_______ girl in the club has her own instrument.",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "happy",
+    "B": "happiness",
+    "C": "happily",
+    "D": "is happy"
+   },
+   "prompt": "The boy looks very _______.",
+   "accept": "A"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "many",
+    "B": "quiet a few",
+    "C": "few",
+    "D": "a lot of"
+   },
+   "prompt": "We had _______ rain last summer.",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "happy",
+    "B": "afraid",
+    "C": "angry",
+    "D": "beautiful"
+   },
+   "prompt": "Many children are _______ of ghosts and monsters.",
+   "accept": "B"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "the one of December",
+    "B": "the fourth of March",
+    "C": "the second May",
+    "D": "the nine of April"
+   },
+   "prompt": "I was born on _______.",
+   "accept": "B"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "something cold",
+    "B": "cold something",
+    "C": "nothing cold",
+    "D": "cold nothing"
+   },
+   "prompt": "It's very hot today. Please give me _______ to drink.",
+   "accept": "A"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,91 +1,92 @@
 {
-  "practiceId": "bas-lc-p2-s01",
-  "title": "Part II · Section 01",
-  "subtitle": "Who",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p2-s01",
-  "introEn": "Listen to each question and choose the best response (Who).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "bas-lc-p2-s01",
+ "title": "Part II · Section 01",
+ "subtitle": "Who",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p2-s01",
+ "introEn": "Listen to each question and choose the best response (Who).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "I don't teach math.",
+    "B": "About twenty students.",
+    "C": "No, I have Mr. Murphy."
+   },
+   "prompt": "Are you in Mr. Roth's math class?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "You should be able to.",
+    "B": "It's in the Central Building.",
+    "C": "All the students have to read it."
+   },
+   "prompt": "Can I find everything I need in the bookstore?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "I know we need some eggs.",
+    "B": "Sure, just give me a minute.",
+    "C": "The closest one is on twelfth."
+   },
+   "prompt": "Do you want to go with me to the grocery store?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, thank you.",
+    "B": "I can sign it now.",
+    "C": "What kind do you need?"
+   },
+   "prompt": "Is this your pen?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "No, only in blue.",
+    "B": "Yes, on aisle seven.",
+    "C": "No, I should have enough."
+   },
+   "prompt": "Do you have any ribbons in stock?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "I'm not related to him.",
+    "B": "It's very nice to meet you.",
+    "C": "He's a good teacher."
+   },
+   "prompt": "Do you know anything about Mr. Wilson?",
+   "accept": "C",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

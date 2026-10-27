@@ -1,0 +1,42 @@
+{
+ "level": "intermediate",
+ "skill": "lc",
+ "audioRef": "int-lc-p1-s04",
+ "photoDir": "intermediate/p1-s04",
+ "practiceId": "int-lc-p1-s04-warmup",
+ "title": "Part I · Section 04 · Warm-Up",
+ "subtitle": "Picture Description",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "There is no one in the restaurant.",
+    "B": "There are a lot of people in the restaurant.",
+    "C": "All the tables are being used."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The store is closed.",
+    "B": "The books are being bought.",
+    "C": "The store is full of people."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "int-lc-p1-s04"
+}

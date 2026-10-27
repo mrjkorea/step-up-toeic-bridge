@@ -1,103 +1,104 @@
 {
-  "practiceId": "bas-lc-p1-s03",
-  "title": "Part I · Section 03",
-  "subtitle": "Picture Description",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p1-s03",
-  "photoDir": "basic/p1-s03",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q01.png"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q02.png"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q03.png"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q04.png"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q05.png"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "basic/p1-s03/q06.png"
-    }
-  ]
+ "practiceId": "bas-lc-p1-s03",
+ "title": "Part I · Section 03",
+ "subtitle": "Picture Description",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p1-s03",
+ "photoDir": "basic/p1-s03",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "The table is outside.",
+    "B": "The table has been set for three.",
+    "C": "The data is being entered into a table.",
+    "D": "The table is being set down."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "basic/p1-s03/q01.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The fruit is on a plate.",
+    "B": "The fruit is on the table.",
+    "C": "The fruit is for sale.",
+    "D": "The fruit is in cans."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/p1-s03/q02.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "The cat is chasing a ball.",
+    "B": "The cat is eating from the bowl.",
+    "C": "The cat is sleeping on the floor.",
+    "D": "The cat is jumping on the couch."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "basic/p1-s03/q03.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The cabinet doors are closed.",
+    "B": "The cabinet is being installed.",
+    "C": "The cabinet shelves are empty.",
+    "D": "The cabinet is above the stove."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "basic/p1-s03/q04.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The magazine is on the counter.",
+    "B": "The magazine is on sale.",
+    "C": "The magazine is on the floor.",
+    "D": "The magazine is on the cups."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "basic/p1-s03/q05.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "The helicopter has landed.",
+    "B": "The helicopter is on the ground.",
+    "C": "The helicopter has not taken off.",
+    "D": "The helicopter is in the sky."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "basic/p1-s03/q06.png",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

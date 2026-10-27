@@ -1,0 +1,54 @@
+{
+ "level": "advanced",
+ "skill": "lc",
+ "audioRef": "adv-lc-p2-s05",
+ "practiceId": "adv-lc-p2-s05-checkup",
+ "title": "Part II · Section 05 · Check-Up",
+ "subtitle": "Tag questions",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, she's been working overtime.",
+    "B": "Yes, we need a spare tire.",
+    "C": "No, she was very quiet."
+   },
+   "prompt": "Susan seemed tired yesterday, didn't she?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I'm a little disappointed.",
+    "B": "No, I used to work in the old office.",
+    "C": "Yes, I think the office is very large."
+   },
+   "prompt": "Our new office is small, isn't it?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I stayed inside all weekend.",
+    "B": "Yes, it says it's going to snow.",
+    "C": "Yes, I'd like to go hiking on the weekend."
+   },
+   "prompt": "The weather this weekend was terrible, wasn't it?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "adv-lc-p2-s05"
+}

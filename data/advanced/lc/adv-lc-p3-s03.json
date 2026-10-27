@@ -1,64 +1,65 @@
 {
-  "practiceId": "adv-lc-p3-s03",
-  "title": "Part III · Section 03",
-  "subtitle": "Conversations & talks",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p3-s03",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Go to the public library",
-        "B": "Ask the man for directions",
-        "C": "Ask another person for directions",
-        "D": "Leave the public library"
-      },
-      "prompt": "What is the woman going to do next?",
-      "accept": "C"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "He will ask the receptionist to call one.",
-        "B": "He will use a telephone to call one.",
-        "C": "He will call one from reception.",
-        "D": "He will go to look for one at 9 p.m."
-      },
-      "prompt": "What will the man do?",
-      "accept": "A"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Friday",
-        "B": "Saturday",
-        "C": "Sunday",
-        "D": "Monday"
-      },
-      "prompt": "When will the woman return?",
-      "accept": "D"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Go to the art gallery",
-        "B": "Visit her grandmother",
-        "C": "Go to dinner",
-        "D": "Go on vacation Short Talk"
-      },
-      "prompt": "What will the woman do on Tuesday?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "adv-lc-p3-s03",
+ "title": "Part III · Section 03",
+ "subtitle": "Conversations & talks",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p3-s03",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Go to the public library",
+    "B": "Ask the man for directions",
+    "C": "Ask another person for directions",
+    "D": "Leave the public library"
+   },
+   "prompt": "What is the woman going to do next?",
+   "accept": "C"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "He will ask the receptionist to call one.",
+    "B": "He will use a telephone to call one.",
+    "C": "He will call one from reception.",
+    "D": "He will go to look for one at 9 p.m."
+   },
+   "prompt": "What will the man do?",
+   "accept": "A"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Friday",
+    "B": "Saturday",
+    "C": "Sunday",
+    "D": "Monday"
+   },
+   "prompt": "When will the woman return?",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Go to the art gallery",
+    "B": "Vis it her grandmother",
+    "C": "Go to dinner",
+    "D": "Go on vacation"
+   },
+   "prompt": "What will the woman do on Tuesday?",
+   "accept": "A"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

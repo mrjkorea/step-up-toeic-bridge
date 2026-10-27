@@ -1,90 +1,91 @@
 {
-  "practiceId": "bas-lc-p3-s02",
-  "title": "Part III · Section 02",
-  "subtitle": "Conversations & talks",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p3-s02",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Closing the door",
-        "B": "Using baking soda",
-        "C": "Throwing out some items",
-        "D": "Building an extra closet"
-      },
-      "prompt": "What does the man suggest?",
-      "accept": "B"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Being a teacher",
-        "B": "Doing their class activities",
-        "C": "Doing their homework",
-        "D": "Preparing to take their mid-term exams"
-      },
-      "prompt": "What are they talking about?",
-      "accept": "D"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Going home early",
-        "B": "Rescheduling a meeting",
-        "C": "Checking a meeting agenda",
-        "D": "Meeting the woman on Friday"
-      },
-      "prompt": "What is the man talking about?",
-      "accept": "C"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Which DVD to watch",
-        "B": "Their favorite actors",
-        "C": "A picture in a magazine",
-        "D": "What to give a friend for her birthday"
-      },
-      "prompt": "What are the speakers discussing?",
-      "accept": "D"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "Playing a video game",
-        "B": "Having dinner at the man's house",
-        "C": "Coming to the man's birthday party",
-        "D": "Meeting the man's brother and sister"
-      },
-      "prompt": "What are the speakers talking about?",
-      "accept": "A"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Going to the post office",
-        "B": "Writing down the man's address",
-        "C": "Writing a letter to her sister",
-        "D": "Telling the man's sister that she received a letter"
-      },
-      "prompt": "What is the woman talking about?",
-      "accept": "D"
-    }
-  ]
+ "practiceId": "bas-lc-p3-s02",
+ "title": "Part III · Section 02",
+ "subtitle": "Conversations & talks",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p3-s02",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Closing the door",
+    "B": "Using baking soda",
+    "C": "Throwing out some items",
+    "D": "Building an extra closet"
+   },
+   "prompt": "What does the man suggest?",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Being a teacher",
+    "B": "Doing their class activities",
+    "C": "Doing their homework",
+    "D": "Preparing to take their mid-term exams"
+   },
+   "prompt": "What are they talking about?",
+   "accept": "D"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Going home early",
+    "B": "Rescheduling a meeting",
+    "C": "Checking a meeting agenda",
+    "D": "Meeting the woman on Friday"
+   },
+   "prompt": "What is the man talking about?",
+   "accept": "C"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Which DVD to watch",
+    "B": "Their favorite actors",
+    "C": "A picture in a magazine",
+    "D": "What to give a friend for her birthday"
+   },
+   "prompt": "What are the speakers discussing?",
+   "accept": "D"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Playing a video game",
+    "B": "Having dinner at the man's house",
+    "C": "Coming to the man's birthday party",
+    "D": "Meeting the man's brother and sister"
+   },
+   "prompt": "What are the speakers talking about?",
+   "accept": "A"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Going to the post office",
+    "B": "Writing down the man's address",
+    "C": "Writing a letter to her sister",
+    "D": "Telling the man's sister that she received a letter"
+   },
+   "prompt": "What is the woman talking about?",
+   "accept": "D"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

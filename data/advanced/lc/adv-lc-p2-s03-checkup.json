@@ -1,0 +1,54 @@
+{
+ "level": "advanced",
+ "skill": "lc",
+ "audioRef": "adv-lc-p2-s03",
+ "practiceId": "adv-lc-p2-s03-checkup",
+ "title": "Part II · Section 03 · Check-Up",
+ "subtitle": "Which",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "The blue one, please.",
+    "B": "I like big shoes.",
+    "C": "They're on the rack."
+   },
+   "prompt": "Which sweater would you like to look at?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The one at the end with the red door.",
+    "B": "I lived in the house for three years.",
+    "C": "I live in an apartment."
+   },
+   "prompt": "Which house do you live in?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "On the plane.",
+    "B": "Number 14, I think.",
+    "C": "400 dollars."
+   },
+   "prompt": "Which gate does your flight leave from?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "adv-lc-p2-s03"
+}

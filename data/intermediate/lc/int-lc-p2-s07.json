@@ -1,91 +1,92 @@
 {
-  "practiceId": "int-lc-p2-s07",
-  "title": "Part II · Section 07",
-  "subtitle": "How",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p2-s07",
-  "introEn": "Listen to each question and choose the best response (How).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "int-lc-p2-s07",
+ "title": "Part II · Section 07",
+ "subtitle": "How",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p2-s07",
+ "introEn": "Listen to each question and choose the best response (How).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It was last Friday.",
+    "B": "Mostly multiple choice.",
+    "C": "I got an A-minus."
+   },
+   "prompt": "How did you do on the test?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "I stepped in a puddle.",
+    "B": "I got them at the mall.",
+    "C": "I wear a size nine and a half."
+   },
+   "prompt": "How did your shoes get so wet?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "I was too sick to go.",
+    "B": "No, I don't think they were.",
+    "C": "Tomorrow would be more convenient."
+   },
+   "prompt": "How come you weren't in class yesterday?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, we've met a couple oftimes.",
+    "B": "Sorry, I can't make it then.",
+    "C": "I don't eat much meat these days."
+   },
+   "prompt": "How about meeting at two?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, in my room.",
+    "B": "For almost three hours.",
+    "C": "After I did the homework."
+   },
+   "prompt": "How long did you study last night?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "I would love to play golf this afternoon.",
+    "B": "Thanks. I played really well.",
+    "C": "I had to take my son to the dentist."
+   },
+   "prompt": "Why didn't you play golf this afternoon?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

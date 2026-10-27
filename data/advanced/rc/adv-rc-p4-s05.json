@@ -1,95 +1,90 @@
 {
-  "practiceId": "adv-rc-p4-s05",
-  "title": "Part IV · Section 05",
-  "subtitle": "Prepositions",
-  "level": "advanced",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Because of",
-        "B": "Despite",
-        "C": "In spite of",
-        "D": "Although"
-      },
-      "prompt": "the bad weather, we could not continue the game.",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "by",
-        "B": "until",
-        "C": "as",
-        "D": "for"
-      },
-      "prompt": "She decided to wait making a decision. Wednesday before",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "in",
-        "C": "at",
-        "D": "with",
-        "B": "on -------"
-      },
-      "prompt": "Do you know that English is spoken Canada?",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "with"
-      },
-      "prompt": "In the picture, my brother is standing with his friends and he is his red shirt.",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "in",
-        "B": "on",
-        "C": "with",
-        "D": "for"
-      },
-      "prompt": "The new dress which you bought really looks good ・you.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "for",
-        "B": "of",
-        "C": "with",
-        "D": "by Vocabulary"
-      },
-      "prompt": "After staying in the desert for a few weeks, I became tired the same food.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "adv-rc-p4-s05",
+ "title": "Part IV · Section 05",
+ "subtitle": "Prepositions",
+ "level": "advanced",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Because of",
+    "B": "Despite",
+    "C": "In spite of",
+    "D": "Although"
+   },
+   "prompt": "_______ the bad weather, we could not continue the game.",
+   "accept": "A"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "by",
+    "B": "until",
+    "C": "as",
+    "D": "for"
+   },
+   "prompt": "She decided to wait _______ Wednesday before making a decision.",
+   "accept": "B"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "with"
+   },
+   "prompt": "Do you know that English is spoken _______ Canada?",
+   "accept": "A"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "with"
+   },
+   "prompt": "In the picture, my brother is standing with his friends and he is _______ his red shirt.",
+   "accept": "A"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "in",
+    "B": "on",
+    "C": "with",
+    "D": "for"
+   },
+   "prompt": "The new dress which you bought really looks good _______ you.",
+   "accept": "B"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "for",
+    "B": "of",
+    "C": "with",
+    "D": "by"
+   },
+   "prompt": "After staying in the desert for a few weeks, I became tired _______ the same food.",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

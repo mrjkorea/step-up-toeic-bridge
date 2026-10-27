@@ -1,91 +1,92 @@
 {
-  "practiceId": "bas-lc-p2-s04",
-  "title": "Part II · Section 04",
-  "subtitle": "Short answer",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p2-s04",
-  "introEn": "Listen to each question and choose the best response (Short answer).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "bas-lc-p2-s04",
+ "title": "Part II · Section 04",
+ "subtitle": "Short answer",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p2-s04",
+ "introEn": "Listen to each question and choose the best response (Short answer).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Before three o'clock.",
+    "B": "Please call me at home.",
+    "C": "No, not really."
+   },
+   "prompt": "When do you need to call John?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "I'll leave right after school gets out.",
+    "B": "No, not usually.",
+    "C": "About seven fifteen."
+   },
+   "prompt": "When do you usually leave for school?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Thank you.",
+    "B": "In late August.",
+    "C": "I'll be fifteen."
+   },
+   "prompt": "When's your birthday?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "So do I.",
+    "B": "On my desk.",
+    "C": "At noon."
+   },
+   "prompt": "When do you need to leave?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "No, it's open.",
+    "B": "Every day at five o'clock.",
+    "C": "It takes about 15 minutes."
+   },
+   "prompt": "When does the store close?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I have already seen it.",
+    "B": "In 30 minutes I think.",
+    "C": "It lasts for about two hours."
+   },
+   "prompt": "When does the show start?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

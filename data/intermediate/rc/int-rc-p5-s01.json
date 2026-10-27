@@ -1,65 +1,80 @@
 {
-  "practiceId": "int-rc-p5-s01",
-  "title": "Part V · Section 01",
-  "subtitle": "Notices",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Where can you hear this announcement? flight, Gate, flying to",
-      "accept": "A",
-      "passage": "Questions 1-2 refer to the following announcement. Attention, please! (A) At an airport (B) At a hospital (C) At a restaurant (D) In an airplane Korean Air flight 1122 bound for Fukuoka from Incheon is now on board at Gate No. 9. All passengers flying to Fukuoka, please proceed to the Gate No. 9. Thank you.",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Passengers who are leaving for Incheon",
-        "B": "Passengers who are flying to Fukuoka",
-        "C": "Passengers who are living in Fukuoka",
-        "D": "Passengers who are returning from Fukuoka Questions 3-4 refer to the following notice. Special Announcement! Because the bus has a serious problem with its engine, today's company shuttle bus has been cancelled. Commuters are requested to use another transportation. Sorry for the inconvenience. For more information, call 080-123-5691."
-      },
-      "prompt": "Who is this announcement for?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "To notify of the cancellation of a shuttle bus today's company shuttle bus has been cancelled",
-        "B": "To apologize for the driver's mistake",
-        "C": "To ask passengers to be on time",
-        "D": "To ask commuters to cancel their schedule"
-      },
-      "prompt": "What is the purpose of this notice?",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Because the bus driver is not feeling well",
-        "B": "Because the bus needs repairing",
-        "C": "Because it is a holiday the bus has a serious problem with its engine",
-        "D": "Because the company stops the service"
-      },
-      "prompt": "Why can't commuters use the shuttle bus service today?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "int-rc-p5-s01",
+ "title": "Part V · Section 01",
+ "subtitle": "Notices",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "At an airport",
+    "B": "At a hospital",
+    "C": "At a restaurant",
+    "D": "In an airplane"
+   },
+   "prompt": "Where can you hear this announcement?",
+   "accept": "A",
+   "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
+   "passageHead": "Questions 1-2 refer to the following announcement.",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Passengers who are leaving for Incheon",
+    "B": "Passengers who are flying to Fukuoka",
+    "C": "Passengers who are living in Fukuoka",
+    "D": "Passengers who are returning from Fukuoka"
+   },
+   "prompt": "Who is this announcement for?",
+   "accept": "B",
+   "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
+   "passageHead": "Questions 1-2 refer to the following announcement.",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "To notify of the cancellation of a shuttle bus",
+    "B": "To apologize for the driver's mistake",
+    "C": "To ask passengers to be on time",
+    "D": "To ask commuters to cancel their schedule"
+   },
+   "prompt": "What is the purpose of this notice?",
+   "accept": "A",
+   "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Because the bus driver is not feeling well",
+    "B": "Because the bus needs repairing",
+    "C": "Because it is a holiday",
+    "D": "Because the company stops the service"
+   },
+   "prompt": "Why can't commuters use the shuttle bus service today?",
+   "accept": "B",
+   "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

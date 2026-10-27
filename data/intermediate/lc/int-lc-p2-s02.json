@@ -1,91 +1,92 @@
 {
-  "practiceId": "int-lc-p2-s02",
-  "title": "Part II · Section 02",
-  "subtitle": "What",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p2-s02",
-  "introEn": "Listen to each question and choose the best response (What).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "int-lc-p2-s02",
+ "title": "Part II · Section 02",
+ "subtitle": "What",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p2-s02",
+ "introEn": "Listen to each question and choose the best response (What).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It rained all day.",
+    "B": "I think it's going to be sunny.",
+    "C": "have already made plans."
+   },
+   "prompt": "What will the weather be like tomorrow?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "They will arrive this Saturday.",
+    "B": "They think it's a great idea.",
+    "C": "They decided to go to the opera."
+   },
+   "prompt": "What do your parents think of your decision?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "The Eagles won by 33-7.",
+    "B": "It starts at 7:30.",
+    "C": "Yes, it was very exciting."
+   },
+   "prompt": "What was the final score of the game last night?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "I have not decided yet.",
+    "B": "I went to the park with my family.",
+    "C": "No, I have not had a vacation recently."
+   },
+   "prompt": "What did you do on your day off?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "I am sorry and it won't happen again.",
+    "B": "I start work every morning at 8 a.m.",
+    "C": "I had to get my car repaired."
+   },
+   "prompt": "What made you get to work late this morning?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Jane had caught a cold.",
+    "B": "Jane said it was a male cat.",
+    "C": "It hurt its foot jumping over a fence."
+   },
+   "prompt": "What was wrong with Jane's cat?",
+   "accept": "C",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

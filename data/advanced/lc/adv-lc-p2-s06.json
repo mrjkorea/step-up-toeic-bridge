@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s06",
-  "title": "Part II · Section 06",
-  "subtitle": "Statements",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s06",
-  "introEn": "Listen to each question and choose the best response (Statements).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s06",
+ "title": "Part II · Section 06",
+ "subtitle": "Statements",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s06",
+ "introEn": "Listen to each question and choose the best response (Statements).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Thanks. I bought it last weekend.",
+    "B": "I thought the TV program was also interesting.",
+    "C": "I know. I really need a new TV."
+   },
+   "prompt": "Your new TV looks amazing.",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I will.",
+    "B": "Yes, it is.",
+    "C": "I'll call the repairman."
+   },
+   "prompt": "The toner in the photocopier needs to be changed again.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, it is.",
+    "B": "I know, but it's so boring.",
+    "C": "It's tomorrow morning."
+   },
+   "prompt": "We really need to start studying for the exam.",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, he did.",
+    "B": "At his desk.",
+    "C": "Yes, he is."
+   },
+   "prompt": "I wonder if Bill's working late again tonight.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Sorry, I can't.",
+    "B": "For three hours.",
+    "C": "I hope so."
+   },
+   "prompt": "Perhaps the swimming pool will be open this weekend.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "I think it was about the new products.",
+    "B": "I think the meeting is at 3 p.m.",
+    "C": "I thought it was interesting."
+   },
+   "prompt": "I thought the meeting was boring.",
+   "accept": "C",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,141 +1,152 @@
 {
-  "practiceId": "adv-rc-at-q11-20",
-  "title": "RC Actual Test · Questions 11–20",
-  "subtitle": "10 questions (book Q61–70)",
-  "level": "advanced",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Reading Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "61",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "62",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "63",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "64",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "65",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q6",
-      "label": "66",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q7",
-      "label": "67",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q8",
-      "label": "68",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q9",
-      "label": "69",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q10",
-      "label": "70",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    }
-  ]
+ "practiceId": "adv-rc-at-q11-20",
+ "title": "RC Actual Test · Questions 11–20",
+ "subtitle": "10 questions (book Q61–70)",
+ "level": "advanced",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Reading Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "61",
+   "type": "choice",
+   "choices": {
+    "A": "grow",
+    "B": "grows",
+    "C": "grown",
+    "D": "been growing"
+   },
+   "prompt": "Corn was first _______ in Mexico.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q2",
+   "label": "62",
+   "type": "choice",
+   "choices": {
+    "A": "surprised",
+    "B": "excited",
+    "C": "bored",
+    "D": "interesting"
+   },
+   "prompt": "Everyone agreed that the play we made was _______.",
+   "accept": "D",
+   "part": "IV"
+  },
+  {
+   "id": "q3",
+   "label": "63",
+   "type": "choice",
+   "choices": {
+    "A": "delay",
+    "B": "delayed",
+    "C": "delaying",
+    "D": "delays"
+   },
+   "prompt": "Some of the passengers were angry when they heard the train had been _______ again.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q4",
+   "label": "64",
+   "type": "choice",
+   "choices": {
+    "A": "in front of",
+    "B": "out",
+    "C": "on",
+    "D": "into"
+   },
+   "prompt": "The woman parked her car _______ her friend's new house.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q5",
+   "label": "65",
+   "type": "choice",
+   "choices": {
+    "A": "Because",
+    "B": "Although",
+    "C": "After",
+    "D": "Therefore"
+   },
+   "prompt": "_______ they liked the resort, the couple decided to go somewhere else next time.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q6",
+   "label": "66",
+   "type": "choice",
+   "choices": {
+    "A": "To do",
+    "B": "Take",
+    "C": "Taking",
+    "D": "Doing"
+   },
+   "prompt": "_______ photographs during the concert is strictly forbidden.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q7",
+   "label": "67",
+   "type": "choice",
+   "choices": {
+    "A": "to watch",
+    "B": "watched",
+    "C": "watches",
+    "D": "watching"
+   },
+   "prompt": "The family decided _______ a movie after dinner.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q8",
+   "label": "68",
+   "type": "choice",
+   "choices": {
+    "A": "partied",
+    "B": "celebrated",
+    "C": "famed",
+    "D": "danced"
+   },
+   "prompt": "The team went to a restaurant and _______ winning the game.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q9",
+   "label": "69",
+   "type": "choice",
+   "choices": {
+    "A": "manage to",
+    "B": "managed to",
+    "C": "management",
+    "D": "managing"
+   },
+   "prompt": "Steven _______ go sightseeing after his business meeting.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q10",
+   "label": "70",
+   "type": "choice",
+   "choices": {
+    "A": "beside",
+    "B": "during",
+    "C": "about",
+    "D": "with"
+   },
+   "prompt": "The student was so tired that he fell asleep _______ the exam.",
+   "accept": "B",
+   "part": "IV"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,64 +1,65 @@
 {
-  "practiceId": "adv-lc-p3-s02",
-  "title": "Part III · Section 02",
-  "subtitle": "Conversations & talks",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p3-s02",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Finding jobs",
-        "B": "Eating dinner",
-        "C": "Starting a company",
-        "D": "Going back to school"
-      },
-      "prompt": "What are the speakers discussing?",
-      "accept": "A"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Whether the restaurant will be big enough for the company's staff",
-        "B": "Whether their customers will like the restaurant",
-        "C": "Whether they should invite their customers to a party",
-        "D": "Whether the customers enjoyed the party"
-      },
-      "prompt": "What are the speakers discussing?",
-      "accept": "C"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Company share prices",
-        "B": "Company products",
-        "C": "Things they will discuss at the lecture",
-        "D": "Things they found interesting at the lecture"
-      },
-      "prompt": "What are the two people discussing?",
-      "accept": "D"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Her teachers",
-        "B": "Her gym class",
-        "C": "Her work schedule",
-        "D": "Her school friends"
-      },
-      "prompt": "What is the woman talking about?",
-      "accept": "D"
-    }
-  ]
+ "practiceId": "adv-lc-p3-s02",
+ "title": "Part III · Section 02",
+ "subtitle": "Conversations & talks",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p3-s02",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Finding jobs",
+    "B": "Eating dinner",
+    "C": "Starting a company",
+    "D": "Going back to school"
+   },
+   "prompt": "What are the speakers discussing?",
+   "accept": "A"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Whether the restaurant will be big enough for",
+    "B": "Whether their customers will like the restaurant",
+    "C": "Whether they should invite their customers to a party",
+    "D": "Whether the customers enjoyed the party"
+   },
+   "prompt": "What are the speakers discussing?",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Company share prices",
+    "B": "Company products",
+    "C": "Things they will discuss at the lecture",
+    "D": "Things they found interesting at the lecture"
+   },
+   "prompt": "What are the two people discussing?",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Her teachers",
+    "B": "Her gym class",
+    "C": "Her work schedule",
+    "D": "Her school friends"
+   },
+   "prompt": "What is the woman talking about?",
+   "accept": "D"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

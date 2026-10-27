@@ -1,94 +1,90 @@
 {
-  "practiceId": "bas-rc-p4-s02",
-  "title": "Part IV · Section 02",
-  "subtitle": "Sentence parts",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "play",
-        "B": "plays",
-        "C": "playing",
-        "D": "to play"
-      },
-      "prompt": "Jack soccer with his friends.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "is",
-        "B": "am",
-        "C": "are",
-        "D": "was"
-      },
-      "prompt": "Fred and Bob my best friends.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "make",
-        "B": "makes",
-        "C": "made",
-        "D": "making"
-      },
-      "prompt": "She dinner every day.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "our",
-        "B": "we us",
-        "D": "ours"
-      },
-      "prompt": "The teacher taught English.",
-      "accept": "C",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "easy",
-        "B": "easily",
-        "C": "easiest",
-        "D": "easiness"
-      },
-      "prompt": "This project seems",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "sweets",
-        "B": "sweet",
-        "C": "sweetly",
-        "D": "sweetness"
-      },
-      "prompt": "This food tastes",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "bas-rc-p4-s02",
+ "title": "Part IV · Section 02",
+ "subtitle": "Sentence parts",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "play",
+    "B": "plays",
+    "C": "playing",
+    "D": "to play"
+   },
+   "prompt": "Jack _______ soccer with his friends.",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "is",
+    "B": "am",
+    "C": "are",
+    "D": "was"
+   },
+   "prompt": "Fred and Bob _______ my best friends.",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "make",
+    "B": "makes",
+    "C": "made",
+    "D": "making"
+   },
+   "prompt": "She _______ dinner everyday.",
+   "accept": "B"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "our",
+    "B": "we",
+    "C": "us",
+    "D": "ours"
+   },
+   "prompt": "The teacher taught _______ English.",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "easy",
+    "B": "easily",
+    "C": "easiest",
+    "D": "easiness"
+   },
+   "prompt": "This project seems _______.",
+   "accept": "A"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "sweets",
+    "B": "sweet",
+    "C": "sweetly",
+    "D": "sweetness"
+   },
+   "prompt": "This food tastes _______.",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

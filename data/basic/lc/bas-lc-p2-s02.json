@@ -1,91 +1,92 @@
 {
-  "practiceId": "bas-lc-p2-s02",
-  "title": "Part II · Section 02",
-  "subtitle": "Why",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p2-s02",
-  "introEn": "Listen to each question and choose the best response (Why).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "bas-lc-p2-s02",
+ "title": "Part II · Section 02",
+ "subtitle": "Why",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p2-s02",
+ "introEn": "Listen to each question and choose the best response (Why).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It gets in at seven.",
+    "B": "I'm leaving Wednesday.",
+    "C": "I've never been there."
+   },
+   "prompt": "What day are you flying to San Francisco?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "My parents are Italian.",
+    "B": "Turning sixteen next week.",
+    "C": "Waiting for class to start."
+   },
+   "prompt": "What are you doing?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Three of them.",
+    "B": "Double \"A,\" I think.",
+    "C": "For the flashlight."
+   },
+   "prompt": "What size batteries do I need?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "I prefer to sit inside.",
+    "B": "They're watching a movie being filmed.",
+    "C": "No, I haven't looked at it yet."
+   },
+   "prompt": "What are all those people outside looking at?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "It can be any topic you want.",
+    "B": "For History and English.",
+    "C": "Monday, the tenth."
+   },
+   "prompt": "What's the due date for final projects?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "It's in my right hand.",
+    "B": "I cut it peeling an apple.",
+    "C": "No, with my arm."
+   },
+   "prompt": "What happened to your finger?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

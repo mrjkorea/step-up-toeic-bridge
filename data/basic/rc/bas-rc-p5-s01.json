@@ -1,64 +1,80 @@
 {
-  "practiceId": "bas-rc-p5-s01",
-  "title": "Part V · Section 01",
-  "subtitle": "Notices",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "In the hotel lobby",
-        "B": "In the living room",
-        "C": "In the parking lot",
-        "D": "In the office"
-      },
-      "prompt": "Where can you see this sign?",
-      "accept": "C",
-      "passage": "Questions 1-2 refer to the following notice. No cars! Parking for bicycles and motorcycles only!"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Taxi drivers",
-        "B": "Bicycle riders",
-        "C": "Car drivers",
-        "D": "Bus drivers Questions 3-4 refer to the following notice. Blue Lake 10 miles Green Farm 5 miles Peace Mountain 20 miles"
-      },
-      "prompt": "Who can use this parking space?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "5 miles",
-        "B": "10 miles",
-        "C": "15 miles",
-        "D": "20 miles"
-      },
-      "prompt": "How far is it from here to Green Farm?",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "On the road",
-        "B": "In the library",
-        "C": "In the hospital",
-        "D": "In the bus"
-      },
-      "prompt": "Where can you see this sign?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "bas-rc-p5-s01",
+ "title": "Part V · Section 01",
+ "subtitle": "Notices",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "In the hotel lobby",
+    "B": "In the living room",
+    "C": "In the parking lot",
+    "D": "In the office"
+   },
+   "prompt": "Where can you see this sign?",
+   "accept": "C",
+   "passage": "No cars! / Parking for bicycles / and motorcycles only!",
+   "passageHead": "Questions 1-2 refer to the following notice",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Taxi drivers",
+    "B": "Bicycle riders",
+    "C": "Car drivers",
+    "D": "Bus drivers"
+   },
+   "prompt": "Who can use this parking space?",
+   "accept": "B",
+   "passage": "No cars! / Parking for bicycles / and motorcycles only!",
+   "passageHead": "Questions 1-2 refer to the following notice",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "5 miles",
+    "B": "10 miles",
+    "C": "15 miles",
+    "D": "20 miles"
+   },
+   "prompt": "How far is it from here to Green Farm?",
+   "accept": "A",
+   "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "On the road",
+    "B": "In the library",
+    "C": "In the hospital",
+    "D": "In the bus"
+   },
+   "prompt": "Where can you see this sign?",
+   "accept": "A",
+   "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

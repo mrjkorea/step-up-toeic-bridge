@@ -1,0 +1,42 @@
+{
+ "level": "intermediate",
+ "skill": "lc",
+ "audioRef": "int-lc-p1-s03",
+ "photoDir": "intermediate/p1-s03",
+ "practiceId": "int-lc-p1-s03-warmup",
+ "title": "Part I · Section 03 · Warm-Up",
+ "subtitle": "Picture Description",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "There are a lot of trees along the road.",
+    "B": "There are a lot of cars along the road.",
+    "C": "There are a lot of people along the road."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The lamp is on the table.",
+    "B": "The lamp is on the floor.",
+    "C": "The lamp is between a television and a table."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "int-lc-p1-s03"
+}

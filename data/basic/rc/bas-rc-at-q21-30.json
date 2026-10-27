@@ -1,141 +1,152 @@
 {
-  "practiceId": "bas-rc-at-q21-30",
-  "title": "RC Actual Test · Questions 21–30",
-  "subtitle": "10 questions (book Q71–80)",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Reading Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "71",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "72",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "73",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "74",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "75",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q6",
-      "label": "76",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q7",
-      "label": "77",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q8",
-      "label": "78",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q9",
-      "label": "79",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q10",
-      "label": "80",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    }
-  ]
+ "practiceId": "bas-rc-at-q21-30",
+ "title": "RC Actual Test · Questions 21–30",
+ "subtitle": "10 questions (book Q71–80)",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Reading Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "71",
+   "type": "choice",
+   "choices": {
+    "A": "listen",
+    "B": "listening",
+    "C": "listened",
+    "D": "listener"
+   },
+   "prompt": "Many people _______ to music when they have free time.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q2",
+   "label": "72",
+   "type": "choice",
+   "choices": {
+    "A": "She",
+    "B": "We",
+    "C": "He",
+    "D": "Their"
+   },
+   "prompt": "_______ believe that our team can win the race.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q3",
+   "label": "73",
+   "type": "choice",
+   "choices": {
+    "A": "travel",
+    "B": "travels",
+    "C": "traveled",
+    "D": "traveling"
+   },
+   "prompt": "In his youth the boy enjoyed _______ all over the world with his friends.",
+   "accept": "D",
+   "part": "IV"
+  },
+  {
+   "id": "q4",
+   "label": "74",
+   "type": "choice",
+   "choices": {
+    "A": "treat",
+    "B": "treated",
+    "C": "treating",
+    "D": "treatment"
+   },
+   "prompt": "The doctor _______ many patients when he worked in the military hospital.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q5",
+   "label": "75",
+   "type": "choice",
+   "choices": {
+    "A": "men",
+    "B": "months",
+    "C": "members",
+    "D": "meetings"
+   },
+   "prompt": "The team plans to meet again in six _______.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q6",
+   "label": "76",
+   "type": "choice",
+   "choices": {
+    "A": "break",
+    "B": "lunch",
+    "C": "chair",
+    "D": "table"
+   },
+   "prompt": "We serve _______ in 80 schools.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q7",
+   "label": "77",
+   "type": "choice",
+   "choices": {
+    "A": "meet",
+    "B": "stay",
+    "C": "begin",
+    "D": "arrive"
+   },
+   "prompt": "Gary Green will _______ you at the airport.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q8",
+   "label": "78",
+   "type": "choice",
+   "choices": {
+    "A": "He was",
+    "B": "It will",
+    "C": "There is",
+    "D": "They were"
+   },
+   "prompt": "_______ a public phone in the main lobby.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q9",
+   "label": "79",
+   "type": "choice",
+   "choices": {
+    "A": "begin",
+    "B": "invite",
+    "C": "announce",
+    "D": "complete"
+   },
+   "prompt": "Club meetings _______ at 3:20 and end at 3:50.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q10",
+   "label": "80",
+   "type": "choice",
+   "choices": {
+    "A": "now",
+    "B": "once",
+    "C": "this",
+    "D": "when"
+   },
+   "prompt": "Free meals are offered _______ a month.",
+   "accept": "B",
+   "part": "IV"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

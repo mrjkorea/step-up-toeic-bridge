@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s05",
-  "title": "Part II · Section 05",
-  "subtitle": "Tag questions",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s05",
-  "introEn": "Listen to each question and choose the best response (Tag questions).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s05",
+ "title": "Part II · Section 05",
+ "subtitle": "Tag questions",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s05",
+ "introEn": "Listen to each question and choose the best response (Tag questions).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I was disappointed with it.",
+    "B": "Yes, the company gives a bonus twice. a year.",
+    "C": "Yes, I'm hoping to buy a new car with the money."
+   },
+   "prompt": "The annual bonus was large this year, wasn't it?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Everybody in the office is moving to Australia.",
+    "B": "Yes, I've heard that he is.",
+    "C": "He's going to move to Australia this week."
+   },
+   "prompt": "Our new office manager is from Australia, isn't he?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I found the meeting to be very interesting.",
+    "B": "Yes, I just heard the news this morning.",
+    "C": "No, it's a publishing company."
+   },
+   "prompt": "The company's in financial trouble, isn't it?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I play the saxophone.",
+    "B": "Yes, I really liked their music.",
+    "C": "No, the band was canceled."
+   },
+   "prompt": "The jazz band was great, wasn't it?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "I usually get up early in the morning.",
+    "B": "Yes, it sounds really beautiful.",
+    "C": "No, usually go in the evening."
+   },
+   "prompt": "I love to hear birds singing in the morning. don't you?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I got promoted last week.",
+    "B": "No, he used to work on the 6th floor.",
+    "C": "The 6th floor is having a party."
+   },
+   "prompt": "You used to work on the 6th floor, didn't you?",
+   "accept": "A",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

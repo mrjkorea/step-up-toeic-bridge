@@ -1,90 +1,91 @@
 {
-  "practiceId": "adv-lc-p3-s06",
-  "title": "Part III · Section 06",
-  "subtitle": "Conversations & talks",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p3-s06",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "$16",
-        "B": "$29.99",
-        "C": "$45",
-        "D": "$320"
-      },
-      "prompt": "How much is the family plan?",
-      "accept": "C"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "To announce a birthday",
-        "B": "To announce new store hours",
-        "C": "To announce a sale",
-        "D": "To announce a new product"
-      },
-      "prompt": "What is the purpose of this message?",
-      "accept": "C"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "$2.99",
-        "B": "$4.89",
-        "C": "$20",
-        "D": "$25"
-      },
-      "prompt": "What is the sale price of the rose?",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "The plumbing section",
-        "B": "The home section",
-        "C": "The paint section",
-        "D": "The design section"
-      },
-      "prompt": "Where should shoppers visit?",
-      "accept": "C"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "The beach will close at 3p.m.",
-        "B": "Only swimmers and surfers can go in the water.",
-        "C": "The beach will reopen this morning.",
-        "D": "The beach is closed because of weather conditions."
-      },
-      "prompt": "What is being announced?",
-      "accept": "D"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Bedroom sets",
-        "B": "Electronics",
-        "C": "Kitchen sets",
-        "D": "Living room sets Actual Test Listening Comprehension LISTENING COMPREHENSION This is the Listening Section of the test. There are three parts to this section. PARTI Directions: You will see a picture in your test book and you will hear four short statements. Look at the picture in your test book and choose the statement that best describes what you see in the picture. Then, mark your answer on your answer sheet. Look at the sample below and listen to the four statements. Statement"
-      },
-      "prompt": "What is on sale?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "adv-lc-p3-s06",
+ "title": "Part III · Section 06",
+ "subtitle": "Conversations & talks",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p3-s06",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "$16",
+    "B": "$29.99",
+    "C": "$45",
+    "D": "$320"
+   },
+   "prompt": "How much is the family plan?",
+   "accept": "C"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "To annou nee a birthday",
+    "B": "To annou nee new store hours",
+    "C": "To announce a sale",
+    "D": "To annou nee a new product"
+   },
+   "prompt": "What is the purpose of this message?",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "$2.99",
+    "B": "$4.89",
+    "C": "$20",
+    "D": "$25"
+   },
+   "prompt": "What is the sale price of the rose?",
+   "accept": "A"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The plumbing section",
+    "B": "The home section",
+    "C": "The paint section",
+    "D": "The design section"
+   },
+   "prompt": "Where should shoppers visit?",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The beach will close at 3 p.m.",
+    "B": "Only swimmers and surfers can go in the water.",
+    "C": "The beach will reopen this morning.",
+    "D": "The beach is closed because of weather conditions."
+   },
+   "prompt": "What is being announced?",
+   "accept": "D"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Bedroom sets",
+    "B": "Electronics",
+    "C": "Kitchen sets",
+    "D": "Living room sets"
+   },
+   "prompt": "What is on sale?",
+   "accept": "A"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,95 +1,90 @@
 {
-  "practiceId": "bas-rc-p4-s05",
-  "title": "Part IV · Section 05",
-  "subtitle": "Pronouns",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "they",
-        "B": "them",
-        "C": "their",
-        "D": "theirs"
-      },
-      "prompt": "Passengers must show ticket.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "1",
-        "B": "my",
-        "C": "me",
-        "D": "mine"
-      },
-      "prompt": "My grandmother told an old story.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "he",
-        "B": "it",
-        "C": "him",
-        "D": "his"
-      },
-      "prompt": "He is very happy with. school life.",
-      "accept": "D",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "it",
-        "B": "mine",
-        "C": "her",
-        "D": "their"
-      },
-      "prompt": "That lunch box is",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "they",
-        "B": "them",
-        "C": "their",
-        "D": "theirs"
-      },
-      "prompt": "When dogs are babies, we call puppy.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "it",
-        "B": "that",
-        "C": "those",
-        "D": "this Vocabulary"
-      },
-      "prompt": "This is my bag, but are not mine.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "bas-rc-p4-s05",
+ "title": "Part IV · Section 05",
+ "subtitle": "Pronouns",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "they",
+    "B": "them",
+    "C": "their",
+    "D": "theirs"
+   },
+   "prompt": "Passengers must show _______ ticket.",
+   "accept": "C"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "I",
+    "B": "my",
+    "C": "me",
+    "D": "mine"
+   },
+   "prompt": "My grandmother told _______ an old story.",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "he",
+    "B": "it",
+    "C": "him",
+    "D": "his"
+   },
+   "prompt": "He is very happy with _______ school life.",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "it",
+    "B": "mine",
+    "C": "her",
+    "D": "their"
+   },
+   "prompt": "That lunch box is _______.",
+   "accept": "B"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "they",
+    "B": "them",
+    "C": "their",
+    "D": "theirs"
+   },
+   "prompt": "When dogs are babies, we call _______ puppy.",
+   "accept": "B"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "it",
+    "B": "that",
+    "C": "those",
+    "D": "this"
+   },
+   "prompt": "This is my bag, but _______ are not mine.",
+   "accept": "C"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

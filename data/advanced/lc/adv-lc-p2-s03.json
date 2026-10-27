@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s03",
-  "title": "Part II · Section 03",
-  "subtitle": "Which",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s03",
-  "introEn": "Listen to each question and choose the best response (Which).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s03",
+ "title": "Part II · Section 03",
+ "subtitle": "Which",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s03",
+ "introEn": "Listen to each question and choose the best response (Which).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "I really like math.",
+    "B": "It has to be English.",
+    "C": "It starts at 9 a.m."
+   },
+   "prompt": "Which subject is your least favorite?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "It came as such a surprise.",
+    "B": "They're all beautiful.",
+    "C": "I don't think it will fit."
+   },
+   "prompt": "Which ring do you like best?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I did.",
+    "B": "My yellow one.",
+    "C": "The large purse."
+   },
+   "prompt": "Which hat did you lose at the concert?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The coach wants me on the team.",
+    "B": "Volleyball or badminton.",
+    "C": "No, she isn't."
+   },
+   "prompt": "Which sport are you trying out for this year?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "It requires two tickets.",
+    "B": "The 30-2 is probably the fastest.",
+    "C": "In the back seat."
+   },
+   "prompt": "Which bus should I take to get to the amusement park?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Mr. Evans is a member of the staff.",
+    "B": "Ms. Jones is probably the best candidate.",
+    "C": "No, I don't think that's suitable."
+   },
+   "prompt": "Which member of the staff do you think would be the most suitable?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

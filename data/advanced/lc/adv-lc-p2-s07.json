@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s07",
-  "title": "Part II · Section 07",
-  "subtitle": "Indirect Q",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s07",
-  "introEn": "Listen to each question and choose the best response (Indirect Q).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s07",
+ "title": "Part II · Section 07",
+ "subtitle": "Indirect Q",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s07",
+ "introEn": "Listen to each question and choose the best response (Indirect Q).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I missed it.",
+    "B": "No, I think it's busy these days.",
+    "C": "Yes, turn left and then keep walking straight."
+   },
+   "prompt": "Do you know where the bus station is? think it's busy these days.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I was disappointed I didn't go.",
+    "B": "Yes, was very surprised.",
+    "C": "Yes, what happened?"
+   },
+   "prompt": "Have you heard what will happen in the office tomorrow?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "I'm not sure of the reason.",
+    "B": "He says it was because of bad weather.",
+    "C": "Yes, the shipment is on time."
+   },
+   "prompt": "Does he know why the shipment is delayed?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I made the order yesterday.",
+    "B": "No, I haven't heard anything.",
+    "C": "Yes, all deliveries are brought here."
+   },
+   "prompt": "Do you know why the order hasn't been delivered yet?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "No, I'm busy this weekend.",
+    "B": "Yes, it's going to be on Saturday.",
+    "C": "Yes, it's on the new school field."
+   },
+   "prompt": "Do you know where the tournament is being held this weekend?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "I think the move will take all day.",
+    "B": "I think I moved in the autumn because the weather was cooler.",
+    "C": "I think we'll do it next Thursday."
+   },
+   "prompt": "Have you decided when you're going to move yet?",
+   "accept": "C",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }
