@@ -4,9 +4,64 @@
   "subtitle": "Jobs",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "a brush",
+        "B": "a knife",
+        "C": "scissors",
+        "D": "a fork"
+      },
+      "prompt": "A hairdresser uses to cut hair.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "sing",
+        "B": "play",
+        "C": "direct",
+        "D": "study"
+      },
+      "prompt": "She can the piano very well.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "firefighter",
+        "B": "police officer",
+        "C": "lawyer",
+        "D": "announcer"
+      },
+      "prompt": "My father is a working at a police station.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "report",
+        "B": "drive",
+        "C": "paint",
+        "D": "grow"
+      },
+      "prompt": "His job is to the news.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }

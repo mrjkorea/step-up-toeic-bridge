@@ -4,9 +4,92 @@
   "subtitle": "To-inf / gerunds",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaning",
+        "D": "cleaned"
+      },
+      "prompt": "She told us our room first.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking",
+        "D": "took"
+      },
+      "prompt": "I was really busy care of my son by myself.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made the car because it was already"
+      },
+      "prompt": "I feel sorry for you wait for a long time.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "not buy",
+        "B": "not to buy",
+        "C": "not buying",
+        "D": "not bought"
+      },
+      "prompt": "He decided old-fashioned.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Happy",
+        "B": "Happily",
+        "C": "Happiness",
+        "D": "To happy"
+      },
+      "prompt": "to say, he won the first prize again this year.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "to",
+        "B": "of",
+        "C": "for",
+        "D": "with"
+      },
+      "prompt": "It is very nice carry the bag. ------- you to help the old woman",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }

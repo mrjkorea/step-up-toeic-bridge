@@ -4,9 +4,63 @@
   "subtitle": "Forms",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "prompt": "Company 3. Last Name 5. E-mail",
+      "accept": "D",
+      "passage": "Questions 1-2 refer to the following form. Free Trial Request Form In order to process your request for a free-30-day trial of the Customer Feedback Center, please complete the form below. Our Manager will contact you upon receiving your completed form. We promise to provide the best all the time. Step 1",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "prompt": "First Name 4. Job Title 6. Phone 7. Company address 8. Your Company Size (Select one) 0-9 Employees 10-99 Employees 100-199 Employees 200-999 Employees ☐ 1000+ Employees ☐ 9. Web site Address 10. Country(if not U.S.) Step 2 Additional Information 1. Create a Login password 2. How did you learn about us?",
+      "accept": "A",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Pay for the membership",
+        "B": "Write comments",
+        "C": "Create a login password",
+        "D": "Send it by e-mail"
+      },
+      "prompt": "Comments: * When you finish send this form to us by e-mail. [master@cfc.yahoo.com] 1. What should the applicant do after completing the form?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "To evaluate the student's grade",
+        "B": "To evaluate the lecturer's performance",
+        "C": "To suggest some ideas about the class",
+        "D": "To explain class regulations 4. Which of the following is NOT true?"
+      },
+      "prompt": "Fairness in assigning grades Poor Fair Good ☐ Excellent 5. Concern and respect for individuals as students Poor Fair Good ☐ Excellent 6. Administration of class and organization of materials Poor Fair ☐ Good ☐ Excellent 7. Overall rating of this instructor Poor Fair ☐ Good Excellent 3. What is the purpose of this form?",
+      "accept": "D"
+    }
+  ]
 }

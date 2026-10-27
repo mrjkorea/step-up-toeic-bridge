@@ -4,9 +4,61 @@
   "subtitle": "Memos",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "It is broken.",
+        "B": "It has been stolen.",
+        "C": "It needs more memory.",
+        "D": "It has not been delivered yet."
+      },
+      "prompt": "What seems to be wrong with the computer?",
+      "accept": "A",
+      "passage": "Questions 1-2 refer to the following memo. Dear Mr. Parker, I came to fix your computer, but I guess you are not at home. Please call me at 011-788-1111 when you get this message. With regards, Newman Jones"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A plumber",
+        "B": "A mailman",
+        "C": "A computer repairman",
+        "D": "A police officer Questions 3-4 refer to the following memo. To all students, In these days, some of our school students are suffering from eye diseases. All students must wash their hands after each class. Use hot water and soap at all times. If anyone has any eye disease symptom, report it to his/her teacher. You are welcome to visit our School Health Care Center for checkup between classes. Office hours: 9 a.m. till 6 p.m. (Mon-Fri) No reservations needed. For phone counseling, call 080-114-1114."
+      },
+      "prompt": "What is Newman Jones' job?",
+      "accept": "C"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A reminder about the prevention of eye disease",
+        "B": "A reminder about regular health checkup",
+        "C": "A notice for the opening of School Health Care Center",
+        "D": "A lecture on the importance of eyes"
+      },
+      "prompt": "What is the purpose of this memo?",
+      "accept": "A"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Students can visit the School Health Care Center during weekdays.",
+        "B": "Students don't have to make any reservation for eye checkup.",
+        "C": "Students can skip classes for eye checkup.",
+        "D": "Students should wash their hands in hot water and with soap. பப"
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "C"
+    }
+  ]
 }

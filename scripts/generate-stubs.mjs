@@ -17,7 +17,7 @@ const LEVELS = [
 ];
 
 const PART2_THEME = {
-  basic: ["Who", "Why", "How", "Short answer", "Short answer", "Short answer", "Short answer"],
+  basic: ["Yes/No", "What", "Where", "When", "Who", "Why", "How"],
   intermediate: ["Yes/No", "What", "Where", "When", "Who", "Why", "How"],
   advanced: ["Yes/No", "Future-tense Q", "Which", "Choice Q", "Tag questions", "Statements", "Indirect Q"],
 };
@@ -238,42 +238,6 @@ function audioManifestEntries() {
   return practices;
 }
 
-function sampleIntLcP2S01() {
-  const choices = [
-    ["Yes, she is.", "No, he isn't.", "Maybe later.", "On the table."],
-    ["Yes, I have.", "No, thank you.", "At three o'clock.", "Because it's fun."],
-    ["No, they aren't.", "Yes, we do.", "In the kitchen.", "Every Monday."],
-    ["Yes, it is.", "No, I'm not.", "By bus.", "Susan does."],
-    ["No, he doesn't.", "Yes, please.", "Under the desk.", "Twice a week."],
-    ["Yes, they can.", "No, she won't.", "At the mall.", "For two hours."],
-    ["No, it isn't.", "Yes, I am.", "On Friday.", "My brother will."],
-    ["Yes, we are.", "No, they didn't.", "In April.", "About ten dollars."],
-    ["No, I'm not ready.", "Yes, he has.", "Near the station.", "Because of rain."],
-    ["Yes, you may.", "No, it won't.", "After lunch.", "The tall one."],
-  ];
-  const accept = ["A", "B", "A", "A", "A", "A", "B", "A", "A", "A"];
-  const items = choices.map((c, i) => ({
-    id: `q${i + 1}`,
-    label: String(i + 1),
-    type: "choice",
-    prompt: "Mark the best response to the question you hear.",
-    choices: { A: c[0], B: c[1], C: c[2], D: c[3] },
-    accept: accept[i],
-  }));
-  return {
-    practiceId: "int-lc-p2-s01",
-    title: "Part II · Section 01",
-    subtitle: "Yes/No",
-    level: "intermediate",
-    skill: "lc",
-    stub: false,
-    timerMinutes: 12,
-    audioRef: "int-lc-p2-s01",
-    introEn: "Listen to each question and choose the best response (Yes/No style).",
-    items,
-  };
-}
-
 function main() {
   const allPractices = [];
   const tracks = [];
@@ -311,11 +275,7 @@ function main() {
 
   for (const p of allPractices) {
     const file = path.join(ROOT, p.dataPath);
-    if (p.id === "int-lc-p2-s01") {
-      writeJson(file, sampleIntLcP2S01());
-    } else {
-      writeJson(file, stubPractice(p));
-    }
+    writeJson(file, stubPractice(p));
   }
 
   const manifest = {

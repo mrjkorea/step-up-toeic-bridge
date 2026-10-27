@@ -4,9 +4,139 @@
   "subtitle": "10 questions",
   "level": "advanced",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "adv-lc-at",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "C",
+      "audioOnly": true
+    },
+    {
+      "id": "q2",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "A",
+      "audioOnly": true
+    },
+    {
+      "id": "q3",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
+    },
+    {
+      "id": "q4",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "A",
+      "audioOnly": true
+    },
+    {
+      "id": "q5",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
+    },
+    {
+      "id": "q6",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
+    },
+    {
+      "id": "q7",
+      "label": "27",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
+    },
+    {
+      "id": "q8",
+      "label": "28",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "A",
+      "audioOnly": true
+    },
+    {
+      "id": "q9",
+      "label": "29",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "A",
+      "audioOnly": true
+    },
+    {
+      "id": "q10",
+      "label": "30",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C"
+      },
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "C",
+      "audioOnly": true
+    }
+  ]
 }

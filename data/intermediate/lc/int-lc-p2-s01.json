@@ -5,139 +5,87 @@
   "level": "intermediate",
   "skill": "lc",
   "stub": false,
-  "timerMinutes": 12,
   "audioRef": "int-lc-p2-s01",
-  "introEn": "Listen to each question and choose the best response (Yes/No style).",
+  "introEn": "Listen to each question and choose the best response (Yes/No).",
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "Yes, she is.",
-        "B": "No, he isn't.",
-        "C": "Maybe later.",
-        "D": "On the table."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "A"
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "A",
+      "audioOnly": true
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "Yes, I have.",
-        "B": "No, thank you.",
-        "C": "At three o'clock.",
-        "D": "Because it's fun."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "B"
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "No, they aren't.",
-        "B": "Yes, we do.",
-        "C": "In the kitchen.",
-        "D": "Every Monday."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "A"
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "Yes, it is.",
-        "B": "No, I'm not.",
-        "C": "By bus.",
-        "D": "Susan does."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "A"
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "B",
+      "audioOnly": true
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "No, he doesn't.",
-        "B": "Yes, please.",
-        "C": "Under the desk.",
-        "D": "Twice a week."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "A"
+      "prompt": "Mark the best response to the question you hear.",
+      "accept": "C",
+      "audioOnly": true
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
       "choices": {
-        "A": "Yes, they can.",
-        "B": "No, she won't.",
-        "C": "At the mall.",
-        "D": "For two hours."
+        "A": "A",
+        "B": "B",
+        "C": "C"
       },
-      "accept": "A"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
       "prompt": "Mark the best response to the question you hear.",
-      "choices": {
-        "A": "No, it isn't.",
-        "B": "Yes, I am.",
-        "C": "On Friday.",
-        "D": "My brother will."
-      },
-      "accept": "B"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
-      "choices": {
-        "A": "Yes, we are.",
-        "B": "No, they didn't.",
-        "C": "In April.",
-        "D": "About ten dollars."
-      },
-      "accept": "A"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
-      "choices": {
-        "A": "No, I'm not ready.",
-        "B": "Yes, he has.",
-        "C": "Near the station.",
-        "D": "Because of rain."
-      },
-      "accept": "A"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "prompt": "Mark the best response to the question you hear.",
-      "choices": {
-        "A": "Yes, you may.",
-        "B": "No, it won't.",
-        "C": "After lunch.",
-        "D": "The tall one."
-      },
-      "accept": "A"
+      "accept": "A",
+      "audioOnly": true
     }
-  ]
+  ],
+  "timerMinutes": 12
 }

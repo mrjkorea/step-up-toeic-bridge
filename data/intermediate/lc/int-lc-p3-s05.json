@@ -4,9 +4,87 @@
   "subtitle": "Conversations & talks",
   "level": "intermediate",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "int-lc-p3-s05",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "She has returned from watching the World Swimming Championships.",
+        "B": "She has graduated from university.",
+        "C": "She has won some medals at a swimming competition.",
+        "D": "She has found some gold and silver medals."
+      },
+      "prompt": "What has Julie Kim just done?",
+      "accept": "C"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Houses are more expensive than last year.",
+        "B": "Houses are cheaper than last year.",
+        "C": "Houses will be more expensive in the next 6 months.",
+        "D": "There will be no houses on sale in the next 6 months."
+      },
+      "prompt": "What does the increase mean to people buying houses?",
+      "accept": "A"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "They are very colorful.",
+        "B": "They can fly backwards.",
+        "C": "There are lots of different types.",
+        "D": "They are the only birds that can float."
+      },
+      "prompt": "Why are humming birds special?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "He is a rock climber.",
+        "B": "He is a rock star.",
+        "C": "He is a movie director.",
+        "D": "He is studying the world's climate."
+      },
+      "prompt": "What is true about Steve Zimmerman?",
+      "accept": "A"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Salt",
+        "B": "Garlic",
+        "C": "Oregano",
+        "D": "Olive oil"
+      },
+      "prompt": "Which of the following is NOT an ingredient the speaker says that she uses?",
+      "accept": "B"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "The rugs will be cleaned.",
+        "B": "Another class will come in.",
+        "C": "Another movie will be shown.",
+        "D": "The boxes will be moved upstairs."
+      },
+      "prompt": "What does the speaker say will happen next?",
+      "accept": "B"
+    }
+  ]
 }

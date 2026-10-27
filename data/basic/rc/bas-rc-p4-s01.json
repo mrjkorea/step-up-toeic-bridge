@@ -4,9 +4,91 @@
   "subtitle": "Kinds of sentences",
   "level": "basic",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "exercise",
+        "B": "exercises",
+        "C": "was exercised",
+        "D": "exercising"
+      },
+      "prompt": "I ------- every morning.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "like",
+        "B": "likes",
+        "C": "was liked",
+        "D": "liking"
+      },
+      "prompt": "He toys and robots.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "B": "eats",
+        "C": "ate",
+        "D": "eating"
+      },
+      "prompt": "She doesn't shrimps.",
+      "accept": "A",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "isn't",
+        "B": "is not",
+        "C": "aren't",
+        "D": "am not"
+      },
+      "prompt": "They very happy now.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Am"
+      },
+      "prompt": "he learn English?",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "write",
+        "B": "writes",
+        "C": "writing",
+        "D": "is writing"
+      },
+      "prompt": "Don't. a letter.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }

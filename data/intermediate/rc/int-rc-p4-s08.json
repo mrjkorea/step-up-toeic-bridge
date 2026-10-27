@@ -4,9 +4,64 @@
   "subtitle": "Leisure",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Speak",
+        "B": "Listen",
+        "C": "Learn",
+        "D": "Use"
+      },
+      "prompt": "to English pop songs every day if you want to speak English well.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "skiing",
+        "B": "jumping rope",
+        "C": "painting",
+        "D": "cross stitching"
+      },
+      "prompt": "In winter, I go and exciting. with my friends. It's thrilling",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "listen",
+        "C": "hear",
+        "D": "watch"
+      },
+      "prompt": "Many families TV after dinner at home.",
+      "accept": "D",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "think",
+        "B": "play",
+        "C": "take",
+        "D": "have"
+      },
+      "prompt": "I health. that jogging and walking are good for",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }

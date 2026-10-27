@@ -4,9 +4,91 @@
   "subtitle": "Articles",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "In"
+      },
+      "prompt": "year has 365 days.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "a money",
+        "B": "much money",
+        "C": "some money",
+        "D": "the money give me a spoon, please."
+      },
+      "prompt": "My father gave me some money and I gave all to the beggar.",
+      "accept": "D",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A waiter",
+        "B": "The waiter",
+        "C": "An waiter",
+        "D": "Waiter"
+      },
+      "accept": "D",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "a my",
+        "B": "my a",
+        "C": "my best",
+        "D": "the my best"
+      },
+      "prompt": "Adam is one of friends.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "The",
+        "C": "An",
+        "D": "Some"
+      },
+      "prompt": "book on the shelf is about solar system.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "a",
+        "B": "the",
+        "C": "an",
+        "D": "any"
+      },
+      "prompt": "Jack is strongest boy in his school.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }

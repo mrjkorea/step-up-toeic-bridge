@@ -4,9 +4,61 @@
   "subtitle": "Forms",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "At a gym",
+        "C": "At a theater",
+        "B": "At a doctor's surgery",
+        "D": "At a class"
+      },
+      "prompt": "Where would you most likely find this application form?",
+      "accept": "A",
+      "passage": "Questions 1-2 refer to the following form. BEST FITNESS Please fill out the registration form below. Name Age Weight Height Home Address Telephone No. Medical History Note: All members will have to undergo a 30-minute medical examination and a one-hour introduction training session with a member of our staff. These procedures will be repeated annually for your health and safety."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "30 minutes",
+        "C": "Twice a year",
+        "B": "One hour",
+        "D": "Once a year Questions 3-4 refer to the following form. TUNNEL NOTICE As a result of increased maintenance costs, we regret to announce the following price increases. Please see below: Old Price New Price Motorbike ― Car $1 $1.50 Car & Trailer $1.50 $2 Minivan $4 $4 Commercial bus $5 $7.50 Truck $10 $15 Prices will come into effect as of November 2009."
+      },
+      "prompt": "How often do people have to attend the introduction training session?",
+      "accept": "D"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To inform people of maintenance work in November",
+        "B": "To inform people of possible delays in the tunnel",
+        "C": "To inform people of the new costs of using the tunnel",
+        "D": "To inform people what vehicles are allowed to use the tunnel"
+      },
+      "prompt": "What is the notice for?",
+      "accept": "C"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Cars and motorbikes",
+        "B": "Motorbikes and commercial buses",
+        "C": "Trucks and minivans",
+        "D": "Minivans and motorbikes Actual Test Reading Comprehension YOU WILL HAVE THIRTY-FIVE MINUTES TO COMPLETE PARTS IV AND V OF THE TEST. READING This is the reading section of the test. There are two parts to this section."
+      },
+      "prompt": "Which of the vehicles are NOT affected by the price increase?",
+      "accept": "D"
+    }
+  ]
 }

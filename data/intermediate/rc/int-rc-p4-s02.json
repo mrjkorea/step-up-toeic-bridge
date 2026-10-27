@@ -4,9 +4,92 @@
   "subtitle": "Modals",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "help",
+        "B": "helps",
+        "C": "helping",
+        "D": "is helping"
+      },
+      "prompt": "Sometimes a young boy can an old man.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "doing"
+      },
+      "prompt": "Vicky doesn't like science, but David",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "becomes",
+        "B": "become",
+        "C": "will become",
+        "D": "becoming"
+      },
+      "prompt": "Both John and Jane 14 years old next year.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "do",
+        "B": "should",
+        "C": "can",
+        "D": "may"
+      },
+      "prompt": "You not fight with your friends and be nice to them all the time.",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "must",
+        "B": "have",
+        "C": "would",
+        "D": "can"
+      },
+      "prompt": "How you like your steak?",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "May",
+        "B": "Can",
+        "C": "Could",
+        "D": "Must"
+      },
+      "prompt": "God bless all the people in this country.",
+      "accept": "A",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    }
+  ]
 }
