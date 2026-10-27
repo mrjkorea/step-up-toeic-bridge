@@ -42,7 +42,7 @@ Hash routes: `#/`, `#/track/intermediate-lc`, `#/practice/int-lc-p2-s01`.
 2. To reset layout only (wipes JSON content): `node scripts/generate-stubs.mjs` — **back up** real `data/` first.
 3. Required fields per practice file:
    - `practiceId`, `title`, `level`, `skill`, `items[]`, `stub`
-   - Each item: `id`, `label`, `type` (`choice` | `match`), `accept`, `choices` as `{ "A": "...", ... }`
+   - Each item: `id`, `label`, `type`, `accept` (see **[docs/item-fields.md](docs/item-fields.md)** for `choice`, `match`, `text`/`fill`, `tf`, `selfcheck`, photos, and RC passage pages).
    - LC Part II / Actual Test listening items may use letter-only choices (`"A": "A"`) and `audioOnly: true` (three options for Part II Bridge).
 4. `data/catalog.json` lists every practice card (titles, groups, subtitles/themes, `stub` flag).
 
@@ -57,7 +57,7 @@ Part II / Part IV theme subtitles follow the LearnWorlds day-split cheat sheet (
 
 ## Part I photos
 
-Part I picture assets are still **placeholders** (`assets/photos/<level>/p1-sNN/placeholder.svg`). Replace with real book photos (SVG/PNG/JPG) under the same folders; item `photo` fields reference filenames there when multi-photo sections are wired up.
+Part I uses `practice.pageImage` for the labeled `a`–`j` page, plus per-question `photo` crops under `assets/photos/<level>/p1-sNN/`. RC passages use `passagePage` / `passageImage` (see `docs/item-fields.md`). Drop PNG/JPG/SVG files in those paths — the UI renders them when present.
 
 ## Scores & sign-in
 
@@ -74,7 +74,7 @@ Part I picture assets are still **placeholders** (`assets/photos/<level>/p1-sNN/
 
 - LC and most RC: **A–D choice** (Part II LC: **A–C**)
 - Korean meaning: **match** or **dropdown** — never require Korean typing
-- English typing allowed where needed (`type: "text"`)
+- English typing: `text` / `fill` (+ optional `wordBank`), **true/false** (`tf`), **listen & repeat** (`selfcheck`), Warm-Up / instruction cards (`displayOnly`)
 
 ## License / data
 

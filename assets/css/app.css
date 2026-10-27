@@ -269,6 +269,10 @@ body {
   box-shadow: var(--shadow);
 }
 
+.photo-panel .q-photo img {
+  max-height: 420px;
+}
+
 .stepup-audio {
   width: 100%;
   max-height: 220px;
@@ -324,6 +328,97 @@ body {
 
 .q-prompt {
   margin: 0 0 0.65rem;
+}
+
+.q-passage {
+  margin: 0 0 0.65rem;
+  white-space: pre-wrap;
+  font-size: 0.95rem;
+  padding: 0.65rem 0.75rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.q-text-input {
+  display: block;
+  width: 100%;
+  max-width: 28rem;
+  padding: 0.55rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin-top: 0.35rem;
+}
+
+.q-text-input:focus {
+  outline: 2px solid var(--accent-soft);
+  border-color: var(--accent);
+}
+
+.q-word-bank {
+  margin: 0.5rem 0 0.65rem;
+}
+
+.q-word-bank__label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.35rem;
+}
+
+.q-word-bank__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.q-word-chip {
+  border: 1px solid var(--border);
+  background: #fff;
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.q-word-chip:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.q-card--display {
+  border-style: dashed;
+  border-color: var(--border);
+}
+
+.q-display-target,
+.q-selfcheck-target {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0.35rem 0 0.65rem;
+}
+
+.q-heard-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-top: 0.65rem;
+  font-size: 0.95rem;
+}
+
+.q-clip-audio {
+  margin: 0.5rem 0;
+}
+
+.stepup-audio--clip {
+  max-height: 120px;
+}
+
+.q-photo--page img {
+  max-height: 420px;
 }
 
 .q-choices {
