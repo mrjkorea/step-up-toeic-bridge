@@ -15,7 +15,7 @@
     "B": "regularly"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s03/page-092.jpg",
+   "photo": "intermediate/rc-p5-s03/page-092.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -28,7 +28,7 @@
     "B": "regularly"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s03/page-092.jpg",
+   "photo": "intermediate/rc-p5-s03/page-092.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -39,7 +39,7 @@
    "accept": [
     "keep A out of the reach of B"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q3",
    "label": "3"
@@ -50,7 +50,7 @@
    "accept": [
     "at home"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -61,7 +61,7 @@
    "accept": [
     "in an institute"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -72,7 +72,7 @@
    "accept": [
     "through computer"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -83,7 +83,7 @@
    "accept": [
     "instructions for use"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -94,7 +94,7 @@
    "accept": [
     "in quarters"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -105,7 +105,7 @@
    "accept": [
     "go up"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -116,7 +116,7 @@
    "accept": [
     "be required to"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
+   "photo": "intermediate/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -129,7 +129,7 @@
     "B": "By cleaning with a brush"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-094.jpg",
+   "passageImage": "intermediate/rc-p5-s03/page-094.png",
    "section": "Reading Practice 1",
    "id": "q11",
    "label": "11"
@@ -142,7 +142,7 @@
     "B": "You shouldn’t use the remote control in the bath"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-094.jpg",
+   "passageImage": "intermediate/rc-p5-s03/page-094.png",
    "section": "Reading Practice 1",
    "id": "q12",
    "label": "12"
@@ -155,7 +155,7 @@
     "B": "How to learn English"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-095.jpg",
+   "passageImage": "intermediate/rc-p5-s03/page-095.png",
    "section": "Reading Practice 2",
    "id": "q13",
    "label": "13"
@@ -168,7 +168,7 @@
     "B": "Less effectiveness, saving money"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s03/page-095.jpg",
+   "passageImage": "intermediate/rc-p5-s03/page-095.png",
    "section": "Reading Practice 2",
    "id": "q14",
    "label": "14"
@@ -189,7 +189,7 @@
    "passageHead": "Questions 1-2 refer to the following instructions.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-096.jpg"
+   "passageImage": "intermediate/rc-pages/page-096.png"
   },
   {
    "id": "q16",
@@ -207,7 +207,7 @@
    "passageHead": "Questions 1-2 refer to the following instructions.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-096.jpg"
+   "passageImage": "intermediate/rc-pages/page-096.png"
   },
   {
    "id": "q17",
@@ -225,7 +225,7 @@
    "passageHead": "Questions 3-4 refer to the following instructions.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-097.jpg"
+   "passageImage": "intermediate/rc-pages/page-097.png"
   },
   {
    "id": "q18",
@@ -243,14 +243,14 @@
    "passageHead": "Questions 3-4 refer to the following instructions.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-097.jpg"
+   "passageImage": "intermediate/rc-pages/page-097.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p5-s03/page-092.jpg",
-  "intermediate/rc-p5-s03/page-093.jpg",
-  "intermediate/rc-p5-s03/page-094.jpg",
-  "intermediate/rc-p5-s03/page-095.jpg"
+  "intermediate/rc-p5-s03/page-092.png",
+  "intermediate/rc-p5-s03/page-093.png",
+  "intermediate/rc-p5-s03/page-094.png",
+  "intermediate/rc-p5-s03/page-095.png"
  ]
 }

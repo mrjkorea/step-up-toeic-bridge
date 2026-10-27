@@ -116,7 +116,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q07.jpg",
+   "photo": "basic/at/q07.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -132,7 +132,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "A",
-   "photo": "basic/at/q08.jpg",
+   "photo": "basic/at/q08.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -148,7 +148,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q09.jpg",
+   "photo": "basic/at/q09.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -164,7 +164,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q10.jpg",
+   "photo": "basic/at/q10.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -180,7 +180,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q11.jpg",
+   "photo": "basic/at/q11.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -196,7 +196,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q12.jpg",
+   "photo": "basic/at/q12.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -212,7 +212,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
-   "photo": "basic/at/q13.jpg",
+   "photo": "basic/at/q13.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -228,7 +228,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
-   "photo": "basic/at/q14.jpg",
+   "photo": "basic/at/q14.png",
    "audioOnly": true,
    "part": "I"
   },
@@ -244,7 +244,7 @@
    },
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
-   "photo": "basic/at/q15.jpg",
+   "photo": "basic/at/q15.png",
    "audioOnly": true,
    "part": "I"
   },

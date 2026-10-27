@@ -16,7 +16,7 @@
     "C": "windsurfing"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "photo": "intermediate/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "windsurfing"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "photo": "intermediate/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,10 +44,34 @@
     "C": "windsurfing"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
+   "photo": "intermediate/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "intermediate/rc-p4-s08/page-067.png",
+   "photo": "intermediate/rc-p4-s08/page-067.png",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(d): Fill in both blanks (see the book page).",
+   "accept": [
+    "scuba diving / dangerous",
+    "scuba diving, dangerous",
+    "scuba diving dangerous"
+   ],
+   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "section": "Vocabulary Practice",
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -55,10 +79,10 @@
    "accept": [
     "knitting"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q4",
-   "label": "4"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -66,10 +90,10 @@
    "accept": [
     "elephant"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -77,10 +101,10 @@
    "accept": [
     "surf"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -88,10 +112,10 @@
    "accept": [
     "Internet surfing : Internet surfing"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -99,10 +123,10 @@
    "accept": [
     "scuba diving: scuba diving"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -110,10 +134,10 @@
    "accept": [
     "playing with pets"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -121,10 +145,10 @@
    "accept": [
     "waterskiing : water-skiing"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -132,10 +156,10 @@
    "accept": [
     "comic books"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -143,10 +167,10 @@
    "accept": [
     "exciting"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -154,14 +178,14 @@
    "accept": [
     "moving"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
+   "photo": "intermediate/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q15",
+   "label": "15"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "Speak",
@@ -173,8 +197,8 @@
    "accept": "B"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "skiing",
@@ -186,8 +210,8 @@
    "accept": "A"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "feel",
@@ -199,8 +223,8 @@
    "accept": "D"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "think",
@@ -214,10 +238,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s08/page-066.jpg",
-  "intermediate/rc-p4-s08/page-067.jpg",
-  "intermediate/rc-p4-s08/page-068.jpg",
-  "intermediate/rc-p4-s08/page-069.jpg",
-  "intermediate/rc-p4-s08/page-070.jpg"
+  "intermediate/rc-p4-s08/page-066.png",
+  "intermediate/rc-p4-s08/page-067.png",
+  "intermediate/rc-p4-s08/page-068.png",
+  "intermediate/rc-p4-s08/page-069.png",
+  "intermediate/rc-p4-s08/page-070.png"
  ]
 }

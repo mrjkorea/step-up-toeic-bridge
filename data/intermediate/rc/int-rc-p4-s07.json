@@ -16,7 +16,7 @@
     "C": "stiff"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s07/page-060.jpg",
+   "photo": "intermediate/rc-p4-s07/page-060.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "stiff"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s07/page-060.jpg",
+   "photo": "intermediate/rc-p4-s07/page-060.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,10 +44,21 @@
     "C": "stiff"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s07/page-060.jpg",
+   "photo": "intermediate/rc-p4-s07/page-060.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "intermediate/rc-p4-s07/page-061.png",
+   "photo": "intermediate/rc-p4-s07/page-061.png",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
   },
   {
    "type": "text",
@@ -55,10 +66,10 @@
    "accept": [
     "needle"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q4",
-   "label": "4"
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -66,10 +77,10 @@
    "accept": [
     "medicine"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -77,10 +88,10 @@
    "accept": [
     "overwork"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -88,10 +99,10 @@
    "accept": [
     "take"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -99,10 +110,10 @@
    "accept": [
     "lose one's temperature: XCH consciousness:"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -110,10 +121,10 @@
    "accept": [
     "come down with"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -121,10 +132,10 @@
    "accept": [
     "have an operation:"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -132,10 +143,10 @@
    "accept": [
     "toothache"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -143,10 +154,10 @@
    "accept": [
     "headache"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -154,14 +165,14 @@
    "accept": [
     "insomnia"
    ],
-   "photo": "intermediate/rc-p4-s07/page-064.jpg",
+   "photo": "intermediate/rc-p4-s07/page-064.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "toothache",
@@ -173,8 +184,8 @@
    "accept": "A"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "operation",
@@ -186,8 +197,8 @@
    "accept": "D"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "itching",
@@ -199,8 +210,8 @@
    "accept": "B"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "heart",
@@ -214,10 +225,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s07/page-060.jpg",
-  "intermediate/rc-p4-s07/page-061.jpg",
-  "intermediate/rc-p4-s07/page-062.jpg",
-  "intermediate/rc-p4-s07/page-063.jpg",
-  "intermediate/rc-p4-s07/page-064.jpg"
+  "intermediate/rc-p4-s07/page-060.png",
+  "intermediate/rc-p4-s07/page-061.png",
+  "intermediate/rc-p4-s07/page-062.png",
+  "intermediate/rc-p4-s07/page-063.png",
+  "intermediate/rc-p4-s07/page-064.png"
  ]
 }

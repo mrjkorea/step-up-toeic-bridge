@@ -15,7 +15,7 @@
     "B": "no longer"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s05/page-047.jpg",
+   "photo": "intermediate/rc-p4-s05/page-047.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -28,10 +28,93 @@
     "B": "no longer"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s05/page-047.jpg",
+   "photo": "intermediate/rc-p4-s05/page-047.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): Write the comparative and superlative forms (see the book page).",
+   "accept": [
+    "more - most / more - most",
+    "more most / more most",
+    "more, most / more, most"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): Write the comparative and superlative forms (see the book page).",
+   "accept": [
+    "better - best / better - best",
+    "better best / better best",
+    "better, best / better, best"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): Write the comparative and superlative forms (see the book page).",
+   "accept": [
+    "worse - worst / worse - worst",
+    "worse worst / worse worst",
+    "worse, worst / worse, worst"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(a): Tom runs faster than his friend, James. Translate into Korean. Not scored.",
+   "pageImage": "intermediate/rc-p4-s05/page-048.png",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(b): John is more famous than David. Translate into Korean. Not scored.",
+   "pageImage": "intermediate/rc-p4-s05/page-048.png",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(c): Alice's car is more expensive than Cathy's car. Translate into Korean. Not scored.",
+   "pageImage": "intermediate/rc-p4-s05/page-048.png",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(d): Rita is the most beautiful girl in her class. Translate into Korean. Not scored.",
+   "pageImage": "intermediate/rc-p4-s05/page-048.png",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -39,10 +122,10 @@
    "accept": [
     "longer longest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q3",
-   "label": "3"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -50,10 +133,10 @@
    "accept": [
     "nicer - nicest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -61,43 +144,49 @@
    "accept": [
     "bigger - biggest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
+   "prompt": "Warm-Up 1-(d): correct or complete it (see the book page).",
    "accept": [
-    "easier - easiest hottest hotter- f"
+    "easier - easiest",
+    "easier, easiest",
+    "easier easiest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-(e): type the answer (see the book page).",
+   "prompt": "Warm-Up 1-(e): correct or complete it (see the book page).",
    "accept": [
-    "more wonderful - most wonderful"
+    "more wonderful - most wonderful",
+    "more wonderful, most wonderful",
+    "more wonderful most wonderful"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "prompt": "Warm-Up 1-(f): write the comparative and superlative forms (see the book page).",
    "accept": [
-    "better"
+    "hotter - hottest",
+    "hotter, hottest",
+    "hotter hottest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -105,10 +194,10 @@
    "accept": [
     "as"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -116,10 +205,10 @@
    "accept": [
     "Which"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
+   "id": "q17",
+   "label": "17"
   },
   {
    "type": "text",
@@ -127,10 +216,10 @@
    "accept": [
     "colder"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
+   "id": "q18",
+   "label": "18"
   },
   {
    "type": "text",
@@ -138,10 +227,21 @@
    "accept": [
     "tallest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-048.jpg",
+   "photo": "intermediate/rc-p4-s05/page-048.png",
    "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): correct the wrong word (see the book page).",
+   "accept": [
+    "scientists"
+   ],
+   "photo": "intermediate/rc-p4-s05/page-050.png",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
   },
   {
    "type": "text",
@@ -149,10 +249,10 @@
    "accept": [
     "more expensive"
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q21",
+   "label": "21"
   },
   {
    "type": "text",
@@ -160,10 +260,10 @@
    "accept": [
     "the tallest"
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q22",
+   "label": "22"
   },
   {
    "type": "text",
@@ -171,10 +271,10 @@
    "accept": [
     "bigger"
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q15",
-   "label": "15"
+   "id": "q23",
+   "label": "23"
   },
   {
    "type": "text",
@@ -182,10 +282,10 @@
    "accept": [
     "smart"
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q16",
-   "label": "16"
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -193,10 +293,10 @@
    "accept": [
     "This program is the funniest on TV."
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -204,10 +304,10 @@
    "accept": [
     "He is the greatest teacher in our school."
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
+   "id": "q26",
+   "label": "26"
   },
   {
    "type": "text",
@@ -215,10 +315,10 @@
    "accept": [
     "It is the largest building in the city."
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -226,10 +326,10 @@
    "accept": [
     "Who is older, your mother or your father?"
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -237,25 +337,14 @@
    "accept": [
     "I can run as fast as a car."
    ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
+   "photo": "intermediate/rc-p4-s05/page-050.png",
    "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
+   "id": "q29",
+   "label": "29"
   },
   {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
-   "accept": [
-    "scientist - scientists"
-   ],
-   "photo": "intermediate/rc-p4-s05/page-050.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "id": "q23",
-   "label": "23",
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "play computer games",
@@ -267,8 +356,8 @@
    "accept": "D"
   },
   {
-   "id": "q24",
-   "label": "24",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "very",
@@ -280,8 +369,8 @@
    "accept": "B"
   },
   {
-   "id": "q25",
-   "label": "25",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "so",
@@ -293,8 +382,8 @@
    "accept": "C"
   },
   {
-   "id": "q26",
-   "label": "26",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "the good",
@@ -306,8 +395,8 @@
    "accept": "B"
   },
   {
-   "id": "q27",
-   "label": "27",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "no longer",
@@ -319,8 +408,8 @@
    "accept": "C"
   },
   {
-   "id": "q28",
-   "label": "28",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "big",
@@ -334,10 +423,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s05/page-047.jpg",
-  "intermediate/rc-p4-s05/page-048.jpg",
-  "intermediate/rc-p4-s05/page-049.jpg",
-  "intermediate/rc-p4-s05/page-050.jpg",
-  "intermediate/rc-p4-s05/page-051.jpg"
+  "intermediate/rc-p4-s05/page-047.png",
+  "intermediate/rc-p4-s05/page-048.png",
+  "intermediate/rc-p4-s05/page-049.png",
+  "intermediate/rc-p4-s05/page-050.png",
+  "intermediate/rc-p4-s05/page-051.png"
  ]
 }

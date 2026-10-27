@@ -17,7 +17,7 @@
     "D": "show"
    },
    "accept": "C",
-   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "photo": "basic/rc-p5-s05/page-104.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "show"
    },
    "accept": "B",
-   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "photo": "basic/rc-p5-s05/page-104.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "show"
    },
    "accept": "D",
-   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "photo": "basic/rc-p5-s05/page-104.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "show"
    },
    "accept": "A",
-   "photo": "basic/rc-p5-s05/page-104.jpg",
+   "photo": "basic/rc-p5-s05/page-104.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -73,7 +73,7 @@
    "accept": [
     "DC"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "Weather forecast"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "Number of item"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "Speech contest"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "Favorite subject"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "Jane's schedule"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "Number of students"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "Classroom board"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "Original price"
    ],
-   "photo": "basic/rc-p5-s05/page-105.jpg",
+   "photo": "basic/rc-p5-s05/page-105.png",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -174,7 +174,7 @@
     "B": "Restaurant manager"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s05/page-106.jpg",
+   "passageImage": "basic/rc-p5-s05/page-106.png",
    "section": "Reading Practice 1",
    "id": "q14",
    "label": "14"
@@ -187,7 +187,7 @@
     "B": "Coat"
    },
    "accept": "B",
-   "passageImage": "basic/rc-p5-s05/page-106.jpg",
+   "passageImage": "basic/rc-p5-s05/page-106.png",
    "section": "Reading Practice 1",
    "id": "q15",
    "label": "15"
@@ -200,7 +200,7 @@
     "B": "Favorite hobbies and number of subjects"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s05/page-107.jpg",
+   "passageImage": "basic/rc-p5-s05/page-107.png",
    "section": "Reading Practice 2",
    "id": "q16",
    "label": "16"
@@ -213,7 +213,7 @@
     "B": "31"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s05/page-107.jpg",
+   "passageImage": "basic/rc-p5-s05/page-107.png",
    "section": "Reading Practice 2",
    "id": "q17",
    "label": "17"
@@ -234,7 +234,7 @@
    "passageHead": "Questions 1-2 refer to the following table.",
    "passagePage": 108,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-108.jpg"
+   "passageImage": "basic/rc-pages/page-108.png"
   },
   {
    "id": "q19",
@@ -252,7 +252,7 @@
    "passageHead": "Questions 1-2 refer to the following table.",
    "passagePage": 108,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-108.jpg"
+   "passageImage": "basic/rc-pages/page-108.png"
   },
   {
    "id": "q20",
@@ -270,7 +270,7 @@
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-109.jpg"
+   "passageImage": "basic/rc-pages/page-109.png"
   },
   {
    "id": "q21",
@@ -288,14 +288,14 @@
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-109.jpg"
+   "passageImage": "basic/rc-pages/page-109.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p5-s05/page-104.jpg",
-  "basic/rc-p5-s05/page-105.jpg",
-  "basic/rc-p5-s05/page-106.jpg",
-  "basic/rc-p5-s05/page-107.jpg"
+  "basic/rc-p5-s05/page-104.png",
+  "basic/rc-p5-s05/page-105.png",
+  "basic/rc-p5-s05/page-106.png",
+  "basic/rc-p5-s05/page-107.png"
  ]
 }

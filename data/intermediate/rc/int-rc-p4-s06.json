@@ -16,7 +16,7 @@
     "C": "lawyer"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
+   "photo": "intermediate/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "lawyer"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
+   "photo": "intermediate/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,10 +44,21 @@
     "C": "lawyer"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
+   "photo": "intermediate/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "intermediate/rc-p4-s06/page-055.png",
+   "photo": "intermediate/rc-p4-s06/page-055.png",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
   },
   {
    "type": "text",
@@ -55,10 +66,10 @@
    "accept": [
     "farmer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q4",
-   "label": "4"
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -66,10 +77,10 @@
    "accept": [
     "painter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -77,21 +88,21 @@
    "accept": [
     "firefighter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "baseball - player baseball player"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(a): correct or complete it (see the book page).",
+   "accept": [
+    "baseball player"
+   ],
+   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "section": "Vocabulary Practice",
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -99,10 +110,10 @@
    "accept": [
     "police officer: police officer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -110,10 +121,10 @@
    "accept": [
     "hair dresser: hairdresser"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -121,10 +132,10 @@
    "accept": [
     "fire fighter: firefighter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -132,10 +143,10 @@
    "accept": [
     "player"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -143,10 +154,10 @@
    "accept": [
     "reporter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -154,10 +165,10 @@
    "accept": [
     "driver"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -165,10 +176,10 @@
    "accept": [
     "golfer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -176,10 +187,10 @@
    "accept": [
     "painter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -187,14 +198,14 @@
    "accept": [
     "singer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
+   "photo": "intermediate/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
+   "id": "q17",
+   "label": "17"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "a brush",
@@ -206,8 +217,8 @@
    "accept": "C"
   },
   {
-   "id": "q18",
-   "label": "18",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "sing",
@@ -219,8 +230,8 @@
    "accept": "B"
   },
   {
-   "id": "q19",
-   "label": "19",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "firefighter",
@@ -232,8 +243,8 @@
    "accept": "B"
   },
   {
-   "id": "q20",
-   "label": "20",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "report",
@@ -247,10 +258,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s06/page-054.jpg",
-  "intermediate/rc-p4-s06/page-055.jpg",
-  "intermediate/rc-p4-s06/page-056.jpg",
-  "intermediate/rc-p4-s06/page-057.jpg",
-  "intermediate/rc-p4-s06/page-058.jpg"
+  "intermediate/rc-p4-s06/page-054.png",
+  "intermediate/rc-p4-s06/page-055.png",
+  "intermediate/rc-p4-s06/page-056.png",
+  "intermediate/rc-p4-s06/page-057.png",
+  "intermediate/rc-p4-s06/page-058.png"
  ]
 }

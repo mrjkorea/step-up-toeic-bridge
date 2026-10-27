@@ -16,7 +16,7 @@
     "C": "skip the class"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
+   "photo": "advanced/rc-p4-s03/page-026.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "skip the class"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
+   "photo": "advanced/rc-p4-s03/page-026.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "skip the class"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
+   "photo": "advanced/rc-p4-s03/page-026.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -55,7 +55,7 @@
    "accept": [
     "are"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "is"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "This is"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "These are"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "lives"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "are"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "is"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -132,21 +132,87 @@
    "accept": [
     "wins"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
+   "prompt": "Warm-Up 3-(b): correct or complete it (see the book page).",
    "accept": [
-    "are is"
+    "is"
    ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
+   "photo": "advanced/rc-p4-s03/page-027.png",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Grammar Practice 1-(a): The rich are not always happy. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s03/page-030.png",
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Grammar Practice 1-(b): The deceased is said to have lived for his country. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s03/page-030.png",
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Grammar Practice 1-(c): One fifth of the class wants to take a trip to Hawaii. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s03/page-030.png",
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Grammar Practice 1-(d): My family is a large one. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s03/page-030.png",
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): correct the wrong word (see the book page).",
+   "accept": [
+    "makes"
+   ],
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(c): correct the wrong word (see the book page).",
+   "accept": [
+    "pay"
+   ],
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
   },
   {
    "type": "text",
@@ -154,10 +220,10 @@
    "accept": [
     "like"
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q19",
+   "label": "19"
   },
   {
    "type": "text",
@@ -165,10 +231,10 @@
    "accept": [
     "his"
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q20",
+   "label": "20"
   },
   {
    "type": "text",
@@ -176,10 +242,10 @@
    "accept": [
     "they"
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q15",
-   "label": "15"
+   "id": "q21",
+   "label": "21"
   },
   {
    "type": "text",
@@ -187,10 +253,10 @@
    "accept": [
     "this"
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q16",
-   "label": "16"
+   "id": "q22",
+   "label": "22"
   },
   {
    "type": "text",
@@ -198,10 +264,10 @@
    "accept": [
     "Both he and I are hungry."
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
+   "id": "q23",
+   "label": "23"
   },
   {
    "type": "text",
@@ -209,10 +275,10 @@
    "accept": [
     "Either he or she is impatient."
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -220,10 +286,10 @@
    "accept": [
     "Neither you or she can't buy it."
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -231,69 +297,47 @@
    "accept": [
     "I like"
    ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
+   "photo": "advanced/rc-p4-s03/page-030.png",
    "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
-   "accept": [
-    "will arrive - arrives belongs"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
-   "accept": [
-    "make - makes"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(a): type the answer (see the book page).",
-   "accept": [
-    "belong"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(c): type the answer (see the book page).",
-   "accept": [
-    "pays pay"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): type the answer (see the book page).",
-   "accept": [
-    "are is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
    "id": "q26",
-   "label": "26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): correct or complete it (see the book page).",
+   "accept": [
+    "arrives"
+   ],
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(a): correct or complete it (see the book page).",
+   "accept": [
+    "belongs"
+   ],
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(d): correct or complete it (see the book page).",
+   "accept": [
+    "is"
+   ],
+   "photo": "advanced/rc-p4-s03/page-030.png",
+   "section": "Grammar Practice",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "might go",
@@ -305,8 +349,8 @@
    "accept": "B"
   },
   {
-   "id": "q27",
-   "label": "27",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "gets",
@@ -318,8 +362,8 @@
    "accept": "C"
   },
   {
-   "id": "q28",
-   "label": "28",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "makes",
@@ -331,8 +375,8 @@
    "accept": "D"
   },
   {
-   "id": "q29",
-   "label": "29",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "One three",
@@ -344,8 +388,8 @@
    "accept": "C"
   },
   {
-   "id": "q30",
-   "label": "30",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "doesn't means",
@@ -357,8 +401,8 @@
    "accept": "C"
   },
   {
-   "id": "q31",
-   "label": "31",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "being",
@@ -372,11 +416,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s03/page-026.jpg",
-  "advanced/rc-p4-s03/page-027.jpg",
-  "advanced/rc-p4-s03/page-028.jpg",
-  "advanced/rc-p4-s03/page-029.jpg",
-  "advanced/rc-p4-s03/page-030.jpg",
-  "advanced/rc-p4-s03/page-031.jpg"
+  "advanced/rc-p4-s03/page-026.png",
+  "advanced/rc-p4-s03/page-027.png",
+  "advanced/rc-p4-s03/page-028.png",
+  "advanced/rc-p4-s03/page-029.png",
+  "advanced/rc-p4-s03/page-030.png",
+  "advanced/rc-p4-s03/page-031.png"
  ]
 }

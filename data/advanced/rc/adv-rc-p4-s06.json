@@ -17,7 +17,7 @@
     "D": "slippery"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
+   "photo": "advanced/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "slippery"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
+   "photo": "advanced/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "slippery"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
+   "photo": "advanced/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,21 @@
     "D": "slippery"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
+   "photo": "advanced/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -73,10 +84,10 @@
    "accept": [
     "perfume"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -84,10 +95,10 @@
    "accept": [
     "beer"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -95,21 +106,24 @@
    "accept": [
     "sight"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "touch - rock"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(a): correct or complete it (see the book page).",
+   "accept": [
+    "touch - rock",
+    "touch, rock",
+    "touch rock",
+    "touch / rock"
+   ],
+   "photo": "advanced/rc-p4-s06/page-055.png",
+   "section": "Vocabulary Practice",
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -117,10 +131,10 @@
    "accept": [
     "taste chocolate"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -128,10 +142,10 @@
    "accept": [
     "smell"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -139,10 +153,10 @@
    "accept": [
     "feel perfume excited"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -150,10 +164,10 @@
    "accept": [
     "It smells bad."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -161,10 +175,10 @@
    "accept": [
     "It feels cold."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -172,10 +186,10 @@
    "accept": [
     "It looks dirty."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -183,10 +197,10 @@
    "accept": [
     "It tastes bitter."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -194,14 +208,14 @@
    "accept": [
     "It sounds noisy."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.png",
    "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
+   "id": "q17",
+   "label": "17"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "notice",
@@ -213,8 +227,8 @@
    "accept": "A"
   },
   {
-   "id": "q18",
-   "label": "18",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "witness",
@@ -226,8 +240,8 @@
    "accept": "A"
   },
   {
-   "id": "q19",
-   "label": "19",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "green",
@@ -239,8 +253,8 @@
    "accept": "D"
   },
   {
-   "id": "q20",
-   "label": "20",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "clap",
@@ -254,10 +268,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s06/page-054.jpg",
-  "advanced/rc-p4-s06/page-055.jpg",
-  "advanced/rc-p4-s06/page-056.jpg",
-  "advanced/rc-p4-s06/page-057.jpg",
-  "advanced/rc-p4-s06/page-058.jpg"
+  "advanced/rc-p4-s06/page-054.png",
+  "advanced/rc-p4-s06/page-055.png",
+  "advanced/rc-p4-s06/page-056.png",
+  "advanced/rc-p4-s06/page-057.png",
+  "advanced/rc-p4-s06/page-058.png"
  ]
 }

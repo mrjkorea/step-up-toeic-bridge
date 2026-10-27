@@ -18,7 +18,7 @@
     "C": "sit"
    },
    "accept": "A",
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "C": "sit"
    },
    "accept": "C",
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -46,7 +46,7 @@
     "C": "sit"
    },
    "accept": "B",
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -58,7 +58,7 @@
     "zipper"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q4",
    "label": "4"
@@ -70,7 +70,7 @@
     "zebra"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q5",
    "label": "5"
@@ -82,7 +82,7 @@
     "zoo"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q6",
    "label": "6"
@@ -94,7 +94,7 @@
     "zone"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
     "page"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q8",
    "label": "8"
@@ -118,7 +118,7 @@
     "large"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q9",
    "label": "9"
@@ -130,7 +130,7 @@
     "village"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q10",
    "label": "10"
@@ -142,7 +142,7 @@
     "courage"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-051.jpg",
+   "photo": "basic/lc-p2-s02/page-051.png",
    "section": "Pronunciation",
    "id": "q11",
    "label": "11"
@@ -370,7 +370,7 @@
     "doing"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -382,7 +382,7 @@
     "cleaning"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -394,7 +394,7 @@
     "day"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -406,7 +406,7 @@
     "Sunday"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q29",
    "label": "29"
@@ -418,7 +418,7 @@
     "date"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q30",
    "label": "30"
@@ -430,7 +430,7 @@
     "October 2nd"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q31",
    "label": "31"
@@ -442,7 +442,7 @@
     "time"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q32",
    "label": "32"
@@ -454,7 +454,7 @@
     "9 o'clock"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s02/page-053.jpg",
+   "photo": "basic/lc-p2-s02/page-053.png",
    "section": "Listening Practice",
    "id": "q33",
    "label": "33"
@@ -588,9 +588,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p2-s02/page-051.jpg",
-  "basic/lc-p2-s02/page-052.jpg",
-  "basic/lc-p2-s02/page-053.jpg",
-  "basic/lc-p2-s02/page-054.jpg"
+  "basic/lc-p2-s02/page-051.png",
+  "basic/lc-p2-s02/page-052.png",
+  "basic/lc-p2-s02/page-053.png",
+  "basic/lc-p2-s02/page-054.png"
  ]
 }
