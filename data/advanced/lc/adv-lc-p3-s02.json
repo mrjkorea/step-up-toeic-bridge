@@ -1,65 +1,171 @@
 {
- "practiceId": "adv-lc-p3-s02",
- "title": "Part III · Section 02",
- "subtitle": "Conversations & talks",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p3-s02",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Finding jobs",
-    "B": "Eating dinner",
-    "C": "Starting a company",
-    "D": "Going back to school"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "A"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Whether the restaurant will be big enough for",
-    "B": "Whether their customers will like the restaurant",
-    "C": "Whether they should invite their customers to a party",
-    "D": "Whether the customers enjoyed the party"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "C"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Company share prices",
-    "B": "Company products",
-    "C": "Things they will discuss at the lecture",
-    "D": "Things they found interesting at the lecture"
-   },
-   "prompt": "What are the two people discussing?",
-   "accept": "D"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Her teachers",
-    "B": "Her gym class",
-    "C": "Her work schedule",
-    "D": "Her school friends"
-   },
-   "prompt": "What is the woman talking about?",
-   "accept": "D"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p3-s02",
+  "title": "Part III · Section 02",
+  "subtitle": "Conversations & talks",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p3-s02",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk a: Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk b: Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk c: Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "Finding jobs",
+        "B": "Eating dinner",
+        "C": "Starting a company",
+        "D": "Going back to school"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "Whether the restaurant will be big enough for",
+        "B": "Whether their customers will like the restaurant",
+        "C": "Whether they should invite their customers to a party",
+        "D": "Whether the customers enjoyed the party"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Company share prices",
+        "B": "Company products",
+        "C": "Things they will discuss at the lecture",
+        "D": "Things they found interesting at the lecture"
+      },
+      "prompt": "What are the two people discussing?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "Her teachers",
+        "B": "Her gym class",
+        "C": "Her work schedule",
+        "D": "Her school friends"
+      },
+      "prompt": "What is the woman talking about?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

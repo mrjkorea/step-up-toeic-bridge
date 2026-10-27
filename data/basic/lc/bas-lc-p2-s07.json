@@ -1,140 +1,398 @@
 {
- "practiceId": "bas-lc-p2-s07",
- "title": "Part II · Section 07",
- "subtitle": "Short answer",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p2-s07",
- "introEn": "Listen to each question and choose the best response (Short answer).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "No, I didn't.",
-    "B": "With the red sweater.",
-    "C": "Much better, thank you."
-   },
-   "prompt": "How does your neck feel?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "It was great.",
-    "B": "It starts soon.",
-    "C": "It cost ten dollars."
-   },
-   "prompt": "How was the show?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "No, I'm Greek.",
-    "B": "We had a lot of fun.",
-    "C": "South of California."
-   },
-   "prompt": "How was your trip to Mexico?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "No, I've only been there once.",
-    "B": "Once a week is good.",
-    "C": "Yes, please, with some ice."
-   },
-   "prompt": "How often should I water the cactus?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "Not bad, thanks, and you?",
-    "B": "I have my own key.",
-    "C": "A dollar a day."
-   },
-   "prompt": "How much is it to rent a locker?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, you really should.",
-    "B": "Ten should be enough.",
-    "C": "I printed my name on the bottom."
-   },
-   "prompt": "How many copies should I print?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "My father is old.",
-    "B": "I am ten years old.",
-    "C": "I am fine."
-   },
-   "prompt": "How old are you?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "I have three.",
-    "B": "I have a new pencil.",
-    "C": "It is cheap."
-   },
-   "prompt": "How many pencils do you have?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "It is $10.",
-    "B": "I'll take it.",
-    "C": "Not too many."
-   },
-   "prompt": "How much is it?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "bas-lc-p2-s07",
+  "title": "Part II · Section 07",
+  "subtitle": "Short answer",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p2-s07",
+  "introEn": "Listen to each question and choose the best response (Short answer).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "bomb",
+        "B": "comb",
+        "C": "knife"
+      },
+      "prompt": "Pronunciation Check-Up 2-(a): Choose the sound/word you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "bomb",
+        "B": "comb",
+        "C": "knife"
+      },
+      "prompt": "Pronunciation Check-Up 2-(b): Choose the sound/word you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "bomb",
+        "B": "comb",
+        "C": "knife"
+      },
+      "prompt": "Pronunciation Check-Up 2-(c): Choose the sound/word you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "many",
+        "C": "much",
+        "D": "often",
+        "E": "was"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "many",
+        "C": "much",
+        "D": "often",
+        "E": "was"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "many",
+        "C": "much",
+        "D": "often",
+        "E": "was"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "many",
+        "C": "much",
+        "D": "often",
+        "E": "was"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "many",
+        "C": "much",
+        "D": "often",
+        "E": "was"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "By bus.",
+        "B": "It is $5.",
+        "C": "It was good.",
+        "D": "Twice a week.",
+        "E": "Two."
+      },
+      "prompt": "Warm-Up 2-(a): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "By bus.",
+        "B": "It is $5.",
+        "C": "It was good.",
+        "D": "Twice a week.",
+        "E": "Two."
+      },
+      "prompt": "Warm-Up 2-(b): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "By bus.",
+        "B": "It is $5.",
+        "C": "It was good.",
+        "D": "Twice a week.",
+        "E": "Two."
+      },
+      "prompt": "Warm-Up 2-(c): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "By bus.",
+        "B": "It is $5.",
+        "C": "It was good.",
+        "D": "Twice a week.",
+        "E": "Two."
+      },
+      "prompt": "Warm-Up 2-(d): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "By bus.",
+        "B": "It is $5.",
+        "C": "It was good.",
+        "D": "Twice a week.",
+        "E": "Two."
+      },
+      "prompt": "Warm-Up 2-(e): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "My father is old.",
+        "B": "I am ten years old.",
+        "C": "I am fine."
+      },
+      "prompt": "How old are you?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "I have three.",
+        "B": "I have a new pencil.",
+        "C": "It is cheap."
+      },
+      "prompt": "How many pencils do you have?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "It is $10.",
+        "B": "I'll take it.",
+        "C": "Not too many."
+      },
+      "prompt": "How much is it?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "No, I didn't.",
+        "B": "With the red sweater.",
+        "C": "Much better, thank you."
+      },
+      "prompt": "How does your neck feel?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "It was great.",
+        "B": "It starts soon.",
+        "C": "It cost ten dollars."
+      },
+      "prompt": "How was the show?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "No, I'm Greek.",
+        "B": "We had a lot of fun.",
+        "C": "South of California."
+      },
+      "prompt": "How was your trip to Mexico?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "No, I've only been there once.",
+        "B": "Once a week is good.",
+        "C": "Yes, please, with some ice."
+      },
+      "prompt": "How often should I water the cactus?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "Not bad, thanks, and you?",
+        "B": "I have my own key.",
+        "C": "A dollar a day."
+      },
+      "prompt": "How much is it to rent a locker?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, you really should.",
+        "B": "Ten should be enough.",
+        "C": "I printed my name on the bottom."
+      },
+      "prompt": "How many copies should I print?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

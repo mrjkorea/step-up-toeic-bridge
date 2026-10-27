@@ -1,140 +1,276 @@
 {
- "practiceId": "adv-lc-p2-s06",
- "title": "Part II · Section 06",
- "subtitle": "Statements",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p2-s06",
- "introEn": "Listen to each question and choose the best response (Statements).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Thanks. I bought it last weekend.",
-    "B": "I thought the TV program was also interesting.",
-    "C": "I know. I really need a new TV."
-   },
-   "prompt": "Your new TV looks amazing.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I will.",
-    "B": "Yes, it is.",
-    "C": "I'll call the repairman."
-   },
-   "prompt": "The toner in the photocopier needs to be changed again.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, it is.",
-    "B": "I know, but it's so boring.",
-    "C": "It's tomorrow morning."
-   },
-   "prompt": "We really need to start studying for the exam.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, he did.",
-    "B": "At his desk.",
-    "C": "Yes, he is."
-   },
-   "prompt": "I wonder if Bill's working late again tonight.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "Sorry, I can't.",
-    "B": "For three hours.",
-    "C": "I hope so."
-   },
-   "prompt": "Perhaps the swimming pool will be open this weekend.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "I think it was about the new products.",
-    "B": "I think the meeting is at 3 p.m.",
-    "C": "I thought it was interesting."
-   },
-   "prompt": "I thought the meeting was boring.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Thanks. I bought it last weekend.",
-    "B": "I thought the TV program was also interesting.",
-    "C": "know. I really need a new TV."
-   },
-   "prompt": "Your new TV looks amazing.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "I sang a lot last night.",
-    "B": "The doctor told me to rest it.",
-    "C": "You'd better go as soon as possible."
-   },
-   "prompt": "I need to see a doctor about my sore throat.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I cleaned it today.",
-    "B": "I washed my clothes this morning.",
-    "C": "I need a new vehicle."
-   },
-   "prompt": "Your truck has never been this clean.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p2-s06",
+  "title": "Part II · Section 06",
+  "subtitle": "Statements",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p2-s06",
+  "introEn": "Listen to each question and choose the best response (Statements).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Let's go for a drink",
+        "B": "My exam yesterday",
+        "C": "my new computer will be delivered today",
+        "D": "My test results",
+        "E": "this weekend will be hot"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Let's go for a drink",
+        "B": "My exam yesterday",
+        "C": "my new computer will be delivered today",
+        "D": "My test results",
+        "E": "this weekend will be hot"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Let's go for a drink",
+        "B": "My exam yesterday",
+        "C": "my new computer will be delivered today",
+        "D": "My test results",
+        "E": "this weekend will be hot"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Let's go for a drink",
+        "B": "My exam yesterday",
+        "C": "my new computer will be delivered today",
+        "D": "My test results",
+        "E": "this weekend will be hot"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Let's go for a drink",
+        "B": "My exam yesterday",
+        "C": "my new computer will be delivered today",
+        "D": "My test results",
+        "E": "this weekend will be hot"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Thanks. I bought it last weekend.",
+        "B": "I thought the TV program was also interesting.",
+        "C": "know. I really need a new TV."
+      },
+      "prompt": "Your new TV looks amazing.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "I sang a lot last night.",
+        "B": "The doctor told me to rest it.",
+        "C": "You'd better go as soon as possible."
+      },
+      "prompt": "I need to see a doctor about my sore throat.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I cleaned it today.",
+        "B": "I washed my clothes this morning.",
+        "C": "I need a new vehicle."
+      },
+      "prompt": "Your truck has never been this clean.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "Thanks. I bought it last weekend.",
+        "B": "I thought the TV program was also interesting.",
+        "C": "I know. I really need a new TV."
+      },
+      "prompt": "Your new TV looks amazing.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I will.",
+        "B": "Yes, it is.",
+        "C": "I'll call the repairman."
+      },
+      "prompt": "The toner in the photocopier needs to be changed again.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it is.",
+        "B": "I know, but it's so boring.",
+        "C": "It's tomorrow morning."
+      },
+      "prompt": "We really need to start studying for the exam.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, he did.",
+        "B": "At his desk.",
+        "C": "Yes, he is."
+      },
+      "prompt": "I wonder if Bill's working late again tonight.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "Sorry, I can't.",
+        "B": "For three hours.",
+        "C": "I hope so."
+      },
+      "prompt": "Perhaps the swimming pool will be open this weekend.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "I think it was about the new products.",
+        "B": "I think the meeting is at 3 p.m.",
+        "C": "I thought it was interesting."
+      },
+      "prompt": "I thought the meeting was boring.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

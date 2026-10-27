@@ -1,65 +1,171 @@
 {
- "practiceId": "adv-lc-p3-s03",
- "title": "Part III · Section 03",
- "subtitle": "Conversations & talks",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p3-s03",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Go to the public library",
-    "B": "Ask the man for directions",
-    "C": "Ask another person for directions",
-    "D": "Leave the public library"
-   },
-   "prompt": "What is the woman going to do next?",
-   "accept": "C"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "He will ask the receptionist to call one.",
-    "B": "He will use a telephone to call one.",
-    "C": "He will call one from reception.",
-    "D": "He will go to look for one at 9 p.m."
-   },
-   "prompt": "What will the man do?",
-   "accept": "A"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Friday",
-    "B": "Saturday",
-    "C": "Sunday",
-    "D": "Monday"
-   },
-   "prompt": "When will the woman return?",
-   "accept": "D"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Go to the art gallery",
-    "B": "Vis it her grandmother",
-    "C": "Go to dinner",
-    "D": "Go on vacation"
-   },
-   "prompt": "What will the woman do on Tuesday?",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p3-s03",
+  "title": "Part III · Section 03",
+  "subtitle": "Conversations & talks",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p3-s03",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Give a message to Mr. Kelly",
+        "B": "Have a meeting with Mr. Kim",
+        "C": "Study for a test together"
+      },
+      "prompt": "Warm-Up talk a: Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Give a message to Mr. Kelly",
+        "B": "Have a meeting with Mr. Kim",
+        "C": "Study for a test together"
+      },
+      "prompt": "Warm-Up talk b: Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Give a message to Mr. Kelly",
+        "B": "Have a meeting with Mr. Kim",
+        "C": "Study for a test together"
+      },
+      "prompt": "Warm-Up talk c: Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Have a barbecue party",
+        "B": "Move to a different class",
+        "C": "Pick up some lunch",
+        "D": "Study in another country"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Have a barbecue party",
+        "B": "Move to a different class",
+        "C": "Pick up some lunch",
+        "D": "Study in another country"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Have a barbecue party",
+        "B": "Move to a different class",
+        "C": "Pick up some lunch",
+        "D": "Study in another country"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "Have a barbecue party",
+        "B": "Move to a different class",
+        "C": "Pick up some lunch",
+        "D": "Study in another country"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "Go to the public library",
+        "B": "Ask the man for directions",
+        "C": "Ask another person for directions",
+        "D": "Leave the public library"
+      },
+      "prompt": "What is the woman going to do next?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "He will ask the receptionist to call one.",
+        "B": "He will use a telephone to call one.",
+        "C": "He will call one from reception.",
+        "D": "He will go to look for one at 9 p.m."
+      },
+      "prompt": "What will the man do?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Friday",
+        "B": "Saturday",
+        "C": "Sunday",
+        "D": "Monday"
+      },
+      "prompt": "When will the woman return?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "Go to the art gallery",
+        "B": "Vis it her grandmother",
+        "C": "Go to dinner",
+        "D": "Go on vacation"
+      },
+      "prompt": "What will the woman do on Tuesday?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

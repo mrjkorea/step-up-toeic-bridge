@@ -34,7 +34,7 @@
   function loadCatalog() {
     if (catalog) return Promise.resolve(catalog);
     if (catalogPromise) return catalogPromise;
-    catalogPromise = fetch(root.stepupUrl("data/catalog.json"), { cache: "no-cache" })
+    catalogPromise = fetch(root.stepupUrl("data/catalog.json?v=2"), { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("catalog");
         return r.json();

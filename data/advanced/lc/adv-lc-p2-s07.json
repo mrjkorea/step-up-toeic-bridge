@@ -1,92 +1,276 @@
 {
- "practiceId": "adv-lc-p2-s07",
- "title": "Part II · Section 07",
- "subtitle": "Indirect Q",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p2-s07",
- "introEn": "Listen to each question and choose the best response (Indirect Q).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I missed it.",
-    "B": "No, I think it's busy these days.",
-    "C": "Yes, turn left and then keep walking straight."
-   },
-   "prompt": "Do you know where the bus station is? think it's busy these days.",
-   "accept": "C",
-   "audioOnly": true
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I was disappointed I didn't go.",
-    "B": "Yes, was very surprised.",
-    "C": "Yes, what happened?"
-   },
-   "prompt": "Have you heard what will happen in the office tomorrow?",
-   "accept": "B",
-   "audioOnly": true
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "I'm not sure of the reason.",
-    "B": "He says it was because of bad weather.",
-    "C": "Yes, the shipment is on time."
-   },
-   "prompt": "Does he know why the shipment is delayed?",
-   "accept": "B",
-   "audioOnly": true
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I made the order yesterday.",
-    "B": "No, I haven't heard anything.",
-    "C": "Yes, all deliveries are brought here."
-   },
-   "prompt": "Do you know why the order hasn't been delivered yet?",
-   "accept": "B",
-   "audioOnly": true
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "No, I'm busy this weekend.",
-    "B": "Yes, it's going to be on Saturday.",
-    "C": "Yes, it's on the new school field."
-   },
-   "prompt": "Do you know where the tournament is being held this weekend?",
-   "accept": "C",
-   "audioOnly": true
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "I think the move will take all day.",
-    "B": "I think I moved in the autumn because the weather was cooler.",
-    "C": "I think we'll do it next Thursday."
-   },
-   "prompt": "Have you decided when you're going to move yet?",
-   "accept": "C",
-   "audioOnly": true
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p2-s07",
+  "title": "Part II · Section 07",
+  "subtitle": "Indirect Q",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p2-s07",
+  "introEn": "Listen to each question and choose the best response (Indirect Q).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "when you're going to move yet",
+        "B": "where James went for winter vacation",
+        "C": "where the meeting's going to be held",
+        "D": "where you're going on vacation",
+        "E": "why Tommy was so upset in the meeting"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "when you're going to move yet",
+        "B": "where James went for winter vacation",
+        "C": "where the meeting's going to be held",
+        "D": "where you're going on vacation",
+        "E": "why Tommy was so upset in the meeting"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "when you're going to move yet",
+        "B": "where James went for winter vacation",
+        "C": "where the meeting's going to be held",
+        "D": "where you're going on vacation",
+        "E": "why Tommy was so upset in the meeting"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "when you're going to move yet",
+        "B": "where James went for winter vacation",
+        "C": "where the meeting's going to be held",
+        "D": "where you're going on vacation",
+        "E": "why Tommy was so upset in the meeting"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "when you're going to move yet",
+        "B": "where James went for winter vacation",
+        "C": "where the meeting's going to be held",
+        "D": "where you're going on vacation",
+        "E": "why Tommy was so upset in the meeting"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Check-Up 1: Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Check-Up 2: Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Check-Up 3: Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I missed it.",
+        "B": "No, I think it's busy these days.",
+        "C": "Yes, turn left and then keep walking straight."
+      },
+      "prompt": "Do you know where the bus station is? think it's busy these days.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I was disappointed I didn't go.",
+        "B": "Yes, was very surprised.",
+        "C": "Yes, what happened?"
+      },
+      "prompt": "Have you heard what will happen in the office tomorrow?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "I'm not sure of the reason.",
+        "B": "He says it was because of bad weather.",
+        "C": "Yes, the shipment is on time."
+      },
+      "prompt": "Does he know why the shipment is delayed?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I made the order yesterday.",
+        "B": "No, I haven't heard anything.",
+        "C": "Yes, all deliveries are brought here."
+      },
+      "prompt": "Do you know why the order hasn't been delivered yet?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "No, I'm busy this weekend.",
+        "B": "Yes, it's going to be on Saturday.",
+        "C": "Yes, it's on the new school field."
+      },
+      "prompt": "Do you know where the tournament is being held this weekend?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "I think the move will take all day.",
+        "B": "I think I moved in the autumn because the weather was cooler.",
+        "C": "I think we'll do it next Thursday."
+      },
+      "prompt": "Have you decided when you're going to move yet?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }
