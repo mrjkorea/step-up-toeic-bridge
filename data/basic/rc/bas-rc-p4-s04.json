@@ -19,7 +19,7 @@
     "F": "volleyball"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "F": "volleyball"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -53,7 +53,7 @@
     "F": "volleyball"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -70,7 +70,7 @@
     "F": "volleyball"
    },
    "accept": "F",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -87,7 +87,7 @@
     "F": "volleyball"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -104,7 +104,7 @@
     "F": "volleyball"
    },
    "accept": "E",
-   "photo": "basic/rc-p4-s04/page-036.png",
+   "photo": "basic/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q6",
    "label": "6"
@@ -115,7 +115,7 @@
    "accept": [
     "are"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -126,7 +126,7 @@
    "accept": [
     "was"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -137,7 +137,7 @@
    "accept": [
     "were"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -148,7 +148,7 @@
    "accept": [
     "studied"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -159,7 +159,7 @@
    "accept": [
     "enjoyed"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -170,7 +170,7 @@
    "accept": [
     "hoped"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -181,7 +181,7 @@
    "accept": [
     "is"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -192,7 +192,7 @@
    "accept": [
     "going"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -203,7 +203,7 @@
    "accept": [
     "were"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -214,7 +214,7 @@
    "accept": [
     "don't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
@@ -225,7 +225,7 @@
    "accept": [
     "doesn't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q17",
    "label": "17"
@@ -236,7 +236,7 @@
    "accept": [
     "didn't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.png",
+   "photo": "basic/rc-p4-s04/page-037.jpg",
    "section": "Warm-Up",
    "id": "q18",
    "label": "18"
@@ -247,7 +247,7 @@
    "accept": [
     "Jane bought shoes."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q19",
    "label": "19"
@@ -258,7 +258,7 @@
    "accept": [
     "Jane is buying shoes."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q20",
    "label": "20"
@@ -269,7 +269,7 @@
    "accept": [
     "Jane does not buy shoes."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q21",
    "label": "21"
@@ -279,8 +279,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Grammar Practice 3-trans: Translate (a)-(c) into Korean in your notebook (see the book page). Not scored.",
-   "pageImage": "basic/rc-p4-s04/page-040.png",
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "pageImage": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q22",
    "label": "22"
@@ -291,7 +291,7 @@
    "accept": [
     "quit"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q23",
    "label": "23"
@@ -302,7 +302,7 @@
    "accept": [
     "washes"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q24",
    "label": "24"
@@ -313,7 +313,7 @@
    "accept": [
     "He is writing a letter."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q25",
    "label": "25"
@@ -324,7 +324,7 @@
    "accept": [
     "She is watching TV."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q26",
    "label": "26"
@@ -335,7 +335,7 @@
    "accept": [
     "He kicks the ball."
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q27",
    "label": "27"
@@ -346,7 +346,7 @@
    "accept": [
     "sleep"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q28",
    "label": "28"
@@ -357,7 +357,7 @@
    "accept": [
     "was"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q29",
    "label": "29"
@@ -368,7 +368,7 @@
    "accept": [
     "taught"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q30",
    "label": "30"
@@ -379,7 +379,7 @@
    "accept": [
     "comed- came"
    ],
-   "photo": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q31",
    "label": "31"
@@ -465,11 +465,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s04/page-036.png",
-  "basic/rc-p4-s04/page-037.png",
-  "basic/rc-p4-s04/page-038.png",
-  "basic/rc-p4-s04/page-039.png",
-  "basic/rc-p4-s04/page-040.png",
-  "basic/rc-p4-s04/page-041.png"
+  "basic/rc-p4-s04/page-036.jpg",
+  "basic/rc-p4-s04/page-037.jpg",
+  "basic/rc-p4-s04/page-038.jpg",
+  "basic/rc-p4-s04/page-039.jpg",
+  "basic/rc-p4-s04/page-040.jpg",
+  "basic/rc-p4-s04/page-041.jpg"
  ]
 }

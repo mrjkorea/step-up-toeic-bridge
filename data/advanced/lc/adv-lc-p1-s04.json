@@ -20,7 +20,7 @@
     "E": "traffic light"
    },
    "accept": "C",
-   "photo": "advanced/p1-s04/page-028.png",
+   "photo": "advanced/p1-s04/page-028.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "E": "traffic light"
    },
    "accept": "B",
-   "photo": "advanced/p1-s04/page-028.png",
+   "photo": "advanced/p1-s04/page-028.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -52,7 +52,7 @@
     "E": "traffic light"
    },
    "accept": "A",
-   "photo": "advanced/p1-s04/page-028.png",
+   "photo": "advanced/p1-s04/page-028.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -68,7 +68,7 @@
     "E": "traffic light"
    },
    "accept": "D",
-   "photo": "advanced/p1-s04/page-028.png",
+   "photo": "advanced/p1-s04/page-028.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -84,7 +84,7 @@
     "E": "traffic light"
    },
    "accept": "E",
-   "photo": "advanced/p1-s04/page-028.png",
+   "photo": "advanced/p1-s04/page-028.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -103,7 +103,7 @@
    "accept": "A",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "advanced/p1-s04/page-029.png"
+   "photo": "advanced/p1-s04/page-029.jpg"
   },
   {
    "id": "q7",
@@ -119,7 +119,7 @@
    "accept": "C",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "advanced/p1-s04/page-029.png"
+   "photo": "advanced/p1-s04/page-029.jpg"
   },
   {
    "type": "choice",
@@ -136,7 +136,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q8",
    "label": "8"
@@ -156,7 +156,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q9",
    "label": "9"
@@ -176,7 +176,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q10",
    "label": "10"
@@ -196,7 +196,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q11",
    "label": "11"
@@ -216,7 +216,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -236,7 +236,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -256,7 +256,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -276,7 +276,7 @@
    },
    "accept": "H",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q15",
    "label": "15"
@@ -288,7 +288,7 @@
     "The man is using a hammer."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q16",
    "label": "16"
@@ -300,7 +300,7 @@
     "The man is painting the wood."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q17",
    "label": "17"
@@ -312,7 +312,7 @@
     "The man is lifting the wheelbarrow."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q18",
    "label": "18"
@@ -324,7 +324,7 @@
     "The man is digging with a shovel."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q19",
    "label": "19"
@@ -336,7 +336,7 @@
     "The man is sweeping the steps."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q20",
    "label": "20"
@@ -348,7 +348,7 @@
     "The trees have been cut down."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q21",
    "label": "21"
@@ -360,7 +360,7 @@
     "The traffic cones are next to the trees."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q22",
    "label": "22"
@@ -372,7 +372,7 @@
     "There is a fire hydrant next to the building."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-030.png",
+   "photo": "advanced/p1-s04/page-030.jpg",
    "section": "Listening Practice 1",
    "id": "q23",
    "label": "23"
@@ -394,7 +394,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q24",
    "label": "24"
@@ -416,7 +416,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q25",
    "label": "25"
@@ -438,7 +438,7 @@
    },
    "accept": "H",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q26",
    "label": "26"
@@ -460,7 +460,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q27",
    "label": "27"
@@ -482,7 +482,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q28",
    "label": "28"
@@ -504,7 +504,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q29",
    "label": "29"
@@ -526,7 +526,7 @@
    },
    "accept": "I",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q30",
    "label": "30"
@@ -548,7 +548,7 @@
    },
    "accept": "J",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q31",
    "label": "31"
@@ -570,7 +570,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q32",
    "label": "32"
@@ -592,7 +592,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q33",
    "label": "33"
@@ -604,7 +604,7 @@
     "The man is pouring the tea."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q34",
    "label": "34"
@@ -616,7 +616,7 @@
     "The glass is full of water."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q35",
    "label": "35"
@@ -628,7 +628,7 @@
     "The man is sweeping the floor."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q36",
    "label": "36"
@@ -640,7 +640,7 @@
     "Someone is playing the piano."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q37",
    "label": "37"
@@ -652,7 +652,7 @@
     "The woman is cutting the cake."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q38",
    "label": "38"
@@ -664,7 +664,7 @@
     "The woman is making a fruit salad."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q39",
    "label": "39"
@@ -676,7 +676,7 @@
     "Many bottles are on the shelf."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q40",
    "label": "40"
@@ -688,7 +688,7 @@
     "The dishes are piled up on the table."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q41",
    "label": "41"
@@ -700,7 +700,7 @@
     "The woman is washing the dishes."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q42",
    "label": "42"
@@ -712,7 +712,7 @@
     "The pans are hanging on the wall."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-031.png",
+   "photo": "advanced/p1-s04/page-031.jpg",
    "section": "Listening Practice 2",
    "id": "q43",
    "label": "43"
@@ -982,7 +982,7 @@
     "go up the steps"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-032.png",
+   "photo": "advanced/p1-s04/page-032.jpg",
    "section": "Check-Up (2)",
    "id": "q62",
    "label": "62"
@@ -994,7 +994,7 @@
     "take notes"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-032.png",
+   "photo": "advanced/p1-s04/page-032.jpg",
    "section": "Check-Up (2)",
    "id": "q63",
    "label": "63"
@@ -1006,7 +1006,7 @@
     "take a picture"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-032.png",
+   "photo": "advanced/p1-s04/page-032.jpg",
    "section": "Check-Up (2)",
    "id": "q64",
    "label": "64"
@@ -1018,7 +1018,7 @@
     "serve food"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-032.png",
+   "photo": "advanced/p1-s04/page-032.jpg",
    "section": "Check-Up (2)",
    "id": "q65",
    "label": "65"
@@ -1030,7 +1030,7 @@
     "get on the train"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s04/page-032.png",
+   "photo": "advanced/p1-s04/page-032.jpg",
    "section": "Check-Up (2)",
    "id": "q66",
    "label": "66"
@@ -1134,10 +1134,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/p1-s04/page-028.png",
-  "advanced/p1-s04/page-029.png",
-  "advanced/p1-s04/page-030.png",
-  "advanced/p1-s04/page-031.png",
-  "advanced/p1-s04/page-032.png"
+  "advanced/p1-s04/page-028.jpg",
+  "advanced/p1-s04/page-029.jpg",
+  "advanced/p1-s04/page-030.jpg",
+  "advanced/p1-s04/page-031.jpg",
+  "advanced/p1-s04/page-032.jpg"
  ]
 }

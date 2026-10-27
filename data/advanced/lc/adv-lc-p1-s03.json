@@ -20,7 +20,7 @@
     "E": "under construction"
    },
    "accept": "E",
-   "photo": "advanced/p1-s03/page-020.png",
+   "photo": "advanced/p1-s03/page-020.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "E": "under construction"
    },
    "accept": "D",
-   "photo": "advanced/p1-s03/page-020.png",
+   "photo": "advanced/p1-s03/page-020.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -52,7 +52,7 @@
     "E": "under construction"
    },
    "accept": "B",
-   "photo": "advanced/p1-s03/page-020.png",
+   "photo": "advanced/p1-s03/page-020.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -68,7 +68,7 @@
     "E": "under construction"
    },
    "accept": "C",
-   "photo": "advanced/p1-s03/page-020.png",
+   "photo": "advanced/p1-s03/page-020.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -84,7 +84,7 @@
     "E": "under construction"
    },
    "accept": "A",
-   "photo": "advanced/p1-s03/page-020.png",
+   "photo": "advanced/p1-s03/page-020.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -103,7 +103,7 @@
    "accept": "C",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "advanced/p1-s03/page-021.png"
+   "photo": "advanced/p1-s03/page-021.jpg"
   },
   {
    "id": "q7",
@@ -119,7 +119,7 @@
    "accept": "B",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "advanced/p1-s03/page-021.png"
+   "photo": "advanced/p1-s03/page-021.jpg"
   },
   {
    "type": "choice",
@@ -137,7 +137,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q8",
    "label": "8"
@@ -158,7 +158,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q9",
    "label": "9"
@@ -179,7 +179,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q10",
    "label": "10"
@@ -200,7 +200,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q11",
    "label": "11"
@@ -221,7 +221,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -242,7 +242,7 @@
    },
    "accept": "H",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -263,7 +263,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -284,7 +284,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q15",
    "label": "15"
@@ -305,7 +305,7 @@
    },
    "accept": "I",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q16",
    "label": "16"
@@ -317,7 +317,7 @@
     "The buses are waiting at the intersection."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q17",
    "label": "17"
@@ -329,7 +329,7 @@
     "The sidewalk is empty."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q18",
    "label": "18"
@@ -341,7 +341,7 @@
     "The cars are parked along the road."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q19",
    "label": "19"
@@ -353,7 +353,7 @@
     "The truck is parked in the parking lot."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q20",
    "label": "20"
@@ -365,7 +365,7 @@
     "The bicycle is leaning against the tree."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q21",
    "label": "21"
@@ -377,7 +377,7 @@
     "The motorcycles are parked in a row."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q22",
    "label": "22"
@@ -389,7 +389,7 @@
     "The taxis are waiting in a line."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q23",
    "label": "23"
@@ -401,7 +401,7 @@
     "The tow truck is towing the car."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q24",
    "label": "24"
@@ -413,7 +413,7 @@
     "The wood is piled on the ground."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-022.png",
+   "photo": "advanced/p1-s03/page-022.jpg",
    "section": "Listening Practice 1",
    "id": "q25",
    "label": "25"
@@ -432,7 +432,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q26",
    "label": "26"
@@ -451,7 +451,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q27",
    "label": "27"
@@ -470,7 +470,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q28",
    "label": "28"
@@ -489,7 +489,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q29",
    "label": "29"
@@ -508,7 +508,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q30",
    "label": "30"
@@ -527,7 +527,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q31",
    "label": "31"
@@ -546,7 +546,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q32",
    "label": "32"
@@ -558,7 +558,7 @@
     "The building is being painted."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q33",
    "label": "33"
@@ -570,7 +570,7 @@
     "The garbage container is full."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q34",
    "label": "34"
@@ -582,7 +582,7 @@
     "The building is under construction."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q35",
    "label": "35"
@@ -594,7 +594,7 @@
     "There is a ladder in front of the building."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q36",
    "label": "36"
@@ -606,7 +606,7 @@
     "There are some flowers on the balcony."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q37",
    "label": "37"
@@ -618,7 +618,7 @@
     "There is a sign on the balcony."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q38",
    "label": "38"
@@ -630,7 +630,7 @@
     "The bicycles are lying on the ground."
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-023.png",
+   "photo": "advanced/p1-s03/page-023.jpg",
    "section": "Listening Practice 2",
    "id": "q39",
    "label": "39"
@@ -900,7 +900,7 @@
     "descend"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-024.png",
+   "photo": "advanced/p1-s03/page-024.jpg",
    "section": "Check-Up (2)",
    "id": "q58",
    "label": "58"
@@ -912,7 +912,7 @@
     "give a presentation"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-024.png",
+   "photo": "advanced/p1-s03/page-024.jpg",
    "section": "Check-Up (2)",
    "id": "q59",
    "label": "59"
@@ -924,7 +924,7 @@
     "paddle the boat"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-024.png",
+   "photo": "advanced/p1-s03/page-024.jpg",
    "section": "Check-Up (2)",
    "id": "q60",
    "label": "60"
@@ -936,7 +936,7 @@
     "pet the animal"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-024.png",
+   "photo": "advanced/p1-s03/page-024.jpg",
    "section": "Check-Up (2)",
    "id": "q61",
    "label": "61"
@@ -948,7 +948,7 @@
     "make the food"
    ],
    "audioOnly": true,
-   "photo": "advanced/p1-s03/page-024.png",
+   "photo": "advanced/p1-s03/page-024.jpg",
    "section": "Check-Up (2)",
    "id": "q62",
    "label": "62"
@@ -1052,10 +1052,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/p1-s03/page-020.png",
-  "advanced/p1-s03/page-021.png",
-  "advanced/p1-s03/page-022.png",
-  "advanced/p1-s03/page-023.png",
-  "advanced/p1-s03/page-024.png"
+  "advanced/p1-s03/page-020.jpg",
+  "advanced/p1-s03/page-021.jpg",
+  "advanced/p1-s03/page-022.jpg",
+  "advanced/p1-s03/page-023.jpg",
+  "advanced/p1-s03/page-024.jpg"
  ]
 }

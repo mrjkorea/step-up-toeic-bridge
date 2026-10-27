@@ -17,7 +17,7 @@
     "B": "How many"
    },
    "accept": "A",
-   "photo": "basic/lc-p2-s07/page-081.png",
+   "photo": "basic/lc-p2-s07/page-081.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "B": "How many"
    },
    "accept": "B",
-   "photo": "basic/lc-p2-s07/page-081.png",
+   "photo": "basic/lc-p2-s07/page-081.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -339,7 +339,7 @@
     "math test"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q23",
    "label": "23"
@@ -351,7 +351,7 @@
     "difficult"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q24",
    "label": "24"
@@ -363,7 +363,7 @@
     "do you go"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -375,7 +375,7 @@
     "walk"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -387,7 +387,7 @@
     "many"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -399,7 +399,7 @@
     "five"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -411,7 +411,7 @@
     "much"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q29",
    "label": "29"
@@ -423,7 +423,7 @@
     "$1"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s07/page-083.png",
+   "photo": "basic/lc-p2-s07/page-083.jpg",
    "section": "Listening Practice",
    "id": "q30",
    "label": "30"
@@ -557,9 +557,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p2-s07/page-081.png",
-  "basic/lc-p2-s07/page-082.png",
-  "basic/lc-p2-s07/page-083.png",
-  "basic/lc-p2-s07/page-084.png"
+  "basic/lc-p2-s07/page-081.jpg",
+  "basic/lc-p2-s07/page-082.jpg",
+  "basic/lc-p2-s07/page-083.jpg",
+  "basic/lc-p2-s07/page-084.jpg"
  ]
 }

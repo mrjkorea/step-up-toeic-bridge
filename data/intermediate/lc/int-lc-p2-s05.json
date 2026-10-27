@@ -20,7 +20,7 @@
     "E": "quite"
    },
    "accept": "C",
-   "photo": "intermediate/lc-p2-s05/page-064.png",
+   "photo": "intermediate/lc-p2-s05/page-064.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "E": "quite"
    },
    "accept": "B",
-   "photo": "intermediate/lc-p2-s05/page-064.png",
+   "photo": "intermediate/lc-p2-s05/page-064.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -52,7 +52,7 @@
     "E": "quite"
    },
    "accept": "E",
-   "photo": "intermediate/lc-p2-s05/page-064.png",
+   "photo": "intermediate/lc-p2-s05/page-064.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -68,7 +68,7 @@
     "E": "quite"
    },
    "accept": "A",
-   "photo": "intermediate/lc-p2-s05/page-064.png",
+   "photo": "intermediate/lc-p2-s05/page-064.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -84,7 +84,7 @@
     "E": "quite"
    },
    "accept": "D",
-   "photo": "intermediate/lc-p2-s05/page-064.png",
+   "photo": "intermediate/lc-p2-s05/page-064.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -312,7 +312,7 @@
     "English"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q20",
    "label": "20"
@@ -324,7 +324,7 @@
     "Twice a week"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q21",
    "label": "21"
@@ -336,7 +336,7 @@
     "favorite movie star"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q22",
    "label": "22"
@@ -348,7 +348,7 @@
     "movie theater"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q23",
    "label": "23"
@@ -360,7 +360,7 @@
     "A friend of mine"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q24",
    "label": "24"
@@ -372,7 +372,7 @@
     "sandwiches"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -384,7 +384,7 @@
     "Take out"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -396,7 +396,7 @@
     "prefer"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s05/page-066.png",
+   "photo": "intermediate/lc-p2-s05/page-066.jpg",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -530,9 +530,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/lc-p2-s05/page-064.png",
-  "intermediate/lc-p2-s05/page-065.png",
-  "intermediate/lc-p2-s05/page-066.png",
-  "intermediate/lc-p2-s05/page-067.png"
+  "intermediate/lc-p2-s05/page-064.jpg",
+  "intermediate/lc-p2-s05/page-065.jpg",
+  "intermediate/lc-p2-s05/page-066.jpg",
+  "intermediate/lc-p2-s05/page-067.jpg"
  ]
 }

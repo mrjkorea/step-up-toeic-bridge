@@ -17,7 +17,7 @@
     "B": "math"
    },
    "accept": "A",
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "B": "math"
    },
    "accept": "B",
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -42,7 +42,7 @@
     "soon"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q3",
    "label": "3"
@@ -54,7 +54,7 @@
     "sea"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
     "six"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q5",
    "label": "5"
@@ -78,7 +78,7 @@
     "sister"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q6",
    "label": "6"
@@ -90,7 +90,7 @@
     "zoo"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q7",
    "label": "7"
@@ -102,7 +102,7 @@
     "zebra"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q8",
    "label": "8"
@@ -114,7 +114,7 @@
     "zipper"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q9",
    "label": "9"
@@ -126,7 +126,7 @@
     "zero"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-045.png",
+   "photo": "basic/lc-p2-s01/page-045.jpg",
    "section": "Pronunciation",
    "id": "q10",
    "label": "10"
@@ -354,7 +354,7 @@
     "Is your mother"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -366,7 +366,7 @@
     "she is"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -378,7 +378,7 @@
     "Can you"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -390,7 +390,7 @@
     "I can"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -402,7 +402,7 @@
     "Does your father"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q29",
    "label": "29"
@@ -414,7 +414,7 @@
     "he does"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q30",
    "label": "30"
@@ -426,7 +426,7 @@
     "Is there"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q31",
    "label": "31"
@@ -438,7 +438,7 @@
     "there is"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s01/page-047.png",
+   "photo": "basic/lc-p2-s01/page-047.jpg",
    "section": "Listening Practice",
    "id": "q32",
    "label": "32"
@@ -572,9 +572,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p2-s01/page-045.png",
-  "basic/lc-p2-s01/page-046.png",
-  "basic/lc-p2-s01/page-047.png",
-  "basic/lc-p2-s01/page-048.png"
+  "basic/lc-p2-s01/page-045.jpg",
+  "basic/lc-p2-s01/page-046.jpg",
+  "basic/lc-p2-s01/page-047.jpg",
+  "basic/lc-p2-s01/page-048.jpg"
  ]
 }

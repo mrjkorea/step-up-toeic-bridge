@@ -17,7 +17,7 @@
     "D": "slippery"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s06/page-054.png",
+   "photo": "advanced/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "slippery"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s06/page-054.png",
+   "photo": "advanced/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "slippery"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s06/page-054.png",
+   "photo": "advanced/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "slippery"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s06/page-054.png",
+   "photo": "advanced/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -72,8 +72,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s06/page-055.png",
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "pageImage": "advanced/rc-p4-s06/page-055.jpg",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "perfume"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "beer"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "sight"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
@@ -120,7 +120,7 @@
     "touch rock",
     "touch / rock"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q9",
    "label": "9"
@@ -131,7 +131,7 @@
    "accept": [
     "taste chocolate"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q10",
    "label": "10"
@@ -142,7 +142,7 @@
    "accept": [
     "smell"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q11",
    "label": "11"
@@ -153,7 +153,7 @@
    "accept": [
     "feel perfume excited"
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q12",
    "label": "12"
@@ -164,7 +164,7 @@
    "accept": [
     "It smells bad."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q13",
    "label": "13"
@@ -175,7 +175,7 @@
    "accept": [
     "It feels cold."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q14",
    "label": "14"
@@ -186,7 +186,7 @@
    "accept": [
     "It looks dirty."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q15",
    "label": "15"
@@ -197,7 +197,7 @@
    "accept": [
     "It tastes bitter."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q16",
    "label": "16"
@@ -208,7 +208,7 @@
    "accept": [
     "It sounds noisy."
    ],
-   "photo": "advanced/rc-p4-s06/page-055.png",
+   "photo": "advanced/rc-p4-s06/page-055.jpg",
    "section": "Vocabulary Practice",
    "id": "q17",
    "label": "17"
@@ -268,10 +268,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s06/page-054.png",
-  "advanced/rc-p4-s06/page-055.png",
-  "advanced/rc-p4-s06/page-056.png",
-  "advanced/rc-p4-s06/page-057.png",
-  "advanced/rc-p4-s06/page-058.png"
+  "advanced/rc-p4-s06/page-054.jpg",
+  "advanced/rc-p4-s06/page-055.jpg",
+  "advanced/rc-p4-s06/page-056.jpg",
+  "advanced/rc-p4-s06/page-057.jpg",
+  "advanced/rc-p4-s06/page-058.jpg"
  ]
 }

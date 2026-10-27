@@ -20,7 +20,7 @@
     "E": "walking"
    },
    "accept": "E",
-   "photo": "intermediate/p1-s02/page-012.png",
+   "photo": "intermediate/p1-s02/page-012.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "E": "walking"
    },
    "accept": "C",
-   "photo": "intermediate/p1-s02/page-012.png",
+   "photo": "intermediate/p1-s02/page-012.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -52,7 +52,7 @@
     "E": "walking"
    },
    "accept": "D",
-   "photo": "intermediate/p1-s02/page-012.png",
+   "photo": "intermediate/p1-s02/page-012.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -68,7 +68,7 @@
     "E": "walking"
    },
    "accept": "A",
-   "photo": "intermediate/p1-s02/page-012.png",
+   "photo": "intermediate/p1-s02/page-012.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -84,7 +84,7 @@
     "E": "walking"
    },
    "accept": "B",
-   "photo": "intermediate/p1-s02/page-012.png",
+   "photo": "intermediate/p1-s02/page-012.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -102,7 +102,7 @@
    "accept": "A",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "intermediate/p1-s02/page-013.png"
+   "photo": "intermediate/p1-s02/page-013.jpg"
   },
   {
    "id": "q7",
@@ -117,7 +117,7 @@
    "accept": "C",
    "audioOnly": true,
    "section": "Warm-Up",
-   "photo": "intermediate/p1-s02/page-013.png"
+   "photo": "intermediate/p1-s02/page-013.jpg"
   },
   {
    "type": "choice",
@@ -133,7 +133,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q8",
    "label": "8"
@@ -152,7 +152,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q9",
    "label": "9"
@@ -171,7 +171,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q10",
    "label": "10"
@@ -190,7 +190,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q11",
    "label": "11"
@@ -209,7 +209,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -228,7 +228,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -247,7 +247,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-014.png",
+   "photo": "intermediate/p1-s02/page-014.jpg",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -267,7 +267,7 @@
    },
    "accept": "A",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q15",
    "label": "15"
@@ -287,7 +287,7 @@
    },
    "accept": "E",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q16",
    "label": "16"
@@ -307,7 +307,7 @@
    },
    "accept": "D",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q17",
    "label": "17"
@@ -327,7 +327,7 @@
    },
    "accept": "C",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q18",
    "label": "18"
@@ -347,7 +347,7 @@
    },
    "accept": "F",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q19",
    "label": "19"
@@ -367,7 +367,7 @@
    },
    "accept": "H",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q20",
    "label": "20"
@@ -387,7 +387,7 @@
    },
    "accept": "B",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q21",
    "label": "21"
@@ -407,7 +407,7 @@
    },
    "accept": "G",
    "audioOnly": true,
-   "photo": "intermediate/p1-s02/page-015.png",
+   "photo": "intermediate/p1-s02/page-015.jpg",
    "section": "Listening Practice 2",
    "id": "q22",
    "label": "22"
@@ -775,10 +775,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/p1-s02/page-012.png",
-  "intermediate/p1-s02/page-013.png",
-  "intermediate/p1-s02/page-014.png",
-  "intermediate/p1-s02/page-015.png",
-  "intermediate/p1-s02/page-016.png"
+  "intermediate/p1-s02/page-012.jpg",
+  "intermediate/p1-s02/page-013.jpg",
+  "intermediate/p1-s02/page-014.jpg",
+  "intermediate/p1-s02/page-015.jpg",
+  "intermediate/p1-s02/page-016.jpg"
  ]
 }

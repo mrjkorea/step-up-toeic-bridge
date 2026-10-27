@@ -16,7 +16,7 @@
     "C": "lawyer"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s06/page-054.png",
+   "photo": "intermediate/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "lawyer"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s06/page-054.png",
+   "photo": "intermediate/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "lawyer"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s06/page-054.png",
+   "photo": "intermediate/rc-p4-s06/page-054.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -54,8 +54,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "intermediate/rc-p4-s06/page-055.png",
-   "photo": "intermediate/rc-p4-s06/page-055.png",
+   "pageImage": "intermediate/rc-p4-s06/page-055.jpg",
+   "photo": "intermediate/rc-p4-s06/page-055.jpg",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "farmer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "painter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "firefighter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "baseball player"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "police officer: police officer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "hair dresser: hairdresser"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q10",
    "label": "10"
@@ -132,7 +132,7 @@
    "accept": [
     "fire fighter: firefighter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q11",
    "label": "11"
@@ -143,7 +143,7 @@
    "accept": [
     "player"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q12",
    "label": "12"
@@ -154,7 +154,7 @@
    "accept": [
     "reporter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q13",
    "label": "13"
@@ -165,7 +165,7 @@
    "accept": [
     "driver"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q14",
    "label": "14"
@@ -176,7 +176,7 @@
    "accept": [
     "golfer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q15",
    "label": "15"
@@ -187,7 +187,7 @@
    "accept": [
     "painter"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q16",
    "label": "16"
@@ -198,7 +198,7 @@
    "accept": [
     "singer"
    ],
-   "photo": "intermediate/rc-p4-s06/page-058.png",
+   "photo": "intermediate/rc-p4-s06/page-058.jpg",
    "section": "Vocabulary Practice",
    "id": "q17",
    "label": "17"
@@ -258,10 +258,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s06/page-054.png",
-  "intermediate/rc-p4-s06/page-055.png",
-  "intermediate/rc-p4-s06/page-056.png",
-  "intermediate/rc-p4-s06/page-057.png",
-  "intermediate/rc-p4-s06/page-058.png"
+  "intermediate/rc-p4-s06/page-054.jpg",
+  "intermediate/rc-p4-s06/page-055.jpg",
+  "intermediate/rc-p4-s06/page-056.jpg",
+  "intermediate/rc-p4-s06/page-057.jpg",
+  "intermediate/rc-p4-s06/page-058.jpg"
  ]
 }

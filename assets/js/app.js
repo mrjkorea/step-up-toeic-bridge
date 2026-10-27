@@ -212,13 +212,36 @@
     });
   }
 
+  function normalizePhotoRef(ref) {
+    var s = String(ref).trim();
+    if (!s) return s;
+    var parts = s.split("/");
+    var base = parts[parts.length - 1];
+    if (/^page-.+\.png$/i.test(base)) {
+      parts[parts.length - 1] = base.replace(/\.png$/i, ".jpg");
+      return parts.join("/");
+    }
+    return s;
+  }
+
   function resolvePhotoUrl(ref) {
     if (!ref) return "";
-    var s = String(ref).trim();
+    var s = normalizePhotoRef(String(ref).trim());
     if (!s) return "";
     if (/^https?:\/\//i.test(s)) return s;
     if (s.indexOf("assets/") === 0) return root.stepupUrl(s);
     return root.stepupUrl("assets/photos/" + s);
+  }
+
+  function attachPhotoFallback(img, url) {
+    img.src = url;
+    img.onerror = function () {
+      if (img.dataset.swapped) return;
+      img.dataset.swapped = "1";
+      img.src = /\.png$/i.test(url)
+        ? url.replace(/\.png$/i, ".jpg")
+        : url.replace(/\.jpe?g$/i, ".png");
+    };
   }
 
   function passageImageRef(item, practice) {
@@ -250,8 +273,8 @@
     var photoWrap = el("div", "q-photo");
     var img = document.createElement("img");
     img.alt = altText || "Picture for this question";
-    img.src = url;
     img.loading = "lazy";
+    attachPhotoFallback(img, url);
     photoWrap.appendChild(img);
     card.appendChild(photoWrap);
   }

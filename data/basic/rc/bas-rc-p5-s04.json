@@ -17,7 +17,7 @@
     "D": "welcome"
    },
    "accept": "B",
-   "photo": "basic/rc-p5-s04/page-098.png",
+   "photo": "basic/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "welcome"
    },
    "accept": "C",
-   "photo": "basic/rc-p5-s04/page-098.png",
+   "photo": "basic/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "welcome"
    },
    "accept": "D",
-   "photo": "basic/rc-p5-s04/page-098.png",
+   "photo": "basic/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "welcome"
    },
    "accept": "A",
-   "photo": "basic/rc-p5-s04/page-098.png",
+   "photo": "basic/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -73,7 +73,7 @@
    "accept": [
     "On June 16"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "Welcome to our club"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "Have a party"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "Dear Vicky"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "ASAP"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "Next Sunday"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "Weekly meeting"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "Come and celebrate"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "Call me"
    ],
-   "photo": "basic/rc-p5-s04/page-099.png",
+   "photo": "basic/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -174,7 +174,7 @@
     "B": "To cancel a meeting"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s04/page-100.png",
+   "passageImage": "basic/rc-p5-s04/page-100.jpg",
    "section": "Reading Practice 1",
    "id": "q14",
    "label": "14"
@@ -187,7 +187,7 @@
     "B": "John"
    },
    "accept": "B",
-   "passageImage": "basic/rc-p5-s04/page-100.png",
+   "passageImage": "basic/rc-p5-s04/page-100.jpg",
    "section": "Reading Practice 1",
    "id": "q15",
    "label": "15"
@@ -200,7 +200,7 @@
     "B": "To give help"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s04/page-101.png",
+   "passageImage": "basic/rc-p5-s04/page-101.jpg",
    "section": "Reading Practice 2",
    "id": "q16",
    "label": "16"
@@ -213,7 +213,7 @@
     "B": "When he finishes with his homework"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s04/page-101.png",
+   "passageImage": "basic/rc-p5-s04/page-101.jpg",
    "section": "Reading Practice 2",
    "id": "q17",
    "label": "17"
@@ -234,7 +234,7 @@
    "passageHead": "Questions 1-2 refer to the following letter.",
    "passagePage": 102,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-102.png"
+   "passageImage": "basic/rc-pages/page-102.jpg"
   },
   {
    "id": "q19",
@@ -252,7 +252,7 @@
    "passageHead": "Questions 1-2 refer to the following letter.",
    "passagePage": 102,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-102.png"
+   "passageImage": "basic/rc-pages/page-102.jpg"
   },
   {
    "id": "q20",
@@ -270,7 +270,7 @@
    "passageHead": "Questions 3-4 refer to the following e-mail.",
    "passagePage": 103,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-103.png"
+   "passageImage": "basic/rc-pages/page-103.jpg"
   },
   {
    "id": "q21",
@@ -288,14 +288,14 @@
    "passageHead": "Questions 3-4 refer to the following e-mail.",
    "passagePage": 103,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-103.png"
+   "passageImage": "basic/rc-pages/page-103.jpg"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p5-s04/page-098.png",
-  "basic/rc-p5-s04/page-099.png",
-  "basic/rc-p5-s04/page-100.png",
-  "basic/rc-p5-s04/page-101.png"
+  "basic/rc-p5-s04/page-098.jpg",
+  "basic/rc-p5-s04/page-099.jpg",
+  "basic/rc-p5-s04/page-100.jpg",
+  "basic/rc-p5-s04/page-101.jpg"
  ]
 }

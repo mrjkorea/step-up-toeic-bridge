@@ -19,7 +19,7 @@
     "E": "senior citizens"
    },
    "accept": "B",
-   "photo": "advanced/lc-p3-s06/page-118.png",
+   "photo": "advanced/lc-p3-s06/page-118.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -35,7 +35,7 @@
     "E": "senior citizens"
    },
    "accept": "A",
-   "photo": "advanced/lc-p3-s06/page-118.png",
+   "photo": "advanced/lc-p3-s06/page-118.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -51,7 +51,7 @@
     "E": "senior citizens"
    },
    "accept": "E",
-   "photo": "advanced/lc-p3-s06/page-118.png",
+   "photo": "advanced/lc-p3-s06/page-118.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -67,7 +67,7 @@
     "E": "senior citizens"
    },
    "accept": "C",
-   "photo": "advanced/lc-p3-s06/page-118.png",
+   "photo": "advanced/lc-p3-s06/page-118.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -83,7 +83,7 @@
     "E": "senior citizens"
    },
    "accept": "D",
-   "photo": "advanced/lc-p3-s06/page-118.png",
+   "photo": "advanced/lc-p3-s06/page-118.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -171,7 +171,7 @@
     "All lessons in the library are canceled"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-120.png",
+   "photo": "advanced/lc-p3-s06/page-120.jpg",
    "section": "Listening Practice 1",
    "id": "q11",
    "label": "11"
@@ -183,7 +183,7 @@
     "The library will reopen sometime next week."
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-120.png",
+   "photo": "advanced/lc-p3-s06/page-120.jpg",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -195,7 +195,7 @@
     "All books must be returned in 7 days."
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-120.png",
+   "photo": "advanced/lc-p3-s06/page-120.jpg",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -207,7 +207,7 @@
     "Senior citizens"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-120.png",
+   "photo": "advanced/lc-p3-s06/page-120.jpg",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -253,7 +253,7 @@
     "The market will stay open late this week"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-121.png",
+   "photo": "advanced/lc-p3-s06/page-121.jpg",
    "section": "Listening Practice 2",
    "id": "q17",
    "label": "17"
@@ -265,7 +265,7 @@
     "Stores will return to their normal hours"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-121.png",
+   "photo": "advanced/lc-p3-s06/page-121.jpg",
    "section": "Listening Practice 2",
    "id": "q18",
    "label": "18"
@@ -277,7 +277,7 @@
     "Please make your way to the exit doors."
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-121.png",
+   "photo": "advanced/lc-p3-s06/page-121.jpg",
    "section": "Listening Practice 2",
    "id": "q19",
    "label": "19"
@@ -323,7 +323,7 @@
     "receive a free bookbag"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-122.png",
+   "photo": "advanced/lc-p3-s06/page-122.jpg",
    "section": "Listening Practice 3",
    "id": "q22",
    "label": "22"
@@ -335,7 +335,7 @@
     "Telephone operators are standing by"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-122.png",
+   "photo": "advanced/lc-p3-s06/page-122.jpg",
    "section": "Listening Practice 3",
    "id": "q23",
    "label": "23"
@@ -347,7 +347,7 @@
     "we're having a special on baby clothing"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-122.png",
+   "photo": "advanced/lc-p3-s06/page-122.jpg",
    "section": "Listening Practice 3",
    "id": "q24",
    "label": "24"
@@ -359,7 +359,7 @@
     "you'll receive a second one for free"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s06/page-122.png",
+   "photo": "advanced/lc-p3-s06/page-122.jpg",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -451,10 +451,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/lc-p3-s06/page-118.png",
-  "advanced/lc-p3-s06/page-119.png",
-  "advanced/lc-p3-s06/page-120.png",
-  "advanced/lc-p3-s06/page-121.png",
-  "advanced/lc-p3-s06/page-122.png"
+  "advanced/lc-p3-s06/page-118.jpg",
+  "advanced/lc-p3-s06/page-119.jpg",
+  "advanced/lc-p3-s06/page-120.jpg",
+  "advanced/lc-p3-s06/page-121.jpg",
+  "advanced/lc-p3-s06/page-122.jpg"
  ]
 }
