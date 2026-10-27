@@ -18,7 +18,7 @@
     "C": "leaving"
    },
    "accept": "A",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "C": "leaving"
    },
    "accept": "B",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -46,7 +46,7 @@
     "C": "leaving"
    },
    "accept": "C",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -58,7 +58,7 @@
     "three"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q4",
    "label": "4"
@@ -70,7 +70,7 @@
     "think"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q5",
    "label": "5"
@@ -82,7 +82,7 @@
     "thank"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q6",
    "label": "6"
@@ -94,7 +94,7 @@
     "this"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
     "that"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q8",
    "label": "8"
@@ -118,7 +118,7 @@
     "mother"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
+   "photo": "basic/lc-p2-s04/page-063.png",
    "section": "Pronunciation",
    "id": "q9",
    "label": "9"
@@ -346,7 +346,7 @@
     "When"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q24",
    "label": "24"
@@ -358,7 +358,7 @@
     "June 16th"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -370,7 +370,7 @@
     "When"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -382,7 +382,7 @@
     "Today"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -394,7 +394,7 @@
     "When does"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -406,7 +406,7 @@
     "6 p.m."
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q29",
    "label": "29"
@@ -418,7 +418,7 @@
     "When do you"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q30",
    "label": "30"
@@ -430,7 +430,7 @@
     "About"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
+   "photo": "basic/lc-p2-s04/page-065.png",
    "section": "Listening Practice",
    "id": "q31",
    "label": "31"
@@ -564,9 +564,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p2-s04/page-063.jpg",
-  "basic/lc-p2-s04/page-064.jpg",
-  "basic/lc-p2-s04/page-065.jpg",
-  "basic/lc-p2-s04/page-066.jpg"
+  "basic/lc-p2-s04/page-063.png",
+  "basic/lc-p2-s04/page-064.png",
+  "basic/lc-p2-s04/page-065.png",
+  "basic/lc-p2-s04/page-066.png"
  ]
 }

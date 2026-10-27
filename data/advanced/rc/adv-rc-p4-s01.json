@@ -17,7 +17,7 @@
     "D": "enjoy"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
+   "photo": "advanced/rc-p4-s01/page-006.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "enjoy"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
+   "photo": "advanced/rc-p4-s01/page-006.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "enjoy"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
+   "photo": "advanced/rc-p4-s01/page-006.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,310 @@
     "D": "enjoy"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
+   "photo": "advanced/rc-p4-s01/page-006.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 1-(a): We went to the station (see / to see) him off.",
+   "choices": {
+    "A": "see",
+    "B": "to see"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 1-(b): Thank you for (visiting / to visit) my Web site.",
+   "choices": {
+    "A": "visiting",
+    "B": "to visit"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 1-(c): He is used to (get / getting) up early.",
+   "choices": {
+    "A": "get",
+    "B": "getting"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 1-(d): She wants (meet / to meet) your teacher in person.",
+   "choices": {
+    "A": "meet",
+    "B": "to meet"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): I don't know ____. (see the book page)",
+   "accept": [
+    "what to wear"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): Do you know ____ the engine?",
+   "accept": [
+    "how to start"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): Please tell me ____ for Seoul.",
+   "accept": [
+    "when to leave"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(d): They will decide ____ next Friday.",
+   "accept": [
+    "where to meet"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 3-(a): I will let you (go / to go / going) if you want to.",
+   "choices": {
+    "A": "go",
+    "B": "to go",
+    "C": "going"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 3-(b): She expected me (do / to do / doing) a better job.",
+   "choices": {
+    "A": "do",
+    "B": "to do",
+    "C": "doing"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 3-(c): She made me (work / to work / working) all day long.",
+   "choices": {
+    "A": "work",
+    "B": "to work",
+    "C": "working"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "Warm-Up 3-(d): Thank you for (help / to help / helping) me with my work.",
+   "choices": {
+    "A": "help",
+    "B": "to help",
+    "C": "helping"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Warm-Up",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 1-(a): I like (play / playing) soccer with my friends every day.",
+   "choices": {
+    "A": "play",
+    "B": "playing"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 1-(b): I ask them (come / to come / coming) to the playground as soon as the class is over.",
+   "choices": {
+    "A": "come",
+    "B": "to come",
+    "C": "coming"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 1-(c): After (finish / to finish / finishing) the game, we go to the shower room.",
+   "choices": {
+    "A": "finish",
+    "B": "to finish",
+    "C": "finishing"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 1-(d): (take / to take / taking) showers.",
+   "choices": {
+    "A": "take",
+    "B": "to take",
+    "C": "taking"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 3: Choose the correct sentence.",
+   "choices": {
+    "A": "It is wise for you to say like that.",
+    "B": "He has finished do his homework.",
+    "C": "The doctor made her to stay at home for the time being.",
+    "D": "It is necessary for him to prepare for the test."
+   },
+   "accept": "D",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 4-(a): I have something to give you. Which use of the to-infinitive?",
+   "choices": {
+    "A": "noun use",
+    "B": "adjective use",
+    "C": "adverb use"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 4-(b): My wish is to become a president. Which use of the to-infinitive?",
+   "choices": {
+    "A": "noun use",
+    "B": "adjective use",
+    "C": "adverb use"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 4-(c): I will go to America to study English. Which use of the to-infinitive?",
+   "choices": {
+    "A": "noun use",
+    "B": "adjective use",
+    "C": "adverb use"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 4-(d): You must be very happy to see your father again. Which use of the to-infinitive?",
+   "choices": {
+    "A": "noun use",
+    "B": "adjective use",
+    "C": "adverb use"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(a): correct the wrong word (see the book page).",
+   "accept": [
+    "crying"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(d): correct the wrong word (see the book page).",
+   "accept": [
+    "reading"
+   ],
+   "photo": "advanced/rc-p4-s01/page-007.png",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -73,10 +373,10 @@
    "accept": [
     "To tell the truth"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -84,10 +384,10 @@
    "accept": [
     "Strange to say"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q29",
+   "label": "29"
   },
   {
    "type": "text",
@@ -95,10 +395,10 @@
    "accept": [
     "To make matters worse"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q30",
+   "label": "30"
   },
   {
    "type": "text",
@@ -106,21 +406,21 @@
    "accept": [
     "To speak strictly"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q31",
+   "label": "31"
   },
   {
    "type": "text",
-   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
+   "prompt": "Grammar Practice 3-(a): correct or complete it (see the book page).",
    "accept": [
-    "for - of"
+    "of"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q32",
+   "label": "32"
   },
   {
    "type": "text",
@@ -128,10 +428,10 @@
    "accept": [
     "do- doing"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q33",
+   "label": "33"
   },
   {
    "type": "text",
@@ -139,32 +439,21 @@
    "accept": [
     "to stay stay"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q34",
+   "label": "34"
   },
   {
    "type": "text",
-   "prompt": "Grammar Practice 5-(a): type the answer (see the book page).",
+   "prompt": "Grammar Practice 5-(b): correct or complete it (see the book page).",
    "accept": [
-    "cry crying"
+    "to return"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(b): type the answer (see the book page).",
-   "accept": [
-    "returning - to return"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q35",
+   "label": "35"
   },
   {
    "type": "text",
@@ -172,25 +461,14 @@
    "accept": [
     "to meet meeting"
    ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
+   "photo": "advanced/rc-p4-s01/page-007.png",
    "section": "Grammar Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q36",
+   "label": "36"
   },
   {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): type the answer (see the book page).",
-   "accept": [
-    "read - reading"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "id": "q16",
-   "label": "16",
+   "id": "q37",
+   "label": "37",
    "type": "choice",
    "choices": {
     "A": "clean",
@@ -202,8 +480,8 @@
    "accept": "B"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q38",
+   "label": "38",
    "type": "choice",
    "choices": {
     "A": "take",
@@ -215,8 +493,8 @@
    "accept": "C"
   },
   {
-   "id": "q18",
-   "label": "18",
+   "id": "q39",
+   "label": "39",
    "type": "choice",
    "choices": {
     "A": "make",
@@ -228,8 +506,8 @@
    "accept": "B"
   },
   {
-   "id": "q19",
-   "label": "19",
+   "id": "q40",
+   "label": "40",
    "type": "choice",
    "choices": {
     "A": "not buy",
@@ -241,8 +519,8 @@
    "accept": "B"
   },
   {
-   "id": "q20",
-   "label": "20",
+   "id": "q41",
+   "label": "41",
    "type": "choice",
    "choices": {
     "A": "Happy",
@@ -254,8 +532,8 @@
    "accept": "A"
   },
   {
-   "id": "q21",
-   "label": "21",
+   "id": "q42",
+   "label": "42",
    "type": "choice",
    "choices": {
     "A": "to",
@@ -269,11 +547,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s01/page-006.jpg",
-  "advanced/rc-p4-s01/page-007.jpg",
-  "advanced/rc-p4-s01/page-008.jpg",
-  "advanced/rc-p4-s01/page-009.jpg",
-  "advanced/rc-p4-s01/page-010.jpg",
-  "advanced/rc-p4-s01/page-011.jpg"
+  "advanced/rc-p4-s01/page-006.png",
+  "advanced/rc-p4-s01/page-007.png",
+  "advanced/rc-p4-s01/page-008.png",
+  "advanced/rc-p4-s01/page-009.png",
+  "advanced/rc-p4-s01/page-010.png",
+  "advanced/rc-p4-s01/page-011.png"
  ]
 }

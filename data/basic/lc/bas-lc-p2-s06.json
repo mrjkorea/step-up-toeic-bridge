@@ -18,7 +18,7 @@
     "C": "want"
    },
    "accept": "A",
-   "photo": "basic/lc-p2-s06/page-075.jpg",
+   "photo": "basic/lc-p2-s06/page-075.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "C": "want"
    },
    "accept": "B",
-   "photo": "basic/lc-p2-s06/page-075.jpg",
+   "photo": "basic/lc-p2-s06/page-075.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -46,7 +46,7 @@
     "C": "want"
    },
    "accept": "C",
-   "photo": "basic/lc-p2-s06/page-075.jpg",
+   "photo": "basic/lc-p2-s06/page-075.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -352,7 +352,7 @@
     "tired"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q24",
    "label": "24"
@@ -364,7 +364,7 @@
     "was up"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -376,7 +376,7 @@
     "happy"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -388,7 +388,7 @@
     "won"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -400,7 +400,7 @@
     "dirty"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -412,7 +412,7 @@
     "played"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q29",
    "label": "29"
@@ -424,7 +424,7 @@
     "at home"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q30",
    "label": "30"
@@ -436,7 +436,7 @@
     "sick"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p2-s06/page-077.jpg",
+   "photo": "basic/lc-p2-s06/page-077.png",
    "section": "Listening Practice",
    "id": "q31",
    "label": "31"
@@ -570,9 +570,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p2-s06/page-075.jpg",
-  "basic/lc-p2-s06/page-076.jpg",
-  "basic/lc-p2-s06/page-077.jpg",
-  "basic/lc-p2-s06/page-078.jpg"
+  "basic/lc-p2-s06/page-075.png",
+  "basic/lc-p2-s06/page-076.png",
+  "basic/lc-p2-s06/page-077.png",
+  "basic/lc-p2-s06/page-078.png"
  ]
 }

@@ -9,7 +9,7 @@
  "items": [
   {
    "id": "q1",
-   "label": "81",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "$225",
@@ -24,11 +24,11 @@
    "passageHead": "Questions 81-82 refer to the following advertisement.",
    "passagePage": 129,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-129.jpg"
+   "passageImage": "basic/rc-pages/page-129.png"
   },
   {
    "id": "q2",
-   "label": "82",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "A long time",
@@ -43,11 +43,11 @@
    "passageHead": "Questions 81-82 refer to the following advertisement.",
    "passagePage": 129,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-129.jpg"
+   "passageImage": "basic/rc-pages/page-129.png"
   },
   {
    "id": "q3",
-   "label": "83",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "People using the park",
@@ -62,11 +62,11 @@
    "passageHead": "Questions 83-84 refer to the following notice.",
    "passagePage": 130,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-130.jpg"
+   "passageImage": "basic/rc-pages/page-130.png"
   },
   {
    "id": "q4",
-   "label": "84",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "Because the park is old",
@@ -81,11 +81,11 @@
    "passageHead": "Questions 83-84 refer to the following notice.",
    "passagePage": 130,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-130.jpg"
+   "passageImage": "basic/rc-pages/page-130.png"
   },
   {
    "id": "q5",
-   "label": "85",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "Why computers are popular",
@@ -100,11 +100,11 @@
    "passageHead": "Questions 85-86 refer to the following graph.",
    "passagePage": 131,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-131.jpg"
+   "passageImage": "basic/rc-pages/page-131.png"
   },
   {
    "id": "q6",
-   "label": "86",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "January to March",
@@ -119,11 +119,11 @@
    "passageHead": "Questions 85-86 refer to the following graph.",
    "passagePage": 131,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-131.jpg"
+   "passageImage": "basic/rc-pages/page-131.png"
   },
   {
    "id": "q7",
-   "label": "87",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "There was a snowstorm.",
@@ -138,11 +138,11 @@
    "passageHead": "Questions 87-88 refer to the following notice.",
    "passagePage": 132,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-132.jpg"
+   "passageImage": "basic/rc-pages/page-132.png"
   },
   {
    "id": "q8",
-   "label": "88",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "On May 3rd",
@@ -157,11 +157,11 @@
    "passageHead": "Questions 87-88 refer to the following notice.",
    "passagePage": 132,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-132.jpg"
+   "passageImage": "basic/rc-pages/page-132.png"
   },
   {
    "id": "q9",
-   "label": "89",
+   "label": "9",
    "type": "choice",
    "choices": {
     "A": "To order some cola",
@@ -176,11 +176,11 @@
    "passageHead": "Questions 89-90 refer to the following letter.",
    "passagePage": 133,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-133.jpg"
+   "passageImage": "basic/rc-pages/page-133.png"
   },
   {
    "id": "q10",
-   "label": "90",
+   "label": "10",
    "type": "choice",
    "choices": {
     "A": "It is not flat.",
@@ -195,7 +195,7 @@
    "passageHead": "Questions 89-90 refer to the following letter.",
    "passagePage": 133,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-133.jpg"
+   "passageImage": "basic/rc-pages/page-133.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28"

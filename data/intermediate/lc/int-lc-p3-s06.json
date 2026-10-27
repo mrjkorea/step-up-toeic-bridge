@@ -17,7 +17,7 @@
     "C": "sold out"
    },
    "accept": "B",
-   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "photo": "intermediate/lc-p3-s06/page-124.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -31,7 +31,7 @@
     "C": "sold out"
    },
    "accept": "A",
-   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "photo": "intermediate/lc-p3-s06/page-124.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -45,7 +45,7 @@
     "C": "sold out"
    },
    "accept": "C",
-   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "photo": "intermediate/lc-p3-s06/page-124.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -169,7 +169,7 @@
     "as well as"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "photo": "intermediate/lc-p3-s06/page-126.png",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -181,7 +181,7 @@
     "interested in"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "photo": "intermediate/lc-p3-s06/page-126.png",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -193,7 +193,7 @@
     "on time"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "photo": "intermediate/lc-p3-s06/page-126.png",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -205,7 +205,7 @@
     "bring your uniform"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "photo": "intermediate/lc-p3-s06/page-126.png",
    "section": "Listening Practice 1",
    "id": "q15",
    "label": "15"
@@ -251,7 +251,7 @@
     "completely sold out"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "photo": "intermediate/lc-p3-s06/page-127.png",
    "section": "Listening Practice 2",
    "id": "q18",
    "label": "18"
@@ -263,7 +263,7 @@
     "on the stage"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "photo": "intermediate/lc-p3-s06/page-127.png",
    "section": "Listening Practice 2",
    "id": "q19",
    "label": "19"
@@ -275,7 +275,7 @@
     "Don't miss this chance."
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "photo": "intermediate/lc-p3-s06/page-127.png",
    "section": "Listening Practice 2",
    "id": "q20",
    "label": "20"
@@ -321,7 +321,7 @@
     "box office"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "photo": "intermediate/lc-p3-s06/page-128.png",
    "section": "Listening Practice 3",
    "id": "q23",
    "label": "23"
@@ -333,7 +333,7 @@
     "senior citizens"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "photo": "intermediate/lc-p3-s06/page-128.png",
    "section": "Listening Practice 3",
    "id": "q24",
    "label": "24"
@@ -345,7 +345,7 @@
     "isolated island"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "photo": "intermediate/lc-p3-s06/page-128.png",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -437,10 +437,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/lc-p3-s06/page-124.jpg",
-  "intermediate/lc-p3-s06/page-125.jpg",
-  "intermediate/lc-p3-s06/page-126.jpg",
-  "intermediate/lc-p3-s06/page-127.jpg",
-  "intermediate/lc-p3-s06/page-128.jpg"
+  "intermediate/lc-p3-s06/page-124.png",
+  "intermediate/lc-p3-s06/page-125.png",
+  "intermediate/lc-p3-s06/page-126.png",
+  "intermediate/lc-p3-s06/page-127.png",
+  "intermediate/lc-p3-s06/page-128.png"
  ]
 }

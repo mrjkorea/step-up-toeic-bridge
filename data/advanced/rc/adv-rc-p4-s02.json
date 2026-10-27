@@ -17,7 +17,7 @@
     "D": "satisfied with"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "photo": "advanced/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "satisfied with"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "photo": "advanced/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "satisfied with"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "photo": "advanced/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "satisfied with"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "photo": "advanced/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -73,7 +73,7 @@
    "accept": [
     "standing"
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "killed"
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "broken"
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "excited"
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "The letter was written by Tom."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "The bird will be saved by the man."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "The book has been read several times by him."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "The people are being served by the woman."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "My friends speak English in class."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -172,7 +172,7 @@
    "accept": [
     "He has supported her."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -183,7 +183,7 @@
    "accept": [
     "He announced the result."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -194,10 +194,51 @@
    "accept": [
     "They called me Mr. Kim."
    ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "photo": "advanced/rc-p4-s02/page-019.png",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 1: Choose the set of participles that fits blanks (a)-(d).",
+   "choices": {
+    "A": "(1) interesting - interested - surprising - surprised",
+    "B": "(2) interested - interesting - surprising - surprised",
+    "C": "(3) interesting - interested - surprised - surprising",
+    "D": "(4) interested - interesting - surprised - surprising"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s02/page-020.png",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 2: Choose the awkward sentence.",
+   "choices": {
+    "A": "I was very tired when you called me last night.",
+    "B": "The movie was really boring.",
+    "C": "Why don't we do something exciting?",
+    "D": "I am boring. I want to play computer games."
+   },
+   "accept": "D",
+   "photo": "advanced/rc-p4-s02/page-020.png",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-fix: Correct the wrong word in the awkward sentence.",
+   "accept": [
+    "bored"
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.png",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
   },
   {
    "type": "text",
@@ -205,10 +246,10 @@
    "accept": [
     "("
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
+   "id": "q20",
+   "label": "20"
   },
   {
    "type": "text",
@@ -216,10 +257,10 @@
    "accept": [
     "When walking on the street, I encountered him."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
+   "id": "q21",
+   "label": "21"
   },
   {
    "type": "text",
@@ -227,10 +268,10 @@
    "accept": [
     "Though feeling sleepy, I must not go to bed."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q22",
+   "label": "22"
   },
   {
    "type": "text",
@@ -238,10 +279,10 @@
    "accept": [
     "Doing the dishes, she sings pop songs."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
+   "id": "q23",
+   "label": "23"
   },
   {
    "type": "text",
@@ -249,10 +290,10 @@
    "accept": [
     "Made in Japan, it is expensive."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -260,10 +301,10 @@
    "accept": [
     "I was made to clean his office by my boss."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -271,10 +312,10 @@
    "accept": [
     "The wounded bird was taken care of by him."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
+   "id": "q26",
+   "label": "26"
   },
   {
    "type": "text",
@@ -282,10 +323,10 @@
    "accept": [
     "The sunrise was caught sight of by her."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -293,10 +334,10 @@
    "accept": [
     "My grandfather was seen to play"
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -304,10 +345,10 @@
    "accept": [
     "The radio was turned off by me."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
+   "id": "q29",
+   "label": "29"
   },
   {
    "type": "text",
@@ -315,10 +356,10 @@
    "accept": [
     "By whom was it made?"
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
+   "id": "q30",
+   "label": "30"
   },
   {
    "type": "text",
@@ -326,10 +367,10 @@
    "accept": [
     "The chairs are being repaired by the man."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
+   "id": "q31",
+   "label": "31"
   },
   {
    "type": "text",
@@ -337,14 +378,14 @@
    "accept": [
     "He was made to pick it up."
    ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "photo": "advanced/rc-p4-s02/page-020.png",
    "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
+   "id": "q32",
+   "label": "32"
   },
   {
-   "id": "q30",
-   "label": "30",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "drop",
@@ -356,8 +397,8 @@
    "accept": "B"
   },
   {
-   "id": "q31",
-   "label": "31",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "look",
@@ -369,8 +410,8 @@
    "accept": "B"
   },
   {
-   "id": "q32",
-   "label": "32",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "Judge",
@@ -382,8 +423,8 @@
    "accept": "B"
   },
   {
-   "id": "q33",
-   "label": "33",
+   "id": "q36",
+   "label": "36",
    "type": "choice",
    "choices": {
     "A": "enter",
@@ -395,8 +436,8 @@
    "accept": "B"
   },
   {
-   "id": "q34",
-   "label": "34",
+   "id": "q37",
+   "label": "37",
    "type": "choice",
    "choices": {
     "A": "sell",
@@ -408,8 +449,8 @@
    "accept": "C"
   },
   {
-   "id": "q35",
-   "label": "35",
+   "id": "q38",
+   "label": "38",
    "type": "choice",
    "choices": {
     "A": "fix",
@@ -423,11 +464,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s02/page-016.jpg",
-  "advanced/rc-p4-s02/page-017.jpg",
-  "advanced/rc-p4-s02/page-018.jpg",
-  "advanced/rc-p4-s02/page-019.jpg",
-  "advanced/rc-p4-s02/page-020.jpg",
-  "advanced/rc-p4-s02/page-021.jpg"
+  "advanced/rc-p4-s02/page-016.png",
+  "advanced/rc-p4-s02/page-017.png",
+  "advanced/rc-p4-s02/page-018.png",
+  "advanced/rc-p4-s02/page-019.png",
+  "advanced/rc-p4-s02/page-020.png",
+  "advanced/rc-p4-s02/page-021.png"
  ]
 }

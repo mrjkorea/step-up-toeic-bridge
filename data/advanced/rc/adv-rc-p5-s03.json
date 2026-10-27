@@ -8,15 +8,57 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "amount",
+    "B": "situation",
+    "C": "violence"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p5-s03/page-092.png",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "amount",
+    "B": "situation",
+    "C": "violence"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p5-s03/page-092.png",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "amount",
+    "B": "situation",
+    "C": "violence"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p5-s03/page-092.png",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
    "type": "text",
    "prompt": "Warm-Up 1-: type the answer (see the book page).",
    "accept": [
     "a loaf of bread"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q1",
-   "label": "1"
+   "id": "q4",
+   "label": "4"
   },
   {
    "type": "text",
@@ -24,10 +66,10 @@
    "accept": [
     "be prepared for A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q2",
-   "label": "2"
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -35,10 +77,10 @@
    "accept": [
     "relate to A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q3",
-   "label": "3"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -46,10 +88,10 @@
    "accept": [
     "in the solar system"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -57,10 +99,10 @@
    "accept": [
     "more and more"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -68,10 +110,10 @@
    "accept": [
     "become concerned about"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -79,10 +121,10 @@
    "accept": [
     "keep A awake"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -90,10 +132,10 @@
    "accept": [
     "on average"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -101,10 +143,10 @@
    "accept": [
     "be made of"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
+   "photo": "advanced/rc-p5-s03/page-093.png",
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "choice",
@@ -114,10 +156,10 @@
     "B": "It contains a lot of fat."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
+   "passageImage": "advanced/rc-p5-s03/page-094.png",
    "section": "Reading Practice 1",
-   "id": "q10",
-   "label": "10"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "choice",
@@ -127,10 +169,10 @@
     "B": "It keeps people awake."
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
+   "passageImage": "advanced/rc-p5-s03/page-094.png",
    "section": "Reading Practice 1",
-   "id": "q11",
-   "label": "11"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "choice",
@@ -140,10 +182,10 @@
     "B": "Advanced Algebra"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
+   "passageImage": "advanced/rc-p5-s03/page-095.png",
    "section": "Reading Practice 2",
-   "id": "q12",
-   "label": "12"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "choice",
@@ -153,14 +195,14 @@
     "B": "It requires students to use a computer."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
+   "passageImage": "advanced/rc-p5-s03/page-095.png",
    "section": "Reading Practice 2",
-   "id": "q13",
-   "label": "13"
+   "id": "q16",
+   "label": "16"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "Its air contains oxygen.",
@@ -174,11 +216,11 @@
    "passageHead": "Questions 1-2 refer to the following article.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.jpg"
+   "passageImage": "advanced/rc-pages/page-096.png"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "It may once have had life.",
@@ -192,11 +234,11 @@
    "passageHead": "Questions 1-2 refer to the following article.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.jpg"
+   "passageImage": "advanced/rc-pages/page-096.png"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "To let children watch more television",
@@ -210,11 +252,11 @@
    "passageHead": "Questions 3-4 refer to the following article.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.jpg"
+   "passageImage": "advanced/rc-pages/page-097.png"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "Educational programs",
@@ -228,14 +270,14 @@
    "passageHead": "Questions 3-4 refer to the following article.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.jpg"
+   "passageImage": "advanced/rc-pages/page-097.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p5-s03/page-092.jpg",
-  "advanced/rc-p5-s03/page-093.jpg",
-  "advanced/rc-p5-s03/page-094.jpg",
-  "advanced/rc-p5-s03/page-095.jpg"
+  "advanced/rc-p5-s03/page-092.png",
+  "advanced/rc-p5-s03/page-093.png",
+  "advanced/rc-p5-s03/page-094.png",
+  "advanced/rc-p5-s03/page-095.png"
  ]
 }

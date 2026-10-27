@@ -16,7 +16,7 @@
     "C": "inform"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "photo": "advanced/rc-p5-s04/page-098.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "inform"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "photo": "advanced/rc-p5-s04/page-098.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "inform"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
+   "photo": "advanced/rc-p5-s04/page-098.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -55,7 +55,7 @@
    "accept": [
     "would like A to B"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "I"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "next time bet"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "would like to"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "apply for"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "ask for"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "enclosed résumé"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -132,7 +132,7 @@
    "accept": [
     "advertised in the newspaper"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
+   "photo": "advanced/rc-p5-s04/page-099.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -145,7 +145,7 @@
     "B": "To ask if he can visit them"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
+   "passageImage": "advanced/rc-p5-s04/page-100.png",
    "section": "Reading Practice 1",
    "id": "q12",
    "label": "12"
@@ -158,7 +158,7 @@
     "B": "He has met a famous basketball player."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
+   "passageImage": "advanced/rc-p5-s04/page-100.png",
    "section": "Reading Practice 1",
    "id": "q13",
    "label": "13"
@@ -171,7 +171,7 @@
     "B": "Mr. Ben"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
+   "passageImage": "advanced/rc-p5-s04/page-101.png",
    "section": "Reading Practice 2",
    "id": "q14",
    "label": "14"
@@ -184,7 +184,7 @@
     "B": "$1,000 plus expenses"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
+   "passageImage": "advanced/rc-p5-s04/page-101.png",
    "section": "Reading Practice 2",
    "id": "q15",
    "label": "15"
@@ -205,7 +205,7 @@
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-102.jpg"
+   "passageImage": "advanced/rc-pages/page-102.png"
   },
   {
    "id": "q17",
@@ -223,7 +223,7 @@
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-102.jpg"
+   "passageImage": "advanced/rc-pages/page-102.png"
   },
   {
    "id": "q18",
@@ -241,7 +241,7 @@
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-103.jpg"
+   "passageImage": "advanced/rc-pages/page-103.png"
   },
   {
    "id": "q19",
@@ -259,14 +259,14 @@
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-103.jpg"
+   "passageImage": "advanced/rc-pages/page-103.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p5-s04/page-098.jpg",
-  "advanced/rc-p5-s04/page-099.jpg",
-  "advanced/rc-p5-s04/page-100.jpg",
-  "advanced/rc-p5-s04/page-101.jpg"
+  "advanced/rc-p5-s04/page-098.png",
+  "advanced/rc-p5-s04/page-099.png",
+  "advanced/rc-p5-s04/page-100.png",
+  "advanced/rc-p5-s04/page-101.png"
  ]
 }

@@ -15,12 +15,13 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
-   "accept": "F",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "accept": "G",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,12 +33,13 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
    "accept": "A",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -49,12 +51,13 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
    "accept": "B",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -66,15 +69,34 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
    "accept": "C",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "available",
+    "B": "cloudy",
+    "C": "famous",
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
+   },
+   "accept": "D",
+   "photo": "advanced/lc-p3-s05/page-109.png",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "choice",
@@ -83,15 +105,16 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
-   "accept": "E",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "accept": "F",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "choice",
@@ -100,15 +123,16 @@
     "A": "available",
     "B": "cloudy",
     "C": "famous",
-    "D": "Move the car",
-    "E": "On a bus",
-    "F": "present"
+    "D": "illegal",
+    "E": "Move the car",
+    "F": "On a bus",
+    "G": "present"
    },
-   "accept": "D",
-   "photo": "advanced/lc-p3-s05/page-109.jpg",
+   "accept": "E",
+   "photo": "advanced/lc-p3-s05/page-109.png",
    "section": "Words and Idioms Check-Up",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -118,8 +142,8 @@
    ],
    "audioOnly": true,
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -129,8 +153,8 @@
    ],
    "audioOnly": true,
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -140,12 +164,12 @@
    ],
    "audioOnly": true,
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
-   "id": "q10",
-   "label": "10",
+   "id": "q11",
+   "label": "11",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -161,8 +185,8 @@
    "section": "Listening Practice 1"
   },
   {
-   "id": "q11",
-   "label": "11",
+   "id": "q12",
+   "label": "12",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -184,10 +208,10 @@
     "has been delayed for 25 minutes"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "photo": "advanced/lc-p3-s05/page-112.png",
    "section": "Listening Practice 1",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -196,10 +220,10 @@
     "sorry for any inconvenience"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "photo": "advanced/lc-p3-s05/page-112.png",
    "section": "Listening Practice 1",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -208,10 +232,10 @@
     "We'll be stopping over in Chicago"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "photo": "advanced/lc-p3-s05/page-112.png",
    "section": "Listening Practice 1",
-   "id": "q14",
-   "label": "14"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -220,14 +244,14 @@
     "The present time is 11:45."
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-112.jpg",
+   "photo": "advanced/lc-p3-s05/page-112.png",
    "section": "Listening Practice 1",
-   "id": "q15",
-   "label": "15"
+   "id": "q16",
+   "label": "16"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -243,8 +267,8 @@
    "section": "Listening Practice 2"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -266,10 +290,10 @@
     "present their tickets to the conductor"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "photo": "advanced/lc-p3-s05/page-113.png",
    "section": "Listening Practice 2",
-   "id": "q18",
-   "label": "18"
+   "id": "q19",
+   "label": "19"
   },
   {
    "type": "text",
@@ -278,10 +302,10 @@
     "should proceed to Track 9"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "photo": "advanced/lc-p3-s05/page-113.png",
    "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
+   "id": "q20",
+   "label": "20"
   },
   {
    "type": "text",
@@ -290,14 +314,14 @@
     "smoking is not allowed on the train"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-113.jpg",
+   "photo": "advanced/lc-p3-s05/page-113.png",
    "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
+   "id": "q21",
+   "label": "21"
   },
   {
-   "id": "q21",
-   "label": "21",
+   "id": "q22",
+   "label": "22",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -313,8 +337,8 @@
    "section": "Listening Practice 3"
   },
   {
-   "id": "q22",
-   "label": "22",
+   "id": "q23",
+   "label": "23",
    "type": "choice",
    "choices": {
     "A": "At 3:45",
@@ -336,10 +360,10 @@
     "is restricted to resident's vehicles"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "photo": "advanced/lc-p3-s05/page-114.png",
    "section": "Listening Practice 3",
-   "id": "q23",
-   "label": "23"
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -348,10 +372,10 @@
     "Failure to do so"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "photo": "advanced/lc-p3-s05/page-114.png",
    "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -360,10 +384,10 @@
     "This is the announcement for the owner"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "photo": "advanced/lc-p3-s05/page-114.png",
    "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
+   "id": "q26",
+   "label": "26"
   },
   {
    "type": "text",
@@ -372,14 +396,14 @@
     "in a restricted area"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s05/page-114.jpg",
+   "photo": "advanced/lc-p3-s05/page-114.png",
    "section": "Listening Practice 3",
-   "id": "q26",
-   "label": "26"
+   "id": "q27",
+   "label": "27"
   },
   {
-   "id": "q27",
-   "label": "27",
+   "id": "q28",
+   "label": "28",
    "type": "choice",
    "choices": {
     "A": "On an airplane",
@@ -392,8 +416,8 @@
    "section": "Test Your Skills"
   },
   {
-   "id": "q28",
-   "label": "28",
+   "id": "q29",
+   "label": "29",
    "type": "choice",
    "choices": {
     "A": "In a bus station",
@@ -406,8 +430,8 @@
    "section": "Test Your Skills"
   },
   {
-   "id": "q29",
-   "label": "29",
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "On an airplane",
@@ -420,8 +444,8 @@
    "section": "Test Your Skills"
   },
   {
-   "id": "q30",
-   "label": "30",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "Some baggage is not allowed on the plane.",
@@ -434,8 +458,8 @@
    "section": "Test Your Skills"
   },
   {
-   "id": "q31",
-   "label": "31",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "The train from Southport is arriving now.",
@@ -448,8 +472,8 @@
    "section": "Test Your Skills"
   },
   {
-   "id": "q32",
-   "label": "32",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "The car will not start.",
@@ -464,11 +488,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/lc-p3-s05/page-109.jpg",
-  "advanced/lc-p3-s05/page-110.jpg",
-  "advanced/lc-p3-s05/page-111.jpg",
-  "advanced/lc-p3-s05/page-112.jpg",
-  "advanced/lc-p3-s05/page-113.jpg",
-  "advanced/lc-p3-s05/page-114.jpg"
+  "advanced/lc-p3-s05/page-109.png",
+  "advanced/lc-p3-s05/page-110.png",
+  "advanced/lc-p3-s05/page-111.png",
+  "advanced/lc-p3-s05/page-112.png",
+  "advanced/lc-p3-s05/page-113.png",
+  "advanced/lc-p3-s05/page-114.png"
  ]
 }

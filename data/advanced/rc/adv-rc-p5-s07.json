@@ -16,7 +16,7 @@
     "C": "process"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "photo": "advanced/rc-p5-s07/page-116.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "process"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "photo": "advanced/rc-p5-s07/page-116.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "process"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s07/page-116.jpg",
+   "photo": "advanced/rc-p5-s07/page-116.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -55,7 +55,7 @@
    "accept": [
     "expiry date"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "search for"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "library card"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "all the time"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "subject matter"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "overall rating"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "abundant knowledge"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -132,7 +132,7 @@
    "accept": [
     "company size"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -143,7 +143,7 @@
    "accept": [
     "as soon as"
    ],
-   "photo": "advanced/rc-p5-s07/page-117.jpg",
+   "photo": "advanced/rc-p5-s07/page-117.png",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -156,7 +156,7 @@
     "B": "A class trip"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s07/page-118.jpg",
+   "passageImage": "advanced/rc-p5-s07/page-118.png",
    "section": "Reading Practice 1",
    "id": "q13",
    "label": "13"
@@ -169,7 +169,7 @@
     "B": "Notes from history class"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s07/page-118.jpg",
+   "passageImage": "advanced/rc-p5-s07/page-118.png",
    "section": "Reading Practice 1",
    "id": "q14",
    "label": "14"
@@ -182,7 +182,7 @@
     "B": "To search for a staff"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s07/page-119.jpg",
+   "passageImage": "advanced/rc-p5-s07/page-119.png",
    "section": "Reading Practice 2",
    "id": "q15",
    "label": "15"
@@ -195,7 +195,7 @@
     "B": "The expiry date of card being issued"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s07/page-119.jpg",
+   "passageImage": "advanced/rc-p5-s07/page-119.png",
    "section": "Reading Practice 2",
    "id": "q16",
    "label": "16"
@@ -216,7 +216,7 @@
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-120.jpg"
+   "passageImage": "advanced/rc-pages/page-120.png"
   },
   {
    "id": "q18",
@@ -234,7 +234,7 @@
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-120.jpg"
+   "passageImage": "advanced/rc-pages/page-120.png"
   },
   {
    "id": "q19",
@@ -252,7 +252,7 @@
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-121.jpg"
+   "passageImage": "advanced/rc-pages/page-121.png"
   },
   {
    "id": "q20",
@@ -270,14 +270,14 @@
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-121.jpg"
+   "passageImage": "advanced/rc-pages/page-121.png"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p5-s07/page-116.jpg",
-  "advanced/rc-p5-s07/page-117.jpg",
-  "advanced/rc-p5-s07/page-118.jpg",
-  "advanced/rc-p5-s07/page-119.jpg"
+  "advanced/rc-p5-s07/page-116.png",
+  "advanced/rc-p5-s07/page-117.png",
+  "advanced/rc-p5-s07/page-118.png",
+  "advanced/rc-p5-s07/page-119.png"
  ]
 }

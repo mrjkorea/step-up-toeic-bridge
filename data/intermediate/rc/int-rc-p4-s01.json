@@ -17,7 +17,7 @@
     "D": "Wash"
    },
    "accept": "D",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
+   "photo": "intermediate/rc-p4-s01/page-007.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "Wash"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
+   "photo": "intermediate/rc-p4-s01/page-007.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "Wash"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
+   "photo": "intermediate/rc-p4-s01/page-007.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,54 @@
     "D": "Wash"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
+   "photo": "intermediate/rc-p4-s01/page-007.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(a): My father and mother are at table. Say the meaning of the underlined part in Korean (see the book page). Not scored.",
+   "pageImage": "intermediate/rc-p4-s01/page-008.png",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(b): He wants to be a Newton. Say the meaning in Korean (see the book page). Not scored.",
+   "pageImage": "intermediate/rc-p4-s01/page-008.png",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(c): A dog is a faithful animal. Say the meaning in Korean (see the book page). Not scored.",
+   "pageImage": "intermediate/rc-p4-s01/page-008.png",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean (see the book page). Not scored.",
+   "pageImage": "intermediate/rc-p4-s01/page-008.png",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "choice",
@@ -77,10 +121,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -88,10 +132,10 @@
    "accept": [
     "x"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "choice",
@@ -103,10 +147,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -114,10 +158,10 @@
    "accept": [
     "x"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -125,10 +169,10 @@
    "accept": [
     "An"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "choice",
@@ -140,10 +184,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -151,10 +195,10 @@
    "accept": [
     "an"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -162,10 +206,10 @@
    "accept": [
     "An"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -173,10 +217,10 @@
    "accept": [
     "x"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
+   "id": "q17",
+   "label": "17"
   },
   {
    "type": "text",
@@ -184,10 +228,10 @@
    "accept": [
     "The"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
+   "id": "q18",
+   "label": "18"
   },
   {
    "type": "text",
@@ -195,10 +239,10 @@
    "accept": [
     "x"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
+   "id": "q19",
+   "label": "19"
   },
   {
    "type": "text",
@@ -206,10 +250,10 @@
    "accept": [
     "the"
    ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
+   "photo": "intermediate/rc-p4-s01/page-008.png",
    "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
+   "id": "q20",
+   "label": "20"
   },
   {
    "type": "text",
@@ -217,10 +261,10 @@
    "accept": [
     "an"
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
+   "id": "q21",
+   "label": "21"
   },
   {
    "type": "choice",
@@ -232,10 +276,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
+   "id": "q22",
+   "label": "22"
   },
   {
    "type": "choice",
@@ -247,10 +291,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q23",
+   "label": "23"
   },
   {
    "type": "text",
@@ -258,10 +302,10 @@
    "accept": [
     "an"
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -269,10 +313,10 @@
    "accept": [
     "the"
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -280,10 +324,10 @@
    "accept": [
     "the"
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
+   "id": "q26",
+   "label": "26"
   },
   {
    "type": "choice",
@@ -295,10 +339,10 @@
     "D": "(d)"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -306,10 +350,10 @@
    "accept": [
     "the"
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -317,10 +361,10 @@
    "accept": [
     "I like to play the baseball with the my friends."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
+   "id": "q29",
+   "label": "29"
   },
   {
    "type": "text",
@@ -328,10 +372,10 @@
    "accept": [
     "We go to the church after a breakfast."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
+   "id": "q30",
+   "label": "30"
   },
   {
    "type": "text",
@@ -339,10 +383,10 @@
    "accept": [
     "don't like the winter."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
+   "id": "q31",
+   "label": "31"
   },
   {
    "type": "text",
@@ -350,10 +394,10 @@
    "accept": [
     "A waiter, please give me the some water."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
+   "id": "q32",
+   "label": "32"
   },
   {
    "type": "text",
@@ -361,10 +405,10 @@
    "accept": [
     "He will go to x America by x airplane."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
+   "id": "q33",
+   "label": "33"
   },
   {
    "type": "text",
@@ -372,10 +416,10 @@
    "accept": [
     "I practice the piano every x Wednesday."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
+   "id": "q34",
+   "label": "34"
   },
   {
    "type": "text",
@@ -383,14 +427,14 @@
    "accept": [
     "The book in this bag is an English book."
    ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
+   "photo": "intermediate/rc-p4-s01/page-010.png",
    "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
+   "id": "q35",
+   "label": "35"
   },
   {
-   "id": "q32",
-   "label": "32",
+   "id": "q36",
+   "label": "36",
    "type": "choice",
    "choices": {
     "A": "A",
@@ -402,8 +446,8 @@
    "accept": "A"
   },
   {
-   "id": "q33",
-   "label": "33",
+   "id": "q37",
+   "label": "37",
    "type": "choice",
    "choices": {
     "A": "a money",
@@ -415,8 +459,8 @@
    "accept": "D"
   },
   {
-   "id": "q34",
-   "label": "34",
+   "id": "q38",
+   "label": "38",
    "type": "choice",
    "choices": {
     "A": "A waiter",
@@ -428,8 +472,8 @@
    "accept": "D"
   },
   {
-   "id": "q35",
-   "label": "35",
+   "id": "q39",
+   "label": "39",
    "type": "choice",
    "choices": {
     "A": "a my",
@@ -441,8 +485,8 @@
    "accept": "C"
   },
   {
-   "id": "q36",
-   "label": "36",
+   "id": "q40",
+   "label": "40",
    "type": "choice",
    "choices": {
     "A": "A",
@@ -454,8 +498,8 @@
    "accept": "B"
   },
   {
-   "id": "q37",
-   "label": "37",
+   "id": "q41",
+   "label": "41",
    "type": "choice",
    "choices": {
     "A": "a",
@@ -469,10 +513,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s01/page-007.jpg",
-  "intermediate/rc-p4-s01/page-008.jpg",
-  "intermediate/rc-p4-s01/page-009.jpg",
-  "intermediate/rc-p4-s01/page-010.jpg",
-  "intermediate/rc-p4-s01/page-011.jpg"
+  "intermediate/rc-p4-s01/page-007.png",
+  "intermediate/rc-p4-s01/page-008.png",
+  "intermediate/rc-p4-s01/page-009.png",
+  "intermediate/rc-p4-s01/page-010.png",
+  "intermediate/rc-p4-s01/page-011.png"
  ]
 }

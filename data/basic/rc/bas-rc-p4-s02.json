@@ -19,7 +19,7 @@
     "F": "tastes"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "F": "tastes"
    },
    "accept": "F",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -53,7 +53,7 @@
     "F": "tastes"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -70,7 +70,7 @@
     "F": "tastes"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -87,7 +87,7 @@
     "F": "tastes"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -104,10 +104,36 @@
     "F": "tastes"
    },
    "accept": "E",
-   "photo": "basic/rc-p4-s02/page-016.jpg",
+   "photo": "basic/rc-p4-s02/page-016.png",
    "section": "Words and Idioms Check-Up",
    "id": "q6",
    "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(a): Put a slash (/) between the subject and the verb: David and Diane love movies.",
+   "accept": [
+    "David and Diane / love movies.",
+    "David and Diane/love movies.",
+    "David and Diane / love movies"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(b): Put a slash (/) between the subject and the verb: You and I learn English at school.",
+   "accept": [
+    "You and I / learn English at school.",
+    "You and I/learn English at school.",
+    "You and I / learn English at school"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -115,10 +141,10 @@
    "accept": [
     "She is very smart."
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -126,10 +152,10 @@
    "accept": [
     "My sister"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -137,10 +163,10 @@
    "accept": [
     "He"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -148,10 +174,10 @@
    "accept": [
     "The sun"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -159,10 +185,10 @@
    "accept": [
     "English"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -170,10 +196,10 @@
    "accept": [
     "ball"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -181,10 +207,10 @@
    "accept": [
     "song"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -192,10 +218,10 @@
    "accept": [
     "smells"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -203,10 +229,10 @@
    "accept": [
     "looks"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
+   "id": "q17",
+   "label": "17"
   },
   {
    "type": "text",
@@ -214,10 +240,121 @@
    "accept": [
     "became"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(a): She closed the window last night. Type the English word that matches the blank in the Korean translation.",
+   "accept": [
+    "window"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(b): Birds fly in the sky. Type the English word that matches the blank in the Korean translation.",
+   "accept": [
+    "fly"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(c): He can play the piano. Type the English word that matches the blank in the Korean translation.",
+   "accept": [
+    "He"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 2-(a): He stopped crying. What is the underlined word (stopped)?",
+   "choices": {
+    "A": "subject",
+    "B": "verb",
+    "C": "object",
+    "D": "complement"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 2-(b): Did you eat the ice cream? What is the underlined part (ice cream)?",
+   "choices": {
+    "A": "subject",
+    "B": "verb",
+    "C": "object",
+    "D": "complement"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "choice",
+   "prompt": "Grammar Practice 2-(c): I watched a movie last night. What is the underlined word (I)?",
+   "choices": {
+    "A": "subject",
+    "B": "verb",
+    "C": "object",
+    "D": "complement"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): correct the wrong word (see the book page).",
+   "accept": [
+    "sad"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): correct the wrong word (see the book page).",
+   "accept": [
+    "bad"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): correct the wrong word (see the book page).",
+   "accept": [
+    "nice"
+   ],
+   "photo": "basic/rc-p4-s02/page-017.png",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -225,10 +362,10 @@
    "accept": [
     "me"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -236,10 +373,10 @@
    "accept": [
     "him"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
+   "id": "q29",
+   "label": "29"
   },
   {
    "type": "text",
@@ -247,47 +384,14 @@
    "accept": [
     "watch"
    ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
+   "photo": "basic/rc-p4-s02/page-017.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q30",
+   "label": "30"
   },
   {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
-   "accept": [
-    "sadly sad"
-   ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
-   "accept": [
-    "badly bad"
-   ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
-   "accept": [
-    "nicely - nice"
-   ],
-   "photo": "basic/rc-p4-s02/page-017.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "id": "q23",
-   "label": "23",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "play",
@@ -299,8 +403,8 @@
    "accept": "B"
   },
   {
-   "id": "q24",
-   "label": "24",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "is",
@@ -312,8 +416,8 @@
    "accept": "C"
   },
   {
-   "id": "q25",
-   "label": "25",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "make",
@@ -325,8 +429,8 @@
    "accept": "B"
   },
   {
-   "id": "q26",
-   "label": "26",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "our",
@@ -338,8 +442,8 @@
    "accept": "C"
   },
   {
-   "id": "q27",
-   "label": "27",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "easy",
@@ -351,8 +455,8 @@
    "accept": "A"
   },
   {
-   "id": "q28",
-   "label": "28",
+   "id": "q36",
+   "label": "36",
    "type": "choice",
    "choices": {
     "A": "sweets",
@@ -366,11 +470,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s02/page-016.jpg",
-  "basic/rc-p4-s02/page-017.jpg",
-  "basic/rc-p4-s02/page-018.jpg",
-  "basic/rc-p4-s02/page-019.jpg",
-  "basic/rc-p4-s02/page-020.jpg",
-  "basic/rc-p4-s02/page-021.jpg"
+  "basic/rc-p4-s02/page-016.png",
+  "basic/rc-p4-s02/page-017.png",
+  "basic/rc-p4-s02/page-018.png",
+  "basic/rc-p4-s02/page-019.png",
+  "basic/rc-p4-s02/page-020.png",
+  "basic/rc-p4-s02/page-021.png"
  ]
 }

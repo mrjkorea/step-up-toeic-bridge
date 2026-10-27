@@ -17,7 +17,7 @@
     "D": "take an umbrella"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
+   "photo": "advanced/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "take an umbrella"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
+   "photo": "advanced/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "take an umbrella"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
+   "photo": "advanced/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,54 @@
     "D": "take an umbrella"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
+   "photo": "advanced/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(a): They are not only cheap but also useful. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(b): Get up now or you will miss the train. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.png",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(c): Many people insist that he be a spy from another country. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.png",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up 4-(d): Neither my father nor my uncle knows the secret. Translate into Korean. Not scored.",
+   "pageImage": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.png",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -73,10 +117,10 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -84,10 +128,10 @@
    "accept": [
     "or"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -95,10 +139,10 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -106,10 +150,10 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -117,10 +161,10 @@
    "accept": [
     "and but"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -128,10 +172,10 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -139,10 +183,10 @@
    "accept": [
     "or"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
+   "id": "q15",
+   "label": "15"
   },
   {
    "type": "text",
@@ -150,10 +194,10 @@
    "accept": [
     "that"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
+   "id": "q16",
+   "label": "16"
   },
   {
    "type": "text",
@@ -161,14 +205,235 @@
    "accept": [
     "but"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.png",
    "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
+   "id": "q17",
+   "label": "17"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "type": "text",
+   "prompt": "Grammar Practice 1-(a): Catch me ____ you can!",
+   "accept": [
+    "if"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(b): I must be going now ____ it is getting darker.",
+   "accept": [
+    "because"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(c): I wonder ____ you are for it or against it.",
+   "accept": [
+    "if"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(d): ____ young, he is respected by many people.",
+   "accept": [
+    "Although"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(a): He can't come into the toy house ____ he is too tall.",
+   "accept": [
+    "since"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(b): I have been learning English ____ we moved to Seoul.",
+   "accept": [
+    "since"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(c): Poor ____ he is, he is generous.",
+   "accept": [
+    "as"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(d): ____ I look back on, he is a man of great help.",
+   "accept": [
+    "as"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(a): This is the day ____ we make a contract.",
+   "accept": [
+    "when"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(b): This is the hall ____ the concert will be on.",
+   "accept": [
+    "where"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(c): She bites her finger nails ____ she becomes nervous.",
+   "accept": [
+    "when"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(d): This is the toy ____ my father gave me on my birthday.",
+   "accept": [
+    "which",
+    "that"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): Fill in the blank (see the book page).",
+   "accept": [
+    "In case of"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q30",
+   "label": "30"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): Fill in the blank.",
+   "accept": [
+    "If"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q31",
+   "label": "31"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): Fill in the blank.",
+   "accept": [
+    "While"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q32",
+   "label": "32"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(d): Fill in the blank.",
+   "accept": [
+    "If"
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q33",
+   "label": "33"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(a): Rewrite the sentence (see the book page).",
+   "accept": [
+    "Because of the heavy snow, we had to stay at home."
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q34",
+   "label": "34"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(b): Rewrite the sentence.",
+   "accept": [
+    "After you finish your homework, you may get out."
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q35",
+   "label": "35"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(c): Rewrite the sentence.",
+   "accept": [
+    "When she was 18, she moved to Seoul."
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q36",
+   "label": "36"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(d): Rewrite the sentence.",
+   "accept": [
+    "If you find the person, please call me."
+   ],
+   "photo": "advanced/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q37",
+   "label": "37"
+  },
+  {
+   "id": "q38",
+   "label": "38",
    "type": "choice",
    "choices": {
     "A": "that",
@@ -180,8 +445,8 @@
    "accept": "A"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q39",
+   "label": "39",
    "type": "choice",
    "choices": {
     "A": "and",
@@ -193,8 +458,8 @@
    "accept": "C"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q40",
+   "label": "40",
    "type": "choice",
    "choices": {
     "A": "and",
@@ -206,8 +471,8 @@
    "accept": "C"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q41",
+   "label": "41",
    "type": "choice",
    "choices": {
     "A": "When",
@@ -219,8 +484,8 @@
    "accept": "A"
   },
   {
-   "id": "q18",
-   "label": "18",
+   "id": "q42",
+   "label": "42",
    "type": "choice",
    "choices": {
     "A": "If",
@@ -232,8 +497,8 @@
    "accept": "D"
   },
   {
-   "id": "q19",
-   "label": "19",
+   "id": "q43",
+   "label": "43",
    "type": "choice",
    "choices": {
     "A": "but",
@@ -247,11 +512,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s04/page-036.jpg",
-  "advanced/rc-p4-s04/page-037.jpg",
-  "advanced/rc-p4-s04/page-038.jpg",
-  "advanced/rc-p4-s04/page-039.jpg",
-  "advanced/rc-p4-s04/page-040.jpg",
-  "advanced/rc-p4-s04/page-041.jpg"
+  "advanced/rc-p4-s04/page-036.png",
+  "advanced/rc-p4-s04/page-037.png",
+  "advanced/rc-p4-s04/page-038.png",
+  "advanced/rc-p4-s04/page-039.png",
+  "advanced/rc-p4-s04/page-040.png",
+  "advanced/rc-p4-s04/page-041.png"
  ]
 }

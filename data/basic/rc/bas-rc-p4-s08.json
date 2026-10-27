@@ -17,7 +17,7 @@
     "D": "zip up"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s08/page-066.jpg",
+   "photo": "basic/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "zip up"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s08/page-066.jpg",
+   "photo": "basic/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "zip up"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s08/page-066.jpg",
+   "photo": "basic/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,21 @@
     "D": "zip up"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s08/page-066.jpg",
+   "photo": "basic/rc-p4-s08/page-066.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "basic/rc-p4-s08/page-067.png",
+   "photo": "basic/rc-p4-s08/page-067.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -73,10 +84,10 @@
    "accept": [
     "cape"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -84,10 +95,10 @@
    "accept": [
     "shirt"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -95,10 +106,10 @@
    "accept": [
     "sneakers"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -106,10 +117,10 @@
    "accept": [
     "suit"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -117,10 +128,10 @@
    "accept": [
     "take off"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -128,10 +139,10 @@
    "accept": [
     "looking"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -139,10 +150,10 @@
    "accept": [
     "wedding dress"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -150,10 +161,10 @@
    "accept": [
     "putting"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -161,14 +172,14 @@
    "accept": [
     "coats"
    ],
-   "photo": "basic/rc-p4-s08/page-070.jpg",
+   "photo": "basic/rc-p4-s08/page-070.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "pajamas",
@@ -180,8 +191,8 @@
    "accept": "A"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "belt",
@@ -193,8 +204,8 @@
    "accept": "B"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "put",
@@ -206,8 +217,8 @@
    "accept": "D"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "take",
@@ -221,10 +232,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s08/page-066.jpg",
-  "basic/rc-p4-s08/page-067.jpg",
-  "basic/rc-p4-s08/page-068.jpg",
-  "basic/rc-p4-s08/page-069.jpg",
-  "basic/rc-p4-s08/page-070.jpg"
+  "basic/rc-p4-s08/page-066.png",
+  "basic/rc-p4-s08/page-067.png",
+  "basic/rc-p4-s08/page-068.png",
+  "basic/rc-p4-s08/page-069.png",
+  "basic/rc-p4-s08/page-070.png"
  ]
 }

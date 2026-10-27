@@ -235,7 +235,7 @@
     "sketchbook"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-123.jpg",
+   "photo": "basic/lc-p3-s05/page-123.png",
    "section": "Listening Practice 1",
    "id": "q16",
    "label": "16"
@@ -247,7 +247,7 @@
     "experiments"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-123.jpg",
+   "photo": "basic/lc-p3-s05/page-123.png",
    "section": "Listening Practice 1",
    "id": "q17",
    "label": "17"
@@ -293,7 +293,7 @@
     "snow"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-124.jpg",
+   "photo": "basic/lc-p3-s05/page-124.png",
    "section": "Listening Practice 2",
    "id": "q20",
    "label": "20"
@@ -305,7 +305,7 @@
     "raining"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-124.jpg",
+   "photo": "basic/lc-p3-s05/page-124.png",
    "section": "Listening Practice 2",
    "id": "q21",
    "label": "21"
@@ -351,7 +351,7 @@
     "pizza"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-125.jpg",
+   "photo": "basic/lc-p3-s05/page-125.png",
    "section": "Listening Practice 3",
    "id": "q24",
    "label": "24"
@@ -363,7 +363,7 @@
     "cookies"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-125.jpg",
+   "photo": "basic/lc-p3-s05/page-125.png",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -455,10 +455,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p3-s05/page-121.jpg",
-  "basic/lc-p3-s05/page-122.jpg",
-  "basic/lc-p3-s05/page-123.jpg",
-  "basic/lc-p3-s05/page-124.jpg",
-  "basic/lc-p3-s05/page-125.jpg"
+  "basic/lc-p3-s05/page-121.png",
+  "basic/lc-p3-s05/page-122.png",
+  "basic/lc-p3-s05/page-123.png",
+  "basic/lc-p3-s05/page-124.png",
+  "basic/lc-p3-s05/page-125.png"
  ]
 }

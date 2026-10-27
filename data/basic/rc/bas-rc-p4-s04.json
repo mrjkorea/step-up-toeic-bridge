@@ -19,7 +19,7 @@
     "F": "volleyball"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "F": "volleyball"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -53,7 +53,7 @@
     "F": "volleyball"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -70,7 +70,7 @@
     "F": "volleyball"
    },
    "accept": "F",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -87,7 +87,7 @@
     "F": "volleyball"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -104,7 +104,7 @@
     "F": "volleyball"
    },
    "accept": "E",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
+   "photo": "basic/rc-p4-s04/page-036.png",
    "section": "Words and Idioms Check-Up",
    "id": "q6",
    "label": "6"
@@ -115,7 +115,7 @@
    "accept": [
     "are"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -126,7 +126,7 @@
    "accept": [
     "was"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -137,7 +137,7 @@
    "accept": [
     "were"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -148,7 +148,7 @@
    "accept": [
     "studied"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -159,7 +159,7 @@
    "accept": [
     "enjoyed"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -170,7 +170,7 @@
    "accept": [
     "hoped"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -181,7 +181,7 @@
    "accept": [
     "is"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -192,7 +192,7 @@
    "accept": [
     "going"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -203,7 +203,7 @@
    "accept": [
     "were"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -214,7 +214,7 @@
    "accept": [
     "don't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
@@ -225,7 +225,7 @@
    "accept": [
     "doesn't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q17",
    "label": "17"
@@ -236,10 +236,76 @@
    "accept": [
     "didn't"
    ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
+   "photo": "basic/rc-p4-s04/page-037.png",
    "section": "Warm-Up",
    "id": "q18",
    "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(a): Jane buys shoes. Change it to the past tense.",
+   "accept": [
+    "Jane bought shoes."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(b): Jane buys shoes. Change it to the present progressive.",
+   "accept": [
+    "Jane is buying shoes."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(c): Jane buys shoes. Change it to the present negative.",
+   "accept": [
+    "Jane does not buy shoes."
+   ],
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Grammar Practice 3-trans: Translate (a)-(c) into Korean in your notebook (see the book page). Not scored.",
+   "pageImage": "basic/rc-p4-s04/page-040.png",
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): correct the wrong word (see the book page).",
+   "accept": [
+    "quit"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): correct the wrong word (see the book page).",
+   "accept": [
+    "washes"
+   ],
+   "photo": "basic/rc-p4-s04/page-040.png",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
   },
   {
    "type": "text",
@@ -247,10 +313,10 @@
    "accept": [
     "He is writing a letter."
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
+   "id": "q25",
+   "label": "25"
   },
   {
    "type": "text",
@@ -258,10 +324,10 @@
    "accept": [
     "She is watching TV."
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
+   "id": "q26",
+   "label": "26"
   },
   {
    "type": "text",
@@ -269,10 +335,10 @@
    "accept": [
     "He kicks the ball."
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
+   "id": "q27",
+   "label": "27"
   },
   {
    "type": "text",
@@ -280,10 +346,10 @@
    "accept": [
     "sleep"
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
+   "id": "q28",
+   "label": "28"
   },
   {
    "type": "text",
@@ -291,10 +357,10 @@
    "accept": [
     "was"
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
+   "id": "q29",
+   "label": "29"
   },
   {
    "type": "text",
@@ -302,21 +368,10 @@
    "accept": [
     "taught"
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
-   "accept": [
-    "quitted quit"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
+   "id": "q30",
+   "label": "30"
   },
   {
    "type": "text",
@@ -324,25 +379,14 @@
    "accept": [
     "comed- came"
    ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
+   "photo": "basic/rc-p4-s04/page-040.png",
    "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
+   "id": "q31",
+   "label": "31"
   },
   {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
-   "accept": [
-    "washs washes"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "id": "q28",
-   "label": "28",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "are",
@@ -354,8 +398,8 @@
    "accept": "D"
   },
   {
-   "id": "q29",
-   "label": "29",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "is",
@@ -367,8 +411,8 @@
    "accept": "D"
   },
   {
-   "id": "q30",
-   "label": "30",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "mix",
@@ -380,8 +424,8 @@
    "accept": "B"
   },
   {
-   "id": "q31",
-   "label": "31",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "cry",
@@ -393,8 +437,8 @@
    "accept": "B"
   },
   {
-   "id": "q32",
-   "label": "32",
+   "id": "q36",
+   "label": "36",
    "type": "choice",
    "choices": {
     "A": "drink",
@@ -406,8 +450,8 @@
    "accept": "D"
   },
   {
-   "id": "q33",
-   "label": "33",
+   "id": "q37",
+   "label": "37",
    "type": "choice",
    "choices": {
     "A": "write",
@@ -421,11 +465,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s04/page-036.jpg",
-  "basic/rc-p4-s04/page-037.jpg",
-  "basic/rc-p4-s04/page-038.jpg",
-  "basic/rc-p4-s04/page-039.jpg",
-  "basic/rc-p4-s04/page-040.jpg",
-  "basic/rc-p4-s04/page-041.jpg"
+  "basic/rc-p4-s04/page-036.png",
+  "basic/rc-p4-s04/page-037.png",
+  "basic/rc-p4-s04/page-038.png",
+  "basic/rc-p4-s04/page-039.png",
+  "basic/rc-p4-s04/page-040.png",
+  "basic/rc-p4-s04/page-041.png"
  ]
 }

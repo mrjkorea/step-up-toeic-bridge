@@ -17,7 +17,7 @@
     "D": "spaghetti"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "photo": "basic/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "spaghetti"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "photo": "basic/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "spaghetti"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "photo": "basic/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,10 +62,21 @@
     "D": "spaghetti"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s06/page-054.jpg",
+   "photo": "basic/rc-p4-s06/page-054.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "basic/rc-p4-s06/page-055.png",
+   "photo": "basic/rc-p4-s06/page-055.png",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -73,10 +84,10 @@
    "accept": [
     "bread"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -84,10 +95,10 @@
    "accept": [
     "spaghetti"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -95,10 +106,10 @@
    "accept": [
     "pizza"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -106,10 +117,10 @@
    "accept": [
     "cut"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -117,10 +128,10 @@
    "accept": [
     "bake"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -128,10 +139,10 @@
    "accept": [
     "Boil"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -139,10 +150,10 @@
    "accept": [
     "sour"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -150,10 +161,10 @@
    "accept": [
     "sweet"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -161,14 +172,14 @@
    "accept": [
     "hot"
    ],
-   "photo": "basic/rc-p4-s06/page-058.jpg",
+   "photo": "basic/rc-p4-s06/page-058.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
-   "id": "q14",
-   "label": "14",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "drink",
@@ -180,8 +191,8 @@
    "accept": "A"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "bake",
@@ -193,8 +204,8 @@
    "accept": "B"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "hot",
@@ -206,8 +217,8 @@
    "accept": "B"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "fried",
@@ -221,10 +232,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s06/page-054.jpg",
-  "basic/rc-p4-s06/page-055.jpg",
-  "basic/rc-p4-s06/page-056.jpg",
-  "basic/rc-p4-s06/page-057.jpg",
-  "basic/rc-p4-s06/page-058.jpg"
+  "basic/rc-p4-s06/page-054.png",
+  "basic/rc-p4-s06/page-055.png",
+  "basic/rc-p4-s06/page-056.png",
+  "basic/rc-p4-s06/page-057.png",
+  "basic/rc-p4-s06/page-058.png"
  ]
 }

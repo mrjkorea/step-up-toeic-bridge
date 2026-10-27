@@ -16,7 +16,7 @@
     "C": "trash can"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s09/page-072.jpg",
+   "photo": "intermediate/rc-p4-s09/page-072.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "trash can"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s09/page-072.jpg",
+   "photo": "intermediate/rc-p4-s09/page-072.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,10 +44,21 @@
     "C": "trash can"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s09/page-072.jpg",
+   "photo": "intermediate/rc-p4-s09/page-072.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
+  },
+  {
+   "type": "display",
+   "displayOnly": true,
+   "scored": false,
+   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+   "pageImage": "intermediate/rc-p4-s09/page-073.png",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
   },
   {
    "type": "text",
@@ -55,10 +66,10 @@
    "accept": [
     "attic"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q4",
-   "label": "4"
+   "id": "q5",
+   "label": "5"
   },
   {
    "type": "text",
@@ -66,10 +77,10 @@
    "accept": [
     "stand"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
+   "id": "q6",
+   "label": "6"
   },
   {
    "type": "text",
@@ -77,10 +88,10 @@
    "accept": [
     "tissue"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
+   "id": "q7",
+   "label": "7"
   },
   {
    "type": "text",
@@ -88,10 +99,10 @@
    "accept": [
     "wash stand washstand"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
+   "id": "q8",
+   "label": "8"
   },
   {
    "type": "text",
@@ -99,10 +110,10 @@
    "accept": [
     "toothbrush"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
+   "id": "q9",
+   "label": "9"
   },
   {
    "type": "text",
@@ -110,10 +121,10 @@
    "accept": [
     "cupboard: cupboard"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
+   "id": "q10",
+   "label": "10"
   },
   {
    "type": "text",
@@ -121,10 +132,10 @@
    "accept": [
     "bathtub"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
+   "id": "q11",
+   "label": "11"
   },
   {
    "type": "text",
@@ -132,10 +143,10 @@
    "accept": [
     "basement"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
+   "id": "q12",
+   "label": "12"
   },
   {
    "type": "text",
@@ -143,10 +154,10 @@
    "accept": [
     "attic"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
+   "id": "q13",
+   "label": "13"
   },
   {
    "type": "text",
@@ -154,10 +165,10 @@
    "accept": [
     "refrigerator"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
+   "id": "q14",
+   "label": "14"
   },
   {
    "type": "text",
@@ -165,14 +176,14 @@
    "accept": [
     "garage"
    ],
-   "photo": "intermediate/rc-p4-s09/page-073.jpg",
+   "photo": "intermediate/rc-p4-s09/page-073.png",
    "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
+   "id": "q15",
+   "label": "15"
   },
   {
-   "id": "q15",
-   "label": "15",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "soap - toothpaste",
@@ -184,8 +195,8 @@
    "accept": "A"
   },
   {
-   "id": "q16",
-   "label": "16",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "bedroom",
@@ -197,8 +208,8 @@
    "accept": "C"
   },
   {
-   "id": "q17",
-   "label": "17",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "window",
@@ -210,8 +221,8 @@
    "accept": "A"
   },
   {
-   "id": "q18",
-   "label": "18",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "open",
@@ -225,10 +236,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s09/page-072.jpg",
-  "intermediate/rc-p4-s09/page-073.jpg",
-  "intermediate/rc-p4-s09/page-074.jpg",
-  "intermediate/rc-p4-s09/page-075.jpg",
-  "intermediate/rc-p4-s09/page-076.jpg"
+  "intermediate/rc-p4-s09/page-072.png",
+  "intermediate/rc-p4-s09/page-073.png",
+  "intermediate/rc-p4-s09/page-074.png",
+  "intermediate/rc-p4-s09/page-075.png",
+  "intermediate/rc-p4-s09/page-076.png"
  ]
 }

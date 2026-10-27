@@ -2,7 +2,11 @@
 
 This note records the **finish-pack** drop (`v4-finishpack-2026-10-28`) that completes practice JSON for LC and RC across Basic, Intermediate, and Advanced. Source: finish-pack data tarball (CHANGELOG, DEFERRED, SUMMARY from that pack).
 
-## Summary (SUMMARY.json)
+## Clearance follow-up (2026-10-28 KST)
+
+A second drop cleared all **65** deferrals (**deferred_count → 0**), raising total items **3445 → 3607** (+33 `displayOnly` cards for Korean-only / vocab-table Warm-Ups; **3574** interactive). See **`docs/FINISH_PACK_CLEARANCE_2026-10-28.md`** for the rebuilt DEFERRED note and clearance `SUMMARY.json`. Overrides: `scripts/overrides.py`, `scripts/postfix.py`.
+
+## Summary (SUMMARY.json) — initial PR #11 import
 
 | Field | Value |
 |--------|--------|

@@ -19,7 +19,7 @@
     "E": "take a look"
    },
    "accept": "D",
-   "photo": "advanced/lc-p3-s01/page-084.jpg",
+   "photo": "advanced/lc-p3-s01/page-084.png",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -35,7 +35,7 @@
     "E": "take a look"
    },
    "accept": "E",
-   "photo": "advanced/lc-p3-s01/page-084.jpg",
+   "photo": "advanced/lc-p3-s01/page-084.png",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -51,7 +51,7 @@
     "E": "take a look"
    },
    "accept": "C",
-   "photo": "advanced/lc-p3-s01/page-084.jpg",
+   "photo": "advanced/lc-p3-s01/page-084.png",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -67,7 +67,7 @@
     "E": "take a look"
    },
    "accept": "B",
-   "photo": "advanced/lc-p3-s01/page-084.jpg",
+   "photo": "advanced/lc-p3-s01/page-084.png",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -83,7 +83,7 @@
     "E": "take a look"
    },
    "accept": "A",
-   "photo": "advanced/lc-p3-s01/page-084.jpg",
+   "photo": "advanced/lc-p3-s01/page-084.png",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -162,7 +162,7 @@
     "apply for a loan"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-086.jpg",
+   "photo": "advanced/lc-p3-s01/page-086.png",
    "section": "Listening Practice 1",
    "id": "q11",
    "label": "11"
@@ -174,7 +174,7 @@
     "checking account"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-086.jpg",
+   "photo": "advanced/lc-p3-s01/page-086.png",
    "section": "Listening Practice 1",
    "id": "q12",
    "label": "12"
@@ -186,7 +186,7 @@
     "have an appointment"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-086.jpg",
+   "photo": "advanced/lc-p3-s01/page-086.png",
    "section": "Listening Practice 1",
    "id": "q13",
    "label": "13"
@@ -198,7 +198,7 @@
     "take the elevator"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-086.jpg",
+   "photo": "advanced/lc-p3-s01/page-086.png",
    "section": "Listening Practice 1",
    "id": "q14",
    "label": "14"
@@ -238,7 +238,7 @@
     "Did anyone turn it in?"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-087.jpg",
+   "photo": "advanced/lc-p3-s01/page-087.png",
    "section": "Listening Practice 2",
    "id": "q17",
    "label": "17"
@@ -250,7 +250,7 @@
     "Let me check."
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-087.jpg",
+   "photo": "advanced/lc-p3-s01/page-087.png",
    "section": "Listening Practice 2",
    "id": "q18",
    "label": "18"
@@ -262,7 +262,7 @@
     "What price range"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-087.jpg",
+   "photo": "advanced/lc-p3-s01/page-087.png",
    "section": "Listening Practice 2",
    "id": "q19",
    "label": "19"
@@ -274,7 +274,7 @@
     "I don't want to spend"
    ],
    "audioOnly": true,
-   "photo": "advanced/lc-p3-s01/page-087.jpg",
+   "photo": "advanced/lc-p3-s01/page-087.png",
    "section": "Listening Practice 2",
    "id": "q20",
    "label": "20"
@@ -338,9 +338,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/lc-p3-s01/page-084.jpg",
-  "advanced/lc-p3-s01/page-085.jpg",
-  "advanced/lc-p3-s01/page-086.jpg",
-  "advanced/lc-p3-s01/page-087.jpg"
+  "advanced/lc-p3-s01/page-084.png",
+  "advanced/lc-p3-s01/page-085.png",
+  "advanced/lc-p3-s01/page-086.png",
+  "advanced/lc-p3-s01/page-087.png"
  ]
 }
