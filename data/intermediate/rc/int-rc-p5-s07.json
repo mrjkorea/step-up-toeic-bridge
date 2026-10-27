@@ -17,7 +17,7 @@
     "D": "undergo"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s07/page-116.png",
+   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "undergo"
    },
    "accept": "D",
-   "photo": "intermediate/rc-p5-s07/page-116.png",
+   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "undergo"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p5-s07/page-116.png",
+   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "undergo"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s07/page-116.png",
+   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -73,7 +73,7 @@
    "accept": [
     "report card"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "library card"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "interest area"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "medical history"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "apply for"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "as a result of"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "fill out"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "registration form"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "come into effect"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -172,7 +172,7 @@
    "accept": [
     "as of"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -183,7 +183,7 @@
    "accept": [
     "maintenance cost"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.png",
+   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -196,7 +196,7 @@
     "B": "John’s study result"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-118.png",
+   "passageImage": "intermediate/rc-p5-s07/page-118.jpg",
    "section": "Reading Practice 1",
    "id": "q16",
    "label": "16"
@@ -209,7 +209,7 @@
     "B": "John’s math score is not good."
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-118.png",
+   "passageImage": "intermediate/rc-p5-s07/page-118.jpg",
    "section": "Reading Practice 1",
    "id": "q17",
    "label": "17"
@@ -222,7 +222,7 @@
     "B": "To apply for a high school"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s07/page-119.png",
+   "passageImage": "intermediate/rc-p5-s07/page-119.jpg",
    "section": "Reading Practice 2",
    "id": "q18",
    "label": "18"
@@ -235,7 +235,7 @@
     "B": "Homeroom teacher’s name"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-119.png",
+   "passageImage": "intermediate/rc-p5-s07/page-119.jpg",
    "section": "Reading Practice 2",
    "id": "q19",
    "label": "19"
@@ -256,7 +256,7 @@
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-120.png"
+   "passageImage": "intermediate/rc-pages/page-120.jpg"
   },
   {
    "id": "q21",
@@ -274,7 +274,7 @@
    "passageHead": "Questions 1-2 refer to the following form.",
    "passagePage": 120,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-120.png"
+   "passageImage": "intermediate/rc-pages/page-120.jpg"
   },
   {
    "id": "q22",
@@ -292,7 +292,7 @@
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-121.png"
+   "passageImage": "intermediate/rc-pages/page-121.jpg"
   },
   {
    "id": "q23",
@@ -310,14 +310,14 @@
    "passageHead": "Questions 3-4 refer to the following form.",
    "passagePage": 121,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-121.png"
+   "passageImage": "intermediate/rc-pages/page-121.jpg"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p5-s07/page-116.png",
-  "intermediate/rc-p5-s07/page-117.png",
-  "intermediate/rc-p5-s07/page-118.png",
-  "intermediate/rc-p5-s07/page-119.png"
+  "intermediate/rc-p5-s07/page-116.jpg",
+  "intermediate/rc-p5-s07/page-117.jpg",
+  "intermediate/rc-p5-s07/page-118.jpg",
+  "intermediate/rc-p5-s07/page-119.jpg"
  ]
 }

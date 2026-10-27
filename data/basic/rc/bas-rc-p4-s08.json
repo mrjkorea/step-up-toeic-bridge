@@ -17,7 +17,7 @@
     "D": "zip up"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s08/page-066.png",
+   "photo": "basic/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "zip up"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s08/page-066.png",
+   "photo": "basic/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "zip up"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s08/page-066.png",
+   "photo": "basic/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "zip up"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s08/page-066.png",
+   "photo": "basic/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -72,8 +72,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "basic/rc-p4-s08/page-067.png",
-   "photo": "basic/rc-p4-s08/page-067.png",
+   "pageImage": "basic/rc-p4-s08/page-067.jpg",
+   "photo": "basic/rc-p4-s08/page-067.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "cape"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "shirt"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "sneakers"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "suit"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "take off"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "looking"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "wedding dress"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "putting"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q13",
    "label": "13"
@@ -172,7 +172,7 @@
    "accept": [
     "coats"
    ],
-   "photo": "basic/rc-p4-s08/page-070.png",
+   "photo": "basic/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q14",
    "label": "14"
@@ -232,10 +232,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s08/page-066.png",
-  "basic/rc-p4-s08/page-067.png",
-  "basic/rc-p4-s08/page-068.png",
-  "basic/rc-p4-s08/page-069.png",
-  "basic/rc-p4-s08/page-070.png"
+  "basic/rc-p4-s08/page-066.jpg",
+  "basic/rc-p4-s08/page-067.jpg",
+  "basic/rc-p4-s08/page-068.jpg",
+  "basic/rc-p4-s08/page-069.jpg",
+  "basic/rc-p4-s08/page-070.jpg"
  ]
 }

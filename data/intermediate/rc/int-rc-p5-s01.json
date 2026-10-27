@@ -16,7 +16,7 @@
     "C": "shuttle bus"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s01/page-080.png",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "shuttle bus"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s01/page-080.png",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "shuttle bus"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p5-s01/page-080.png",
+   "photo": "intermediate/rc-p5-s01/page-080.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -55,7 +55,7 @@
    "accept": [
     "proceed to"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "slow down"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "speed limit"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "in case of"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "get out of"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "line up"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "bound for"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -132,7 +132,7 @@
    "accept": [
     "on board"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -143,7 +143,7 @@
    "accept": [
     "be requested to"
    ],
-   "photo": "intermediate/rc-p5-s01/page-081.png",
+   "photo": "intermediate/rc-p5-s01/page-081.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -156,7 +156,7 @@
     "B": "To ask students to line up when entering the room"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s01/page-083.png",
+   "passageImage": "intermediate/rc-p5-s01/page-083.jpg",
    "section": "Reading Practice 2",
    "id": "q13",
    "label": "13"
@@ -169,7 +169,7 @@
     "B": "At a school"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s01/page-083.png",
+   "passageImage": "intermediate/rc-p5-s01/page-083.jpg",
    "section": "Reading Practice 2",
    "id": "q14",
    "label": "14"
@@ -190,7 +190,7 @@
    "passageHead": "Questions 1-2 refer to the following announcement.",
    "passagePage": 84,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-084.png"
+   "passageImage": "intermediate/rc-pages/page-084.jpg"
   },
   {
    "id": "q16",
@@ -208,7 +208,7 @@
    "passageHead": "Questions 1-2 refer to the following announcement.",
    "passagePage": 84,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-084.png"
+   "passageImage": "intermediate/rc-pages/page-084.jpg"
   },
   {
    "id": "q17",
@@ -226,7 +226,7 @@
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-085.png"
+   "passageImage": "intermediate/rc-pages/page-085.jpg"
   },
   {
    "id": "q18",
@@ -244,14 +244,14 @@
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-085.png"
+   "passageImage": "intermediate/rc-pages/page-085.jpg"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p5-s01/page-080.png",
-  "intermediate/rc-p5-s01/page-081.png",
-  "intermediate/rc-p5-s01/page-082.png",
-  "intermediate/rc-p5-s01/page-083.png"
+  "intermediate/rc-p5-s01/page-080.jpg",
+  "intermediate/rc-p5-s01/page-081.jpg",
+  "intermediate/rc-p5-s01/page-082.jpg",
+  "intermediate/rc-p5-s01/page-083.jpg"
  ]
 }

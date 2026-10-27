@@ -19,7 +19,7 @@
     "F": "tastes"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "F": "tastes"
    },
    "accept": "F",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -53,7 +53,7 @@
     "F": "tastes"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -70,7 +70,7 @@
     "F": "tastes"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -87,7 +87,7 @@
     "F": "tastes"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -104,7 +104,7 @@
     "F": "tastes"
    },
    "accept": "E",
-   "photo": "basic/rc-p4-s02/page-016.png",
+   "photo": "basic/rc-p4-s02/page-016.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q6",
    "label": "6"
@@ -117,7 +117,7 @@
     "David and Diane/love movies.",
     "David and Diane / love movies"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -130,7 +130,7 @@
     "You and I/learn English at school.",
     "You and I / learn English at school"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -141,7 +141,7 @@
    "accept": [
     "She is very smart."
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -152,7 +152,7 @@
    "accept": [
     "My sister"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -163,7 +163,7 @@
    "accept": [
     "He"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -174,7 +174,7 @@
    "accept": [
     "The sun"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -185,7 +185,7 @@
    "accept": [
     "English"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -196,7 +196,7 @@
    "accept": [
     "ball"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -207,7 +207,7 @@
    "accept": [
     "song"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -218,7 +218,7 @@
    "accept": [
     "smells"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
@@ -229,7 +229,7 @@
    "accept": [
     "looks"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q17",
    "label": "17"
@@ -240,7 +240,7 @@
    "accept": [
     "became"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Warm-Up",
    "id": "q18",
    "label": "18"
@@ -251,7 +251,7 @@
    "accept": [
     "window"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q19",
    "label": "19"
@@ -262,7 +262,7 @@
    "accept": [
     "fly"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q20",
    "label": "20"
@@ -273,7 +273,7 @@
    "accept": [
     "He"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q21",
    "label": "21"
@@ -288,7 +288,7 @@
     "D": "complement"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q22",
    "label": "22"
@@ -303,7 +303,7 @@
     "D": "complement"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q23",
    "label": "23"
@@ -318,7 +318,7 @@
     "D": "complement"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q24",
    "label": "24"
@@ -329,7 +329,7 @@
    "accept": [
     "sad"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q25",
    "label": "25"
@@ -340,7 +340,7 @@
    "accept": [
     "bad"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q26",
    "label": "26"
@@ -351,7 +351,7 @@
    "accept": [
     "nice"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q27",
    "label": "27"
@@ -362,7 +362,7 @@
    "accept": [
     "me"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q28",
    "label": "28"
@@ -373,7 +373,7 @@
    "accept": [
     "him"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q29",
    "label": "29"
@@ -384,7 +384,7 @@
    "accept": [
     "watch"
    ],
-   "photo": "basic/rc-p4-s02/page-017.png",
+   "photo": "basic/rc-p4-s02/page-017.jpg",
    "section": "Grammar Practice",
    "id": "q30",
    "label": "30"
@@ -470,11 +470,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s02/page-016.png",
-  "basic/rc-p4-s02/page-017.png",
-  "basic/rc-p4-s02/page-018.png",
-  "basic/rc-p4-s02/page-019.png",
-  "basic/rc-p4-s02/page-020.png",
-  "basic/rc-p4-s02/page-021.png"
+  "basic/rc-p4-s02/page-016.jpg",
+  "basic/rc-p4-s02/page-017.jpg",
+  "basic/rc-p4-s02/page-018.jpg",
+  "basic/rc-p4-s02/page-019.jpg",
+  "basic/rc-p4-s02/page-020.jpg",
+  "basic/rc-p4-s02/page-021.jpg"
  ]
 }

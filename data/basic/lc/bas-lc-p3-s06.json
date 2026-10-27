@@ -16,7 +16,7 @@
     "B": "traffic"
    },
    "accept": "B",
-   "photo": "basic/lc-p3-s06/page-129.png",
+   "photo": "basic/lc-p3-s06/page-129.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -29,7 +29,7 @@
     "B": "traffic"
    },
    "accept": "A",
-   "photo": "basic/lc-p3-s06/page-129.png",
+   "photo": "basic/lc-p3-s06/page-129.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -245,7 +245,7 @@
     "passengers"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-131.png",
+   "photo": "basic/lc-p3-s06/page-131.jpg",
    "section": "Listening Practice 1",
    "id": "q17",
    "label": "17"
@@ -257,7 +257,7 @@
     "Airline counter"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-131.png",
+   "photo": "basic/lc-p3-s06/page-131.jpg",
    "section": "Listening Practice 1",
    "id": "q18",
    "label": "18"
@@ -303,7 +303,7 @@
     "cell phone"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-132.png",
+   "photo": "basic/lc-p3-s06/page-132.jpg",
    "section": "Listening Practice 2",
    "id": "q21",
    "label": "21"
@@ -315,7 +315,7 @@
     "leather bag"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-132.png",
+   "photo": "basic/lc-p3-s06/page-132.jpg",
    "section": "Listening Practice 2",
    "id": "q22",
    "label": "22"
@@ -361,7 +361,7 @@
     "Travel Agency"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-133.png",
+   "photo": "basic/lc-p3-s06/page-133.jpg",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -373,7 +373,7 @@
     "emergency room"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-133.png",
+   "photo": "basic/lc-p3-s06/page-133.jpg",
    "section": "Listening Practice 3",
    "id": "q26",
    "label": "26"
@@ -465,10 +465,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p3-s06/page-129.png",
-  "basic/lc-p3-s06/page-130.png",
-  "basic/lc-p3-s06/page-131.png",
-  "basic/lc-p3-s06/page-132.png",
-  "basic/lc-p3-s06/page-133.png"
+  "basic/lc-p3-s06/page-129.jpg",
+  "basic/lc-p3-s06/page-130.jpg",
+  "basic/lc-p3-s06/page-131.jpg",
+  "basic/lc-p3-s06/page-132.jpg",
+  "basic/lc-p3-s06/page-133.jpg"
  ]
 }

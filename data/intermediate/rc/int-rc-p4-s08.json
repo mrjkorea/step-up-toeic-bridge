@@ -16,7 +16,7 @@
     "C": "windsurfing"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p4-s08/page-066.png",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "windsurfing"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p4-s08/page-066.png",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "windsurfing"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p4-s08/page-066.png",
+   "photo": "intermediate/rc-p4-s08/page-066.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -54,8 +54,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "intermediate/rc-p4-s08/page-067.png",
-   "photo": "intermediate/rc-p4-s08/page-067.png",
+   "pageImage": "intermediate/rc-p4-s08/page-067.jpg",
+   "photo": "intermediate/rc-p4-s08/page-067.jpg",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -68,7 +68,7 @@
     "scuba diving, dangerous",
     "scuba diving dangerous"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q5",
    "label": "5"
@@ -79,7 +79,7 @@
    "accept": [
     "knitting"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q6",
    "label": "6"
@@ -90,7 +90,7 @@
    "accept": [
     "elephant"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
@@ -101,7 +101,7 @@
    "accept": [
     "surf"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
@@ -112,7 +112,7 @@
    "accept": [
     "Internet surfing : Internet surfing"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q9",
    "label": "9"
@@ -123,7 +123,7 @@
    "accept": [
     "scuba diving: scuba diving"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q10",
    "label": "10"
@@ -134,7 +134,7 @@
    "accept": [
     "playing with pets"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q11",
    "label": "11"
@@ -145,7 +145,7 @@
    "accept": [
     "waterskiing : water-skiing"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q12",
    "label": "12"
@@ -156,7 +156,7 @@
    "accept": [
     "comic books"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q13",
    "label": "13"
@@ -167,7 +167,7 @@
    "accept": [
     "exciting"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q14",
    "label": "14"
@@ -178,7 +178,7 @@
    "accept": [
     "moving"
    ],
-   "photo": "intermediate/rc-p4-s08/page-070.png",
+   "photo": "intermediate/rc-p4-s08/page-070.jpg",
    "section": "Vocabulary Practice",
    "id": "q15",
    "label": "15"
@@ -238,10 +238,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/rc-p4-s08/page-066.png",
-  "intermediate/rc-p4-s08/page-067.png",
-  "intermediate/rc-p4-s08/page-068.png",
-  "intermediate/rc-p4-s08/page-069.png",
-  "intermediate/rc-p4-s08/page-070.png"
+  "intermediate/rc-p4-s08/page-066.jpg",
+  "intermediate/rc-p4-s08/page-067.jpg",
+  "intermediate/rc-p4-s08/page-068.jpg",
+  "intermediate/rc-p4-s08/page-069.jpg",
+  "intermediate/rc-p4-s08/page-070.jpg"
  ]
 }

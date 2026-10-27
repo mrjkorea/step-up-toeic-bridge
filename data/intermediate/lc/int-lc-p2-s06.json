@@ -20,7 +20,7 @@
     "E": "take"
    },
    "accept": "B",
-   "photo": "intermediate/lc-p2-s06/page-070.png",
+   "photo": "intermediate/lc-p2-s06/page-070.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "E": "take"
    },
    "accept": "E",
-   "photo": "intermediate/lc-p2-s06/page-070.png",
+   "photo": "intermediate/lc-p2-s06/page-070.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -52,7 +52,7 @@
     "E": "take"
    },
    "accept": "D",
-   "photo": "intermediate/lc-p2-s06/page-070.png",
+   "photo": "intermediate/lc-p2-s06/page-070.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -68,7 +68,7 @@
     "E": "take"
    },
    "accept": "A",
-   "photo": "intermediate/lc-p2-s06/page-070.png",
+   "photo": "intermediate/lc-p2-s06/page-070.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -84,7 +84,7 @@
     "E": "take"
    },
    "accept": "C",
-   "photo": "intermediate/lc-p2-s06/page-070.png",
+   "photo": "intermediate/lc-p2-s06/page-070.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -312,7 +312,7 @@
     "call me"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q20",
    "label": "20"
@@ -324,7 +324,7 @@
     "studied hard"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q21",
    "label": "21"
@@ -336,7 +336,7 @@
     "walk your dog"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q22",
    "label": "22"
@@ -348,7 +348,7 @@
     "I got ill"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q23",
    "label": "23"
@@ -360,7 +360,7 @@
     "sunny"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q24",
    "label": "24"
@@ -372,7 +372,7 @@
     "upset"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q25",
    "label": "25"
@@ -384,7 +384,7 @@
     "I lost my wallet"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q26",
    "label": "26"
@@ -396,7 +396,7 @@
     "take a rest"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q27",
    "label": "27"
@@ -408,7 +408,7 @@
     "sleepy"
    ],
    "audioOnly": true,
-   "photo": "intermediate/lc-p2-s06/page-072.png",
+   "photo": "intermediate/lc-p2-s06/page-072.jpg",
    "section": "Listening Practice",
    "id": "q28",
    "label": "28"
@@ -542,9 +542,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "intermediate/lc-p2-s06/page-070.png",
-  "intermediate/lc-p2-s06/page-071.png",
-  "intermediate/lc-p2-s06/page-072.png",
-  "intermediate/lc-p2-s06/page-073.png"
+  "intermediate/lc-p2-s06/page-070.jpg",
+  "intermediate/lc-p2-s06/page-071.jpg",
+  "intermediate/lc-p2-s06/page-072.jpg",
+  "intermediate/lc-p2-s06/page-073.jpg"
  ]
 }

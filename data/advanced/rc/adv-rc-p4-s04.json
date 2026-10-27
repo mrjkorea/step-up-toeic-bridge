@@ -17,7 +17,7 @@
     "D": "take an umbrella"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s04/page-036.png",
+   "photo": "advanced/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "take an umbrella"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s04/page-036.png",
+   "photo": "advanced/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "take an umbrella"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s04/page-036.png",
+   "photo": "advanced/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "take an umbrella"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s04/page-036.png",
+   "photo": "advanced/rc-p4-s04/page-036.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -72,8 +72,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up 4-(a): They are not only cheap but also useful. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.png",
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -83,8 +83,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up 4-(b): Get up now or you will miss the train. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.png",
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -94,8 +94,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up 4-(c): Many people insist that he be a spy from another country. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.png",
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -105,8 +105,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up 4-(d): Neither my father nor my uncle knows the secret. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.png",
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "or"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "and but"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -172,7 +172,7 @@
    "accept": [
     "and"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -183,7 +183,7 @@
    "accept": [
     "or"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -194,7 +194,7 @@
    "accept": [
     "that"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
@@ -205,7 +205,7 @@
    "accept": [
     "but"
    ],
-   "photo": "advanced/rc-p4-s04/page-039.png",
+   "photo": "advanced/rc-p4-s04/page-039.jpg",
    "section": "Warm-Up",
    "id": "q17",
    "label": "17"
@@ -216,7 +216,7 @@
    "accept": [
     "if"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q18",
    "label": "18"
@@ -227,7 +227,7 @@
    "accept": [
     "because"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q19",
    "label": "19"
@@ -238,7 +238,7 @@
    "accept": [
     "if"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q20",
    "label": "20"
@@ -249,7 +249,7 @@
    "accept": [
     "Although"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q21",
    "label": "21"
@@ -260,7 +260,7 @@
    "accept": [
     "since"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q22",
    "label": "22"
@@ -271,7 +271,7 @@
    "accept": [
     "since"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q23",
    "label": "23"
@@ -282,7 +282,7 @@
    "accept": [
     "as"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q24",
    "label": "24"
@@ -293,7 +293,7 @@
    "accept": [
     "as"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q25",
    "label": "25"
@@ -304,7 +304,7 @@
    "accept": [
     "when"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q26",
    "label": "26"
@@ -315,7 +315,7 @@
    "accept": [
     "where"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q27",
    "label": "27"
@@ -326,7 +326,7 @@
    "accept": [
     "when"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q28",
    "label": "28"
@@ -338,7 +338,7 @@
     "which",
     "that"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q29",
    "label": "29"
@@ -349,7 +349,7 @@
    "accept": [
     "In case of"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q30",
    "label": "30"
@@ -360,7 +360,7 @@
    "accept": [
     "If"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q31",
    "label": "31"
@@ -371,7 +371,7 @@
    "accept": [
     "While"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q32",
    "label": "32"
@@ -382,7 +382,7 @@
    "accept": [
     "If"
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q33",
    "label": "33"
@@ -393,7 +393,7 @@
    "accept": [
     "Because of the heavy snow, we had to stay at home."
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q34",
    "label": "34"
@@ -404,7 +404,7 @@
    "accept": [
     "After you finish your homework, you may get out."
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q35",
    "label": "35"
@@ -415,7 +415,7 @@
    "accept": [
     "When she was 18, she moved to Seoul."
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q36",
    "label": "36"
@@ -426,7 +426,7 @@
    "accept": [
     "If you find the person, please call me."
    ],
-   "photo": "advanced/rc-p4-s04/page-040.png",
+   "photo": "advanced/rc-p4-s04/page-040.jpg",
    "section": "Grammar Practice",
    "id": "q37",
    "label": "37"
@@ -512,11 +512,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s04/page-036.png",
-  "advanced/rc-p4-s04/page-037.png",
-  "advanced/rc-p4-s04/page-038.png",
-  "advanced/rc-p4-s04/page-039.png",
-  "advanced/rc-p4-s04/page-040.png",
-  "advanced/rc-p4-s04/page-041.png"
+  "advanced/rc-p4-s04/page-036.jpg",
+  "advanced/rc-p4-s04/page-037.jpg",
+  "advanced/rc-p4-s04/page-038.jpg",
+  "advanced/rc-p4-s04/page-039.jpg",
+  "advanced/rc-p4-s04/page-040.jpg",
+  "advanced/rc-p4-s04/page-041.jpg"
  ]
 }

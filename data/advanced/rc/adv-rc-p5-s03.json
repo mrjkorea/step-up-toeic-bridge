@@ -16,7 +16,7 @@
     "C": "violence"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s03/page-092.png",
+   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -30,7 +30,7 @@
     "C": "violence"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s03/page-092.png",
+   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -44,7 +44,7 @@
     "C": "violence"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s03/page-092.png",
+   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -55,7 +55,7 @@
    "accept": [
     "a loaf of bread"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q4",
    "label": "4"
@@ -66,7 +66,7 @@
    "accept": [
     "be prepared for A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -77,7 +77,7 @@
    "accept": [
     "relate to A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q6",
    "label": "6"
@@ -88,7 +88,7 @@
    "accept": [
     "in the solar system"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -99,7 +99,7 @@
    "accept": [
     "more and more"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -110,7 +110,7 @@
    "accept": [
     "become concerned about"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -121,7 +121,7 @@
    "accept": [
     "keep A awake"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -132,7 +132,7 @@
    "accept": [
     "on average"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -143,7 +143,7 @@
    "accept": [
     "be made of"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.png",
+   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -156,7 +156,7 @@
     "B": "It contains a lot of fat."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-094.png",
+   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q13",
    "label": "13"
@@ -169,7 +169,7 @@
     "B": "It keeps people awake."
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-094.png",
+   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q14",
    "label": "14"
@@ -182,7 +182,7 @@
     "B": "Advanced Algebra"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-095.png",
+   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q15",
    "label": "15"
@@ -195,7 +195,7 @@
     "B": "It requires students to use a computer."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-095.png",
+   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q16",
    "label": "16"
@@ -216,7 +216,7 @@
    "passageHead": "Questions 1-2 refer to the following article.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.png"
+   "passageImage": "advanced/rc-pages/page-096.jpg"
   },
   {
    "id": "q18",
@@ -234,7 +234,7 @@
    "passageHead": "Questions 1-2 refer to the following article.",
    "passagePage": 96,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.png"
+   "passageImage": "advanced/rc-pages/page-096.jpg"
   },
   {
    "id": "q19",
@@ -252,7 +252,7 @@
    "passageHead": "Questions 3-4 refer to the following article.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.png"
+   "passageImage": "advanced/rc-pages/page-097.jpg"
   },
   {
    "id": "q20",
@@ -270,14 +270,14 @@
    "passageHead": "Questions 3-4 refer to the following article.",
    "passagePage": 97,
    "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.png"
+   "passageImage": "advanced/rc-pages/page-097.jpg"
   }
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p5-s03/page-092.png",
-  "advanced/rc-p5-s03/page-093.png",
-  "advanced/rc-p5-s03/page-094.png",
-  "advanced/rc-p5-s03/page-095.png"
+  "advanced/rc-p5-s03/page-092.jpg",
+  "advanced/rc-p5-s03/page-093.jpg",
+  "advanced/rc-p5-s03/page-094.jpg",
+  "advanced/rc-p5-s03/page-095.jpg"
  ]
 }

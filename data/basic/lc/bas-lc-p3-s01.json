@@ -15,7 +15,7 @@
     "clean up"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q1",
    "label": "1"
@@ -27,7 +27,7 @@
     "put on"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q2",
    "label": "2"
@@ -39,7 +39,7 @@
     "get off"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q3",
    "label": "3"
@@ -51,7 +51,7 @@
     "turn off"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q4",
    "label": "4"
@@ -63,7 +63,7 @@
     "turn on"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q5",
    "label": "5"
@@ -75,7 +75,7 @@
     "take off"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-089.png",
+   "photo": "basic/lc-p3-s01/page-089.jpg",
    "section": "Pronunciation",
    "id": "q6",
    "label": "6"
@@ -239,7 +239,7 @@
     "toothache"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-091.png",
+   "photo": "basic/lc-p3-s01/page-091.jpg",
    "section": "Listening Practice 1",
    "id": "q18",
    "label": "18"
@@ -281,7 +281,7 @@
     "sneakers"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-092.png",
+   "photo": "basic/lc-p3-s01/page-092.jpg",
    "section": "Listening Practice 2",
    "id": "q21",
    "label": "21"
@@ -293,7 +293,7 @@
     "book"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-092.png",
+   "photo": "basic/lc-p3-s01/page-092.jpg",
    "section": "Listening Practice 2",
    "id": "q22",
    "label": "22"
@@ -331,7 +331,7 @@
     "Friday"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s01/page-093.png",
+   "photo": "basic/lc-p3-s01/page-093.jpg",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -423,10 +423,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p3-s01/page-089.png",
-  "basic/lc-p3-s01/page-090.png",
-  "basic/lc-p3-s01/page-091.png",
-  "basic/lc-p3-s01/page-092.png",
-  "basic/lc-p3-s01/page-093.png"
+  "basic/lc-p3-s01/page-089.jpg",
+  "basic/lc-p3-s01/page-090.jpg",
+  "basic/lc-p3-s01/page-091.jpg",
+  "basic/lc-p3-s01/page-092.jpg",
+  "basic/lc-p3-s01/page-093.jpg"
  ]
 }

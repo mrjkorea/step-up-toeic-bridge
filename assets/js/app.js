@@ -212,9 +212,21 @@
     });
   }
 
+  function normalizePhotoRef(ref) {
+    var s = String(ref).trim();
+    if (!s) return s;
+    var parts = s.split("/");
+    var base = parts[parts.length - 1];
+    if (/^page-.+\.png$/i.test(base)) {
+      parts[parts.length - 1] = base.replace(/\.png$/i, ".jpg");
+      return parts.join("/");
+    }
+    return s;
+  }
+
   function resolvePhotoUrl(ref) {
     if (!ref) return "";
-    var s = String(ref).trim();
+    var s = normalizePhotoRef(String(ref).trim());
     if (!s) return "";
     if (/^https?:\/\//i.test(s)) return s;
     if (s.indexOf("assets/") === 0) return root.stepupUrl(s);

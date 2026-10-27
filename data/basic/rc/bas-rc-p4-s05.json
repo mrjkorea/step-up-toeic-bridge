@@ -19,7 +19,7 @@
     "F": "took"
    },
    "accept": "F",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -36,7 +36,7 @@
     "F": "took"
    },
    "accept": "D",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -53,7 +53,7 @@
     "F": "took"
    },
    "accept": "A",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -70,7 +70,7 @@
     "F": "took"
    },
    "accept": "B",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -87,7 +87,7 @@
     "F": "took"
    },
    "accept": "E",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q5",
    "label": "5"
@@ -104,7 +104,7 @@
     "F": "took"
    },
    "accept": "C",
-   "photo": "basic/rc-p4-s05/page-046.png",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q6",
    "label": "6"
@@ -115,7 +115,7 @@
    "accept": [
     "my"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q7",
    "label": "7"
@@ -126,7 +126,7 @@
    "accept": [
     "your"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q8",
    "label": "8"
@@ -137,7 +137,7 @@
    "accept": [
     "His"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q9",
    "label": "9"
@@ -148,7 +148,7 @@
    "accept": [
     "He wants to talk to you."
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q10",
    "label": "10"
@@ -159,7 +159,7 @@
    "accept": [
     "He washes his shoes."
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q11",
    "label": "11"
@@ -170,7 +170,7 @@
    "accept": [
     "She is my best friend."
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q12",
    "label": "12"
@@ -181,7 +181,7 @@
    "accept": [
     "It is your notebook."
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q13",
    "label": "13"
@@ -192,7 +192,7 @@
    "accept": [
     "a cake"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q14",
    "label": "14"
@@ -203,7 +203,7 @@
    "accept": [
     "a flower"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q15",
    "label": "15"
@@ -214,7 +214,7 @@
    "accept": [
     "a book"
    ],
-   "photo": "basic/rc-p4-s05/page-047.png",
+   "photo": "basic/rc-p4-s05/page-047.jpg",
    "section": "Warm-Up",
    "id": "q16",
    "label": "16"
@@ -225,7 +225,7 @@
    "accept": [
     "He"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q17",
    "label": "17"
@@ -236,7 +236,7 @@
    "accept": [
     "She"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q18",
    "label": "18"
@@ -247,7 +247,7 @@
    "accept": [
     "I"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q19",
    "label": "19"
@@ -258,7 +258,7 @@
    "accept": [
     "his"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q20",
    "label": "20"
@@ -269,7 +269,7 @@
    "accept": [
     "mine"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q21",
    "label": "21"
@@ -280,7 +280,7 @@
    "accept": [
     "hers"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q22",
    "label": "22"
@@ -291,7 +291,7 @@
    "accept": [
     "It is rainy today."
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q23",
    "label": "23"
@@ -302,7 +302,7 @@
    "accept": [
     "It takes four days to finish my report."
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q24",
    "label": "24"
@@ -313,7 +313,7 @@
    "accept": [
     "It is almost 6 o'clock. that"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q25",
    "label": "25"
@@ -324,7 +324,7 @@
    "accept": [
     "those"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q26",
    "label": "26"
@@ -335,7 +335,7 @@
    "accept": [
     "are"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q27",
    "label": "27"
@@ -346,7 +346,7 @@
    "accept": [
     "Those"
    ],
-   "photo": "basic/rc-p4-s05/page-050.png",
+   "photo": "basic/rc-p4-s05/page-050.jpg",
    "section": "Grammar Practice",
    "id": "q28",
    "label": "28"
@@ -432,11 +432,11 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/rc-p4-s05/page-046.png",
-  "basic/rc-p4-s05/page-047.png",
-  "basic/rc-p4-s05/page-048.png",
-  "basic/rc-p4-s05/page-049.png",
-  "basic/rc-p4-s05/page-050.png",
-  "basic/rc-p4-s05/page-051.png"
+  "basic/rc-p4-s05/page-046.jpg",
+  "basic/rc-p4-s05/page-047.jpg",
+  "basic/rc-p4-s05/page-048.jpg",
+  "basic/rc-p4-s05/page-049.jpg",
+  "basic/rc-p4-s05/page-050.jpg",
+  "basic/rc-p4-s05/page-051.jpg"
  ]
 }

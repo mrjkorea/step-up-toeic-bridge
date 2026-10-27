@@ -15,7 +15,7 @@
     "want to"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q1",
    "label": "1"
@@ -27,7 +27,7 @@
     "like to"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q2",
    "label": "2"
@@ -39,7 +39,7 @@
     "wait to"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q3",
    "label": "3"
@@ -51,7 +51,7 @@
     "closed to"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q4",
    "label": "4"
@@ -63,7 +63,7 @@
     "help me"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q5",
    "label": "5"
@@ -75,7 +75,7 @@
     "next to"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.png",
+   "photo": "basic/lc-p3-s02/page-097.jpg",
    "section": "Pronunciation",
    "id": "q6",
    "label": "6"
@@ -223,7 +223,7 @@
     "season"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-099.png",
+   "photo": "basic/lc-p3-s02/page-099.jpg",
    "section": "Listening Practice 1",
    "id": "q16",
    "label": "16"
@@ -235,7 +235,7 @@
     "swimming"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-099.png",
+   "photo": "basic/lc-p3-s02/page-099.jpg",
    "section": "Listening Practice 1",
    "id": "q17",
    "label": "17"
@@ -281,7 +281,7 @@
     "party"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-100.png",
+   "photo": "basic/lc-p3-s02/page-100.jpg",
    "section": "Listening Practice 2",
    "id": "q20",
    "label": "20"
@@ -293,7 +293,7 @@
     "clean"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-100.png",
+   "photo": "basic/lc-p3-s02/page-100.jpg",
    "section": "Listening Practice 2",
    "id": "q21",
    "label": "21"
@@ -339,7 +339,7 @@
     "mid-term"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-101.png",
+   "photo": "basic/lc-p3-s02/page-101.jpg",
    "section": "Listening Practice 3",
    "id": "q24",
    "label": "24"
@@ -351,7 +351,7 @@
     "computer"
    ],
    "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-101.png",
+   "photo": "basic/lc-p3-s02/page-101.jpg",
    "section": "Listening Practice 3",
    "id": "q25",
    "label": "25"
@@ -443,10 +443,10 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "basic/lc-p3-s02/page-097.png",
-  "basic/lc-p3-s02/page-098.png",
-  "basic/lc-p3-s02/page-099.png",
-  "basic/lc-p3-s02/page-100.png",
-  "basic/lc-p3-s02/page-101.png"
+  "basic/lc-p3-s02/page-097.jpg",
+  "basic/lc-p3-s02/page-098.jpg",
+  "basic/lc-p3-s02/page-099.jpg",
+  "basic/lc-p3-s02/page-100.jpg",
+  "basic/lc-p3-s02/page-101.jpg"
  ]
 }

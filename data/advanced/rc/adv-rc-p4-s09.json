@@ -17,7 +17,7 @@
     "D": "urban"
    },
    "accept": "D",
-   "photo": "advanced/rc-p4-s09/page-073.png",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
    "label": "1"
@@ -32,7 +32,7 @@
     "D": "urban"
    },
    "accept": "B",
-   "photo": "advanced/rc-p4-s09/page-073.png",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
    "label": "2"
@@ -47,7 +47,7 @@
     "D": "urban"
    },
    "accept": "A",
-   "photo": "advanced/rc-p4-s09/page-073.png",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
    "label": "3"
@@ -62,7 +62,7 @@
     "D": "urban"
    },
    "accept": "C",
-   "photo": "advanced/rc-p4-s09/page-073.png",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
    "label": "4"
@@ -72,8 +72,8 @@
    "displayOnly": true,
    "scored": false,
    "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s09/page-073.png",
-   "photo": "advanced/rc-p4-s09/page-073.png",
+   "pageImage": "advanced/rc-p4-s09/page-073.jpg",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
    "section": "Warm-Up",
    "id": "q5",
    "label": "5"
@@ -84,7 +84,7 @@
    "accept": [
     "trash"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q6",
    "label": "6"
@@ -95,7 +95,7 @@
    "accept": [
     "taxi driver"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q7",
    "label": "7"
@@ -106,7 +106,7 @@
    "accept": [
     "bank"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q8",
    "label": "8"
@@ -117,7 +117,7 @@
    "accept": [
     "department store"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q9",
    "label": "9"
@@ -128,7 +128,7 @@
    "accept": [
     "movie theater: movie theater"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q10",
    "label": "10"
@@ -139,7 +139,7 @@
    "accept": [
     "post office: post office"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q11",
    "label": "11"
@@ -150,7 +150,7 @@
    "accept": [
     "parking lot: parking lot"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q12",
    "label": "12"
@@ -161,7 +161,7 @@
    "accept": [
     "movie theater"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q13",
    "label": "13"
@@ -172,7 +172,7 @@
    "accept": [
     "office building"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q14",
    "label": "14"
@@ -183,7 +183,7 @@
    "accept": [
     "newsstand"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q15",
    "label": "15"
@@ -194,7 +194,7 @@
    "accept": [
     "fire station"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q16",
    "label": "16"
@@ -205,7 +205,7 @@
    "accept": [
     "post office"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q17",
    "label": "17"
@@ -216,7 +216,7 @@
    "accept": [
     "rural"
    ],
-   "photo": "advanced/rc-p4-s09/page-076.png",
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
    "section": "Vocabulary Practice",
    "id": "q18",
    "label": "18"
@@ -276,9 +276,9 @@
  ],
  "contentVersion": "v4-finishpack-2026-10-28",
  "bookPages": [
-  "advanced/rc-p4-s09/page-073.png",
-  "advanced/rc-p4-s09/page-074.png",
-  "advanced/rc-p4-s09/page-075.png",
-  "advanced/rc-p4-s09/page-076.png"
+  "advanced/rc-p4-s09/page-073.jpg",
+  "advanced/rc-p4-s09/page-074.jpg",
+  "advanced/rc-p4-s09/page-075.jpg",
+  "advanced/rc-p4-s09/page-076.jpg"
  ]
 }
