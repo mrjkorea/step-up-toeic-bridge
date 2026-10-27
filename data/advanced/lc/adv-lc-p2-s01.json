@@ -1,140 +1,276 @@
 {
- "practiceId": "adv-lc-p2-s01",
- "title": "Part II · Section 01",
- "subtitle": "Yes/No",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p2-s01",
- "introEn": "Listen to each question and choose the best response (Yes/No).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "She's fine.",
-    "B": "Yes, I was.",
-    "C": "In the classroom."
-   },
-   "prompt": "Weren't you one of my sister's friends in middle school?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "No, it isn't.",
-    "B": "Sure, no problem.",
-    "C": "In the truck."
-   },
-   "prompt": "Will you help me move this on Saturday?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "On the computer.",
-    "B": "Yes, she can.",
-    "C": "I have to go."
-   },
-   "prompt": "Can she type more than four hundred words per minute?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "I don't think it's open.",
-    "B": "No, it locks by itself.",
-    "C": "Please stay until everyone has left."
-   },
-   "prompt": "Should I lock the door when I leave?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "No, it's not.",
-    "B": "No, he hasn't.",
-    "C": "White and red."
-   },
-   "prompt": "Hasn't John finished working on the roof yet?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "No, he wasn't.",
-    "B": "Yes, but I was too tired.",
-    "C": "In the arena."
-   },
-   "prompt": "Weren't you supposed to go to the hockey game tonight?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "I need to take a rest.",
-    "B": "It's 9:00 a.m.",
-    "C": "Yes, she is."
-   },
-   "prompt": "Aren't you going to finish painting the fence?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "No, she changed her flight.",
-    "B": "The pilot did.",
-    "C": "No, I don't."
-   },
-   "prompt": "Hasn't Helen left for the airport yet?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Around the corner.",
-    "B": "It's very good.",
-    "C": "Yes, but I had to work late."
-   },
-   "prompt": "Didn't you have plans to see a play tonight?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Check-Up"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p2-s01",
+  "title": "Part II · Section 01",
+  "subtitle": "Yes/No",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p2-s01",
+  "introEn": "Listen to each question and choose the best response (Yes/No).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "come over to your house tomorrow",
+        "B": "have time to help me make an apple pie tomorrow",
+        "C": "like something to drink",
+        "D": "pick the kids up from school on your way home",
+        "E": "see the latest movie at the theater"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "come over to your house tomorrow",
+        "B": "have time to help me make an apple pie tomorrow",
+        "C": "like something to drink",
+        "D": "pick the kids up from school on your way home",
+        "E": "see the latest movie at the theater"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "come over to your house tomorrow",
+        "B": "have time to help me make an apple pie tomorrow",
+        "C": "like something to drink",
+        "D": "pick the kids up from school on your way home",
+        "E": "see the latest movie at the theater"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "come over to your house tomorrow",
+        "B": "have time to help me make an apple pie tomorrow",
+        "C": "like something to drink",
+        "D": "pick the kids up from school on your way home",
+        "E": "see the latest movie at the theater"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "come over to your house tomorrow",
+        "B": "have time to help me make an apple pie tomorrow",
+        "C": "like something to drink",
+        "D": "pick the kids up from school on your way home",
+        "E": "see the latest movie at the theater"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "I need to take a rest.",
+        "B": "It's 9:00 a.m.",
+        "C": "Yes, she is."
+      },
+      "prompt": "Aren't you going to finish painting the fence?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "No, she changed her flight.",
+        "B": "The pilot did.",
+        "C": "No, I don't."
+      },
+      "prompt": "Hasn't Helen left for the airport yet?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "Around the corner.",
+        "B": "It's very good.",
+        "C": "Yes, but I had to work late."
+      },
+      "prompt": "Didn't you have plans to see a play tonight?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "She's fine.",
+        "B": "Yes, I was.",
+        "C": "In the classroom."
+      },
+      "prompt": "Weren't you one of my sister's friends in middle school?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "No, it isn't.",
+        "B": "Sure, no problem.",
+        "C": "In the truck."
+      },
+      "prompt": "Will you help me move this on Saturday?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "On the computer.",
+        "B": "Yes, she can.",
+        "C": "I have to go."
+      },
+      "prompt": "Can she type more than four hundred words per minute?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "I don't think it's open.",
+        "B": "No, it locks by itself.",
+        "C": "Please stay until everyone has left."
+      },
+      "prompt": "Should I lock the door when I leave?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "No, it's not.",
+        "B": "No, he hasn't.",
+        "C": "White and red."
+      },
+      "prompt": "Hasn't John finished working on the roof yet?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "No, he wasn't.",
+        "B": "Yes, but I was too tired.",
+        "C": "In the arena."
+      },
+      "prompt": "Weren't you supposed to go to the hockey game tonight?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

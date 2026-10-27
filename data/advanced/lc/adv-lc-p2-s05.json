@@ -1,140 +1,276 @@
 {
- "practiceId": "adv-lc-p2-s05",
- "title": "Part II · Section 05",
- "subtitle": "Tag questions",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p2-s05",
- "introEn": "Listen to each question and choose the best response (Tag questions).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I was disappointed with it.",
-    "B": "Yes, the company gives a bonus twice. a year.",
-    "C": "Yes, I'm hoping to buy a new car with the money."
-   },
-   "prompt": "The annual bonus was large this year, wasn't it?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Everybody in the office is moving to Australia.",
-    "B": "Yes, I've heard that he is.",
-    "C": "He's going to move to Australia this week."
-   },
-   "prompt": "Our new office manager is from Australia, isn't he?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I found the meeting to be very interesting.",
-    "B": "Yes, I just heard the news this morning.",
-    "C": "No, it's a publishing company."
-   },
-   "prompt": "The company's in financial trouble, isn't it?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I play the saxophone.",
-    "B": "Yes, I really liked their music.",
-    "C": "No, the band was canceled."
-   },
-   "prompt": "The jazz band was great, wasn't it?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "I usually get up early in the morning.",
-    "B": "Yes, it sounds really beautiful.",
-    "C": "No, usually go in the evening."
-   },
-   "prompt": "I love to hear birds singing in the morning. don't you?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I got promoted last week.",
-    "B": "No, he used to work on the 6th floor.",
-    "C": "The 6th floor is having a party."
-   },
-   "prompt": "You used to work on the 6th floor, didn't you?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, she's been working overtime.",
-    "B": "Yes, we need a spare tire.",
-    "C": "No, she was very quiet."
-   },
-   "prompt": "Susan seemed tired yesterday, didn't she?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I'm a little disappointed.",
-    "B": "No, I used to work in the old office.",
-    "C": "Yes, I think the office is very large."
-   },
-   "prompt": "Our new office is small, isn't it?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I stayed inside all weekend.",
-    "B": "Yes, it says it's going to snow.",
-    "C": "Yes, I'd like to go hiking on the weekend."
-   },
-   "prompt": "The weather this weekend was terrible, wasn't it?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Check-Up"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-lc-p2-s05",
+  "title": "Part II · Section 05",
+  "subtitle": "Tag questions",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p2-s05",
+  "introEn": "Listen to each question and choose the best response (Tag questions).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "aren't they",
+        "B": "aren't you",
+        "C": "didn't he",
+        "D": "didn't you",
+        "E": "isn't it"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "aren't they",
+        "B": "aren't you",
+        "C": "didn't he",
+        "D": "didn't you",
+        "E": "isn't it"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "aren't they",
+        "B": "aren't you",
+        "C": "didn't he",
+        "D": "didn't you",
+        "E": "isn't it"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "aren't they",
+        "B": "aren't you",
+        "C": "didn't he",
+        "D": "didn't you",
+        "E": "isn't it"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "aren't they",
+        "B": "aren't you",
+        "C": "didn't he",
+        "D": "didn't you",
+        "E": "isn't it"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, she's been working overtime.",
+        "B": "Yes, we need a spare tire.",
+        "C": "No, she was very quiet."
+      },
+      "prompt": "Susan seemed tired yesterday, didn't she?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I'm a little disappointed.",
+        "B": "No, I used to work in the old office.",
+        "C": "Yes, I think the office is very large."
+      },
+      "prompt": "Our new office is small, isn't it?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I stayed inside all weekend.",
+        "B": "Yes, it says it's going to snow.",
+        "C": "Yes, I'd like to go hiking on the weekend."
+      },
+      "prompt": "The weather this weekend was terrible, wasn't it?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I was disappointed with it.",
+        "B": "Yes, the company gives a bonus twice. a year.",
+        "C": "Yes, I'm hoping to buy a new car with the money."
+      },
+      "prompt": "The annual bonus was large this year, wasn't it?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "Everybody in the office is moving to Australia.",
+        "B": "Yes, I've heard that he is.",
+        "C": "He's going to move to Australia this week."
+      },
+      "prompt": "Our new office manager is from Australia, isn't he?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I found the meeting to be very interesting.",
+        "B": "Yes, I just heard the news this morning.",
+        "C": "No, it's a publishing company."
+      },
+      "prompt": "The company's in financial trouble, isn't it?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I play the saxophone.",
+        "B": "Yes, I really liked their music.",
+        "C": "No, the band was canceled."
+      },
+      "prompt": "The jazz band was great, wasn't it?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "I usually get up early in the morning.",
+        "B": "Yes, it sounds really beautiful.",
+        "C": "No, usually go in the evening."
+      },
+      "prompt": "I love to hear birds singing in the morning. don't you?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I got promoted last week.",
+        "B": "No, he used to work on the 6th floor.",
+        "C": "The 6th floor is having a party."
+      },
+      "prompt": "You used to work on the 6th floor, didn't you?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

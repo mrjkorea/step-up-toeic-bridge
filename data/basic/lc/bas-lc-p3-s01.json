@@ -1,91 +1,283 @@
 {
- "practiceId": "bas-lc-p3-s01",
- "title": "Part III · Section 01",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s01",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Ice",
-    "B": "Tea",
-    "C": "Soda",
-    "D": "Water"
-   },
-   "prompt": "What does the woman say she wants?",
-   "accept": "D"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "He left his bag on the bus.",
-    "B": "The office is going to close.",
-    "C": "His gym class has been canceled.",
-    "D": "His bus has already left the station."
-   },
-   "prompt": "What does the man find out?",
-   "accept": "A"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "At a hotel",
-    "B": "At an airport",
-    "C": "At a post office",
-    "D": "At a department store"
-   },
-   "prompt": "Where does this conversation probably take place?",
-   "accept": "D"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "At a library",
-    "B": "At a restaurant",
-    "C": "At a supermarket",
-    "D": "At a clothing store"
-   },
-   "prompt": "Where does this conversation probably take place?",
-   "accept": "B"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "Taking a break",
-    "B": "Shopping for food",
-    "C": "Packing some clothes",
-    "D": "Reserving a hotel room"
-   },
-   "prompt": "What is the man doing?",
-   "accept": "C"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Get change",
-    "B": "Return an item",
-    "C": "Get a key copied",
-    "D": "Find a salesperson"
-   },
-   "prompt": "What does the man want to do?",
-   "accept": "C"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "bas-lc-p3-s01",
+  "title": "Part III · Section 01",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s01",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "doctor",
+        "B": "teacher",
+        "C": "waiter"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "doctor",
+        "B": "teacher",
+        "C": "waiter"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "doctor",
+        "B": "teacher",
+        "C": "waiter"
+      },
+      "prompt": "Warm-Up 1-(c): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "park",
+        "B": "school",
+        "C": "store"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "park",
+        "B": "school",
+        "C": "store"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "park",
+        "B": "school",
+        "C": "store"
+      },
+      "prompt": "Warm-Up 2-(c): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "December",
+        "B": "summer",
+        "C": "tomorrow"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "December",
+        "B": "summer",
+        "C": "tomorrow"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "December",
+        "B": "summer",
+        "C": "tomorrow"
+      },
+      "prompt": "Warm-Up 3-(c): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "bookstore",
+        "B": "dentist",
+        "C": "shoe store",
+        "D": "Thursday"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "bookstore",
+        "B": "dentist",
+        "C": "shoe store",
+        "D": "Thursday"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "bookstore",
+        "B": "dentist",
+        "C": "shoe store",
+        "D": "Thursday"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "bookstore",
+        "B": "dentist",
+        "C": "shoe store",
+        "D": "Thursday"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "Ice",
+        "B": "Tea",
+        "C": "Soda",
+        "D": "Water"
+      },
+      "prompt": "What does the woman say she wants?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "He left his bag on the bus.",
+        "B": "The office is going to close.",
+        "C": "His gym class has been canceled.",
+        "D": "His bus has already left the station."
+      },
+      "prompt": "What does the man find out?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "At a hotel",
+        "B": "At an airport",
+        "C": "At a post office",
+        "D": "At a department store"
+      },
+      "prompt": "Where does this conversation probably take place?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "At a library",
+        "B": "At a restaurant",
+        "C": "At a supermarket",
+        "D": "At a clothing store"
+      },
+      "prompt": "Where does this conversation probably take place?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "Taking a break",
+        "B": "Shopping for food",
+        "C": "Packing some clothes",
+        "D": "Reserving a hotel room"
+      },
+      "prompt": "What is the man doing?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "Get change",
+        "B": "Return an item",
+        "C": "Get a key copied",
+        "D": "Find a salesperson"
+      },
+      "prompt": "What does the man want to do?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

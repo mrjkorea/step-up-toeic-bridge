@@ -1,140 +1,356 @@
 {
- "practiceId": "bas-lc-p2-s02",
- "title": "Part II · Section 02",
- "subtitle": "Why",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p2-s02",
- "introEn": "Listen to each question and choose the best response (Why).",
- "timerMinutes": 12,
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "It gets in at seven.",
-    "B": "I'm leaving Wednesday.",
-    "C": "I've never been there."
-   },
-   "prompt": "What day are you flying to San Francisco?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "My parents are Italian.",
-    "B": "Turning sixteen next week.",
-    "C": "Waiting for class to start."
-   },
-   "prompt": "What are you doing?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Three of them.",
-    "B": "Double \"A,\" I think.",
-    "C": "For the flashlight."
-   },
-   "prompt": "What size batteries do I need?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "I prefer to sit inside.",
-    "B": "They're watching a movie being filmed.",
-    "C": "No, I haven't looked at it yet."
-   },
-   "prompt": "What are all those people outside looking at?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "It can be any topic you want.",
-    "B": "For History and English.",
-    "C": "Monday, the tenth."
-   },
-   "prompt": "What's the due date for final projects?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "It's in my right hand.",
-    "B": "I cut it peeling an apple.",
-    "C": "No, with my arm."
-   },
-   "prompt": "What happened to your finger?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "I have a fever.",
-    "B": "It is Friday.",
-    "C": "It is May."
-   },
-   "prompt": "What day is it today?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "I have a toothache.",
-    "B": "I have a tooth.",
-    "C": "It is Sunday."
-   },
-   "prompt": "What is the matter?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "I like music.",
-    "B": "I have a CD.",
-    "C": "I am listening to music."
-   },
-   "prompt": "What are you doing?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Check-Up"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "bas-lc-p2-s02",
+  "title": "Part II · Section 02",
+  "subtitle": "Why",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p2-s02",
+  "introEn": "Listen to each question and choose the best response (Why).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "are you",
+        "B": "day is it",
+        "C": "is it",
+        "D": "is the date",
+        "E": "is the matter"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "are you",
+        "B": "day is it",
+        "C": "is it",
+        "D": "is the date",
+        "E": "is the matter"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "are you",
+        "B": "day is it",
+        "C": "is it",
+        "D": "is the date",
+        "E": "is the matter"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "are you",
+        "B": "day is it",
+        "C": "is it",
+        "D": "is the date",
+        "E": "is the matter"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "are you",
+        "B": "day is it",
+        "C": "is it",
+        "D": "is the date",
+        "E": "is the matter"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "I am studying.",
+        "B": "It is a bag.",
+        "C": "It is May 15th.",
+        "D": "It is Saturday.",
+        "E": "Nothing."
+      },
+      "prompt": "Warm-Up 2-(a): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "I am studying.",
+        "B": "It is a bag.",
+        "C": "It is May 15th.",
+        "D": "It is Saturday.",
+        "E": "Nothing."
+      },
+      "prompt": "Warm-Up 2-(b): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "I am studying.",
+        "B": "It is a bag.",
+        "C": "It is May 15th.",
+        "D": "It is Saturday.",
+        "E": "Nothing."
+      },
+      "prompt": "Warm-Up 2-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "I am studying.",
+        "B": "It is a bag.",
+        "C": "It is May 15th.",
+        "D": "It is Saturday.",
+        "E": "Nothing."
+      },
+      "prompt": "Warm-Up 2-(d): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "I am studying.",
+        "B": "It is a bag.",
+        "C": "It is May 15th.",
+        "D": "It is Saturday.",
+        "E": "Nothing."
+      },
+      "prompt": "Warm-Up 2-(e): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "I have a fever.",
+        "B": "It is Friday.",
+        "C": "It is May."
+      },
+      "prompt": "What day is it today?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "I have a toothache.",
+        "B": "I have a tooth.",
+        "C": "It is Sunday."
+      },
+      "prompt": "What is the matter?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "I like music.",
+        "B": "I have a CD.",
+        "C": "I am listening to music."
+      },
+      "prompt": "What are you doing?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "It gets in at seven.",
+        "B": "I'm leaving Wednesday.",
+        "C": "I've never been there."
+      },
+      "prompt": "What day are you flying to San Francisco?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "My parents are Italian.",
+        "B": "Turning sixteen next week.",
+        "C": "Waiting for class to start."
+      },
+      "prompt": "What are you doing?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "Three of them.",
+        "B": "Double \"A,\" I think.",
+        "C": "For the flashlight."
+      },
+      "prompt": "What size batteries do I need?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "I prefer to sit inside.",
+        "B": "They're watching a movie being filmed.",
+        "C": "No, I haven't looked at it yet."
+      },
+      "prompt": "What are all those people outside looking at?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "It can be any topic you want.",
+        "B": "For History and English.",
+        "C": "Monday, the tenth."
+      },
+      "prompt": "What's the due date for final projects?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "It's in my right hand.",
+        "B": "I cut it peeling an apple.",
+        "C": "No, with my arm."
+      },
+      "prompt": "What happened to your finger?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }
