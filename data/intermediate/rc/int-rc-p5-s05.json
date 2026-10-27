@@ -8,8 +8,175 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "expensive",
+    "B": "favorite",
+    "C": "market",
+    "D": "price"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "expensive",
+    "B": "favorite",
+    "C": "market",
+    "D": "price"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "expensive",
+    "B": "favorite",
+    "C": "market",
+    "D": "price"
+   },
+   "accept": "D",
+   "photo": "intermediate/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "expensive",
+    "B": "favorite",
+    "C": "market",
+    "D": "price"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p5-s05/page-104.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "regular price"
+   ],
+   "photo": "intermediate/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "spare time"
+   ],
+   "photo": "intermediate/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "at college"
+   ],
+   "photo": "intermediate/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "extra large"
+   ],
+   "photo": "intermediate/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "store hours"
+   ],
+   "photo": "intermediate/rc-p5-s05/page-105.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is the most expensive fruit?",
+   "choices": {
+    "A": "Banana",
+    "B": "Watermelon"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "choice",
+   "prompt": "If you buy a watermelon and a pear, how much do they cost?",
+   "choices": {
+    "A": "$6.4",
+    "B": "$6.9"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s05/page-106.jpg",
+   "section": "Reading Practice 1",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "How many different kinds of tea are served each week?",
+   "choices": {
+    "A": "Five kinds of tea",
+    "B": "Six kinds of tea"
+   },
+   "accept": "A",
+   "passageImage": "intermediate/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "What kind of tea is served the most throughout the week?",
+   "choices": {
+    "A": "Herbal tea",
+    "B": "Iced tea"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s05/page-107.jpg",
+   "section": "Reading Practice 2",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "id": "q14",
+   "label": "14",
    "type": "choice",
    "choices": {
     "A": "Reading",
@@ -22,11 +189,12 @@
    "passage": "A Graph to show what 100 Male and Female / students do in Their Space Time at College / Reading | Playing | Watching | Drawing / Sports | TV",
    "passageHead": "Questions 1-2 refer to the following graph.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-108.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "Reading, playing sports, and watching TV",
@@ -39,11 +207,12 @@
    "passage": "A Graph to show what 100 Male and Female / students do in Their Space Time at College / Reading | Playing | Watching | Drawing / Sports | TV",
    "passageHead": "Questions 1-2 refer to the following graph.",
    "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-108.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "$1.99",
@@ -56,11 +225,12 @@
    "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-109.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "Monday",
@@ -73,8 +243,15 @@
    "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
    "passageHead": "Questions 3-4 refer to the following chart.",
    "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-109.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p5-s05/page-104.jpg",
+  "intermediate/rc-p5-s05/page-105.jpg",
+  "intermediate/rc-p5-s05/page-106.jpg",
+  "intermediate/rc-p5-s05/page-107.jpg"
+ ]
 }

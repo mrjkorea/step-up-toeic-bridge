@@ -1,277 +1,542 @@
 {
-  "practiceId": "int-lc-p3-s02",
-  "title": "Part III · Section 02",
-  "subtitle": "Conversations & talks",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p3-s02",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Internet",
-        "B": "Reception"
-      },
-      "prompt": "Warm-Up 1-(a): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Internet",
-        "B": "Reception"
-      },
-      "prompt": "Warm-Up 1-(b): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Debit card",
-        "B": "Sending money"
-      },
-      "prompt": "Warm-Up 2-(a): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Debit card",
-        "B": "Sending money"
-      },
-      "prompt": "Warm-Up 2-(b): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "Cooking",
-        "B": "Go shopping"
-      },
-      "prompt": "Warm-Up 3-(a): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Cooking",
-        "B": "Go shopping"
-      },
-      "prompt": "Warm-Up 3-(b): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-      "accept": "F",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "A book",
-        "B": "A leak",
-        "C": "An allergy",
-        "D": "Man's bone",
-        "E": "Michael's car",
-        "F": "Winter holiday"
-      },
-      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q13",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "Where the school will be built",
-        "B": "When the school will be built",
-        "C": "The location of the meeting",
-        "D": "How to make the town more interesting"
-      },
-      "prompt": "What was the topic of the town meeting?",
-      "accept": "A",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q14",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "Where to go on a vacation",
-        "B": "A new movie the woman made",
-        "C": "A book the woman wrote",
-        "D": "An interesting book the man borrowed"
-      },
-      "prompt": "What are the two people discussing?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q15",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "A book that the man is reading",
-        "B": "A book that the woman borrowed from the man",
-        "C": "An interesting and funny book that the woman has just bought",
-        "D": "A book that the woman likes to read"
-      },
-      "prompt": "What are the speakers talking about?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q16",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "That the man won't make the target",
-        "B": "That she will make this month's target",
-        "C": "That she isn't sure she can make this month's sales target",
-        "D": "That she won't be able to make this month's target"
-      },
-      "prompt": "What is the woman saying?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q17",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "That her TV is broken",
-        "B": "That her TV is repaired and ready",
-        "C": "That he won't be ready until tomorrow evening",
-        "D": "That her TV is still not repaired yet"
-      },
-      "prompt": "What is the man telling the woman?",
-      "accept": "D",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q18",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "He wants to apply for a job.",
-        "B": "He has already sent his application by mail.",
-        "C": "He has already e-mailed her his application.",
-        "D": "He will check the e-mail the woman sent him."
-      },
-      "prompt": "What is the man telling the woman?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "int-lc-p3-s02",
+ "title": "Part III · Section 02",
+ "subtitle": "Conversations & talks",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p3-s02",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "borrow",
+    "B": "novel",
+    "C": "repair"
+   },
+   "accept": "C",
+   "photo": "intermediate/lc-p3-s02/page-092.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "borrow",
+    "B": "novel",
+    "C": "repair"
+   },
+   "accept": "A",
+   "photo": "intermediate/lc-p3-s02/page-092.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "borrow",
+    "B": "novel",
+    "C": "repair"
+   },
+   "accept": "B",
+   "photo": "intermediate/lc-p3-s02/page-092.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Internet",
+    "B": "Reception"
+   },
+   "prompt": "Warm-Up 1-(a): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Internet",
+    "B": "Reception"
+   },
+   "prompt": "Warm-Up 1-(b): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Debit card",
+    "B": "Sending money"
+   },
+   "prompt": "Warm-Up 2-(a): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Debit card",
+    "B": "Sending money"
+   },
+   "prompt": "Warm-Up 2-(b): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Cooking",
+    "B": "Go shopping"
+   },
+   "prompt": "Warm-Up 3-(a): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "Cooking",
+    "B": "Go shopping"
+   },
+   "prompt": "Warm-Up 3-(b): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+   "accept": [
+    "flat tire"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-094.jpg",
+   "section": "Listening Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+   "accept": [
+    "lift"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-094.jpg",
+   "section": "Listening Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 3: type the words you hear.",
+   "accept": [
+    "changed"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-094.jpg",
+   "section": "Listening Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+   "accept": [
+    "maintenance department"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-094.jpg",
+   "section": "Listening Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
+   "accept": [
+    "taken care of"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-094.jpg",
+   "section": "Listening Practice 1",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "id": "q17",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "id": "q18",
+   "label": "18",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+   "accept": [
+    "lately"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 2: type the words you hear.",
+   "accept": [
+    "allergy"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 3: type the words you hear.",
+   "accept": [
+    "every spring"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 4: type the words you hear.",
+   "accept": [
+    "medicine"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+   "accept": [
+    "bone isn't broken"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+   "accept": [
+    "glad to hear that"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 3: type the words you hear.",
+   "accept": [
+    "motion"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-095.jpg",
+   "section": "Listening Practice 2",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "id": "q26",
+   "label": "26",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+   "accept": "F",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "id": "q27",
+   "label": "27",
+   "type": "choice",
+   "choices": {
+    "A": "A book",
+    "B": "A leak",
+    "C": "An allergy",
+    "D": "Man's bone",
+    "E": "Michael's car",
+    "F": "Winter holiday"
+   },
+   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+   "accept": [
+    "winter holidays"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
+   "accept": [
+    "ski trip"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 3: type the words you hear.",
+   "accept": [
+    "relax"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q30",
+   "label": "30"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+   "accept": [
+    "novel"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q31",
+   "label": "31"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
+   "accept": [
+    "exciting"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q32",
+   "label": "32"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 3: type the words you hear.",
+   "accept": [
+    "finished"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s02/page-096.jpg",
+   "section": "Listening Practice 3",
+   "id": "q33",
+   "label": "33"
+  },
+  {
+   "id": "q34",
+   "label": "34",
+   "type": "choice",
+   "choices": {
+    "A": "Where the school will be built",
+    "B": "When the school will be built",
+    "C": "The location of the meeting",
+    "D": "How to make the town more interesting"
+   },
+   "prompt": "What was the topic of the town meeting?",
+   "accept": "A",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q35",
+   "label": "35",
+   "type": "choice",
+   "choices": {
+    "A": "Where to go on a vacation",
+    "B": "A new movie the woman made",
+    "C": "A book the woman wrote",
+    "D": "An interesting book the man borrowed"
+   },
+   "prompt": "What are the two people discussing?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q36",
+   "label": "36",
+   "type": "choice",
+   "choices": {
+    "A": "A book that the man is reading",
+    "B": "A book that the woman borrowed from the man",
+    "C": "An interesting and funny book that the woman has just bought",
+    "D": "A book that the woman likes to read"
+   },
+   "prompt": "What are the speakers talking about?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q37",
+   "label": "37",
+   "type": "choice",
+   "choices": {
+    "A": "That the man won't make the target",
+    "B": "That she will make this month's target",
+    "C": "That she isn't sure she can make this month's sales target",
+    "D": "That she won't be able to make this month's target"
+   },
+   "prompt": "What is the woman saying?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q38",
+   "label": "38",
+   "type": "choice",
+   "choices": {
+    "A": "That her TV is broken",
+    "B": "That her TV is repaired and ready",
+    "C": "That he won't be ready until tomorrow evening",
+    "D": "That her TV is still not repaired yet"
+   },
+   "prompt": "What is the man telling the woman?",
+   "accept": "D",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q39",
+   "label": "39",
+   "type": "choice",
+   "choices": {
+    "A": "He wants to apply for a job.",
+    "B": "He has already sent his application by mail.",
+    "C": "He has already e-mailed her his application.",
+    "D": "He will check the e-mail the woman sent him."
+   },
+   "prompt": "What is the man telling the woman?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/lc-p3-s02/page-092.jpg",
+  "intermediate/lc-p3-s02/page-093.jpg",
+  "intermediate/lc-p3-s02/page-094.jpg",
+  "intermediate/lc-p3-s02/page-095.jpg",
+  "intermediate/lc-p3-s02/page-096.jpg"
+ ]
 }

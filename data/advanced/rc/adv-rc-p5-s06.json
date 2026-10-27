@@ -8,8 +8,190 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bring",
+    "B": "cancel",
+    "C": "reach"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bring",
+    "B": "cancel",
+    "C": "reach"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bring",
+    "B": "cancel",
+    "C": "reach"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p5-s06/page-110.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "application form"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "if interested"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "ask for"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "make sure"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "no longer"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "company dinner"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "be expected to"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "accounts department"
+   ],
+   "photo": "advanced/rc-p5-s06/page-111.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is the reason for the memo?",
+   "choices": {
+    "A": "To tell staff that the accounts department will be closed on Friday",
+    "B": "To tell staff that a job is available in the accounts department"
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s06/page-112.jpg",
+   "section": "Reading Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "What should people do to apply?",
+   "choices": {
+    "A": "Give the accounts department a completed application form",
+    "B": "Get experience working in an accounts department"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s06/page-112.jpg",
+   "section": "Reading Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "What are students asked to write about?",
+   "choices": {
+    "A": "A famous person",
+    "B": "A member of their family"
+   },
+   "accept": "A",
+   "passageImage": "advanced/rc-p5-s06/page-113.jpg",
+   "section": "Reading Practice 2",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is learned about the assignment?",
+   "choices": {
+    "A": "It must include pictures.",
+    "B": "It is due on February 6."
+   },
+   "accept": "B",
+   "passageImage": "advanced/rc-p5-s06/page-113.jpg",
+   "section": "Reading Practice 2",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "The salesperson",
@@ -22,11 +204,12 @@
    "passage": "",
    "passageHead": "Questions 1-2 refer to the following memo.",
    "passagePage": 114,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-114.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "Every Friday",
@@ -39,11 +222,12 @@
    "passage": "",
    "passageHead": "Questions 1-2 refer to the following memo.",
    "passagePage": 114,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-114.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "In their garage",
@@ -56,11 +240,12 @@
    "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
    "passageHead": "Questions 3-4 refer to the following memo.",
    "passagePage": 115,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-115.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "Speeding in the parking lot",
@@ -73,8 +258,15 @@
    "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
    "passageHead": "Questions 3-4 refer to the following memo.",
    "passagePage": 115,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "advanced/rc-pages/page-115.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p5-s06/page-110.jpg",
+  "advanced/rc-p5-s06/page-111.jpg",
+  "advanced/rc-p5-s06/page-112.jpg",
+  "advanced/rc-p5-s06/page-113.jpg"
+ ]
 }

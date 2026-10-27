@@ -8,8 +8,343 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Before long",
+    "B": "get hurt",
+    "C": "Hundreds of",
+    "D": "satisfied with"
+   },
+   "accept": "D",
+   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Before long",
+    "B": "get hurt",
+    "C": "Hundreds of",
+    "D": "satisfied with"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Before long",
+    "B": "get hurt",
+    "C": "Hundreds of",
+    "D": "satisfied with"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Before long",
+    "B": "get hurt",
+    "C": "Hundreds of",
+    "D": "satisfied with"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s02/page-016.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
+   "accept": [
+    "standing"
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
+   "accept": [
+    "killed"
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
+   "accept": [
+    "broken"
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
+   "accept": [
+    "excited"
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
+   "accept": [
+    "The letter was written by Tom."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "accept": [
+    "The bird will be saved by the man."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
+   "accept": [
+    "The book has been read several times by him."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(d): type the answer (see the book page).",
+   "accept": [
+    "The people are being served by the woman."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
+   "accept": [
+    "My friends speak English in class."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
+   "accept": [
+    "He has supported her."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
+   "accept": [
+    "He announced the result."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(d): type the answer (see the book page).",
+   "accept": [
+    "They called me Mr. Kim."
+   ],
+   "photo": "advanced/rc-p4-s02/page-019.jpg",
+   "section": "Warm-Up",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-: type the answer (see the book page).",
+   "accept": [
+    "("
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "When walking on the street, I encountered him."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "Though feeling sleepy, I must not go to bed."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
+   "accept": [
+    "Doing the dishes, she sings pop songs."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(d): type the answer (see the book page).",
+   "accept": [
+    "Made in Japan, it is expensive."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
+   "accept": [
+    "I was made to clean his office by my boss."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
+   "accept": [
+    "The wounded bird was taken care of by him."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
+   "accept": [
+    "The sunrise was caught sight of by her."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(d): type the answer (see the book page).",
+   "accept": [
+    "My grandfather was seen to play"
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(a): type the answer (see the book page).",
+   "accept": [
+    "The radio was turned off by me."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(b): type the answer (see the book page).",
+   "accept": [
+    "By whom was it made?"
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(c): type the answer (see the book page).",
+   "accept": [
+    "The chairs are being repaired by the man."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 5-(d): type the answer (see the book page).",
+   "accept": [
+    "He was made to pick it up."
+   ],
+   "photo": "advanced/rc-p4-s02/page-020.jpg",
+   "section": "Grammar Practice",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "drop",
@@ -21,8 +356,8 @@
    "accept": "B"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "look",
@@ -34,8 +369,8 @@
    "accept": "B"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "Judge",
@@ -47,8 +382,8 @@
    "accept": "B"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "enter",
@@ -60,8 +395,8 @@
    "accept": "B"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "sell",
@@ -73,8 +408,8 @@
    "accept": "C"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q35",
+   "label": "35",
    "type": "choice",
    "choices": {
     "A": "fix",
@@ -86,5 +421,13 @@
    "accept": "B"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p4-s02/page-016.jpg",
+  "advanced/rc-p4-s02/page-017.jpg",
+  "advanced/rc-p4-s02/page-018.jpg",
+  "advanced/rc-p4-s02/page-019.jpg",
+  "advanced/rc-p4-s02/page-020.jpg",
+  "advanced/rc-p4-s02/page-021.jpg"
+ ]
 }

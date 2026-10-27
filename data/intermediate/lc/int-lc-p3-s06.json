@@ -1,277 +1,446 @@
 {
-  "practiceId": "int-lc-p3-s06",
-  "title": "Part III · Section 06",
-  "subtitle": "Conversations & talks",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p3-s06",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Baseball",
-        "B": "Tennis"
-      },
-      "prompt": "Warm-Up 1-(a): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Baseball",
-        "B": "Tennis"
-      },
-      "prompt": "Warm-Up 1-(b): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Hair spray",
-        "B": "In ten minutes"
-      },
-      "prompt": "Warm-Up 2-(a): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Hair spray",
-        "B": "In ten minutes"
-      },
-      "prompt": "Warm-Up 2-(b): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "$45",
-        "B": "5 p.m."
-      },
-      "prompt": "Warm-Up 3-(a): Choose the answer.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "$45",
-        "B": "5 p.m."
-      },
-      "prompt": "Warm-Up 3-(b): Choose the answer.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-      "accept": "F",
-      "audioOnly": true,
-      "section": "Listening Practice 1"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Listening Practice 2"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "A new play",
-        "B": "See the coach in his office",
-        "C": "The adventure",
-        "D": "The price of the ticket",
-        "E": "There are no tickets left.",
-        "F": "Wear their uniforms to practice"
-      },
-      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Listening Practice 3"
-    },
-    {
-      "id": "q13",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "Because the final is next week.",
-        "B": "Because lots of people want tickets.",
-        "C": "Because there are three people wanting tickets.",
-        "D": "Because they will be sold to those who wait in line."
-      },
-      "prompt": "Why can't people buy as many tickets as they want?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q14",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "Because it will be released on Saturday.",
-        "B": "Because it is highly successful.",
-        "C": "Because the first movie was very popular.",
-        "D": "Because it is at number 1."
-      },
-      "prompt": "Why is the movie expected to be successful?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q15",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "To purchase tickets for tonight's performance",
-        "B": "To continue waiting in line",
-        "C": "To ask for their money back",
-        "D": "To purchase tickets for tomorrow's performance"
-      },
-      "prompt": "Why would people return the next day?",
-      "accept": "C",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q16",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "People wishing to see the play",
-        "B": "Students who want to help",
-        "C": "All class teachers",
-        "D": "Students wanting to buy tickets"
-      },
-      "prompt": "Who should go to the main hall?",
-      "accept": "A",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q17",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "It has been canceled.",
-        "B": "It has been delayed until the next day.",
-        "C": "Tickets are only on sale in the morning.",
-        "D": "There are no tickets left."
-      },
-      "prompt": "Why can't people see tonight's show?",
-      "accept": "D",
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q18",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "Tickets will be on sale soon.",
-        "B": "The opera will be playing for four nights only.",
-        "C": "Tickets for the opera are cheap.",
-        "D": "The opera is very popular."
-      },
-      "prompt": "Why should people quickly buy tickets?",
-      "accept": "B",
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "int-lc-p3-s06",
+ "title": "Part III · Section 06",
+ "subtitle": "Conversations & talks",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p3-s06",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "be released",
+    "B": "sign up",
+    "C": "sold out"
+   },
+   "accept": "B",
+   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "be released",
+    "B": "sign up",
+    "C": "sold out"
+   },
+   "accept": "A",
+   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "be released",
+    "B": "sign up",
+    "C": "sold out"
+   },
+   "accept": "C",
+   "photo": "intermediate/lc-p3-s06/page-124.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Baseball",
+    "B": "Tennis"
+   },
+   "prompt": "Warm-Up 1-(a): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Baseball",
+    "B": "Tennis"
+   },
+   "prompt": "Warm-Up 1-(b): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Hair spray",
+    "B": "In ten minutes"
+   },
+   "prompt": "Warm-Up 2-(a): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Hair spray",
+    "B": "In ten minutes"
+   },
+   "prompt": "Warm-Up 2-(b): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "$45",
+    "B": "5 p.m."
+   },
+   "prompt": "Warm-Up 3-(a): Choose the answer.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "$45",
+    "B": "5 p.m."
+   },
+   "prompt": "Warm-Up 3-(b): Choose the answer.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q10",
+   "label": "10",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "id": "q11",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+   "accept": "F",
+   "audioOnly": true,
+   "section": "Listening Practice 1"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+   "accept": [
+    "as well as"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "section": "Listening Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+   "accept": [
+    "interested in"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "section": "Listening Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+   "accept": [
+    "on time"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "section": "Listening Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
+   "accept": [
+    "bring your uniform"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-126.jpg",
+   "section": "Listening Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "id": "q16",
+   "label": "16",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "id": "q17",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Listening Practice 2"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+   "accept": [
+    "completely sold out"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "section": "Listening Practice 2",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+   "accept": [
+    "on the stage"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "section": "Listening Practice 2",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+   "accept": [
+    "Don't miss this chance."
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-127.jpg",
+   "section": "Listening Practice 2",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "id": "q21",
+   "label": "21",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "id": "q22",
+   "label": "22",
+   "type": "choice",
+   "choices": {
+    "A": "A new play",
+    "B": "See the coach in his office",
+    "C": "The adventure",
+    "D": "The price of the ticket",
+    "E": "There are no tickets left.",
+    "F": "Wear their uniforms to practice"
+   },
+   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Listening Practice 3"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+   "accept": [
+    "box office"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "section": "Listening Practice 3",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
+   "accept": [
+    "senior citizens"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "section": "Listening Practice 3",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+   "accept": [
+    "isolated island"
+   ],
+   "audioOnly": true,
+   "photo": "intermediate/lc-p3-s06/page-128.jpg",
+   "section": "Listening Practice 3",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "id": "q26",
+   "label": "26",
+   "type": "choice",
+   "choices": {
+    "A": "Because the final is next week.",
+    "B": "Because lots of people want tickets.",
+    "C": "Because there are three people wanting tickets.",
+    "D": "Because they will be sold to those who wait in line."
+   },
+   "prompt": "Why can't people buy as many tickets as they want?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q27",
+   "label": "27",
+   "type": "choice",
+   "choices": {
+    "A": "Because it will be released on Saturday.",
+    "B": "Because it is highly successful.",
+    "C": "Because the first movie was very popular.",
+    "D": "Because it is at number 1."
+   },
+   "prompt": "Why is the movie expected to be successful?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q28",
+   "label": "28",
+   "type": "choice",
+   "choices": {
+    "A": "To purchase tickets for tonight's performance",
+    "B": "To continue waiting in line",
+    "C": "To ask for their money back",
+    "D": "To purchase tickets for tomorrow's performance"
+   },
+   "prompt": "Why would people return the next day?",
+   "accept": "C",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q29",
+   "label": "29",
+   "type": "choice",
+   "choices": {
+    "A": "People wishing to see the play",
+    "B": "Students who want to help",
+    "C": "All class teachers",
+    "D": "Students wanting to buy tickets"
+   },
+   "prompt": "Who should go to the main hall?",
+   "accept": "A",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q30",
+   "label": "30",
+   "type": "choice",
+   "choices": {
+    "A": "It has been canceled.",
+    "B": "It has been delayed until the next day.",
+    "C": "Tickets are only on sale in the morning.",
+    "D": "There are no tickets left."
+   },
+   "prompt": "Why can't people see tonight's show?",
+   "accept": "D",
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q31",
+   "label": "31",
+   "type": "choice",
+   "choices": {
+    "A": "Tickets will be on sale soon.",
+    "B": "The opera will be playing for four nights only.",
+    "C": "Tickets for the opera are cheap.",
+    "D": "The opera is very popular."
+   },
+   "prompt": "Why should people quickly buy tickets?",
+   "accept": "B",
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/lc-p3-s06/page-124.jpg",
+  "intermediate/lc-p3-s06/page-125.jpg",
+  "intermediate/lc-p3-s06/page-126.jpg",
+  "intermediate/lc-p3-s06/page-127.jpg",
+  "intermediate/lc-p3-s06/page-128.jpg"
+ ]
 }

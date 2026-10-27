@@ -8,8 +8,219 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "anniversary",
+    "B": "enjoy",
+    "C": "invitation",
+    "D": "pay"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "anniversary",
+    "B": "enjoy",
+    "C": "invitation",
+    "D": "pay"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "anniversary",
+    "B": "enjoy",
+    "C": "invitation",
+    "D": "pay"
+   },
+   "accept": "D",
+   "photo": "intermediate/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "anniversary",
+    "B": "enjoy",
+    "C": "invitation",
+    "D": "pay"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p5-s04/page-098.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "have A in mind"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "let A know"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "no doubt"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "come to one's party"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "take a notice of"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "get ready for"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "a physical checkup"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "be invited to"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "instead of"
+   ],
+   "photo": "intermediate/rc-p5-s04/page-099.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Where does the writer write this letter?",
+   "choices": {
+    "A": "At school",
+    "B": "In Hawaii"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s04/page-100.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "What does the writer think about the place?",
+   "choices": {
+    "A": "Not so good.",
+    "B": "Couldn’t be better."
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s04/page-100.jpg",
+   "section": "Reading Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "What is the purpose of this e-mail?",
+   "choices": {
+    "A": "A reply to the complaint",
+    "B": "A reply to the invitation"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s04/page-101.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "When did Jack receive the letter from Bob?",
+   "choices": {
+    "A": "Monday, January 5th, 2009",
+    "B": "Monday, May 1st, 2009"
+   },
+   "accept": "B",
+   "passageImage": "intermediate/rc-p5-s04/page-101.jpg",
+   "section": "Reading Practice 2",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "Paying for tuition and activity fee",
@@ -22,11 +233,12 @@
    "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-102.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "Girl's training will begin on 24th.",
@@ -39,11 +251,12 @@
    "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
    "passageHead": "Questions 1-2 refer to the following e-mail.",
    "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-102.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "A birthday party",
@@ -56,11 +269,12 @@
    "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-103.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "At 4:00",
@@ -73,8 +287,15 @@
    "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
    "passageHead": "Questions 3-4 refer to the following letter.",
    "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "intermediate/rc-pages/page-103.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p5-s04/page-098.jpg",
+  "intermediate/rc-p5-s04/page-099.jpg",
+  "intermediate/rc-p5-s04/page-100.jpg",
+  "intermediate/rc-p5-s04/page-101.jpg"
+ ]
 }

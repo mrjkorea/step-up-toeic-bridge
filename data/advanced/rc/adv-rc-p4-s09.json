@@ -8,8 +8,211 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Air pollution",
+    "B": "citizen",
+    "C": "pedestrians",
+    "D": "urban"
+   },
+   "accept": "D",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Air pollution",
+    "B": "citizen",
+    "C": "pedestrians",
+    "D": "urban"
+   },
+   "accept": "B",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Air pollution",
+    "B": "citizen",
+    "C": "pedestrians",
+    "D": "urban"
+   },
+   "accept": "A",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "Air pollution",
+    "B": "citizen",
+    "C": "pedestrians",
+    "D": "urban"
+   },
+   "accept": "C",
+   "photo": "advanced/rc-p4-s09/page-073.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "trash"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "taxi driver"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "bank"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "department - store: department store"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "movie theater: movie theater"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "post office: post office"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
+   "accept": [
+    "parking lot: parking lot"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "movie theater"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "office building"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
+   "accept": [
+    "newsstand"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
+   "accept": [
+    "fire station"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(e): type the answer (see the book page).",
+   "accept": [
+    "post office"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Vocabulary Practice 3-(f): type the answer (see the book page).",
+   "accept": [
+    "rural"
+   ],
+   "photo": "advanced/rc-p4-s09/page-076.jpg",
+   "section": "Vocabulary Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "sell",
@@ -21,8 +224,8 @@
    "accept": "C"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "traffic light",
@@ -34,8 +237,8 @@
    "accept": "C"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "crime",
@@ -47,8 +250,8 @@
    "accept": "D"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "go",
@@ -60,5 +263,11 @@
    "accept": "B"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/rc-p4-s09/page-073.jpg",
+  "advanced/rc-p4-s09/page-074.jpg",
+  "advanced/rc-p4-s09/page-075.jpg",
+  "advanced/rc-p4-s09/page-076.jpg"
+ ]
 }

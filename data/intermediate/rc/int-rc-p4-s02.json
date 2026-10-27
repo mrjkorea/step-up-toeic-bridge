@@ -8,8 +8,159 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "carry",
+    "B": "do the dishes",
+    "C": "foreign",
+    "D": "succeed"
+   },
+   "accept": "D",
+   "photo": "intermediate/rc-p4-s02/page-017.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "carry",
+    "B": "do the dishes",
+    "C": "foreign",
+    "D": "succeed"
+   },
+   "accept": "A",
+   "photo": "intermediate/rc-p4-s02/page-017.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "carry",
+    "B": "do the dishes",
+    "C": "foreign",
+    "D": "succeed"
+   },
+   "accept": "C",
+   "photo": "intermediate/rc-p4-s02/page-017.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "carry",
+    "B": "do the dishes",
+    "C": "foreign",
+    "D": "succeed"
+   },
+   "accept": "B",
+   "photo": "intermediate/rc-p4-s02/page-017.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): rewrite the sentence as shown in the book (see the book page).",
+   "accept": [
+    "Jane cannot speak Korea.",
+    "Jane can not speak Korea.",
+    "Jane can't speak Korea."
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(d): rewrite the sentence as shown in the book (see the book page).",
+   "accept": [
+    "Sam will not go to see his aunt tomorrow.",
+    "Sam won't go to see his aunt tomorrow."
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
+   "accept": [
+    "Can Gary read Japanese novels?"
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "accept": [
+    "Will Candy use my computer tomorrow?"
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
+   "accept": [
+    "He will teach me."
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
+   "accept": [
+    "We will not meet him at the mart early in the morning."
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
+   "accept": [
+    "Will you be in a hurry?"
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(d): type the answer (see the book page).",
+   "accept": [
+    "Will she bring her younger sister here?"
+   ],
+   "photo": "intermediate/rc-p4-s02/page-018.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "id": "q13",
+   "label": "13",
    "type": "choice",
    "choices": {
     "A": "help",
@@ -21,8 +172,8 @@
    "accept": "A"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q14",
+   "label": "14",
    "type": "choice",
    "choices": {
     "A": "do",
@@ -34,8 +185,8 @@
    "accept": "B"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q15",
+   "label": "15",
    "type": "choice",
    "choices": {
     "A": "becomes",
@@ -47,8 +198,8 @@
    "accept": "C"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q16",
+   "label": "16",
    "type": "choice",
    "choices": {
     "A": "do",
@@ -60,8 +211,8 @@
    "accept": "B"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q17",
+   "label": "17",
    "type": "choice",
    "choices": {
     "A": "must",
@@ -73,8 +224,8 @@
    "accept": "C"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "May",
@@ -86,5 +237,12 @@
    "accept": "A"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "intermediate/rc-p4-s02/page-017.jpg",
+  "intermediate/rc-p4-s02/page-018.jpg",
+  "intermediate/rc-p4-s02/page-019.jpg",
+  "intermediate/rc-p4-s02/page-020.jpg",
+  "intermediate/rc-p4-s02/page-021.jpg"
+ ]
 }

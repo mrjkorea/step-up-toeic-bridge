@@ -1,398 +1,1143 @@
 {
-  "practiceId": "adv-lc-p1-s04",
-  "title": "Part I · Section 04",
-  "subtitle": "Picture Description",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p1-s04",
-  "photoDir": "advanced/p1-s04",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "The men are working on the roof.",
-        "B": "The men are working on the ladder.",
-        "C": "No one is working on the roof.",
-        "D": "The men are working in the park."
-      },
-      "prompt": "Choose the statement you hear that best matches the picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "The street is full of cars.",
-        "B": "The street is empty.",
-        "C": "Someone is driving a car.",
-        "D": "The street is busy."
-      },
-      "prompt": "Choose the statement you hear that best matches the picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Warm-Up"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (a): Choose the words you hear.",
-      "accept": "F",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (b): Choose the words you hear.",
-      "accept": "E",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (c): Choose the words you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (d): Choose the words you hear.",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q7",
-      "label": "7",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (e): Choose the words you hear.",
-      "accept": "D",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q8",
-      "label": "8",
-      "type": "choice",
-      "choices": {
-        "A": "full of cars",
-        "B": "No one is working on the roof.",
-        "C": "Someone is driving a car.",
-        "D": "The street is empty.",
-        "E": "working on the ladder",
-        "F": "working on the roof"
-      },
-      "prompt": "Check-Up (f): Choose the words you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "section": "Check-Up"
-    },
-    {
-      "id": "q9",
-      "label": "9",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q10",
-      "label": "10",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q11",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q12",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q13",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q14",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q15",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q16",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q17",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q18",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q19",
-      "label": "19",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
-      "accept": "B",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q20",
-      "label": "20",
-      "type": "choice",
-      "choices": {
-        "A": "True",
-        "B": "False"
-      },
-      "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
-      "accept": "A",
-      "audioOnly": true,
-      "section": "Check-Up (2)"
-    },
-    {
-      "id": "q21",
-      "label": "21",
-      "type": "choice",
-      "choices": {
-        "A": "The men are building a bridge.",
-        "B": "The bridge has been taken down.",
-        "C": "The truck is going over the bridge.",
-        "D": "The rocks have blocked the road."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "C",
-      "photo": "advanced/p1-s04/q01.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q22",
-      "label": "22",
-      "type": "choice",
-      "choices": {
-        "A": "The movie has started.",
-        "B": "People are leaving the theater.",
-        "C": "The seats are empty.",
-        "D": "There is popcorn on the floor."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "C",
-      "photo": "advanced/p1-s04/q02.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q23",
-      "label": "23",
-      "type": "choice",
-      "choices": {
-        "A": "The people are standing next to the car.",
-        "B": "The car is parked between the buildings.",
-        "C": "The bicycle is parked next to the car.",
-        "D": "The post office is next to the restaurant."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "C",
-      "photo": "advanced/p1-s04/q03.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q24",
-      "label": "24",
-      "type": "choice",
-      "choices": {
-        "A": "The street is empty.",
-        "B": "The workers are fixing the street.",
-        "C": "Flowers are hanging over the sidewalk.",
-        "D": "The people are waiting in line."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "C",
-      "photo": "advanced/p1-s04/q04.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q25",
-      "label": "25",
-      "type": "choice",
-      "choices": {
-        "A": "The train is at the station.",
-        "B": "The passengers are paying for tickets.",
-        "C": "The conductor is stopping the train.",
-        "D": "The station is closed."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "A",
-      "photo": "advanced/p1-s04/q05.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    },
-    {
-      "id": "q26",
-      "label": "26",
-      "type": "choice",
-      "choices": {
-        "A": "The men are riding the motorcycle.",
-        "B": "The motorcycle is for sale.",
-        "C": "No one is riding the motorcycle.",
-        "D": "The motorcycle is being ridden."
-      },
-      "prompt": "Choose the statement that best describes the picture.",
-      "accept": "C",
-      "photo": "advanced/p1-s04/q06.png",
-      "audioOnly": true,
-      "section": "Test Your Skills"
-    }
-  ],
-  "contentVersion": "v3-fillpack-2026-10-28"
+ "practiceId": "adv-lc-p1-s04",
+ "title": "Part I · Section 04",
+ "subtitle": "Picture Description",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p1-s04",
+ "photoDir": "advanced/p1-s04",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "blocked",
+    "B": "fire hydrant",
+    "C": "is full of",
+    "D": "sweep",
+    "E": "traffic light"
+   },
+   "accept": "C",
+   "photo": "advanced/p1-s04/page-028.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "blocked",
+    "B": "fire hydrant",
+    "C": "is full of",
+    "D": "sweep",
+    "E": "traffic light"
+   },
+   "accept": "B",
+   "photo": "advanced/p1-s04/page-028.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "blocked",
+    "B": "fire hydrant",
+    "C": "is full of",
+    "D": "sweep",
+    "E": "traffic light"
+   },
+   "accept": "A",
+   "photo": "advanced/p1-s04/page-028.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "blocked",
+    "B": "fire hydrant",
+    "C": "is full of",
+    "D": "sweep",
+    "E": "traffic light"
+   },
+   "accept": "D",
+   "photo": "advanced/p1-s04/page-028.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "blocked",
+    "B": "fire hydrant",
+    "C": "is full of",
+    "D": "sweep",
+    "E": "traffic light"
+   },
+   "accept": "E",
+   "photo": "advanced/p1-s04/page-028.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "The men are working on the roof.",
+    "B": "The men are working on the ladder.",
+    "C": "No one is working on the roof.",
+    "D": "The men are working in the park."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up",
+   "photo": "advanced/p1-s04/page-029.jpg"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "The street is full of cars.",
+    "B": "The street is empty.",
+    "C": "Someone is driving a car.",
+    "D": "The street is busy."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up",
+   "photo": "advanced/p1-s04/page-029.jpg"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 1: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "D",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 2: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "A",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 3: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "F",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 4: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "E",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 5: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "B",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 6: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "C",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 7: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "G",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 1 — statement 8: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h"
+   },
+   "accept": "H",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 1: type the sentence you hear.",
+   "accept": [
+    "The man is using a hammer."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 2: type the sentence you hear.",
+   "accept": [
+    "The man is painting the wood."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 3: type the sentence you hear.",
+   "accept": [
+    "The man is lifting the wheelbarrow."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 4: type the sentence you hear.",
+   "accept": [
+    "The man is digging with a shovel."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 5: type the sentence you hear.",
+   "accept": [
+    "The man is sweeping the steps."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 6: type the sentence you hear.",
+   "accept": [
+    "The trees have been cut down."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 7: type the sentence you hear.",
+   "accept": [
+    "The traffic cones are next to the trees."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 1 — statement 8: type the sentence you hear.",
+   "accept": [
+    "There is a fire hydrant next to the building."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-030.jpg",
+   "section": "Listening Practice 1",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 1: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "C",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 2: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "A",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 3: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "H",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 4: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "F",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 5: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "E",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 6: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "G",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q29",
+   "label": "29"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 7: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "I",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q30",
+   "label": "30"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 8: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "J",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q31",
+   "label": "31"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 9: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "B",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q32",
+   "label": "32"
+  },
+  {
+   "type": "choice",
+   "prompt": "Listening Practice 2 — statement 10: listen and choose the letter of the matching picture.",
+   "choices": {
+    "A": "a",
+    "B": "b",
+    "C": "c",
+    "D": "d",
+    "E": "e",
+    "F": "f",
+    "G": "g",
+    "H": "h",
+    "I": "i",
+    "J": "j"
+   },
+   "accept": "D",
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q33",
+   "label": "33"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 1: type the sentence you hear.",
+   "accept": [
+    "The man is pouring the tea."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q34",
+   "label": "34"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 2: type the sentence you hear.",
+   "accept": [
+    "The glass is full of water."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q35",
+   "label": "35"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 3: type the sentence you hear.",
+   "accept": [
+    "The man is sweeping the floor."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q36",
+   "label": "36"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 4: type the sentence you hear.",
+   "accept": [
+    "Someone is playing the piano."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q37",
+   "label": "37"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 5: type the sentence you hear.",
+   "accept": [
+    "The woman is cutting the cake."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q38",
+   "label": "38"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 6: type the sentence you hear.",
+   "accept": [
+    "The woman is making a fruit salad."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q39",
+   "label": "39"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 7: type the sentence you hear.",
+   "accept": [
+    "Many bottles are on the shelf."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q40",
+   "label": "40"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 8: type the sentence you hear.",
+   "accept": [
+    "The dishes are piled up on the table."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q41",
+   "label": "41"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 9: type the sentence you hear.",
+   "accept": [
+    "The woman is washing the dishes."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q42",
+   "label": "42"
+  },
+  {
+   "type": "text",
+   "prompt": "Listening Practice 2 — statement 10: type the sentence you hear.",
+   "accept": [
+    "The pans are hanging on the wall."
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-031.jpg",
+   "section": "Listening Practice 2",
+   "id": "q43",
+   "label": "43"
+  },
+  {
+   "id": "q44",
+   "label": "44",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (a): Choose the words you hear.",
+   "accept": "F",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q45",
+   "label": "45",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (b): Choose the words you hear.",
+   "accept": "E",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q46",
+   "label": "46",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (c): Choose the words you hear.",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q47",
+   "label": "47",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (d): Choose the words you hear.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q48",
+   "label": "48",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (e): Choose the words you hear.",
+   "accept": "D",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q49",
+   "label": "49",
+   "type": "choice",
+   "choices": {
+    "A": "full of cars",
+    "B": "No one is working on the roof.",
+    "C": "Someone is driving a car.",
+    "D": "The street is empty.",
+    "E": "working on the ladder",
+    "F": "working on the roof"
+   },
+   "prompt": "Check-Up (f): Choose the words you hear.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q50",
+   "label": "50",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q51",
+   "label": "51",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q52",
+   "label": "52",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q53",
+   "label": "53",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q54",
+   "label": "54",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q55",
+   "label": "55",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q56",
+   "label": "56",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q57",
+   "label": "57",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q58",
+   "label": "58",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q59",
+   "label": "59",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q60",
+   "label": "60",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "id": "q61",
+   "label": "61",
+   "type": "choice",
+   "choices": {
+    "A": "True",
+    "B": "False"
+   },
+   "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up (2)"
+  },
+  {
+   "type": "text",
+   "prompt": "Check-Up 2-(a): listen and type the expression that means the same as “go up the stairs”.",
+   "accept": [
+    "go up the steps"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-032.jpg",
+   "section": "Check-Up (2)",
+   "id": "q62",
+   "label": "62"
+  },
+  {
+   "type": "text",
+   "prompt": "Check-Up 2-(b): listen and type the expression that means the same as “write down something”.",
+   "accept": [
+    "take notes"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-032.jpg",
+   "section": "Check-Up (2)",
+   "id": "q63",
+   "label": "63"
+  },
+  {
+   "type": "text",
+   "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “film”.",
+   "accept": [
+    "take a picture"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-032.jpg",
+   "section": "Check-Up (2)",
+   "id": "q64",
+   "label": "64"
+  },
+  {
+   "type": "text",
+   "prompt": "Check-Up 2-(d): listen and type the expression that means the same as “give food”.",
+   "accept": [
+    "serve food"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-032.jpg",
+   "section": "Check-Up (2)",
+   "id": "q65",
+   "label": "65"
+  },
+  {
+   "type": "text",
+   "prompt": "Check-Up 2-(e): listen and type the expression that means the same as “board the train”.",
+   "accept": [
+    "get on the train"
+   ],
+   "audioOnly": true,
+   "photo": "advanced/p1-s04/page-032.jpg",
+   "section": "Check-Up (2)",
+   "id": "q66",
+   "label": "66"
+  },
+  {
+   "id": "q67",
+   "label": "67",
+   "type": "choice",
+   "choices": {
+    "A": "The men are building a bridge.",
+    "B": "The bridge has been taken down.",
+    "C": "The truck is going over the bridge.",
+    "D": "The rocks have blocked the road."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s04/q01.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q68",
+   "label": "68",
+   "type": "choice",
+   "choices": {
+    "A": "The movie has started.",
+    "B": "People are leaving the theater.",
+    "C": "The seats are empty.",
+    "D": "There is popcorn on the floor."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s04/q02.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q69",
+   "label": "69",
+   "type": "choice",
+   "choices": {
+    "A": "The people are standing next to the car.",
+    "B": "The car is parked between the buildings.",
+    "C": "The bicycle is parked next to the car.",
+    "D": "The post office is next to the restaurant."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s04/q03.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q70",
+   "label": "70",
+   "type": "choice",
+   "choices": {
+    "A": "The street is empty.",
+    "B": "The workers are fixing the street.",
+    "C": "Flowers are hanging over the sidewalk.",
+    "D": "The people are waiting in line."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s04/q04.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q71",
+   "label": "71",
+   "type": "choice",
+   "choices": {
+    "A": "The train is at the station.",
+    "B": "The passengers are paying for tickets.",
+    "C": "The conductor is stopping the train.",
+    "D": "The station is closed."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "advanced/p1-s04/q05.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q72",
+   "label": "72",
+   "type": "choice",
+   "choices": {
+    "A": "The men are riding the motorcycle.",
+    "B": "The motorcycle is for sale.",
+    "C": "No one is riding the motorcycle.",
+    "D": "The motorcycle is being ridden."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s04/q06.png",
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  }
+ ],
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "advanced/p1-s04/page-028.jpg",
+  "advanced/p1-s04/page-029.jpg",
+  "advanced/p1-s04/page-030.jpg",
+  "advanced/p1-s04/page-031.jpg",
+  "advanced/p1-s04/page-032.jpg"
+ ]
 }

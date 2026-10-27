@@ -8,8 +8,352 @@
  "introEn": "Choose the best answer to complete the sentence or question.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "F",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "E",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(c): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "bought",
+    "B": "carpet",
+    "C": "garden",
+    "D": "gave",
+    "E": "puppy",
+    "F": "took"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p4-s05/page-046.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
+   "accept": [
+    "my"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
+   "accept": [
+    "your"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
+   "accept": [
+    "His"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
+   "accept": [
+    "He wants to talk to you."
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
+   "accept": [
+    "He washes his shoes."
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
+   "accept": [
+    "She is my best friend."
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
+   "accept": [
+    "It is your notebook."
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
+   "accept": [
+    "a cake"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
+   "accept": [
+    "a flower"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
+   "accept": [
+    "a book"
+   ],
+   "photo": "basic/rc-p4-s05/page-047.jpg",
+   "section": "Warm-Up",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
+   "accept": [
+    "He"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(b): type the answer (see the book page).",
+   "accept": [
+    "She"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q18",
+   "label": "18"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 1-(c): type the answer (see the book page).",
+   "accept": [
+    "I"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q19",
+   "label": "19"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
+   "accept": [
+    "his"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q20",
+   "label": "20"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
+   "accept": [
+    "mine"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q21",
+   "label": "21"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
+   "accept": [
+    "hers"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q22",
+   "label": "22"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
+   "accept": [
+    "It is rainy today."
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q23",
+   "label": "23"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
+   "accept": [
+    "It takes four days to finish my report."
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q24",
+   "label": "24"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
+   "accept": [
+    "It is almost 6 o'clock. that"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q25",
+   "label": "25"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
+   "accept": [
+    "those"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q26",
+   "label": "26"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
+   "accept": [
+    "is are"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q27",
+   "label": "27"
+  },
+  {
+   "type": "text",
+   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
+   "accept": [
+    "That Those"
+   ],
+   "photo": "basic/rc-p4-s05/page-050.jpg",
+   "section": "Grammar Practice",
+   "id": "q28",
+   "label": "28"
+  },
+  {
+   "id": "q29",
+   "label": "29",
    "type": "choice",
    "choices": {
     "A": "they",
@@ -21,8 +365,8 @@
    "accept": "C"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q30",
+   "label": "30",
    "type": "choice",
    "choices": {
     "A": "I",
@@ -34,8 +378,8 @@
    "accept": "C"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q31",
+   "label": "31",
    "type": "choice",
    "choices": {
     "A": "he",
@@ -47,8 +391,8 @@
    "accept": "D"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q32",
+   "label": "32",
    "type": "choice",
    "choices": {
     "A": "it",
@@ -60,8 +404,8 @@
    "accept": "B"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q33",
+   "label": "33",
    "type": "choice",
    "choices": {
     "A": "they",
@@ -73,8 +417,8 @@
    "accept": "B"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q34",
+   "label": "34",
    "type": "choice",
    "choices": {
     "A": "it",
@@ -86,5 +430,13 @@
    "accept": "C"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p4-s05/page-046.jpg",
+  "basic/rc-p4-s05/page-047.jpg",
+  "basic/rc-p4-s05/page-048.jpg",
+  "basic/rc-p4-s05/page-049.jpg",
+  "basic/rc-p4-s05/page-050.jpg",
+  "basic/rc-p4-s05/page-051.jpg"
+ ]
 }

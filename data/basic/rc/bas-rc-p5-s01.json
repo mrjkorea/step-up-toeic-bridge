@@ -8,8 +8,219 @@
  "introEn": "Read the passage and choose the best answer.",
  "items": [
   {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "closed",
+    "B": "floor",
+    "C": "parking lot",
+    "D": "quiet"
+   },
+   "accept": "B",
+   "photo": "basic/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1",
+   "label": "1"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "closed",
+    "B": "floor",
+    "C": "parking lot",
+    "D": "quiet"
+   },
+   "accept": "C",
+   "photo": "basic/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q2",
+   "label": "2"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "closed",
+    "B": "floor",
+    "C": "parking lot",
+    "D": "quiet"
+   },
+   "accept": "A",
+   "photo": "basic/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q3",
+   "label": "3"
+  },
+  {
+   "type": "choice",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "choices": {
+    "A": "closed",
+    "B": "floor",
+    "C": "parking lot",
+    "D": "quiet"
+   },
+   "accept": "D",
+   "photo": "basic/rc-p5-s01/page-080.jpg",
+   "section": "Words and Idioms Check-Up",
+   "id": "q4",
+   "label": "4"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "accept": [
+    "Watch out"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q5",
+   "label": "5"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "accept": [
+    "Speed limit"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q6",
+   "label": "6"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "accept": [
+    "Cars only"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q7",
+   "label": "7"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "accept": [
+    "School library"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q8",
+   "label": "8"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "accept": [
+    "School zone"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q9",
+   "label": "9"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "accept": [
+    "Wet floor"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q10",
+   "label": "10"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "accept": [
+    "Christmas holidays"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q11",
+   "label": "11"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "accept": [
+    "Parking"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q12",
+   "label": "12"
+  },
+  {
+   "type": "text",
+   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "accept": [
+    "No bicycles"
+   ],
+   "photo": "basic/rc-p5-s01/page-081.jpg",
+   "section": "Warm-Up",
+   "id": "q13",
+   "label": "13"
+  },
+  {
+   "type": "choice",
+   "prompt": "What does the sign tell people?",
+   "choices": {
+    "A": "To be quiet",
+    "B": "To be careful"
+   },
+   "accept": "B",
+   "passageImage": "basic/rc-p5-s01/page-082.jpg",
+   "section": "Reading Practice 1",
+   "id": "q14",
+   "label": "14"
+  },
+  {
+   "type": "choice",
+   "prompt": "Who is this sign for?",
+   "choices": {
+    "A": "The people who come inside",
+    "B": "The people who clean the floor"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s01/page-082.jpg",
+   "section": "Reading Practice 1",
+   "id": "q15",
+   "label": "15"
+  },
+  {
+   "type": "choice",
+   "prompt": "Where can you see this sign?",
+   "choices": {
+    "A": "At a school",
+    "B": "At a hotel"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s01/page-083.jpg",
+   "section": "Reading Practice 2",
+   "id": "q16",
+   "label": "16"
+  },
+  {
+   "type": "choice",
+   "prompt": "Why is the library closed?",
+   "choices": {
+    "A": "Because of holidays",
+    "B": "Because of bad weather"
+   },
+   "accept": "A",
+   "passageImage": "basic/rc-p5-s01/page-083.jpg",
+   "section": "Reading Practice 2",
+   "id": "q17",
+   "label": "17"
+  },
+  {
+   "id": "q18",
+   "label": "18",
    "type": "choice",
    "choices": {
     "A": "In the hotel lobby",
@@ -22,11 +233,12 @@
    "passage": "No cars! / Parking for bicycles / and motorcycles only!",
    "passageHead": "Questions 1-2 refer to the following notice",
    "passagePage": 84,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-084.jpg"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q19",
+   "label": "19",
    "type": "choice",
    "choices": {
     "A": "Taxi drivers",
@@ -39,11 +251,12 @@
    "passage": "No cars! / Parking for bicycles / and motorcycles only!",
    "passageHead": "Questions 1-2 refer to the following notice",
    "passagePage": 84,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-084.jpg"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q20",
+   "label": "20",
    "type": "choice",
    "choices": {
     "A": "5 miles",
@@ -56,11 +269,12 @@
    "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-085.jpg"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q21",
+   "label": "21",
    "type": "choice",
    "choices": {
     "A": "On the road",
@@ -73,8 +287,15 @@
    "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
    "passageHead": "Questions 3-4 refer to the following notice.",
    "passagePage": 85,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
+   "passageImage": "basic/rc-pages/page-085.jpg"
   }
  ],
- "contentVersion": "v2-2026-10-28"
+ "contentVersion": "v4-finishpack-2026-10-28",
+ "bookPages": [
+  "basic/rc-p5-s01/page-080.jpg",
+  "basic/rc-p5-s01/page-081.jpg",
+  "basic/rc-p5-s01/page-082.jpg",
+  "basic/rc-p5-s01/page-083.jpg"
+ ]
 }
