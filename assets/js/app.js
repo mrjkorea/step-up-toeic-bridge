@@ -104,7 +104,7 @@
     var note = el(
       "p",
       "footnote",
-      "Pilot sample: Intermediate LC → Part II · Section 01 (Yes/No)."
+      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio is still placeholder MP4 until Drive exports are wired in."
     );
     app.appendChild(note);
   }
@@ -140,10 +140,13 @@
         section.appendChild(el("h2", "group-title", groupName));
         var list = el("div", "practice-list");
         groups[groupName].forEach(function (p) {
-          var a = el("a", "practice-card" + (p.id === "int-lc-p2-s01" ? " practice-card--sample" : ""));
+          var a = el("a", "practice-card" + (p.stub === false ? " practice-card--live" : ""));
           a.href = "#/practice/" + p.id;
           var sub = p.subtitle ? '<span class="practice-card__sub">' + p.subtitle + "</span>" : "";
-          var stub = p.id !== "int-lc-p2-s01" ? '<span class="badge-stub">stub</span>' : '<span class="badge-live">sample</span>';
+          var stub =
+            p.stub === false
+              ? '<span class="badge-live">ready</span>'
+              : '<span class="badge-stub">stub</span>';
           a.innerHTML =
             '<span class="practice-card__title">' +
             p.title +
@@ -164,6 +167,7 @@
     var label = el("div", "q-label", "Q" + (item.label || item.id));
     card.appendChild(label);
     if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
+    else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
     if (item.passage) card.appendChild(el("div", "q-passage", item.passage));
     var fieldset = el("fieldset", "q-choices");
     fieldset.setAttribute("aria-label", "Question " + item.label);
@@ -173,6 +177,8 @@
     keys.forEach(function (k) {
       var id = item.id + "_" + k;
       var row = el("label", "choice-row");
+      var text = choices[k];
+      var letterOnly = text === k;
       row.innerHTML =
         '<input type="radio" name="' +
         item.id +
@@ -184,9 +190,10 @@
         (current === k ? " checked" : "") +
         " /> <span class=\"choice-key\">" +
         k +
-        "</span> <span class=\"choice-text\">" +
-        choices[k] +
-        "</span>";
+        "</span>" +
+        (letterOnly
+          ? ""
+          : ' <span class="choice-text">' + text + "</span>");
       fieldset.appendChild(row);
     });
     card.appendChild(fieldset);

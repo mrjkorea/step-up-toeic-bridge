@@ -4,9 +4,61 @@
   "subtitle": "Ads",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A hat",
+        "B": "Dinner",
+        "C": "A T-shirt",
+        "D": "Free classes"
+      },
+      "prompt": "What will volunteers receive?",
+      "accept": "C",
+      "passage": "Questions 1-2 refer to the following advertisement. Call for Volunteers We are looking for volunteers in the Capitol Hill area to work with your neighbors, business owners, and city employees on Saturday, August 23, from 9 a.m. to 5 p.m. to help clean up graffiti. All materials and instruction are provided. Come for a few hours or all day. As a volunteer you will: * Receive a free T-shirt * Receive a great breakfast and lunch, provided by local restaurants * Meet new friends * Do something good for our community. So come join the fun! Contact Ann at 206-329-6781."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Call Ann",
+        "B": "Fill out a form Contact Ann at 206-329-",
+        "C": "Go to an office",
+        "D": "Send Ann an e-mail Questions 3-4 refer to the following advertisement. The Science Village Continue your child's education at The Science Village. Created for active, smart children ages 8-16, The Science Village features a full schedule of field trips, lab experiments, and fun activities to stimulate your child's love of science. For more information, call us toll-free at 1-800-647-0161 or visit our Web site at www.sciencevillage.com."
+      },
+      "prompt": "What should people interested in volunteering do?",
+      "accept": "A"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Science teachers",
+        "B": "Children ages 8-16",
+        "C": "A private company",
+        "D": "The general public"
+      },
+      "prompt": "According to the passage, who was The Science Village created for?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Movies",
+        "B": "Gardening",
+        "C": "Field trips",
+        "D": "Looking at stars"
+      },
+      "prompt": "Which of the following activities does The Science Village offer?",
+      "accept": "C"
+    }
+  ]
 }

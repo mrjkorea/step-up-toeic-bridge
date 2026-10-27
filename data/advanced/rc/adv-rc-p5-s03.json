@@ -4,9 +4,61 @@
   "subtitle": "Instructions / info",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Its air contains oxygen.",
+        "B": "It has very cold temperatures.",
+        "C": "It is mostly covered with saltwater.",
+        "D": "It is the largest moon in the solar system."
+      },
+      "prompt": "Which of the following facts about Ganymede is NOT mentioned?",
+      "accept": "A",
+      "passage": "Questions 1-2 refer to the following article. JUPITER MOON HOLDS WATER The largest moon in the solar system― Ganymede, which orbits Jupiter-probably holds a saltwater ocean beneath its surface. European researchers say Ganymede's surface shows signs of cracking and refreezing. Scientists do not think the ocean holds any life, because temperatures there are near minus 300 degrees Fahrenheit. However, organic chemicals that may be signs of past life are present."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "B": "It may continue to get colder.",
+        "C": "It may have valuable minerals. signs of past life are",
+        "D": "It may someday be visited by people. Questions 3-4 refer to the following article. The amount of violence being shown on television increases. More and more experts are becoming concerned about the amount of time children spend in front of the television. Figures show that children, on average, spend four hours a day watching TV. This figure is up 35% from five years ago. Parents are advised to strictly control the amount of television their children watch."
+      },
+      "prompt": "What do scientists believe may be true about Ganymede?",
+      "accept": "A",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To let children watch more television",
+        "B": "To let children watch television for four hours",
+        "C": "To reduce the amount of television children watch",
+        "D": "To reduce the numbers of hours children play"
+      },
+      "prompt": "What are experts warning parents to do?",
+      "accept": "C"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Educational programs",
+        "B": "Violent programs",
+        "C": "Animal programs",
+        "D": "Parenting programs"
+      },
+      "prompt": "What type of programs are experts most concerned about?",
+      "accept": "B"
+    }
+  ]
 }

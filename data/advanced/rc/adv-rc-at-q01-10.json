@@ -4,9 +4,138 @@
   "subtitle": "10 questions (book Q51–60)",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "51",
+      "type": "choice",
+      "choices": {
+        "A": "kept",
+        "B": "built",
+        "C": "opened",
+        "D": "listened"
+      },
+      "prompt": "Canada's first drive-in theater. 53. The super glue is sold in bottles and tubes. in 1946.",
+      "accept": "C"
+    },
+    {
+      "id": "q2",
+      "label": "52",
+      "type": "choice",
+      "choices": {
+        "A": "so",
+        "B": "also",
+        "C": "once",
+        "D": "still students can work"
+      },
+      "prompt": "The Workbook features self-study practices independently.",
+      "accept": "A"
+    },
+    {
+      "id": "q3",
+      "label": "53",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "D",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q4",
+      "label": "54",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "B",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q5",
+      "label": "55",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "A",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q6",
+      "label": "56",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "B",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q7",
+      "label": "57",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "A",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q8",
+      "label": "58",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "D",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q9",
+      "label": "59",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q10",
+      "label": "60",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "A",
+      "_note": "stem/choices not parsed - proofread from book"
+    }
+  ]
 }

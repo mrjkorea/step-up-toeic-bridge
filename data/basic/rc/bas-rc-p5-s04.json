@@ -4,9 +4,61 @@
   "subtitle": "Letters & email",
   "level": "basic",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A letter of invitation",
+        "B": "A letter of thanks",
+        "C": "A letter of complaint",
+        "D": "A letter of application"
+      },
+      "prompt": "What kind of letter is this?",
+      "accept": "A",
+      "passage": "Questions 1-2 refer to the following letter. Dear Jack, My birthday is coming soon! I would like you to come and celebrate it! It's on May Ist. I will have a party in my house. Hope to see you there at 7 p.m. Thanks. Bob"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Bob's birthday",
+        "B": "Jack's birthday",
+        "C": "Bob's housewarming party",
+        "D": "Jack's housewarming party Questions 3-4 refer to the following e-mail. Margaret Kim <margaret@home.com> From: Vincent Perry <v.perry@ihs.com> To: Subject: Thank you for your order Date: May 4 Dear Ms. Kim Thank you for using our Internet Home Shopping. We will deliver your order item, a mid-size blouse, right away. You will surely receive it by the end of this week, 17th. Again thank you very much. Sincerely, Vincent Sales Manager"
+      },
+      "prompt": "For what event is this letter written?",
+      "accept": "A"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To order a blouse",
+        "B": "To thank an on-line customer",
+        "C": "To check the customer's address",
+        "D": "To refund"
+      },
+      "prompt": "What is the purpose of this email?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "B": "By the end of this week",
+        "C": "By the end of this month",
+        "D": "By the end of the day"
+      },
+      "prompt": "When does Ms. Kim receive the item?",
+      "accept": "B",
+      "_note": "choice parse incomplete - proofread from book"
+    }
+  ]
 }

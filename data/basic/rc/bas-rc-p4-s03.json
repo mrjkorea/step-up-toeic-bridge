@@ -4,9 +4,91 @@
   "subtitle": "Nouns",
   "level": "basic",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "pens",
+        "B": "time",
+        "C": "potatoes",
+        "D": "books"
+      },
+      "prompt": "I need much -------",
+      "accept": "B",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "no",
+        "B": "a little",
+        "C": "little",
+        "D": "a few"
+      },
+      "prompt": "I have - friends; they are very friendly.",
+      "accept": "D",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "milk",
+        "B": "water",
+        "C": "dog",
+        "D": "happiness"
+      },
+      "prompt": "I want a",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Leaf",
+        "B": "Leafs",
+        "C": "Leaves",
+        "D": "Leafves"
+      },
+      "prompt": "fall down in autumn.",
+      "accept": "C",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "tooth",
+        "B": "tooths",
+        "C": "teeths",
+        "D": "teeth"
+      },
+      "prompt": "The dentist pulled out three of my",
+      "accept": "D",
+      "_note": "OCR text (all.txt); blank position may be missing - proofread"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "B": "childs",
+        "C": "children",
+        "D": "childrens"
+      },
+      "prompt": "Many learn English when they are young.",
+      "accept": "C",
+      "_note": "choice parse incomplete - proofread from book"
+    }
+  ]
 }

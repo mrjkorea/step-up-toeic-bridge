@@ -4,9 +4,87 @@
   "subtitle": "Conversations & talks",
   "level": "basic",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "bas-lc-p3-s05",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Wood working",
+        "B": "Home economics",
+        "C": "English",
+        "D": "History"
+      },
+      "prompt": "What subject does this teacher teach?",
+      "accept": "A"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Hot and dry",
+        "B": "Dry and mild",
+        "C": "Hot and humid",
+        "D": "Cold and rainy"
+      },
+      "prompt": "How does the speaker describe the weather?",
+      "accept": "B"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Finish his homework",
+        "B": "Get a medical examination",
+        "C": "Have his parents sign a slip",
+        "D": "Make a special trip to the museum"
+      },
+      "prompt": "What does the speaker say David needs to do?",
+      "accept": "C"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Her spelling class",
+        "B": "Social studies class",
+        "C": "Fire safety class",
+        "D": "First aid class"
+      },
+      "prompt": "What class is this teacher speaking to?",
+      "accept": "B"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Art class",
+        "B": "Computer class",
+        "C": "Book keeping",
+        "D": "History"
+      },
+      "prompt": "What class is this project for?",
+      "accept": "D"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A shoe",
+        "B": "An animal",
+        "C": "A medicine",
+        "D": "An exercise"
+      },
+      "prompt": "What is the speaker describing?",
+      "accept": "D"
+    }
+  ]
 }

@@ -4,9 +4,64 @@
   "subtitle": "Instructions / info",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "prompt": "Load clothes. Do not overfill.",
+      "accept": "B",
+      "passage": "Questions 1-2 refer to the following instructions. Instructions For Use",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "prompt": "Select desired wash and rinse temperatures.",
+      "accept": "C",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "prompt": "Select wash setting, Normal or Delicate.",
+      "accept": "C",
+      "_note": "choice parse incomplete - proofread from book"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "On a microwave oven",
+        "B": "On a washing machine",
+        "C": "On a dishwashing machine",
+        "D": "On an automatic car wash 2. How much does this service cost?"
+      },
+      "prompt": "Deposit $1.25, in quarters. 5. Press \"start\" button. 1. Where would this notice be found?",
+      "accept": "D"
+    }
+  ]
 }

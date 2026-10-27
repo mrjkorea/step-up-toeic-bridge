@@ -4,9 +4,87 @@
   "subtitle": "Conversations & talks",
   "level": "intermediate",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "int-lc-p3-s01",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "To have a conversation",
+        "B": "To ask her the time",
+        "C": "For help in making a phone call",
+        "D": "To book an overseas holiday"
+      },
+      "prompt": "Why is the man calling the operator?",
+      "accept": "C"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "It was her husband's birthday.",
+        "B": "It was a present from her husband.",
+        "C": "The man bought it for her.",
+        "D": "She thought it was beautiful."
+      },
+      "prompt": "Why did the woman get a new jacket?",
+      "accept": "B"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "All books are on sale.",
+        "B": "All children's books are 50% more expensive.",
+        "C": "Children's books are on sale all day.",
+        "D": "Children's books are being moved from the second floor."
+      },
+      "prompt": "What is happening in the bookstore today?",
+      "accept": "C"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "In the restaurant",
+        "B": "In the movie theater",
+        "C": "In the airport",
+        "D": "In the subway"
+      },
+      "prompt": "Where did the man leave his wallet?",
+      "accept": "A"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "In an airport",
+        "B": "In a bank",
+        "C": "In a library",
+        "D": "In an office"
+      },
+      "prompt": "Where are the speakers?",
+      "accept": "B"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "It is the man's birthday.",
+        "B": "It was her father's birthday.",
+        "C": "The man is having a party.",
+        "D": "There was a surprise party for her."
+      },
+      "prompt": "Why did the woman make a cake?",
+      "accept": "B"
+    }
+  ]
 }

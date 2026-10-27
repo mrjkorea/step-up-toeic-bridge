@@ -4,9 +4,138 @@
   "subtitle": "10 questions (book Q91–100)",
   "level": "advanced",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "91",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "B",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q2",
+      "label": "92",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q3",
+      "label": "93",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q4",
+      "label": "94",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "D",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q5",
+      "label": "95",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q6",
+      "label": "96",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "B",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q7",
+      "label": "97",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q8",
+      "label": "98",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "D",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q9",
+      "label": "99",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "C",
+      "_note": "stem/choices not parsed - proofread from book"
+    },
+    {
+      "id": "q10",
+      "label": "100",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "accept": "A",
+      "_note": "stem/choices not parsed - proofread from book"
+    }
+  ]
 }

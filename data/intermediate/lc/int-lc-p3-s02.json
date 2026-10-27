@@ -4,9 +4,87 @@
   "subtitle": "Conversations & talks",
   "level": "intermediate",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "int-lc-p3-s02",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Where the school will be built",
+        "B": "When the school will be built",
+        "C": "The location of the meeting",
+        "D": "How to make the town more interesting"
+      },
+      "prompt": "What was the topic of the town meeting?",
+      "accept": "A"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Where to go on a vacation",
+        "B": "A new movie the woman made",
+        "C": "A book the woman wrote",
+        "D": "An interesting book the man borrowed"
+      },
+      "prompt": "What are the two people discussing?",
+      "accept": "C"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A book that the man is reading",
+        "B": "A book that the woman borrowed from the man",
+        "C": "An interesting and funny book that the woman has just bought",
+        "D": "A book that the woman likes to read"
+      },
+      "prompt": "What are the speakers talking about?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "That the man won't make the target",
+        "B": "That she will make this month's target",
+        "C": "That she isn't sure she can make this month's sales target",
+        "D": "That she won't be able to make this month's target"
+      },
+      "prompt": "What is the woman saying?",
+      "accept": "C"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "That her TV is broken",
+        "B": "That her TV is repaired and ready",
+        "C": "That he won't be ready until tomorrow evening",
+        "D": "That her TV is still not repaired yet"
+      },
+      "prompt": "What is the man telling the woman?",
+      "accept": "D"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "He wants to apply for a job.",
+        "B": "He has already sent his application by mail.",
+        "C": "He has already e-mailed her his application.",
+        "D": "He will check the e-mail the woman sent him."
+      },
+      "prompt": "What is the man telling the woman?",
+      "accept": "C"
+    }
+  ]
 }

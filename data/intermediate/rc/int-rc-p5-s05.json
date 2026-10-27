@@ -4,9 +4,61 @@
   "subtitle": "Charts",
   "level": "intermediate",
   "skill": "rc",
-  "stub": true,
-  "audioRef": null,
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Reading",
+        "B": "Playing sports",
+        "C": "Watching TV",
+        "D": "Drawing"
+      },
+      "prompt": "What is the favorite pastime for male students at the college?",
+      "accept": "B",
+      "passage": "Questions 1-2 refer to the following graph. A Graph to show what 100 Male and Female students do in Their Space Time at College 35 30 42505250 Men ● Women 15. 10. 50 5 0 Reading Playing Sports Watching TV Drawing"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Reading, playing sports, and watching TV",
+        "B": "Reading, drawing, and playing sports",
+        "C": "Reading, drawing, and watching TV",
+        "D": "Playing sports, reading, and watching TV Questions 3-4 refer to the following chart. Sunnyside Fruit and Vegetable Market Weekly Sale Items Extra Large Navel Oranges (Bag of Six) Fresh Kiwi was $1.99 - now $1.79 $2.99 A pound Carrots (Two pound bag) $2.29 Iceberg Lettuce Sale ends on Sunday, March 12th Store Hours: Mon - Fri 7 a.m. - 7 p.m. Sat, Sun 9 a.m. - 4 p.m. buy one for $0.99 and get another free"
+      },
+      "prompt": "What do the female students at the college like doing more than the males?",
+      "accept": "C"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "$1.99",
+        "B": "$1.79",
+        "C": "$2.99",
+        "D": "$2.29"
+      },
+      "prompt": "What is the regular price of oranges?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Monday",
+        "B": "Friday",
+        "C": "Saturday",
+        "D": "Sunday"
+      },
+      "prompt": "What is the last day of the sale?",
+      "accept": "D"
+    }
+  ]
 }

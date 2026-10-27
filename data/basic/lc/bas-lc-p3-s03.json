@@ -4,9 +4,87 @@
   "subtitle": "Conversations & talks",
   "level": "basic",
   "skill": "lc",
-  "stub": true,
+  "stub": false,
   "audioRef": "bas-lc-p3-s03",
-  "photoDir": null,
-  "items": [],
-  "_note": "Content placeholder — add items from the book answer key."
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Ask Wendy to call Bill",
+        "B": "Call Bill again",
+        "C": "Give Wendy a message",
+        "D": "Give Wendy a telephone number"
+      },
+      "prompt": "What will the woman do after the call?",
+      "accept": "A"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Have dinner at a restaurant",
+        "B": "Meet inside the restaurant",
+        "C": "Have dinner with seven people",
+        "D": "Book a table at 8 p.m."
+      },
+      "prompt": "What are the speakers going to do?",
+      "accept": "A"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Move to a bigger house",
+        "B": "Buy a small house",
+        "C": "Choose a new house to move to",
+        "D": "Decide which house to buy out"
+      },
+      "prompt": "What is the man going to do?",
+      "accept": "B"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Go for having dinner with the man",
+        "B": "Go to visit a doctor",
+        "C": "Get exercise",
+        "D": "Get some rest"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "D"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Tell the man's teacher that the man is late",
+        "B": "Give the man a ride",
+        "C": "Pick up the man at school",
+        "D": "Buy the man a car"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "B"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Borrow a book",
+        "B": "Return a book",
+        "C": "Buy a book",
+        "D": "Copy an overdue book Short Talk"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "B"
+    }
+  ]
 }
