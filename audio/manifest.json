@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "note": "practiceId or audioRef keys map to mp4 paths relative to audio/",
+  "practices": {
+    "bas-lc-p1-s01": {
+      "files": [
+        "basic/p1-s01.mp4"
+      ]
+    },
+    "bas-lc-p1-s02": {
+      "files": [
+        "basic/p1-s02.mp4"
+      ]
+    },
+    "bas-lc-p1-s03": {
+      "files": [
+        "basic/p1-s03.mp4"
+      ]
+    },
+    "bas-lc-p1-s04": {
+      "files": [
+        "basic/p1-s04.mp4"
+      ]
+    },
+    "bas-lc-p2-s01": {
+      "files": [
+        "basic/p2-s01.mp4"
+      ]
+    },
+    "bas-lc-p2-s02": {
+      "files": [
+        "basic/p2-s02.mp4"
+      ]
+    },
+    "bas-lc-p2-s03": {
+      "files": [
+        "basic/p2-s03.mp4"
+      ]
+    },
+    "bas-lc-p2-s04": {
+      "files": [
+        "basic/p2-s04.mp4"
+      ]
+    },
+    "bas-lc-p2-s05": {
+      "files": [
+        "basic/p2-s05.mp4"
+      ]
+    },
+    "bas-lc-p2-s06": {
+      "files": [
+        "basic/p2-s06.mp4"
+      ]
+    },
+    "bas-lc-p2-s07": {
+      "files": [
+        "basic/p2-s07.mp4"
+      ]
+    },
+    "bas-lc-p3-s01": {
+      "files": [
+        "basic/p3-s01.mp4"
+      ]
+    },
+    "bas-lc-p3-s02": {
+      "files": [
+        "basic/p3-s02.mp4"
+      ]
+    },
+    "bas-lc-p3-s03": {
+      "files": [
+        "basic/p3-s03.mp4"
+      ]
+    },
+    "bas-lc-p3-s04": {
+      "files": [
+        "basic/p3-s04.mp4"
+      ]
+    },
+    "bas-lc-p3-s05": {
+      "files": [
+        "basic/p3-s05.mp4"
+      ]
+    },
+    "bas-lc-p3-s06": {
+      "files": [
+        "basic/p3-s06.mp4"
+      ]
+    },
+    "bas-lc-at": {
+      "files": [
+        "basic/actual-test.mp4"
+      ]
+    },
+    "int-lc-p1-s01": {
+      "files": [
+        "intermediate/p1-s01.mp4"
+      ]
+    },
+    "int-lc-p1-s02": {
+      "files": [
+        "intermediate/p1-s02.mp4"
+      ]
+    },
+    "int-lc-p1-s03": {
+      "files": [
+        "intermediate/p1-s03.mp4"
+      ]
+    },
+    "int-lc-p1-s04": {
+      "files": [
+        "intermediate/p1-s04.mp4"
+      ]
+    },
+    "int-lc-p2-s01": {
+      "files": [
+        "intermediate/p2-s01.mp4"
+      ]
+    },
+    "int-lc-p2-s02": {
+      "files": [
+        "intermediate/p2-s02.mp4"
+      ]
+    },
+    "int-lc-p2-s03": {
+      "files": [
+        "intermediate/p2-s03.mp4"
+      ]
+    },
+    "int-lc-p2-s04": {
+      "files": [
+        "intermediate/p2-s04.mp4"
+      ]
+    },
+    "int-lc-p2-s05": {
+      "files": [
+        "intermediate/p2-s05.mp4"
+      ]
+    },
+    "int-lc-p2-s06": {
+      "files": [
+        "intermediate/p2-s06a.mp4",
+        "intermediate/p2-s06b.mp4"
+      ]
+    },
+    "int-lc-p2-s07": {
+      "files": [
+        "intermediate/p2-s07.mp4"
+      ]
+    },
+    "int-lc-p3-s01": {
+      "files": [
+        "intermediate/p3-s01.mp4"
+      ]
+    },
+    "int-lc-p3-s02": {
+      "files": [
+        "intermediate/p3-s02.mp4"
+      ]
+    },
+    "int-lc-p3-s03": {
+      "files": [
+        "intermediate/p3-s03.mp4"
+      ]
+    },
+    "int-lc-p3-s04": {
+      "files": [
+        "intermediate/p3-s04.mp4"
+      ]
+    },
+    "int-lc-p3-s05": {
+      "files": [
+        "intermediate/p3-s05.mp4"
+      ]
+    },
+    "int-lc-p3-s06": {
+      "files": [
+        "intermediate/p3-s06.mp4"
+      ]
+    },
+    "int-lc-at": {
+      "files": [
+        "intermediate/actual-test.mp4"
+      ]
+    },
+    "adv-lc-p1-s01": {
+      "files": [
+        "advanced/p1-s01.mp4"
+      ]
+    },
+    "adv-lc-p1-s02": {
+      "files": [
+        "advanced/p1-s02.mp4"
+      ]
+    },
+    "adv-lc-p1-s03": {
+      "files": [
+        "advanced/p1-s03.mp4"
+      ]
+    },
+    "adv-lc-p1-s04": {
+      "files": [
+        "advanced/p1-s04.mp4"
+      ]
+    },
+    "adv-lc-p2-s01": {
+      "files": [
+        "advanced/p2-s01.mp4"
+      ]
+    },
+    "adv-lc-p2-s02": {
+      "files": [
+        "advanced/p2-s02.mp4"
+      ]
+    },
+    "adv-lc-p2-s03": {
+      "files": [
+        "advanced/p2-s03.mp4"
+      ]
+    },
+    "adv-lc-p2-s04": {
+      "files": [
+        "advanced/p2-s04.mp4"
+      ]
+    },
+    "adv-lc-p2-s05": {
+      "files": [
+        "advanced/p2-s05.mp4"
+      ]
+    },
+    "adv-lc-p2-s06": {
+      "files": [
+        "advanced/p2-s06.mp4"
+      ]
+    },
+    "adv-lc-p2-s07": {
+      "files": [
+        "advanced/p2-s07.mp4"
+      ]
+    },
+    "adv-lc-p3-s01": {
+      "files": [
+        "advanced/p3-s01.mp4"
+      ]
+    },
+    "adv-lc-p3-s02": {
+      "files": [
+        "advanced/p3-s02.mp4"
+      ]
+    },
+    "adv-lc-p3-s03": {
+      "files": [
+        "advanced/p3-s03.mp4"
+      ]
+    },
+    "adv-lc-p3-s04": {
+      "files": [
+        "advanced/p3-s04.mp4"
+      ]
+    },
+    "adv-lc-p3-s05": {
+      "files": [
+        "advanced/p3-s05.mp4"
+      ]
+    },
+    "adv-lc-p3-s06": {
+      "files": [
+        "advanced/p3-s06.mp4"
+      ]
+    },
+    "adv-lc-at": {
+      "files": [
+        "advanced/actual-test.mp4"
+      ]
+    }
+  }
+}
