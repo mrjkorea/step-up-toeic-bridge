@@ -14,6 +14,34 @@
    "label": "1",
    "type": "choice",
    "choices": {
+    "A": "They are sitting on the bench.",
+    "B": "They are sitting on the beach.",
+    "C": "They are sitting on the grass."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The boy is leaning on the tree.",
+    "B": "The girl is leaning on the fence.",
+    "C": "The boy is leaning on the wall."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
     "A": "They are looking at the painting.",
     "B": "They are having a conversation.",
     "C": "They are sitting next to each other.",
@@ -22,11 +50,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s02/q01.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q4",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "The child is talking to her parents.",
@@ -37,11 +66,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "intermediate/p1-s02/q02.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q5",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "The men are having a conversation.",
@@ -52,11 +82,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "intermediate/p1-s02/q03.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q6",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "The two girls are talking to each other.",
@@ -67,11 +98,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s02/q04.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q7",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "The men are climbing the fence.",
@@ -82,11 +114,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s02/q05.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q8",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "The people are having a meal.",
@@ -97,7 +130,8 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "A",
    "photo": "intermediate/p1-s02/q06.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   }
  ],
  "contentVersion": "v2-2026-10-28"

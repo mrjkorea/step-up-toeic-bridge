@@ -20,7 +20,8 @@
    },
    "prompt": "Who do you have for English?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "Who was at practice?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "Who was that you were talking to?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "Who is going to pay for the meal?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "Who was the last to leave the office?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "Who sent you the lovely bouquet of flowers?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Tim stayed until midnight.",
+    "B": "Jack left early.",
+    "C": "It was Tom's birthday party."
+   },
+   "prompt": "Who was the last to leave the party?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Tom and Sam.",
+    "B": "We practice everyday.",
+    "C": "At the playground."
+   },
+   "prompt": "Who is going to be at practice?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "We did.",
+    "B": "It was very exciting.",
+    "C": "I really like the game."
+   },
+   "prompt": "Who won the game?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

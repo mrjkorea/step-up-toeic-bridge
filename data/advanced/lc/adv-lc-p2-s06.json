@@ -20,7 +20,8 @@
    },
    "prompt": "Your new TV looks amazing.",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "The toner in the photocopier needs to be changed again.",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "We really need to start studying for the exam.",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "I wonder if Bill's working late again tonight.",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "Perhaps the swimming pool will be open this weekend.",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "I thought the meeting was boring.",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Thanks. I bought it last weekend.",
+    "B": "I thought the TV program was also interesting.",
+    "C": "know. I really need a new TV."
+   },
+   "prompt": "Your new TV looks amazing.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "I sang a lot last night.",
+    "B": "The doctor told me to rest it.",
+    "C": "You'd better go as soon as possible."
+   },
+   "prompt": "I need to see a doctor about my sore throat.",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I cleaned it today.",
+    "B": "I washed my clothes this morning.",
+    "C": "I need a new vehicle."
+   },
+   "prompt": "Your truck has never been this clean.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

@@ -20,7 +20,8 @@
    },
    "prompt": "Where do you live?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "Where is John from?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "Where are our seats?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "Where does your father work?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "Where is Sam?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "Where should I leave my backpack?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "This supermarket is big.",
+    "B": "It is next to the hospital.",
+    "C": "There is a supermarket."
+   },
+   "prompt": "Where is the supermarket?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "I am going to the post office.",
+    "B": "I am not going.",
+    "C": "I am a student."
+   },
+   "prompt": "Where are you going?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "I was at school.",
+    "B": "I have a pencil.",
+    "C": "America."
+   },
+   "prompt": "Where are you from?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

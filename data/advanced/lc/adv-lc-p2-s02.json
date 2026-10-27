@@ -20,7 +20,8 @@
    },
    "prompt": "Who's not going to the office Christmas party next Friday?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "What's the weather supposed to be like this weekend?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "What are you doing after you finish work?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "When will you find out if you got the job?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "What are you going to do if the company decides to move?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "Where are you going to leave your dog when you go on vacation?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "At that new restaurant by the movie theater.",
+    "B": "At 7:30 p.m.",
+    "C": "Yes, she was very interesting."
+   },
+   "prompt": "Where are we supposed to meet Helen?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Fifteen minutes ago.",
+    "B": "Sometime around 7:00.",
+    "C": "They're late."
+   },
+   "prompt": "When will the guests arrive at the party?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "I'm going to the zoo.",
+    "B": "At the library.",
+    "C": "Yes, she is."
+   },
+   "prompt": "Where are we meeting on Saturday morning?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

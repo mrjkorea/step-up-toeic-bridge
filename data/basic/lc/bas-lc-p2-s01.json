@@ -20,7 +20,8 @@
    },
    "prompt": "Are you in Mr. Roth's math class?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "Can I find everything I need in the bookstore?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "Do you want to go with me to the grocery store?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "Is this your pen?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "Do you have any ribbons in stock?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "Do you know anything about Mr. Wilson?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "I am eating bread.",
+    "B": "Yes, I am.",
+    "C": "Thank you."
+   },
+   "prompt": "Are you hungry?",
+   "accept": "B",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I do.",
+    "B": "See you later.",
+    "C": "It's mine."
+   },
+   "prompt": "Do you have any erasers?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "Let's ride a bicycle.",
+    "B": "It is fun.",
+    "C": "Yes, I can."
+   },
+   "prompt": "Can you ride a bicycle?",
+   "accept": "C",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

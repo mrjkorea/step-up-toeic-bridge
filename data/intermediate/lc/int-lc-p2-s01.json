@@ -20,7 +20,8 @@
    },
    "prompt": "Are you going to try out for the soccer team?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q2",
@@ -33,7 +34,8 @@
    },
    "prompt": "Did you finish your homework?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q3",
@@ -46,7 +48,8 @@
    },
    "prompt": "Did you have any trouble with the directions I gave you?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q4",
@@ -59,7 +62,8 @@
    },
    "prompt": "Were there any extra handouts?",
    "accept": "B",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q5",
@@ -72,7 +76,8 @@
    },
    "prompt": "Did you talk with your parents about joining the movie club?",
    "accept": "C",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
    "id": "q6",
@@ -85,7 +90,50 @@
    },
    "prompt": "Do we have to cancel the picnic if it rains?",
    "accept": "A",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
+  },
+  {
+   "id": "q7",
+   "label": "7",
+   "type": "choice",
+   "choices": {
+    "A": "Sure, I'm having a party tonight.",
+    "B": "Yes, I got a bicycle from my parents.",
+    "C": "I stayed there until 8 o'clock."
+   },
+   "prompt": "Are you going to have a birthday party?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q8",
+   "label": "8",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I go twice a week.",
+    "B": "Yes. I like running.",
+    "C": "Yes, he will join the club tomorrow."
+   },
+   "prompt": "Did you join the sports club?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
+  },
+  {
+   "id": "q9",
+   "label": "9",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, there were a lot.",
+    "B": "Yes, I can borrow a pen from Jane.",
+    "C": "No, I don't like drawing pictures."
+   },
+   "prompt": "Were there any pens in the drawer?",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Check-Up"
   }
  ],
  "contentVersion": "v2-2026-10-28"

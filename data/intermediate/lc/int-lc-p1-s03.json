@@ -14,6 +14,34 @@
    "label": "1",
    "type": "choice",
    "choices": {
+    "A": "There are a lot of trees along the road.",
+    "B": "There are a lot of cars along the road.",
+    "C": "There are a lot of people along the road."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The lamp is on the table.",
+    "B": "The lamp is on the floor.",
+    "C": "The lamp is between a television and a table."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "A",
+   "audioOnly": true,
+   "section": "Warm-Up"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
     "A": "The watermelon is being eaten.",
     "B": "The watermelon is whole.",
     "C": "The watermelon has been sliced.",
@@ -22,11 +50,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s03/q01.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q2",
-   "label": "2",
+   "id": "q4",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "The boat is full.",
@@ -37,11 +66,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "intermediate/p1-s03/q02.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q3",
-   "label": "3",
+   "id": "q5",
+   "label": "5",
    "type": "choice",
    "choices": {
     "A": "The road is very busy.",
@@ -52,11 +82,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "D",
    "photo": "intermediate/p1-s03/q03.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q4",
-   "label": "4",
+   "id": "q6",
+   "label": "6",
    "type": "choice",
    "choices": {
     "A": "The shoes all look the same.",
@@ -67,11 +98,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s03/q04.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q5",
-   "label": "5",
+   "id": "q7",
+   "label": "7",
    "type": "choice",
    "choices": {
     "A": "The pans are being used.",
@@ -82,11 +114,12 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "C",
    "photo": "intermediate/p1-s03/q05.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   },
   {
-   "id": "q6",
-   "label": "6",
+   "id": "q8",
+   "label": "8",
    "type": "choice",
    "choices": {
     "A": "All the lamps are the same.",
@@ -97,7 +130,8 @@
    "prompt": "Choose the statement that best describes the picture.",
    "accept": "B",
    "photo": "intermediate/p1-s03/q06.png",
-   "audioOnly": true
+   "audioOnly": true,
+   "section": "Test Your Skills"
   }
  ],
  "contentVersion": "v2-2026-10-28"
