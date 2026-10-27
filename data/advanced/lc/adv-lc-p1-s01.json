@@ -1,103 +1,104 @@
 {
-  "practiceId": "adv-lc-p1-s01",
-  "title": "Part I · Section 01",
-  "subtitle": "Picture Description",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p1-s01",
-  "photoDir": "advanced/p1-s01",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q01.png"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q02.png"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q03.png"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q04.png"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q05.png"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "advanced/p1-s01/q06.png"
-    }
-  ]
+ "practiceId": "adv-lc-p1-s01",
+ "title": "Part I · Section 01",
+ "subtitle": "Picture Description",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p1-s01",
+ "photoDir": "advanced/p1-s01",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "He is cutting the board.",
+    "B": "He is using a hammer.",
+    "C": "He is drilling a hole.",
+    "D": "He is painting the wood."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "advanced/p1-s01/q01.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The boy is walking with the girl.",
+    "B": "There is no one in the park.",
+    "C": "The man is walking the dog.",
+    "D": "There is a car on the path."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s01/q02.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "She is paddling in the canoe.",
+    "B": "She is unloading the bags.",
+    "C": "She is looking at the map.",
+    "D": "She is taking off her jacket."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s01/q03.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The policeman is giving a ticket.",
+    "B": "The firefighter is putting out a fire.",
+    "C": "The cook is making a meal.",
+    "D": "The postman is delivering the mail."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "advanced/p1-s01/q04.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "He is picking up his golf bag.",
+    "B": "He is driving the golf cart.",
+    "C": "He is swinging the golf club.",
+    "D": "He is tying his shoes."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "advanced/p1-s01/q05.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "The machine is being loaded on the truck.",
+    "B": "The man is reaching for the machine.",
+    "C": "The phone is on the bench.",
+    "D": "The boxes are on the forklift."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "advanced/p1-s01/q06.png",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

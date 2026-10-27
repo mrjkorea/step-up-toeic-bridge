@@ -1,0 +1,44 @@
+{
+ "level": "advanced",
+ "skill": "lc",
+ "audioRef": "adv-lc-p1-s03",
+ "photoDir": "advanced/p1-s03",
+ "practiceId": "adv-lc-p1-s03-warmup",
+ "title": "Part I · Section 03 · Warm-Up",
+ "subtitle": "Picture Description",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "The plates are piled up on the counter.",
+    "B": "The plates are lined up in the cupboard.",
+    "C": "The plates are piled up in the cupboard.",
+    "D": "The plates are arranged on the table."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The parking lot is empty.",
+    "B": "The cars are parked in the parking lot.",
+    "C": "The cars are parked along the road.",
+    "D": "The cars are lined up along the road."
+   },
+   "prompt": "Choose the statement you hear that best matches the picture.",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "adv-lc-p1-s03"
+}

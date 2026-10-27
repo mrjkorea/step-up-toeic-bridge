@@ -1,152 +1,163 @@
 {
-  "practiceId": "bas-lc-at-q11-20",
-  "title": "LC Actual Test · Questions 11–20",
-  "subtitle": "10 questions",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-at",
-  "introEn": "Listening Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "11",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/at/q11.png"
-    },
-    {
-      "id": "q2",
-      "label": "12",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/at/q12.png"
-    },
-    {
-      "id": "q3",
-      "label": "13",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "basic/at/q13.png"
-    },
-    {
-      "id": "q4",
-      "label": "14",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/at/q14.png"
-    },
-    {
-      "id": "q5",
-      "label": "15",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "basic/at/q15.png"
-    },
-    {
-      "id": "q6",
-      "label": "16",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q7",
-      "label": "17",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q8",
-      "label": "18",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q9",
-      "label": "19",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q10",
-      "label": "20",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ]
+ "practiceId": "bas-lc-at-q11-20",
+ "title": "LC Actual Test · Questions 11–20",
+ "subtitle": "10 questions",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-at",
+ "introEn": "Listening Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "11",
+   "type": "choice",
+   "choices": {
+    "A": "He is driving a tractor.",
+    "B": "He is smelling the flowers.",
+    "C": "He is working in the field.",
+    "D": "He is climbing the mountain."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/at/q11.png",
+   "audioOnly": true,
+   "part": "I"
+  },
+  {
+   "id": "q2",
+   "label": "12",
+   "type": "choice",
+   "choices": {
+    "A": "The horses are running.",
+    "B": "The horses are jumping the fence.",
+    "C": "The horses are standing behind the fence.",
+    "D": "The horses are being ridden."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/at/q12.png",
+   "audioOnly": true,
+   "part": "I"
+  },
+  {
+   "id": "q3",
+   "label": "13",
+   "type": "choice",
+   "choices": {
+    "A": "The people are swimming in the river.",
+    "B": "The people are wearing helmets.",
+    "C": "The boat is empty.",
+    "D": "There are many boats on the river."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "basic/at/q13.png",
+   "audioOnly": true,
+   "part": "I"
+  },
+  {
+   "id": "q4",
+   "label": "14",
+   "type": "choice",
+   "choices": {
+    "A": "They are swimming in the lake.",
+    "B": "They are walking past the trees.",
+    "C": "They are fishing in a lake.",
+    "D": "They are eating fish next to the lake."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/at/q14.png",
+   "audioOnly": true,
+   "part": "I"
+  },
+  {
+   "id": "q5",
+   "label": "15",
+   "type": "choice",
+   "choices": {
+    "A": "The cars are parked next to each other.",
+    "B": "There are many cars on the road.",
+    "C": "The people are crossing the road.",
+    "D": "There are many people on the sidewalk."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "basic/at/q15.png",
+   "audioOnly": true,
+   "part": "I"
+  },
+  {
+   "id": "q6",
+   "label": "16",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, it's really interesting.",
+    "B": "Maybe later.",
+    "C": "A book about animals."
+   },
+   "prompt": "What are you writing?",
+   "accept": "C",
+   "audioOnly": true,
+   "part": "II"
+  },
+  {
+   "id": "q7",
+   "label": "17",
+   "type": "choice",
+   "choices": {
+    "A": "I already have a watch.",
+    "B": "I think it's Saturday.",
+    "C": "I am sorry, but I don't."
+   },
+   "prompt": "Do you know what time it is?",
+   "accept": "C",
+   "audioOnly": true,
+   "part": "II"
+  },
+  {
+   "id": "q8",
+   "label": "18",
+   "type": "choice",
+   "choices": {
+    "A": "The fish is very good.",
+    "B": "My friend from university.",
+    "C": "The meeting was very interesting."
+   },
+   "prompt": "Who are you meeting for lunch?",
+   "accept": "B",
+   "audioOnly": true,
+   "part": "II"
+  },
+  {
+   "id": "q9",
+   "label": "19",
+   "type": "choice",
+   "choices": {
+    "A": "I will have a salad.",
+    "B": "I am not a very good cook.",
+    "C": "Yes, it was expensive."
+   },
+   "prompt": "What would you like to eat?",
+   "accept": "A",
+   "audioOnly": true,
+   "part": "II"
+  },
+  {
+   "id": "q10",
+   "label": "20",
+   "type": "choice",
+   "choices": {
+    "A": "I can't because I'm tired.",
+    "B": "No, she is ill.",
+    "C": "Yes, she won lots of races."
+   },
+   "prompt": "Judy is a very fast runner, isn't she?",
+   "accept": "C",
+   "audioOnly": true,
+   "part": "II"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

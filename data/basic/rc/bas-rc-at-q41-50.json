@@ -1,141 +1,192 @@
 {
-  "practiceId": "bas-rc-at-q41-50",
-  "title": "RC Actual Test · Questions 41–50",
-  "subtitle": "10 questions (book Q91–100)",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Reading Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "91",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "92",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "93",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "94",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "95",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q6",
-      "label": "96",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q7",
-      "label": "97",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q8",
-      "label": "98",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q9",
-      "label": "99",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q10",
-      "label": "100",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    }
-  ]
+ "practiceId": "bas-rc-at-q41-50",
+ "title": "RC Actual Test · Questions 41–50",
+ "subtitle": "10 questions (book Q91–100)",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Reading Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "91",
+   "type": "choice",
+   "choices": {
+    "A": "To become a writer",
+    "B": "To join a club",
+    "C": "To subscribe to a magazine",
+    "D": "To purchase music"
+   },
+   "prompt": "Why would someone complete this form?",
+   "accept": "B",
+   "part": "V",
+   "passage": "J ,,1,m / Book Club Application Form / Name: / Address: / City: / Postal Code: / Phone: / Company: / Favorite Genres: / ] Mystery / [ ] Romance / ] Detective / ] Science Fiction / [ ] Horror / ] Comedy / Applicant's Signature: _______ / Date: _______",
+   "passageHead": "Questions 91-92 refer to the following form.",
+   "passagePage": 134,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "92",
+   "type": "choice",
+   "choices": {
+    "A": "Mystery",
+    "B": "Romance",
+    "C": "Non-Fiction",
+    "D": "Comedy"
+   },
+   "prompt": "Which genre is NOT listed on the form?",
+   "accept": "C",
+   "part": "V",
+   "passage": "J ,,1,m / Book Club Application Form / Name: / Address: / City: / Postal Code: / Phone: / Company: / Favorite Genres: / ] Mystery / [ ] Romance / ] Detective / ] Science Fiction / [ ] Horror / ] Comedy / Applicant's Signature: _______ / Date: _______",
+   "passageHead": "Questions 91-92 refer to the following form.",
+   "passagePage": 134,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "93",
+   "type": "choice",
+   "choices": {
+    "A": "A baby-sitter",
+    "B": "A school teacher",
+    "C": "A delivery person",
+    "D": "A telephone repair person"
+   },
+   "prompt": "Who is this letter probably addressed to?",
+   "accept": "A",
+   "part": "V",
+   "passage": "Hi Jack, / Thank you so much for taking care of Chris and / Amy. Please make sure they're both in bed by / 8:00. After you put them to bed, feel free to watch / TV, videos, use the computer, whatever you want / to do. Dennis and I will be home between 10:00 / and 10:30. If you need to reach us, you can call / Dennis's cell phone at (814) 272-4635. Thanks / again for taking care of the kids, and we'll see you / when we get home. / Sandra",
+   "passageHead": "Questions 93-94 refer to the following letter.",
+   "passagePage": 135,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "94",
+   "type": "choice",
+   "choices": {
+    "A": "Call her at home",
+    "B": "Send her an e-mail",
+    "C": "Walk to a nearby house",
+    "D": "Call Dennis's cell phone"
+   },
+   "prompt": "What does Sandra tell Jack to do, if he needs to contact her?",
+   "accept": "D",
+   "part": "V",
+   "passage": "Hi Jack, / Thank you so much for taking care of Chris and / Amy. Please make sure they're both in bed by / 8:00. After you put them to bed, feel free to watch / TV, videos, use the computer, whatever you want / to do. Dennis and I will be home between 10:00 / and 10:30. If you need to reach us, you can call / Dennis's cell phone at (814) 272-4635. Thanks / again for taking care of the kids, and we'll see you / when we get home. / Sandra",
+   "passageHead": "Questions 93-94 refer to the following letter.",
+   "passagePage": 135,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q5",
+   "label": "95",
+   "type": "choice",
+   "choices": {
+    "A": "$2.00",
+    "B": "$3.00",
+    "C": "$5.00",
+    "D": "$8.00"
+   },
+   "prompt": "What is the weekend cost of a sleeping bag?",
+   "accept": "C",
+   "part": "V",
+   "passage": "Gear Prices and Information / Sleeping Gear | Day | Weekend | Weekly | Deposit / Sleeping bag | $3.00 | $5.00 | $8.00 | $200.00 / Sleeping pad | $1.00 | $2.00 | $3.00 | $30.00 / Tarp | $5.00 | $10.00 | $12.00 | $20.00 / 3 -p ers on tent | $6.00 | $12.00 | $15.00 | $350.00 / 4 -p ers on tent | $8.00 | $15.00 | $19.00 | $450.00",
+   "passageHead": "Questions 95-96 refer to the following chart.",
+   "passagePage": 136,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q6",
+   "label": "96",
+   "type": "choice",
+   "choices": {
+    "A": "$10.00",
+    "B": "$12.00",
+    "C": "$15.00",
+    "D": "$20.00"
+   },
+   "prompt": "What is the weekly cost of a tarp?",
+   "accept": "B",
+   "part": "V",
+   "passage": "Gear Prices and Information / Sleeping Gear | Day | Weekend | Weekly | Deposit / Sleeping bag | $3.00 | $5.00 | $8.00 | $200.00 / Sleeping pad | $1.00 | $2.00 | $3.00 | $30.00 / Tarp | $5.00 | $10.00 | $12.00 | $20.00 / 3 -p ers on tent | $6.00 | $12.00 | $15.00 | $350.00 / 4 -p ers on tent | $8.00 | $15.00 | $19.00 | $450.00",
+   "passageHead": "Questions 95-96 refer to the following chart.",
+   "passagePage": 136,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q7",
+   "label": "97",
+   "type": "choice",
+   "choices": {
+    "A": "At the Information Desk",
+    "B": "In the Attendance Office",
+    "C": "At the Registration Desk",
+    "D": "In the Library Media Center"
+   },
+   "prompt": "Where can student passes be found?",
+   "accept": "B",
+   "part": "V",
+   "passage": "Library Hours: / Monday & Friday | 7:30 a.m . - 3:00 p.m . / Tuesday & Thursday | 7:30 a.m . - 4:00 p.m . / Wednesday | 7:30 a.m . - 1:30 p.m . / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
+   "passageHead": "Questions 97-98 refer to the following chart.",
+   "passagePage": 137,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q8",
+   "label": "98",
+   "type": "choice",
+   "choices": {
+    "A": "To check out books and videos",
+    "B": "To enter the library after school hours",
+    "C": "To take classes scheduled in the library",
+    "D": "To enter the Library Media Center during lunchtime"
+   },
+   "prompt": "What are student passes required for?",
+   "accept": "D",
+   "part": "V",
+   "passage": "Library Hours: / Monday & Friday | 7:30 a.m . - 3:00 p.m . / Tuesday & Thursday | 7:30 a.m . - 4:00 p.m . / Wednesday | 7:30 a.m . - 1:30 p.m . / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
+   "passageHead": "Questions 97-98 refer to the following chart.",
+   "passagePage": 137,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q9",
+   "label": "99",
+   "type": "choice",
+   "choices": {
+    "A": "They were made in Spain.",
+    "B": "They are sold as a set of 10.",
+    "C": "They are for studying Spanish.",
+    "D": "They are more than 100 years old."
+   },
+   "prompt": "What is true about the advertised items?",
+   "accept": "C",
+   "part": "V",
+   "passage": "Spanish 1, 2 and 3 Books/CDs / I am selling all 3 of the Spanish textbooks and the CD pack / containing the CDs for Spanish 101, 102, and 103. / At the bookstore, these books are $57.15 each . / Get all three plus the CDs at the bargain price of only $75 . / Call me if interested. / Contact: Anthony (814) 867-4548",
+   "passageHead": "Questions 99-100 refer to the following advertisement.",
+   "passagePage": 138,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q10",
+   "label": "100",
+   "type": "choice",
+   "choices": {
+    "A": "$57.15 for each",
+    "B": "$75.00 for each",
+    "C": "$57.15 for everything",
+    "D": "$75.00 for everything"
+   },
+   "prompt": "How much is the seller asking for the items?",
+   "accept": "D",
+   "part": "V",
+   "passage": "Spanish 1, 2 and 3 Books/CDs / I am selling all 3 of the Spanish textbooks and the CD pack / containing the CDs for Spanish 101, 102, and 103. / At the bookstore, these books are $57.15 each . / Get all three plus the CDs at the bargain price of only $75 . / Call me if interested. / Contact: Anthony (814) 867-4548",
+   "passageHead": "Questions 99-100 refer to the following advertisement.",
+   "passagePage": 138,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

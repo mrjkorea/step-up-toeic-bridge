@@ -1,141 +1,192 @@
 {
-  "practiceId": "int-rc-at-q31-40",
-  "title": "RC Actual Test · Questions 31–40",
-  "subtitle": "10 questions (book Q81–90)",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Reading Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "81",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "82",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "83",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "84",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "85",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q6",
-      "label": "86",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q7",
-      "label": "87",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q8",
-      "label": "88",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q9",
-      "label": "89",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q10",
-      "label": "90",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    }
-  ]
+ "practiceId": "int-rc-at-q31-40",
+ "title": "RC Actual Test · Questions 31–40",
+ "subtitle": "10 questions (book Q81–90)",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Reading Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "81",
+   "type": "choice",
+   "choices": {
+    "A": "Art",
+    "B": "Math",
+    "C": "History",
+    "D": "Science"
+   },
+   "prompt": "Which of the following subjects is covered on the Mind Magic CD?",
+   "accept": "B",
+   "part": "V",
+   "passage": "li / il / Mind Magic is a new CD that teaches grammar, / math, and geography to elementary school-aged / children using rap, hip-hop, and pop music. It is / available online atwww.mindmagic.com.",
+   "passageHead": "Questions 81-82 refer to the following advertisement.",
+   "passagePage": 129,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "82",
+   "type": "choice",
+   "choices": {
+    "A": "It is available online.",
+    "B": "It costs less than 30 dollars.",
+    "C": "It is for high school students.",
+    "D": "It must be purchased in schools."
+   },
+   "prompt": "What is true about the Mind Magic CD?",
+   "accept": "A",
+   "part": "V",
+   "passage": "li / il / Mind Magic is a new CD that teaches grammar, / math, and geography to elementary school-aged / children using rap, hip-hop, and pop music. It is / available online atwww.mindmagic.com.",
+   "passageHead": "Questions 81-82 refer to the following advertisement.",
+   "passagePage": 129,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "83",
+   "type": "choice",
+   "choices": {
+    "A": "$1.00",
+    "B": "$10.00",
+    "C": "$100.00",
+    "D": "$200.22"
+   },
+   "prompt": "How much did the customer pay the company?",
+   "accept": "C",
+   "part": "V",
+   "passage": "Thank you for your payment! / Total Amount: | $100.00 / Receipt Number: | 20022289569 / Your credit card payment of $100.00 has been / successfully processed. / Please print this screen as your receipt.",
+   "passageHead": "Questions 83-84 refer to the following receipt.",
+   "passagePage": 130,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "84",
+   "type": "choice",
+   "choices": {
+    "A": "It was for two items.",
+    "B": "It was for a printer.",
+    "C": "It was delivered on February 28.",
+    "D": "It was paid for by credit card."
+   },
+   "prompt": "What is learned about the purchase?",
+   "accept": "D",
+   "part": "V",
+   "passage": "Thank you for your payment! / Total Amount: | $100.00 / Receipt Number: | 20022289569 / Your credit card payment of $100.00 has been / successfully processed. / Please print this screen as your receipt.",
+   "passageHead": "Questions 83-84 refer to the following receipt.",
+   "passagePage": 130,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q5",
+   "label": "85",
+   "type": "choice",
+   "choices": {
+    "A": "In a shopping mall",
+    "B": "In a restaurant",
+    "C": "At a mechanic's shop",
+    "D": "At a construction site"
+   },
+   "prompt": "Where would you see this notice?",
+   "accept": "D",
+   "part": "V",
+   "passage": "WARNING / Hard hats and stee l-to ed boots rri ust be worn by / visitors at all times on the construction site. Failure / to comply will resuIt in a fine of $50.",
+   "passageHead": "Questions 85-86 refer to the following notice.",
+   "passagePage": 131,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q6",
+   "label": "86",
+   "type": "choice",
+   "choices": {
+    "A": "Talk to the foreman",
+    "B": "Buy a ticket",
+    "C": "Bring sunglasses",
+    "D": "Wear a hard hat"
+   },
+   "prompt": "What must visitors do?",
+   "accept": "D",
+   "part": "V",
+   "passage": "WARNING / Hard hats and stee l-to ed boots rri ust be worn by / visitors at all times on the construction site. Failure / to comply will resuIt in a fine of $50.",
+   "passageHead": "Questions 85-86 refer to the following notice.",
+   "passagePage": 131,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q7",
+   "label": "87",
+   "type": "choice",
+   "choices": {
+    "A": "In an airport",
+    "B": "At a movie theater",
+    "C": "At a swimming pool",
+    "D": "In a library"
+   },
+   "prompt": "Where would you see these rules?",
+   "accept": "B",
+   "part": "V",
+   "passage": "Silver Screen House Rules / 1. Sit in your assigned seats / 2. No loud talking during the film / 3. Phones must be turned off / 4. You may not bring your own food / 5. Do not litter / 6. Tickets must be kept at all times",
+   "passageHead": "Questions 87-88 refer to the following notice.",
+   "passagePage": 132,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q8",
+   "label": "88",
+   "type": "choice",
+   "choices": {
+    "A": "Their phones",
+    "B": "Their own food",
+    "C": "Their garbage",
+    "D": "Their tickets"
+   },
+   "prompt": "What should people keep with them?",
+   "accept": "D",
+   "part": "V",
+   "passage": "Silver Screen House Rules / 1. Sit in your assigned seats / 2. No loud talking during the film / 3. Phones must be turned off / 4. You may not bring your own food / 5. Do not litter / 6. Tickets must be kept at all times",
+   "passageHead": "Questions 87-88 refer to the following notice.",
+   "passagePage": 132,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q9",
+   "label": "89",
+   "type": "choice",
+   "choices": {
+    "A": "To announce new prices",
+    "B": "To announce a garage closure",
+    "C": "To announce a new parking lot",
+    "D": "To announce a new manager"
+   },
+   "prompt": "What is the purpose of the notice?",
+   "accept": "B",
+   "part": "V",
+   "passage": "(M rffffffiriMrffffffirirffirffffirirffirffffffffffirffffirffffffffffffffffffffirffff? / NOTICE! / From June 1 to 14, the parking garage will be closed due / to repairs. The garage will be open again on June 15. / We regret any inconvenience this may have caused.",
+   "passageHead": "Questions 89-90 refer to the following notice.",
+   "passagePage": 133,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q10",
+   "label": "90",
+   "type": "choice",
+   "choices": {
+    "A": "On May 12",
+    "B": "On June 1",
+    "C": "On June 14",
+    "D": "On June 15"
+   },
+   "prompt": "When will garage reopen?",
+   "accept": "D",
+   "part": "V",
+   "passage": "(M rffffffiriMrffffffirirffirffffirirffirffffffffffirffffirffffffffffffffffffffirffff? / NOTICE! / From June 1 to 14, the parking garage will be closed due / to repairs. The garage will be open again on June 15. / We regret any inconvenience this may have caused.",
+   "passageHead": "Questions 89-90 refer to the following notice.",
+   "passagePage": 133,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

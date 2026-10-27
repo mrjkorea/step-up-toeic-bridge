@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s04",
-  "title": "Part II · Section 04",
-  "subtitle": "Choice Q",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s04",
-  "introEn": "Listen to each question and choose the best response (Choice Q).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s04",
+ "title": "Part II · Section 04",
+ "subtitle": "Choice Q",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s04",
+ "introEn": "Listen to each question and choose the best response (Choice Q).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "No, they're not.",
+    "B": "The vanilla was better.",
+    "C": "The baker does."
+   },
+   "prompt": "Which cake tasted better, the chocolate one or the vanilla one?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "I'll have cake, please.",
+    "B": "I'm very hungry.",
+    "C": "Yes, I will."
+   },
+   "prompt": "Would you like the coffee cake or the rice pudding with your meal?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "I typed it yesterday.",
+    "B": "Wait until tomorrow.",
+    "C": "Yes, I can."
+   },
+   "prompt": "Should I write the report now or do it tomorrow?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "I cleaned it yesterday.",
+    "B": "You should do it now.",
+    "C": "Yes, I can."
+   },
+   "prompt": "Should I do my homework now or do it on the bus tomorrow?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The long one.",
+    "B": "On the mountaintop.",
+    "C": "Yes, we should."
+   },
+   "prompt": "Should we take the short trail or the long one?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "I think you're right about that.",
+    "B": "That's the right way to do it.",
+    "C": "I think we should go left."
+   },
+   "prompt": "Which way should we go, left or right?",
+   "accept": "C",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

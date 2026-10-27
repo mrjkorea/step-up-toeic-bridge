@@ -1,90 +1,91 @@
 {
-  "practiceId": "bas-lc-p3-s06",
-  "title": "Part III · Section 06",
-  "subtitle": "Conversations & talks",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p3-s06",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A bridge will be repaired.",
-        "B": "A new highway will be built.",
-        "C": "The traffic in midtown is heavy.",
-        "D": "An accident has closed a highway."
-      },
-      "prompt": "What is announced?",
-      "accept": "A"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Use the elevator",
-        "B": "Use the telephone",
-        "C": "Enter the building",
-        "D": "Check their e-mail"
-      },
-      "prompt": "What will people be unable to do the next morning?",
-      "accept": "D"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "On a ship",
-        "B": "On a train",
-        "C": "On a bus",
-        "D": "On a plane"
-      },
-      "prompt": "Where can you hear this announcement?",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "At an airport",
-        "B": "At a museum",
-        "C": "At a library",
-        "D": "At a hospital"
-      },
-      "prompt": "Where can this announcement be heard?",
-      "accept": "C"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "On a train",
-        "B": "At a concert",
-        "C": "In a classroom",
-        "D": "In a supermarket"
-      },
-      "prompt": "Where is this announcement heard?",
-      "accept": "A"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A flight has been delayed.",
-        "B": "The airport has been closed.",
-        "C": "A storm has caused an accident.",
-        "D": "The speaker's trip has been canceled. Actual Test Listening Comprehension LISTENING COMPREHENSION This is the Listening Section of the test."
-      },
-      "prompt": "What has happened?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "bas-lc-p3-s06",
+ "title": "Part III · Section 06",
+ "subtitle": "Conversations & talks",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p3-s06",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "A bridge will be repaired.",
+    "B": "A new highway will be built.",
+    "C": "The traffic in midtown is heavy.",
+    "D": "An accident has closed a highway."
+   },
+   "prompt": "What is announced?",
+   "accept": "A"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Use the elevator",
+    "B": "Use the telephone",
+    "C": "Enter the building",
+    "D": "Check their e-mail"
+   },
+   "prompt": "What will people be unable to do the next morning?",
+   "accept": "D"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "On a ship",
+    "B": "On a train",
+    "C": "On a bus",
+    "D": "On a plane"
+   },
+   "prompt": "Where can you hear this announcement?",
+   "accept": "A"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "At an airport",
+    "B": "At a museum",
+    "C": "At a library",
+    "D": "At a hospital"
+   },
+   "prompt": "Where can this announcement be heard?",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "On a train",
+    "B": "At a concert",
+    "C": "In a classroom",
+    "D": "In a supermarket"
+   },
+   "prompt": "Where is this announcement heard?",
+   "accept": "A"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "A flight has been delayed.",
+    "B": "The airport has been closed.",
+    "C": "A storm has caused an accident.",
+    "D": "The speaker's trip has been canceled"
+   },
+   "prompt": "What has happened?",
+   "accept": "A"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

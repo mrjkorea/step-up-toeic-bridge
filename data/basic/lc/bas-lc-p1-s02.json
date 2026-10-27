@@ -1,103 +1,104 @@
 {
-  "practiceId": "bas-lc-p1-s02",
-  "title": "Part I · Section 02",
-  "subtitle": "Picture Description",
-  "level": "basic",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "bas-lc-p1-s02",
-  "photoDir": "basic/p1-s02",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q01.png"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q02.png"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q03.png"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q04.png"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q05.png"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "basic/p1-s02/q06.png"
-    }
-  ]
+ "practiceId": "bas-lc-p1-s02",
+ "title": "Part I · Section 02",
+ "subtitle": "Picture Description",
+ "level": "basic",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "bas-lc-p1-s02",
+ "photoDir": "basic/p1-s02",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "They are playing with clay.",
+    "B": "They are running in the grass.",
+    "C": "The boy is flying a kite.",
+    "D": "The boy is throwing a ball."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/p1-s02/q01.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "They're in the amusement park.",
+    "B": "They're in the classroom.",
+    "C": "People are at the zoo.",
+    "D": "People are in the park."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "basic/p1-s02/q02.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "They are running down the steps.",
+    "B": "They are walking down the steps.",
+    "C": "They are walking up the steps.",
+    "D": "They are jumping on the steps."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "basic/p1-s02/q03.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "They're getting on a truck.",
+    "B": "They're getting in a taxi.",
+    "C": "Women are getting on a train.",
+    "D": "Women are getting on a bus."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "basic/p1-s02/q04.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The girls are standing on the statue.",
+    "B": "The girls are standing behind the statue.",
+    "C": "The girls are standing under the statue.",
+    "D": "The girls are standing near the statue."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "basic/p1-s02/q05.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "They're sitting on the bus.",
+    "B": "They're riding bicycles.",
+    "C": "They're writing biographies.",
+    "D": "They're buying bicycles."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "basic/p1-s02/q06.png",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

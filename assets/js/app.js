@@ -227,7 +227,9 @@
     }
     if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
     else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
+    if (item.passageHead) card.appendChild(el("p", "q-passage-head", item.passageHead));
     if (item.passage) card.appendChild(el("div", "q-passage", item.passage));
+    else if (item.passageNote) card.appendChild(el("p", "q-passage-note", item.passageNote));
     var fieldset = el("fieldset", "q-choices");
     fieldset.setAttribute("aria-label", "Question " + item.label);
     var choices = item.choices || {};

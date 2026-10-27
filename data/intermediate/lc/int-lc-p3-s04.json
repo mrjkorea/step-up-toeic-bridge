@@ -1,90 +1,91 @@
 {
-  "practiceId": "int-lc-p3-s04",
-  "title": "Part III · Section 04",
-  "subtitle": "Conversations & talks",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p3-s04",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Go to the picnic area",
-        "B": "Participate in the quiz with their family",
-        "C": "Join in the Fun Run and then eat",
-        "D": "Go to the main gate at 9 a.m."
-      },
-      "prompt": "What should people do first tomorrow?",
-      "accept": "D"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A photo exhibition will close on Saturday.",
-        "B": "A photo exhibition will begin on Saturday.",
-        "C": "The art gallery wants to buy black and white pictures.",
-        "D": "The art gallery is selling black and white pictures."
-      },
-      "prompt": "What is being announced?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "In the elevator",
-        "B": "On the sidewalk",
-        "C": "In the parking lot",
-        "D": "Near the building's entrance"
-      },
-      "prompt": "Where are bicycles not allowed?",
-      "accept": "D"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "The animals can be scared.",
-        "B": "The animals are too young.",
-        "C": "Food might be dangerous.",
-        "D": "The animals might hate food."
-      },
-      "prompt": "Why should people not give food to the animals?",
-      "accept": "C"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "Part of the gym will be closed.",
-        "B": "They celebrate a national holiday.",
-        "C": "The main entrance is being repaired.",
-        "D": "The gym has many entrances."
-      },
-      "prompt": "Why do members have to use the side entrance from Tuesday to Thursday?",
-      "accept": "A"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Drive to work",
-        "B": "Not drive to work",
-        "C": "Get a bus from their house",
-        "D": "Park their car in the company parking lot"
-      },
-      "prompt": "What should the staff do tomorrow?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "int-lc-p3-s04",
+ "title": "Part III · Section 04",
+ "subtitle": "Conversations & talks",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p3-s04",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Go to the picnic area",
+    "B": "Participate in the quiz with their family",
+    "C": "Join in the Fun Run and then eat",
+    "D": "Go to the main gate at 9 a.m."
+   },
+   "prompt": "What should people do first tomorrow?",
+   "accept": "D"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "A photo exhibition will close on Saturday.",
+    "B": "A photo exhibition will begin on Saturday.",
+    "C": "The art gallery wants to buy black and white pictures.",
+    "D": "The art gallery is selling black and white pictures."
+   },
+   "prompt": "What is being announced?",
+   "accept": "B"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "In the elevator",
+    "B": "On the sidewalk",
+    "C": "In the parking lot",
+    "D": "Near the building's entrance"
+   },
+   "prompt": "Where are bicycles not allowed?",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The animals can be scared.",
+    "B": "The animals are too young.",
+    "C": "Food might be dangerous.",
+    "D": "The animals might hate food."
+   },
+   "prompt": "Why shou Id people not give food to the animals?",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Part of the gym will be closed.",
+    "B": "They celebrate a national holiday.",
+    "C": "The main entrance is being repaired.",
+    "D": "The gym has many entrances."
+   },
+   "prompt": "Why do members have to use the side entrance from Tuesday to Thursday?",
+   "accept": "A"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Drive to work",
+    "B": "Not drive to work",
+    "C": "Get a bus from their house",
+    "D": "Park their car in the company parking lot"
+   },
+   "prompt": "What should the staff do tomorrow?",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

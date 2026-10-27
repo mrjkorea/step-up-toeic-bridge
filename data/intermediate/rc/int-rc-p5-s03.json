@@ -1,67 +1,80 @@
 {
-  "practiceId": "int-rc-p5-s03",
-  "title": "Part V · Section 03",
-  "subtitle": "Instructions / info",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Load clothes. Do not overfill.",
-      "accept": "B",
-      "passage": "Questions 1-2 refer to the following instructions. Instructions For Use",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Select desired wash and rinse temperatures.",
-      "accept": "C",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Select wash setting, Normal or Delicate.",
-      "accept": "C",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "On a microwave oven",
-        "B": "On a washing machine",
-        "C": "On a dishwashing machine",
-        "D": "On an automatic car wash 2. How much does this service cost?"
-      },
-      "prompt": "Deposit $1.25, in quarters. 5. Press \"start\" button. 1. Where would this notice be found?",
-      "accept": "D"
-    }
-  ]
+ "practiceId": "int-rc-p5-s03",
+ "title": "Part V · Section 03",
+ "subtitle": "Instructions / info",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "On a microwave oven",
+    "B": "On a washing machine",
+    "C": "On a dishwashing machine",
+    "D": "On an automatic car wash"
+   },
+   "prompt": "Where would this notice be found?",
+   "accept": "B",
+   "passage": "Instructions For Use",
+   "passageHead": "Questions 1-2 refer to the following instructions.",
+   "passagePage": 96,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "$0.75",
+    "B": "$1.00",
+    "C": "$1.25",
+    "D": "$2.00"
+   },
+   "prompt": "How much does this service cost?",
+   "accept": "C",
+   "passage": "Instructions For Use",
+   "passageHead": "Questions 1-2 refer to the following instructions.",
+   "passagePage": 96,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "A television",
+    "B": "A computer",
+    "C": "A tape player",
+    "D": "An oven"
+   },
+   "prompt": "What are the instructions for?",
+   "accept": "C",
+   "passage": "Operating Instructions / 1. Turn machine on. / 2. Place a cassette in the player.",
+   "passageHead": "Questions 3-4 refer to the following instructions.",
+   "passagePage": 97,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "It turns the machine on.",
+    "B": "It adjusts the volume.",
+    "C": "It rewinds the tape.",
+    "D": "It skips songs."
+   },
+   "prompt": "What does the \"fast-forward\" button do?",
+   "accept": "D",
+   "passage": "Operating Instructions / 1. Turn machine on. / 2. Place a cassette in the player.",
+   "passageHead": "Questions 3-4 refer to the following instructions.",
+   "passagePage": 97,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

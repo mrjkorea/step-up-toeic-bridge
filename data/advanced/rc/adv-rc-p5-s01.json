@@ -1,64 +1,80 @@
 {
-  "practiceId": "adv-rc-p5-s01",
-  "title": "Part V · Section 01",
-  "subtitle": "Notices",
-  "level": "advanced",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Wait patiently at the station",
-        "B": "Go to Brook Street Station",
-        "C": "Use their own cars",
-        "D": "Use another transportation"
-      },
-      "prompt": "What should people who need to catch a train do?",
-      "accept": "B",
-      "passage": "Questions 1-2 refer to the following notice. NOTICE This station will be closed for repairs because of water damage from the recent storms. It will be closed from Tuesday to Friday of this week. Passengers are advised to go to Brook Street station. We apologize for any inconvenience and thank you for your patience and understanding."
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "The station is closer.",
-        "B": "The station is closed between Tuesday and Friday.",
-        "C": "The storm will come.",
-        "D": "The fare is cheaper. Questions 3-4 refer to the following notice. Below is the local weather forecast for the next 5 days. Monday: Rain in the morning, dry in the afternoon. Tuesday: Starts warm, but will get colder in the afternoon. Wednesday: Sunny and warm all day. Thursday: Light rain in morning, becoming dry later in the afternoon. Friday: Possible snow with strong winds all day. Heavy snow is predicted for the whole of the weekend."
-      },
-      "prompt": "Why does the notice tell people to go to another station?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Two",
-        "B": "Three",
-        "C": "Four",
-        "D": "Five"
-      },
-      "prompt": "How many days is rain predicted for the morning? raino|L light rain",
-      "accept": "A"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "Monday and Tuesday",
-        "B": "Monday and Thursday",
-        "C": "Wednesday and Friday",
-        "D": "Thursday and Friday"
-      },
-      "prompt": "Which two days have similar weather?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "adv-rc-p5-s01",
+ "title": "Part V · Section 01",
+ "subtitle": "Notices",
+ "level": "advanced",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Wait patiently at the station",
+    "B": "Go to Brook Street Station",
+    "C": "Use their own cars",
+    "D": "Use another transportation"
+   },
+   "prompt": "What should people who need to catch a train do?",
+   "accept": "B",
+   "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+   "passageHead": "Questions 1-2 refer to the following notice.",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The station is closer.",
+    "B": "The station is closed between Tuesday and Friday.",
+    "C": "The storm will come.",
+    "D": "The fare is cheaper."
+   },
+   "prompt": "Why does the notice tell people to go to another station?",
+   "accept": "B",
+   "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+   "passageHead": "Questions 1-2 refer to the following notice.",
+   "passagePage": 84,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Two",
+    "B": "Three",
+    "C": "Four",
+    "D": "Five"
+   },
+   "prompt": "How many days is rain predicted for the morning?",
+   "accept": "A",
+   "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Monday and Tuesday",
+    "B": "Monday and Thursday",
+    "C": "Wednesday and Friday",
+    "D": "Thursday and Friday"
+   },
+   "prompt": "Which two days have similar weather?",
+   "accept": "B",
+   "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
+   "passageHead": "Questions 3-4 refer to the following notice.",
+   "passagePage": 85,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

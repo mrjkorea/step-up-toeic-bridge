@@ -1,90 +1,91 @@
 {
-  "practiceId": "int-lc-p3-s06",
-  "title": "Part III · Section 06",
-  "subtitle": "Conversations & talks",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p3-s06",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Because the final is next week.",
-        "B": "Because lots of people want tickets.",
-        "C": "Because there are three people wanting tickets.",
-        "D": "Because they will be sold to those who wait in line."
-      },
-      "prompt": "Why can't people buy as many tickets as they want?",
-      "accept": "B"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Because it will be released on Saturday.",
-        "B": "Because it is highly successful.",
-        "C": "Because the first movie was very popular.",
-        "D": "Because it is at number 1."
-      },
-      "prompt": "Why is the movie expected to be successful?",
-      "accept": "C"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "To purchase tickets for tonight's performance",
-        "B": "To continue waiting in line",
-        "C": "To ask for their money back",
-        "D": "To purchase tickets for tomorrow's performance"
-      },
-      "prompt": "Why would people return the next day?",
-      "accept": "C"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "People wishing to see the play",
-        "B": "Students who want to help",
-        "C": "All class teachers",
-        "D": "Students wanting to buy tickets"
-      },
-      "prompt": "Who should go to the main hall?",
-      "accept": "A"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "It has been canceled.",
-        "B": "It has been delayed until the next day.",
-        "C": "Tickets are only on sale in the morning.",
-        "D": "There are no tickets left."
-      },
-      "prompt": "Why can't people see tonight's show?",
-      "accept": "D"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Tickets will be on sale soon.",
-        "B": "The opera will be playing for four nights only.",
-        "C": "Tickets for the opera are cheap.",
-        "D": "The opera is very popular. Actual Test Listening Comprehension LISTENING COMPREHENSION This is the Listening Section of the test. There are three parts to this section."
-      },
-      "prompt": "Why should people quickly buy tickets?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "int-lc-p3-s06",
+ "title": "Part III · Section 06",
+ "subtitle": "Conversations & talks",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p3-s06",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Because the final is next week.",
+    "B": "Because lots of people want tickets.",
+    "C": "Because there are three people wanting tickets.",
+    "D": "Because they will be sold to those who wait in line."
+   },
+   "prompt": "Why can't people buy as many tickets as they want?",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Because it will be released on Saturday.",
+    "B": "Because it is highly successful.",
+    "C": "Because the first movie was very popular.",
+    "D": "Because it is at number 1."
+   },
+   "prompt": "Why is the movie expected to be successful?",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "To purchase tickets for tonight's performance",
+    "B": "To continue waiting in line",
+    "C": "To ask for their money back",
+    "D": "To purchase tickets for tomorrow's performance"
+   },
+   "prompt": "Why would people return the next day?",
+   "accept": "C"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "People wishing to see the play",
+    "B": "Students who want to help",
+    "C": "All class teachers",
+    "D": "Students wanting to buy tickets"
+   },
+   "prompt": "Who should go to the main hall?",
+   "accept": "A"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "It has been canceled.",
+    "B": "It has been delayed until the next day.",
+    "C": "Tickets are only on sale in the morning.",
+    "D": "There are no tickets left."
+   },
+   "prompt": "Why can't people see tonight's show?",
+   "accept": "D"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Tickets will be on sale soon.",
+    "B": "The opera will be playing for four nights only.",
+    "C": "Tickets for the opera are cheap.",
+    "D": "The opera is very popular."
+   },
+   "prompt": "Why should people quickly buy tickets?",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

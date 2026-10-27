@@ -1,0 +1,54 @@
+{
+ "level": "advanced",
+ "skill": "lc",
+ "audioRef": "adv-lc-p2-s06",
+ "practiceId": "adv-lc-p2-s06-checkup",
+ "title": "Part II · Section 06 · Check-Up",
+ "subtitle": "Statements",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Thanks. I bought it last weekend.",
+    "B": "I thought the TV program was also interesting.",
+    "C": "know. I really need a new TV."
+   },
+   "prompt": "Your new TV looks amazing.",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "I sang a lot last night.",
+    "B": "The doctor told me to rest it.",
+    "C": "You'd better go as soon as possible."
+   },
+   "prompt": "I need to see a doctor about my sore throat.",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, I cleaned it today.",
+    "B": "I washed my clothes this morning.",
+    "C": "I need a new vehicle."
+   },
+   "prompt": "Your truck has never been this clean.",
+   "accept": "A",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "adv-lc-p2-s06"
+}

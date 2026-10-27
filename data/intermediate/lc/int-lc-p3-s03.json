@@ -1,90 +1,91 @@
 {
-  "practiceId": "int-lc-p3-s03",
-  "title": "Part III · Section 03",
-  "subtitle": "Conversations & talks",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p3-s03",
-  "introEn": "Listen to the conversation or talk and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Do something exciting",
-        "B": "Go skiing with the woman",
-        "C": "Stay at home and study",
-        "D": "Do something exciting with the woman"
-      },
-      "prompt": "What is the man going to do during the vacation?",
-      "accept": "C"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Go on a long drive",
-        "B": "Get his car fixed",
-        "C": "Try not to break down on the way",
-        "D": "Drop by a gas station"
-      },
-      "prompt": "What is the man going to do first?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Go to the movie",
-        "B": "Buy the tickets",
-        "C": "Buy the popcorn",
-        "D": "Go to the convenience store"
-      },
-      "prompt": "What are the speakers going to do next?",
-      "accept": "B"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "One night during the week",
-        "B": "At lunch the next day",
-        "C": "On Thursday",
-        "D": "They did not say."
-      },
-      "prompt": "When are the two people going to meet?",
-      "accept": "D"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "Buy tickets for a show",
-        "B": "Go to a restaurant",
-        "C": "Go shopping",
-        "D": "Go to a show"
-      },
-      "prompt": "What is the woman going to do first?",
-      "accept": "C"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "Move to a big house",
-        "B": "Move to a small house",
-        "C": "Choose a new house to move to",
-        "D": "Pay for the house Short Talk"
-      },
-      "prompt": "What is the man going to do?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "int-lc-p3-s03",
+ "title": "Part III · Section 03",
+ "subtitle": "Conversations & talks",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p3-s03",
+ "introEn": "Listen to the conversation or talk and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Do something exciting",
+    "B": "Go skiing with the woman",
+    "C": "Stay at home and study",
+    "D": "Do something exciting with the woman"
+   },
+   "prompt": "What is the man going to do during the vacation?",
+   "accept": "C"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Go on a long drive",
+    "B": "Get his car fixed",
+    "C": "Try not to break down on the way",
+    "D": "Drop by a gas station"
+   },
+   "prompt": "What is the man going to do first?",
+   "accept": "B"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Go to the movie",
+    "B": "Buy the tickets",
+    "C": "Buy the popcorn",
+    "D": "Go to the convenience store"
+   },
+   "prompt": "What are the speakers going to do next?",
+   "accept": "B"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "One night during the week",
+    "B": "At lunch the next day",
+    "C": "On Thursday",
+    "D": "They did not say."
+   },
+   "prompt": "When are the two people going to meet?",
+   "accept": "D"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "Buy tickets for a show",
+    "B": "Go to a restaurant",
+    "C": "Go shopping",
+    "D": "Go to a show"
+   },
+   "prompt": "What is the woman going to do first?",
+   "accept": "C"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Move to a big house",
+    "B": "Move to a small house",
+    "C": "Choose a new house to move to",
+    "D": "Pay for the house"
+   },
+   "prompt": "What is the man going to do?",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,95 +1,90 @@
 {
-  "practiceId": "int-rc-p4-s04",
-  "title": "Part IV · Section 04",
-  "subtitle": "Adverbs",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "softly",
-        "B": "heavily",
-        "C": "loudly",
-        "D": "carefully"
-      },
-      "prompt": "You had better not go outside when it rains",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "yet",
-        "B": "already",
-        "C": "near",
-        "D": "hopeful smells"
-      },
-      "prompt": "I was late for school when I took a taxi.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "good good - good - well -",
-        "B": "well good - well - good -",
-        "C": "good good - well - good -",
-        "D": "well good - well - well - tastes \""
-      },
-      "prompt": "The bread looks and sells",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "enough rich",
-        "B": "richness enough",
-        "C": "rich enough",
-        "D": "enough richness"
-      },
-      "prompt": "He was to buy the car.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "turn it off",
-        "B": "turn off it",
-        "C": "it turn off",
-        "D": "turning it off"
-      },
-      "prompt": "The light is still on. Please",
-      "accept": "A",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "hard hard -",
-        "B": "hardly - hard",
-        "C": "hard-hardly",
-        "D": "hardly hardly"
-      },
-      "prompt": "Yesterday, it snowed very Cars could move on.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "int-rc-p4-s04",
+ "title": "Part IV · Section 04",
+ "subtitle": "Adverbs",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "softly",
+    "B": "heavily",
+    "C": "loudly",
+    "D": "carefully"
+   },
+   "prompt": "You had better not go outside when it rains _______.",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "yet",
+    "B": "already",
+    "C": "near",
+    "D": "hopeful"
+   },
+   "prompt": "I was _______ late for school when I took a taxi.",
+   "accept": "B"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "good – good – good – well",
+    "B": "well – good – well – good",
+    "C": "good – good – well – good",
+    "D": "well – good – well – well"
+   },
+   "prompt": "The bread looks _______, smells _______, tastes _______ and sells _______.",
+   "accept": "A"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "enough rich",
+    "B": "richness enough",
+    "C": "rich enough",
+    "D": "enough richness"
+   },
+   "prompt": "He was _______ to buy the car.",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "turn it off",
+    "B": "turn off it",
+    "C": "it turn off",
+    "D": "turning it off"
+   },
+   "prompt": "The light is still on. Please _______.",
+   "accept": "A"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "hard - hard",
+    "B": "hardly - hard",
+    "C": "hard - hardly",
+    "D": "hardly - hardly"
+   },
+   "prompt": "Yesterday, it snowed very _______. Cars could _______ move on.",
+   "accept": "C"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

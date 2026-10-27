@@ -1,91 +1,92 @@
 {
-  "practiceId": "adv-lc-p2-s02",
-  "title": "Part II · Section 02",
-  "subtitle": "Future-tense Q",
-  "level": "advanced",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "adv-lc-p2-s02",
-  "introEn": "Listen to each question and choose the best response (Future-tense Q).",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
-      },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
-    }
-  ],
-  "timerMinutes": 12
+ "practiceId": "adv-lc-p2-s02",
+ "title": "Part II · Section 02",
+ "subtitle": "Future-tense Q",
+ "level": "advanced",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "adv-lc-p2-s02",
+ "introEn": "Listen to each question and choose the best response (Future-tense Q).",
+ "timerMinutes": 12,
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It will start at 4:30.",
+    "B": "Frank and John can't come.",
+    "C": "No, I haven't."
+   },
+   "prompt": "Who's not going to the office Christmas party next Friday?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, all day Saturday and Sunday.",
+    "B": "Yes, I think I'd like that very much.",
+    "C": "I heard it was going to rain."
+   },
+   "prompt": "What's the weather supposed to be like this weekend?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "I'm going out to dinner.",
+    "B": "No, it's not.",
+    "C": "At 5:30."
+   },
+   "prompt": "What are you doing after you finish work?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, the interview went very well.",
+    "B": "The job sounded very interesting.",
+    "C": "They said they would call me on Friday."
+   },
+   "prompt": "When will you find out if you got the job?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The company moved here over 10 years ago.",
+    "B": "My wife and I both work for the company.",
+    "C": "My wife and I have not discussed it yet."
+   },
+   "prompt": "What are you going to do if the company decides to move?",
+   "accept": "C",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "Yes, he came with us.",
+    "B": "I haven't decided yet.",
+    "C": "No, I don't like dogs."
+   },
+   "prompt": "Where are you going to leave your dog when you go on vacation?",
+   "accept": "B",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,64 +1,80 @@
 {
-  "practiceId": "bas-rc-p5-s04",
-  "title": "Part V · Section 04",
-  "subtitle": "Letters & email",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A letter of invitation",
-        "B": "A letter of thanks",
-        "C": "A letter of complaint",
-        "D": "A letter of application"
-      },
-      "prompt": "What kind of letter is this?",
-      "accept": "A",
-      "passage": "Questions 1-2 refer to the following letter. Dear Jack, My birthday is coming soon! I would like you to come and celebrate it! It's on May Ist. I will have a party in my house. Hope to see you there at 7 p.m. Thanks. Bob"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Bob's birthday",
-        "B": "Jack's birthday",
-        "C": "Bob's housewarming party",
-        "D": "Jack's housewarming party Questions 3-4 refer to the following e-mail. Margaret Kim <margaret@home.com> From: Vincent Perry <v.perry@ihs.com> To: Subject: Thank you for your order Date: May 4 Dear Ms. Kim Thank you for using our Internet Home Shopping. We will deliver your order item, a mid-size blouse, right away. You will surely receive it by the end of this week, 17th. Again thank you very much. Sincerely, Vincent Sales Manager"
-      },
-      "prompt": "For what event is this letter written?",
-      "accept": "A"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "To order a blouse",
-        "B": "To thank an on-line customer",
-        "C": "To check the customer's address",
-        "D": "To refund"
-      },
-      "prompt": "What is the purpose of this email?",
-      "accept": "B"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "B": "By the end of this week",
-        "C": "By the end of this month",
-        "D": "By the end of the day"
-      },
-      "prompt": "When does Ms. Kim receive the item?",
-      "accept": "B",
-      "_note": "choice parse incomplete - proofread from book"
-    }
-  ]
+ "practiceId": "bas-rc-p5-s04",
+ "title": "Part V · Section 04",
+ "subtitle": "Letters & email",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "A letter of invitation",
+    "B": "A letter of thanks",
+    "C": "A letter of complaint",
+    "D": "A letter of application"
+   },
+   "prompt": "What kind of letter is this?",
+   "accept": "A",
+   "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
+   "passageHead": "Questions 1-2 refer to the following letter.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Bob's birthday",
+    "B": "Jack's birthday",
+    "C": "Bob's housewarming party",
+    "D": "Jack's housewarming party"
+   },
+   "prompt": "For what event is this letter written?",
+   "accept": "A",
+   "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
+   "passageHead": "Questions 1-2 refer to the following letter.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "To order a blouse",
+    "B": "To thank an on-line customer",
+    "C": "To check the customer's address",
+    "D": "To refund"
+   },
+   "prompt": "What is the purpose of this email?",
+   "accept": "B",
+   "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
+   "passageHead": "Questions 3-4 refer to the following e-mail.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "By the end of this year",
+    "B": "By the end of this week",
+    "C": "By the end of this month",
+    "D": "By the end of the day"
+   },
+   "prompt": "When does Ms. Kim receive the item?",
+   "accept": "B",
+   "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
+   "passageHead": "Questions 3-4 refer to the following e-mail.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

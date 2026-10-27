@@ -1,103 +1,104 @@
 {
-  "practiceId": "int-lc-p1-s01",
-  "title": "Part I · Section 01",
-  "subtitle": "Picture Description",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p1-s01",
-  "photoDir": "intermediate/p1-s01",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q01.png"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q02.png"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q03.png"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q04.png"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q05.png"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s01/q06.png"
-    }
-  ]
+ "practiceId": "int-lc-p1-s01",
+ "title": "Part I · Section 01",
+ "subtitle": "Picture Description",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p1-s01",
+ "photoDir": "intermediate/p1-s01",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "The man is holding a soccer ball.",
+    "B": "The man is scoring a goal.",
+    "C": "The man has one foot on the soccer ball.",
+    "D": "The man is kicking the soccer ball."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "intermediate/p1-s01/q01.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The baby is in the pushchair.",
+    "B": "The baby is pushing the pushchair.",
+    "C": "The pushchair is empty.",
+    "D": "The baby is out of the pushchair."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "intermediate/p1-s01/q02.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "The man is sitting on the scooter.",
+    "B": "The man is wearing a helmet.",
+    "C": "The man is writing on the wall.",
+    "D": "The man is repairing the scooter."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "intermediate/p1-s01/q03.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The woman is buying a drink.",
+    "B": "The woman is holding a drink.",
+    "C": "The woman is having a drink.",
+    "D": "The woman is making a drink."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "intermediate/p1-s01/q04.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The man is looking at the trees.",
+    "B": "The man is walking down the steps.",
+    "C": "The man is entering the room.",
+    "D": "The man is standing at the top of the stairs."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "intermediate/p1-s01/q05.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "The child is watching television.",
+    "B": "The child is holding the ball.",
+    "C": "The child is playing with some toys.",
+    "D": "The child is sitting on the floor."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "intermediate/p1-s01/q06.png",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

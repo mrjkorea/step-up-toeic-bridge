@@ -1,103 +1,104 @@
 {
-  "practiceId": "int-lc-p1-s02",
-  "title": "Part I · Section 02",
-  "subtitle": "Picture Description",
-  "level": "intermediate",
-  "skill": "lc",
-  "stub": false,
-  "audioRef": "int-lc-p1-s02",
-  "photoDir": "intermediate/p1-s02",
-  "introEn": "Listen to each statement and choose the answer that best describes the picture.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q01.png"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q02.png"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q03.png"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q04.png"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q05.png"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
-      "audioOnly": true,
-      "photo": "intermediate/p1-s02/q06.png"
-    }
-  ]
+ "practiceId": "int-lc-p1-s02",
+ "title": "Part I · Section 02",
+ "subtitle": "Picture Description",
+ "level": "intermediate",
+ "skill": "lc",
+ "stub": false,
+ "audioRef": "int-lc-p1-s02",
+ "photoDir": "intermediate/p1-s02",
+ "introEn": "Listen to each statement and choose the answer that best describes the picture.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "They are looking at the painting.",
+    "B": "They are having a conversation.",
+    "C": "They are sitting next to each other.",
+    "D": "They are sitting behind the lamp."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "intermediate/p1-s02/q01.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "The child is talking to her parents.",
+    "B": "The people are waiting in a line.",
+    "C": "The child is playing with a toy.",
+    "D": "The child is standing between two people."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "D",
+   "photo": "intermediate/p1-s02/q02.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "The men are having a conversation.",
+    "B": "The men are drinking.",
+    "C": "The men are waiting to buy a drink.",
+    "D": "The men are eating sandwiches."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "B",
+   "photo": "intermediate/p1-s02/q03.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The two girls are talking to each other.",
+    "B": "The two girls are looking in the shop window.",
+    "C": "The two girls are walking in the street.",
+    "D": "The two girls are drinking soda."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "intermediate/p1-s02/q04.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "The men are climbing the fence.",
+    "B": "The men are sitting on the fence.",
+    "C": "The men are leaning on the fence.",
+    "D": "The men are building the fence."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "C",
+   "photo": "intermediate/p1-s02/q05.png",
+   "audioOnly": true
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "The people are having a meal.",
+    "B": "The people are cooking.",
+    "C": "The people are waiting to order food.",
+    "D": "The people are working in a restaurant."
+   },
+   "prompt": "Choose the statement that best describes the picture.",
+   "accept": "A",
+   "photo": "intermediate/p1-s02/q06.png",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

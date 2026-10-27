@@ -1,0 +1,54 @@
+{
+ "level": "basic",
+ "skill": "lc",
+ "audioRef": "bas-lc-p2-s04",
+ "practiceId": "bas-lc-p2-s04-checkup",
+ "title": "Part II · Section 04 · Check-Up",
+ "subtitle": "Short answer",
+ "stub": false,
+ "status": "complete",
+ "introEn": "Listen and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "It is Jane's birthday party.",
+    "B": "At 7 p.m.",
+    "C": "At her house."
+   },
+   "prompt": "When do you need to go to the party?",
+   "accept": "B",
+   "audioOnly": true
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Next Wednesday.",
+    "B": "Last week.",
+    "C": "This homework is hard."
+   },
+   "prompt": "When is the homework due?",
+   "accept": "A",
+   "audioOnly": true
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Early next month.",
+    "B": "Last week.",
+    "C": "I am planning to go to Canada."
+   },
+   "prompt": "When do you plan to move to Canada?",
+   "accept": "A",
+   "audioOnly": true
+  }
+ ],
+ "contentVersion": "v2-2026-10-28",
+ "parent": "bas-lc-p2-s04"
+}
