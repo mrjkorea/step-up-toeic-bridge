@@ -1,4 +1,4 @@
-/* Step Up TOEIC Bridge — grading (choice + match) */
+/* Step Up TOEIC Bridge — grading (all item types) */
 (function (root) {
   "use strict";
 
@@ -12,11 +12,28 @@
     return [String(accept)];
   }
 
+  function itemType(item) {
+    return String((item && item.type) || "choice").trim();
+  }
+
+  function isScoredItem(item) {
+    if (!item || item.displayOnly) return false;
+    if (item.scored === false) return false;
+    return true;
+  }
+
   function gradeChoice(item, value) {
     var val = String(value || "").trim();
     var ok = acceptList(item.accept);
     return ok.some(function (a) {
       return norm(a) === norm(val);
+    });
+  }
+
+  function gradeText(item, value) {
+    var val = norm(value);
+    return acceptList(item.accept).some(function (a) {
+      return norm(a) === val;
     });
   }
 
@@ -32,28 +49,39 @@
     return true;
   }
 
+  function gradeSelfcheck(item, response) {
+    response = response || {};
+    if (item.allowHeard !== false && response.heard) return true;
+    var targets = acceptList(item.accept);
+    if (!targets.length && item.target) targets = acceptList(item.target);
+    if (!targets.length && item.phrase) targets = acceptList(item.phrase);
+    if (!targets.length) return false;
+    return gradeText({ accept: targets }, response.value);
+  }
+
   function gradeItem(item, response) {
-    if (item.displayOnly) return true;
-    var type = item.type || "choice";
+    if (item.displayOnly || item.scored === false) return true;
+    var type = itemType(item);
     if (type === "match") return gradeMatch(item, response && response.links);
-    if (type === "choice" || type === "dropdown") return gradeChoice(item, response && response.value);
-    if (type === "text") {
-      var val = norm(response && response.value);
-      return acceptList(item.accept).some(function (a) {
-        return norm(a) === val;
-      });
+    if (type === "choice" || type === "dropdown" || type === "tf") {
+      return gradeChoice(item, response && response.value);
+    }
+    if (type === "text" || type === "typed" || type === "fill") {
+      return gradeText(item, response && response.value);
+    }
+    if (type === "selfcheck" || type === "repeat" || type === "listen-repeat") {
+      return gradeSelfcheck(item, response);
     }
     return false;
   }
 
   function gradePractice(practice, responses) {
     responses = responses || {};
-    var items = (practice.items || []).filter(function (it) {
-      return !it.displayOnly;
-    });
+    var items = (practice.items || []).filter(isScoredItem);
     var correct = 0;
     var detail = [];
-    items.forEach(function (it) {
+    (practice.items || []).forEach(function (it) {
+      if (!isScoredItem(it)) return;
       var ok = gradeItem(it, responses[it.id]);
       if (ok) correct++;
       detail.push({ id: it.id, correct: ok });
@@ -69,5 +97,6 @@
   root.STEPUP_QUIZ = {
     gradePractice: gradePractice,
     gradeItem: gradeItem,
+    isScoredItem: isScoredItem,
   };
 })(typeof window !== "undefined" ? window : globalThis);

@@ -212,24 +212,163 @@
     });
   }
 
-  function renderChoiceItem(item, responses) {
+  function resolvePhotoUrl(ref) {
+    if (!ref) return "";
+    var s = String(ref).trim();
+    if (!s) return "";
+    if (/^https?:\/\//i.test(s)) return s;
+    if (s.indexOf("assets/") === 0) return root.stepupUrl(s);
+    return root.stepupUrl("assets/photos/" + s);
+  }
+
+  function passageImageRef(item, practice) {
+    if (item.passageImage) return item.passageImage;
+    if (item.passagePage == null || item.passagePage === "") return null;
+    var page = String(item.passagePage).trim();
+    if (practice && practice.photoDir) {
+      var base = String(practice.photoDir).replace(/\/$/, "");
+      if (/\.(png|jpe?g|webp|svg)$/i.test(page)) return base + "/" + page;
+      return base + "/" + page + ".png";
+    }
+    var level = (practice && practice.level) || "basic";
+    if (/\.(png|jpe?g|webp|svg)$/i.test(page)) return level + "/rc/" + page;
+    return level + "/rc/" + page + ".png";
+  }
+
+  function itemPageImageRef(item) {
+    if (item.pageImage) return item.pageImage;
+    if (item.photos) {
+      if (typeof item.photos === "string") return item.photos;
+      if (Array.isArray(item.photos) && item.photos.length) return item.photos[0];
+    }
+    return null;
+  }
+
+  function appendPhotoBlock(card, ref, altText) {
+    var url = resolvePhotoUrl(ref);
+    if (!url) return;
+    var photoWrap = el("div", "q-photo");
+    var img = document.createElement("img");
+    img.alt = altText || "Picture for this question";
+    img.src = url;
+    img.loading = "lazy";
+    photoWrap.appendChild(img);
+    card.appendChild(photoWrap);
+  }
+
+  function appendPassageBlock(card, item, practice, passageShown) {
+    var imgRef = passageImageRef(item, practice);
+    var head = item.passageHead ? String(item.passageHead) : "";
+    var bodyKey = imgRef
+      ? "img:" + imgRef
+      : item.passage
+        ? "txt:" + item.passage
+        : item.passageNote
+          ? "note:" + item.passageNote
+          : "";
+    var passageKey = (head ? "h:" + head + "|" : "") + bodyKey;
+    if (passageKey && passageShown[passageKey]) return;
+    if (head) card.appendChild(el("p", "q-passage-head", head));
+    if (imgRef) {
+      appendPhotoBlock(card, imgRef, "Reading passage page");
+      if (passageKey) passageShown[passageKey] = true;
+      return;
+    }
+    if (item.passage) {
+      card.appendChild(el("div", "q-passage", item.passage));
+    } else if (item.passageNote) {
+      card.appendChild(el("p", "q-passage-note", item.passageNote));
+    }
+    if (passageKey) passageShown[passageKey] = true;
+  }
+
+  function appendPrompt(card, item) {
+    if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
+    else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
+  }
+
+  function appendWordBank(card, item) {
+    var bank = item.wordBank;
+    if (!bank || !bank.length) return;
+    var wrap = el("div", "q-word-bank");
+    wrap.appendChild(el("div", "q-word-bank__label", "Word bank"));
+    var chips = el("div", "q-word-bank__chips");
+    bank.forEach(function (word) {
+      var btn = el("button", "q-word-chip", String(word));
+      btn.type = "button";
+      btn.addEventListener("click", function () {
+        var input = card.querySelector(".q-text-input");
+        if (!input) return;
+        var sep = input.value && !/\s$/.test(input.value) ? " " : "";
+        input.value = input.value + sep + word;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+        input.focus();
+      });
+      chips.appendChild(btn);
+    });
+    wrap.appendChild(chips);
+    card.appendChild(wrap);
+  }
+
+  function appendClipAudio(card, item) {
+    var clip = item.audioClip || item.clip;
+    if (!clip) return;
+    var s = String(clip).trim();
+    var url;
+    if (/^https?:\/\//i.test(s)) url = s;
+    else if (s.indexOf("audio/") === 0) url = root.stepupUrl(s);
+    else url = root.stepupUrl("audio/" + s);
+    var wrap = el("div", "q-clip-audio");
+    var video = document.createElement("video");
+    video.controls = true;
+    video.preload = "metadata";
+    video.className = "stepup-audio stepup-audio--clip";
+    video.src = url;
+    wrap.appendChild(video);
+    card.appendChild(wrap);
+  }
+
+  function appendItemPagePhoto(card, item, skipPhotoField) {
+    var pageRef = itemPageImageRef(item);
+    if (pageRef && (!skipPhotoField || pageRef !== item.photo)) {
+      appendPhotoBlock(card, pageRef, "Picture page for this question");
+    }
+  }
+
+  function itemType(item) {
+    return String((item && item.type) || "choice").trim();
+  }
+
+  function isSelfcheckType(type) {
+    return type === "selfcheck" || type === "repeat" || type === "listen-repeat";
+  }
+
+  function renderDisplayOnlyItem(item, practice, passageShown) {
+    var card = el("article", "q-card q-card--display");
+    if (item.label) card.appendChild(el("div", "q-label", String(item.label)));
+    appendPassageBlock(card, item, practice, passageShown);
+    appendItemPagePhoto(card, item, false);
+    if (item.photo) {
+      appendPhotoBlock(card, item.photo, "Illustration");
+    }
+    appendPrompt(card, item);
+    if (item.target || item.phrase) {
+      card.appendChild(el("p", "q-display-target", item.target || item.phrase));
+    }
+    appendClipAudio(card, item);
+    return card;
+  }
+
+  function renderChoiceItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card");
     var label = el("div", "q-label", "Q" + (item.label || item.id));
     card.appendChild(label);
+    appendPassageBlock(card, item, practice, passageShown);
+    appendItemPagePhoto(card, item, true);
     if (item.photo) {
-      var photoWrap = el("div", "q-photo");
-      var img = document.createElement("img");
-      img.alt = "Picture for question " + (item.label || item.id);
-      img.src = root.stepupUrl("assets/photos/" + item.photo);
-      img.loading = "lazy";
-      photoWrap.appendChild(img);
-      card.appendChild(photoWrap);
+      appendPhotoBlock(card, item.photo, "Picture for question " + (item.label || item.id));
     }
-    if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
-    else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
-    if (item.passageHead) card.appendChild(el("p", "q-passage-head", item.passageHead));
-    if (item.passage) card.appendChild(el("div", "q-passage", item.passage));
-    else if (item.passageNote) card.appendChild(el("p", "q-passage-note", item.passageNote));
+    appendPrompt(card, item);
     var fieldset = el("fieldset", "q-choices");
     fieldset.setAttribute("aria-label", "Question " + item.label);
     var choices = item.choices || {};
@@ -260,10 +399,104 @@
     return card;
   }
 
-  function renderMatchItem(item, responses) {
+  function renderTextItem(item, responses, practice, passageShown) {
+    var card = el("article", "q-card q-card--text");
+    card.appendChild(el("div", "q-label", "Q" + (item.label || item.id)));
+    appendPassageBlock(card, item, practice, passageShown);
+    appendItemPagePhoto(card, item, true);
+    if (item.photo) {
+      appendPhotoBlock(card, item.photo, "Picture for question " + (item.label || item.id));
+    }
+    appendPrompt(card, item);
+    appendWordBank(card, item);
+    var input = document.createElement("input");
+    input.type = "text";
+    input.className = "q-text-input";
+    input.name = item.id;
+    input.setAttribute("autocomplete", "off");
+    input.setAttribute("spellcheck", "true");
+    input.setAttribute("aria-label", "Your answer for question " + (item.label || item.id));
+    input.dataset.textId = item.id;
+    var current = responses[item.id] && responses[item.id].value;
+    if (current) input.value = current;
+    input.addEventListener("input", function () {
+      responses[item.id] = { value: input.value };
+    });
+    card.appendChild(input);
+    card.dataset.itemId = item.id;
+    return card;
+  }
+
+  function renderTfItem(item, responses, practice, passageShown) {
+    var tfItem = Object.assign({}, item, {
+      type: "choice",
+      choices: item.choices || { A: "True", B: "False" },
+    });
+    var card = renderChoiceItem(tfItem, responses, practice, passageShown);
+    card.classList.add("q-card--tf");
+    return card;
+  }
+
+  function renderSelfcheckItem(item, responses, practice, passageShown) {
+    var card = el("article", "q-card q-card--selfcheck");
+    card.appendChild(el("div", "q-label", item.label ? String(item.label) : "Listen & repeat"));
+    appendPassageBlock(card, item, practice, passageShown);
+    appendItemPagePhoto(card, item, true);
+    if (item.photo) {
+      appendPhotoBlock(card, item.photo, "Picture for this activity");
+    }
+    appendPrompt(card, item);
+    var phrase = item.target || item.phrase;
+    if (phrase) {
+      card.appendChild(el("p", "q-selfcheck-target", phrase));
+    }
+    appendClipAudio(card, item);
+    var showType = item.inputMode || item.mode || "both";
+    var resp = responses[item.id] || {};
+    if (showType === "both" || showType === "type" || showType === "text") {
+      appendWordBank(card, item);
+      var input = document.createElement("input");
+      input.type = "text";
+      input.className = "q-text-input";
+      input.name = item.id + "_typed";
+      input.setAttribute("autocomplete", "off");
+      input.setAttribute("spellcheck", "true");
+      input.setAttribute("aria-label", "Type what you heard");
+      input.dataset.textId = item.id;
+      if (resp.value) input.value = resp.value;
+      input.addEventListener("input", function () {
+        responses[item.id] = Object.assign({}, responses[item.id] || {}, { value: input.value });
+      });
+      card.appendChild(input);
+    }
+    if (showType === "both" || showType === "heard" || item.allowHeard !== false) {
+      var heardRow = el("label", "q-heard-row");
+      var heard = document.createElement("input");
+      heard.type = "checkbox";
+      heard.dataset.heardId = item.id;
+      if (resp.heard) heard.checked = true;
+      heard.addEventListener("change", function () {
+        responses[item.id] = Object.assign({}, responses[item.id] || {}, { heard: heard.checked });
+      });
+      heardRow.appendChild(heard);
+      heardRow.appendChild(document.createTextNode(" I repeated this aloud (self-check)"));
+      card.appendChild(heardRow);
+    }
+    card.dataset.itemId = item.id;
+    return card;
+  }
+
+  function renderMatchItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card q-card--match");
     card.appendChild(el("div", "q-label", "Q" + (item.label || item.id)));
-    if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
+    appendPassageBlock(card, item, practice, passageShown);
+    var pageRef = itemPageImageRef(item);
+    if (pageRef) {
+      appendPhotoBlock(card, pageRef, "Picture page for matching");
+    } else if (item.photo) {
+      appendPhotoBlock(card, item.photo, "Picture page for matching");
+    }
+    appendPrompt(card, item);
     var links = (responses[item.id] && responses[item.id].links) || {};
     var rights = (item.options && item.options.right) || [];
     (item.pairs || []).forEach(function (pair, idx) {
@@ -293,8 +526,11 @@
   function collectResponses(form, practice) {
     var responses = {};
     (practice.items || []).forEach(function (item) {
-      if (item.displayOnly) return;
-      if (item.type === "match") {
+      if (root.STEPUP_QUIZ && root.STEPUP_QUIZ.isScoredItem) {
+        if (!root.STEPUP_QUIZ.isScoredItem(item)) return;
+      } else if (item.displayOnly) return;
+      var type = itemType(item);
+      if (type === "match") {
         var links = {};
         var card = form.querySelector('[data-match-id="' + item.id + '"]');
         if (card) {
@@ -304,12 +540,34 @@
           });
         }
         responses[item.id] = { links: links };
+      } else if (type === "text" || type === "typed" || type === "fill") {
+        var textEl = form.querySelector('[data-text-id="' + item.id + '"]');
+        responses[item.id] = { value: textEl ? textEl.value : "" };
+      } else if (isSelfcheckType(type)) {
+        var typed = form.querySelector('[data-text-id="' + item.id + '"]');
+        var heardEl = form.querySelector('[data-heard-id="' + item.id + '"]');
+        responses[item.id] = {
+          value: typed ? typed.value : "",
+          heard: !!(heardEl && heardEl.checked),
+        };
       } else {
         var picked = form.querySelector('input[name="' + item.id + '"]:checked');
         responses[item.id] = { value: picked ? picked.value : "" };
       }
     });
     return responses;
+  }
+
+  function renderQuizItem(item, responses, practice, passageShown) {
+    if (item.displayOnly) return renderDisplayOnlyItem(item, practice, passageShown);
+    var type = itemType(item);
+    if (type === "match") return renderMatchItem(item, responses, practice, passageShown);
+    if (type === "text" || type === "typed" || type === "fill") {
+      return renderTextItem(item, responses, practice, passageShown);
+    }
+    if (type === "tf") return renderTfItem(item, responses, practice, passageShown);
+    if (isSelfcheckType(type)) return renderSelfcheckItem(item, responses, practice, passageShown);
+    return renderChoiceItem(item, responses, practice, passageShown);
   }
 
   function renderPractice(app, practiceId) {
@@ -344,6 +602,12 @@
             }
           }
 
+          if (practice.pageImage) {
+            var pagePanel = el("div", "photo-panel");
+            appendPhotoBlock(pagePanel, practice.pageImage, "Practice picture page");
+            app.appendChild(pagePanel);
+          }
+
           var form = el("form", "practice-form");
           form.addEventListener("submit", function (e) {
             e.preventDefault();
@@ -362,14 +626,14 @@
               )
             );
           } else {
+            var passageShown = {};
             var lastSection = null;
             items.forEach(function (item) {
               if (item.section && item.section !== lastSection) {
                 form.appendChild(el("div", "practice-section-banner", item.section));
                 lastSection = item.section;
               }
-              if (item.type === "match") form.appendChild(renderMatchItem(item, responses));
-              else form.appendChild(renderChoiceItem(item, responses));
+              form.appendChild(renderQuizItem(item, responses, practice, passageShown));
             });
           }
 
