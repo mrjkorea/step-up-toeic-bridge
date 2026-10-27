@@ -104,7 +104,7 @@
     var note = el(
       "p",
       "footnote",
-      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio is still placeholder MP4 until Drive exports are wired in."
+      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s. Part I photos are still placeholders."
     );
     app.appendChild(note);
   }
