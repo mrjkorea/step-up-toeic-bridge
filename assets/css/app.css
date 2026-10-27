@@ -342,6 +342,19 @@ body {
   margin: 0 0 0.65rem;
 }
 
+.q-passage-head {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+}
+
+.q-passage-note {
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 0.65rem;
+}
+
 .q-passage {
   margin: 0 0 0.65rem;
   white-space: pre-wrap;
