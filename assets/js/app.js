@@ -5,6 +5,7 @@
   var catalog = null;
   var catalogPromise = null;
   var startedAt = 0;
+  var progressUnsub = null;
 
   var TRACK_CARDS = [
     { trackId: "basic-lc", title: "Basic", subtitle: "Listening (LC)", tone: "basic" },
@@ -20,6 +21,14 @@
     if (cls) n.className = cls;
     if (html != null) n.innerHTML = html;
     return n;
+  }
+
+  function studentLabel() {
+    if (root.MRJ_STUDENT) return String(root.MRJ_STUDENT);
+    if (root.MRJ_AUTH && root.MRJ_AUTH.student) {
+      return String(root.MRJ_AUTH.student() || "");
+    }
+    return "";
   }
 
   function loadCatalog() {
@@ -50,23 +59,30 @@
     root.location.hash = hash;
   }
 
-  function renderHeader(title, backHash) {
-    var head = el("header", "app-header");
+  function renderTopbar(title, backHash) {
+    var bar = el("header", "topbar");
     if (backHash) {
-      var back = el("button", "btn-back", "← Back");
-      back.type = "button";
-      back.addEventListener("click", function () {
-        navigate(backHash);
-      });
-      head.appendChild(back);
+      var back = el("a", "back-link", "← Back");
+      back.href = backHash;
+      bar.appendChild(back);
     }
-    var h1 = el("h1", "app-title", title);
-    head.appendChild(h1);
-    return head;
+    var brand = el("div", "brand", title);
+    bar.appendChild(brand);
+    var name = studentLabel();
+    if (name) {
+      var pill = el("span", "student-pill", name);
+      bar.appendChild(pill);
+    }
+    return bar;
   }
 
-  function scoreBadge(practiceId) {
-    var saved = root.STEPUP_SCORES && root.STEPUP_SCORES.loadLocal(practiceId);
+  function scoreBadgeHtml(practiceId) {
+    var saved =
+      root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.getScore
+        ? root.STEPUP_PROGRESS.getScore(practiceId)
+        : root.STEPUP_SCORES && root.STEPUP_SCORES.loadLocal
+          ? root.STEPUP_SCORES.loadLocal(practiceId)
+          : null;
     if (!saved || !saved.scoreMax) return "";
     return (
       '<span class="score-pill">' +
@@ -79,9 +95,33 @@
     );
   }
 
+  function doneMarkHtml(practiceId) {
+    var complete =
+      root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isComplete
+        ? root.STEPUP_PROGRESS.isComplete(practiceId)
+        : false;
+    if (!complete) return "";
+    return '<span class="badge-done" aria-label="Completed">✓</span>';
+  }
+
+  function resumeControl() {
+    var resume =
+      root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.getResume
+        ? root.STEPUP_PROGRESS.getResume()
+        : null;
+    if (!resume || !resume.practiceId) return null;
+    var wrap = el("div", "resume-bar");
+    var btn = el("a", "btn-resume", "Continue where you left off");
+    btn.href = "#/practice/" + resume.practiceId;
+    wrap.appendChild(btn);
+    return wrap;
+  }
+
   function renderHome(app) {
     app.innerHTML = "";
-    app.appendChild(renderHeader("Step Up TOEIC Bridge"));
+    app.appendChild(renderTopbar("Step Up TOEIC Bridge"));
+    var resume = resumeControl();
+    if (resume) app.appendChild(resume);
     var intro = el(
       "p",
       "lead",
@@ -93,9 +133,9 @@
       var a = el("a", "track-card track-card--" + card.tone);
       a.href = "#/track/" + card.trackId;
       a.innerHTML =
-        "<span class=\"track-card__level\">" +
+        '<span class="track-card__level">' +
         card.title +
-        "</span><span class=\"track-card__skill\">" +
+        '</span><span class="track-card__skill">' +
         card.subtitle +
         "</span>";
       grid.appendChild(a);
@@ -104,7 +144,7 @@
     var note = el(
       "p",
       "footnote",
-      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s. Part I photos are still placeholders."
+      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s."
     );
     app.appendChild(note);
   }
@@ -119,9 +159,9 @@
         return;
       }
       app.innerHTML = "";
-      app.appendChild(
-        renderHeader(track.levelLabel + " · " + track.skillLabel, "#/")
-      );
+      app.appendChild(renderTopbar(track.levelLabel + " · " + track.skillLabel, "#/"));
+      var resume = resumeControl();
+      if (resume) app.appendChild(resume);
       if (track.skill === "lc") {
         var audioNote = el(
           "p",
@@ -140,7 +180,16 @@
         section.appendChild(el("h2", "group-title", groupName));
         var list = el("div", "practice-list");
         groups[groupName].forEach(function (p) {
-          var a = el("a", "practice-card" + (p.stub === false ? " practice-card--live" : ""));
+          var complete =
+            root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isComplete
+              ? root.STEPUP_PROGRESS.isComplete(p.id)
+              : false;
+          var a = el(
+            "a",
+            "practice-card" +
+              (p.stub === false ? " practice-card--live" : "") +
+              (complete ? " practice-card--done" : "")
+          );
           a.href = "#/practice/" + p.id;
           var sub = p.subtitle ? '<span class="practice-card__sub">' + p.subtitle + "</span>" : "";
           var stub =
@@ -148,12 +197,13 @@
               ? '<span class="badge-live">ready</span>'
               : '<span class="badge-stub">stub</span>';
           a.innerHTML =
+            doneMarkHtml(p.id) +
             '<span class="practice-card__title">' +
             p.title +
             "</span>" +
             sub +
             stub +
-            scoreBadge(p.id);
+            scoreBadgeHtml(p.id);
           list.appendChild(a);
         });
         section.appendChild(list);
@@ -166,6 +216,15 @@
     var card = el("article", "q-card");
     var label = el("div", "q-label", "Q" + (item.label || item.id));
     card.appendChild(label);
+    if (item.photo) {
+      var photoWrap = el("div", "q-photo");
+      var img = document.createElement("img");
+      img.alt = "Picture for question " + (item.label || item.id);
+      img.src = root.stepupUrl("assets/photos/" + item.photo);
+      img.loading = "lazy";
+      photoWrap.appendChild(img);
+      card.appendChild(photoWrap);
+    }
     if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
     else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
     if (item.passage) card.appendChild(el("div", "q-passage", item.passage));
@@ -188,12 +247,10 @@
         id +
         '"' +
         (current === k ? " checked" : "") +
-        " /> <span class=\"choice-key\">" +
+        ' /> <span class="choice-key">' +
         k +
         "</span>" +
-        (letterOnly
-          ? ""
-          : ' <span class="choice-text">' + text + "</span>");
+        (letterOnly ? "" : ' <span class="choice-text">' + text + "</span>");
       fieldset.appendChild(row);
     });
     card.appendChild(fieldset);
@@ -261,6 +318,9 @@
         return;
       }
       var trackId = meta.level + "-" + meta.skill;
+      if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.touch) {
+        root.STEPUP_PROGRESS.touch(practiceId, trackId);
+      }
       fetch(root.stepupUrl(meta.dataPath), { cache: "no-cache" })
         .then(function (r) {
           return r.json();
@@ -270,7 +330,7 @@
           app.innerHTML = "";
           var title = practice.title || meta.title;
           var sub = practice.subtitle || meta.subtitle;
-          app.appendChild(renderHeader(title, "#/track/" + trackId));
+          app.appendChild(renderTopbar(title, "#/track/" + trackId));
           if (sub) app.appendChild(el("p", "practice-subtitle", sub));
           if (practice.introEn) app.appendChild(el("p", "practice-intro", practice.introEn));
 
@@ -280,18 +340,6 @@
             if (root.STEPUP_AUDIO) {
               root.STEPUP_AUDIO.mount(audioBox, practice.audioRef || practiceId);
             }
-          }
-
-          if (meta.photoDir || practice.photoDir) {
-            var photoDir = practice.photoDir || meta.photoDir;
-            var imgWrap = el("div", "photo-panel");
-            var img = document.createElement("img");
-            img.alt = "Picture for this section";
-            img.src = root.stepupUrl(
-              "assets/photos/" + photoDir + "/placeholder.svg"
-            );
-            imgWrap.appendChild(img);
-            app.appendChild(imgWrap);
           }
 
           var form = el("form", "practice-form");
@@ -369,9 +417,26 @@
     else renderHome(app);
   }
 
+  function bindProgressRefresh() {
+    if (progressUnsub) progressUnsub();
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.onChange) {
+      progressUnsub = root.STEPUP_PROGRESS.onChange(function () {
+        render();
+      });
+    }
+  }
+
   root.addEventListener("hashchange", render);
+  root.addEventListener("mrj-auth-ready", function () {
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.refresh) {
+      root.STEPUP_PROGRESS.refresh().then(render);
+    } else {
+      render();
+    }
+  });
   root.addEventListener("DOMContentLoaded", function () {
     if (!root.location.hash) root.location.hash = "#/";
+    bindProgressRefresh();
     render();
     if (root.MRJ_SCORES && root.MRJ_SCORES.flush) root.MRJ_SCORES.flush();
   });
