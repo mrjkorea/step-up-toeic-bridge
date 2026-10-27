@@ -7,85 +7,270 @@
   "stub": false,
   "audioRef": "adv-lc-p2-s02",
   "introEn": "Listen to each question and choose the best response (Future-tense Q).",
+  "timerMinutes": 12,
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "What are you going to bring to the picnic",
+        "B": "What are you going to do",
+        "C": "What will you do",
+        "D": "When are you going back",
+        "E": "When will you go to the post office"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "What are you going to bring to the picnic",
+        "B": "What are you going to do",
+        "C": "What will you do",
+        "D": "When are you going back",
+        "E": "When will you go to the post office"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
       "accept": "C",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "What are you going to bring to the picnic",
+        "B": "What are you going to do",
+        "C": "What will you do",
+        "D": "When are you going back",
+        "E": "When will you go to the post office"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "What are you going to bring to the picnic",
+        "B": "What are you going to do",
+        "C": "What will you do",
+        "D": "When are you going back",
+        "E": "When will you go to the post office"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "What are you going to bring to the picnic",
+        "B": "What are you going to do",
+        "C": "What will you do",
+        "D": "When are you going back",
+        "E": "When will you go to the post office"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "At that new restaurant by the movie theater.",
+        "B": "At 7:30 p.m.",
+        "C": "Yes, she was very interesting."
+      },
+      "prompt": "Where are we supposed to meet Helen?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "Fifteen minutes ago.",
+        "B": "Sometime around 7:00.",
+        "C": "They're late."
+      },
+      "prompt": "When will the guests arrive at the party?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "I'm going to the zoo.",
+        "B": "At the library.",
+        "C": "Yes, she is."
+      },
+      "prompt": "Where are we meeting on Saturday morning?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "It will start at 4:30.",
+        "B": "Frank and John can't come.",
+        "C": "No, I haven't."
+      },
+      "prompt": "Who's not going to the office Christmas party next Friday?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, all day Saturday and Sunday.",
+        "B": "Yes, I think I'd like that very much.",
+        "C": "I heard it was going to rain."
+      },
+      "prompt": "What's the weather supposed to be like this weekend?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "I'm going out to dinner.",
+        "B": "No, it's not.",
+        "C": "At 5:30."
+      },
+      "prompt": "What are you doing after you finish work?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, the interview went very well.",
+        "B": "The job sounded very interesting.",
+        "C": "They said they would call me on Friday."
+      },
+      "prompt": "When will you find out if you got the job?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "The company moved here over 10 years ago.",
+        "B": "My wife and I both work for the company.",
+        "C": "My wife and I have not discussed it yet."
+      },
+      "prompt": "What are you going to do if the company decides to move?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, he came with us.",
+        "B": "I haven't decided yet.",
+        "C": "No, I don't like dogs."
+      },
+      "prompt": "Where are you going to leave your dog when you go on vacation?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
   ],
-  "timerMinutes": 12
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

@@ -7,85 +7,350 @@
   "stub": false,
   "audioRef": "int-lc-p2-s02",
   "introEn": "Listen to each question and choose the best response (What).",
+  "timerMinutes": 12,
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you have",
+        "B": "do you think",
+        "C": "is wrong",
+        "D": "made you get to school late",
+        "E": "will the weather be"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you have",
+        "B": "do you think",
+        "C": "is wrong",
+        "D": "made you get to school late",
+        "E": "will the weather be"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you have",
+        "B": "do you think",
+        "C": "is wrong",
+        "D": "made you get to school late",
+        "E": "will the weather be"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you have",
+        "B": "do you think",
+        "C": "is wrong",
+        "D": "made you get to school late",
+        "E": "will the weather be"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you have",
+        "B": "do you think",
+        "C": "is wrong",
+        "D": "made you get to school late",
+        "E": "will the weather be"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "I bought new shoes yesterday.",
+        "B": "I gave her a doll.",
+        "C": "I went swimming.",
+        "D": "The tiger won by 7:4.",
+        "E": "They said it was a good idea."
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 2-(a): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "I bought new shoes yesterday.",
+        "B": "I gave her a doll.",
+        "C": "I went swimming.",
+        "D": "The tiger won by 7:4.",
+        "E": "They said it was a good idea."
+      },
+      "prompt": "Warm-Up 2-(b): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "I bought new shoes yesterday.",
+        "B": "I gave her a doll.",
+        "C": "I went swimming.",
+        "D": "The tiger won by 7:4.",
+        "E": "They said it was a good idea."
+      },
+      "prompt": "Warm-Up 2-(c): Choose what you hear.",
       "accept": "C",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "I bought new shoes yesterday.",
+        "B": "I gave her a doll.",
+        "C": "I went swimming.",
+        "D": "The tiger won by 7:4.",
+        "E": "They said it was a good idea."
+      },
+      "prompt": "Warm-Up 2-(d): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "I bought new shoes yesterday.",
+        "B": "I gave her a doll.",
+        "C": "I went swimming.",
+        "D": "The tiger won by 7:4.",
+        "E": "They said it was a good idea."
+      },
+      "prompt": "Warm-Up 2-(e): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "I will go swimming with my friends.",
+        "B": "I studied math all day.",
+        "C": "It will be sunny tomorrow."
+      },
+      "prompt": "What will you do tomorrow?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "It was hot and humid.",
+        "B": "I like swimming.",
+        "C": "It will be very cold."
+      },
+      "prompt": "What was the weather like yesterday?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "I thought it was really boring.",
+        "B": "I like comedies.",
+        "C": "It finished at 10:00 o'clock."
+      },
+      "prompt": "What did you think of the movie last night?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "It rained all day.",
+        "B": "I think it's going to be sunny.",
+        "C": "have already made plans."
+      },
+      "prompt": "What will the weather be like tomorrow?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "They will arrive this Saturday.",
+        "B": "They think it's a great idea.",
+        "C": "They decided to go to the opera."
+      },
+      "prompt": "What do your parents think of your decision?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "The Eagles won by 33-7.",
+        "B": "It starts at 7:30.",
+        "C": "Yes, it was very exciting."
+      },
+      "prompt": "What was the final score of the game last night?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "I have not decided yet.",
+        "B": "I went to the park with my family.",
+        "C": "No, I have not had a vacation recently."
+      },
+      "prompt": "What did you do on your day off?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "I am sorry and it won't happen again.",
+        "B": "I start work every morning at 8 a.m.",
+        "C": "I had to get my car repaired."
+      },
+      "prompt": "What made you get to work late this morning?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "Jane had caught a cold.",
+        "B": "Jane said it was a male cat.",
+        "C": "It hurt its foot jumping over a fence."
+      },
+      "prompt": "What was wrong with Jane's cat?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
   ],
-  "timerMinutes": 12
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

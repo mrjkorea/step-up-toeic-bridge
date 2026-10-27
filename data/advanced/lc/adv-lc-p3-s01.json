@@ -13,17 +13,102 @@
       "label": "1",
       "type": "choice",
       "choices": {
+        "A": "A job",
+        "B": "She will be able to send and receive e-mail in about 10 minutes.",
+        "C": "Where to take his old computer"
+      },
+      "prompt": "Warm-Up talk a: Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A job",
+        "B": "She will be able to send and receive e-mail in about 10 minutes.",
+        "C": "Where to take his old computer"
+      },
+      "prompt": "Warm-Up talk b: Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A job",
+        "B": "She will be able to send and receive e-mail in about 10 minutes.",
+        "C": "Where to take his old computer"
+      },
+      "prompt": "Warm-Up talk c: Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "A hotel clerk",
+        "B": "At a car dealership",
+        "C": "At a hospital"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "A hotel clerk",
+        "B": "At a car dealership",
+        "C": "At a hospital"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A hotel clerk",
+        "B": "At a car dealership",
+        "C": "At a hospital"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
         "A": "A hotel",
         "B": "A bus company",
         "C": "A train station",
         "D": "An airline"
       },
       "prompt": "Who does the man work for?",
-      "accept": "D"
+      "accept": "D",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q2",
-      "label": "2",
+      "id": "q8",
+      "label": "8",
       "type": "choice",
       "choices": {
         "A": "The vacuum cleaner is making a loud noise.",
@@ -32,11 +117,12 @@
         "D": "The vacuum cleaner is broken."
       },
       "prompt": "What is the man telling the woman?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q3",
-      "label": "3",
+      "id": "q9",
+      "label": "9",
       "type": "choice",
       "choices": {
         "A": "Go to the bank",
@@ -45,11 +131,12 @@
         "D": "Rent a movie"
       },
       "prompt": "What does the woman have to do before going home?",
-      "accept": "A"
+      "accept": "A",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q4",
-      "label": "4",
+      "id": "q10",
+      "label": "10",
       "type": "choice",
       "choices": {
         "A": "There may be a storm.",
@@ -58,7 +145,9 @@
         "D": "The meeting may be long."
       },
       "prompt": "Why might the woman be late?",
-      "accept": "D"
+      "accept": "D",
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

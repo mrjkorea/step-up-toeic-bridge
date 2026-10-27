@@ -14,90 +14,389 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "There is no one in the restaurant.",
+        "B": "There are a lot of people in the restaurant.",
+        "C": "All the tables are being used."
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
+      "prompt": "Choose the statement you hear that best matches the picture.",
+      "accept": "A",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q01.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "The store is closed.",
+        "B": "The books are being bought.",
+        "C": "The store is full of people."
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
+      "prompt": "Choose the statement you hear that best matches the picture.",
+      "accept": "A",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q02.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "are being bought",
+        "B": "are being used",
+        "C": "closed",
+        "D": "in the restaurant",
+        "E": "The store"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
+      "prompt": "Check-Up (a): Choose the words you hear.",
+      "accept": "D",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q03.png"
+      "section": "Check-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "are being bought",
+        "B": "are being used",
+        "C": "closed",
+        "D": "in the restaurant",
+        "E": "The store"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
+      "prompt": "Check-Up (b): Choose the words you hear.",
+      "accept": "B",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q04.png"
+      "section": "Check-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "are being bought",
+        "B": "are being used",
+        "C": "closed",
+        "D": "in the restaurant",
+        "E": "The store"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
+      "prompt": "Check-Up (c): Choose the words you hear.",
+      "accept": "C",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q05.png"
+      "section": "Check-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "are being bought",
+        "B": "are being used",
+        "C": "closed",
+        "D": "in the restaurant",
+        "E": "The store"
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Check-Up (d): Choose the words you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "are being bought",
+        "B": "are being used",
+        "C": "closed",
+        "D": "in the restaurant",
+        "E": "The store"
+      },
+      "prompt": "Check-Up (e): Choose the words you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
       "accept": "B",
       "audioOnly": true,
-      "photo": "intermediate/p1-s04/q06.png"
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "are being read",
+        "B": "floating on the water",
+        "C": "on the ground",
+        "D": "on the shelf",
+        "E": "rowing the boat"
+      },
+      "prompt": "Check-Up (2) 2-(a): Choose the words you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "are being read",
+        "B": "floating on the water",
+        "C": "on the ground",
+        "D": "on the shelf",
+        "E": "rowing the boat"
+      },
+      "prompt": "Check-Up (2) 2-(b): Choose the words you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "are being read",
+        "B": "floating on the water",
+        "C": "on the ground",
+        "D": "on the shelf",
+        "E": "rowing the boat"
+      },
+      "prompt": "Check-Up (2) 2-(c): Choose the words you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "are being read",
+        "B": "floating on the water",
+        "C": "on the ground",
+        "D": "on the shelf",
+        "E": "rowing the boat"
+      },
+      "prompt": "Check-Up (2) 2-(d): Choose the words you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "are being read",
+        "B": "floating on the water",
+        "C": "on the ground",
+        "D": "on the shelf",
+        "E": "rowing the boat"
+      },
+      "prompt": "Check-Up (2) 2-(e): Choose the words you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "There are many people on the beach.",
+        "B": "A man is walking the dog.",
+        "C": "The woman is lying in the chair.",
+        "D": "There is nobody on the beach."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "intermediate/p1-s04/q01.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "There are many people buying flowers.",
+        "B": "There is no one buying flowers.",
+        "C": "There are lots of people waiting to buy flowers.",
+        "D": "There is no one holding bags."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "intermediate/p1-s04/q02.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "All the cups are the same.",
+        "B": "The person is having a drink.",
+        "C": "There are lots of different things on the table.",
+        "D": "The cups are on the chair."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "intermediate/p1-s04/q03.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "The man is reading the signs.",
+        "B": "The signs are all identical.",
+        "C": "The man is talking with the people.",
+        "D": "The signs are on the side of the building."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "intermediate/p1-s04/q04.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "There are lots of people playing.",
+        "B": "There are lots of different trees.",
+        "C": "A child is feeding some animals.",
+        "D": "The bear is climbing a tree."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "intermediate/p1-s04/q05.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "The bicycle is behind the bus.",
+        "B": "The bicycle is in front of the bus.",
+        "C": "There are people getting on the bus.",
+        "D": "There are people getting off the bus."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "intermediate/p1-s04/q06.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

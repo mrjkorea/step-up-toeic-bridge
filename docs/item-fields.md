@@ -26,8 +26,11 @@ Content packs import into `data/<level>/<lc|rc>/<practiceId>.json`. The quiz she
 | `pageImage` | Per-item full page above the question (Part I letter grid, match page) |
 | `photos` | String or array — first entry used as `pageImage` |
 | `passage` | RC passage text (fallback when no page image) |
+| `passageHead` | e.g. “Questions 1–2 refer to the following notice.” (deduped per block) |
+| `passageNote` | Shown when there is no `passage` image/text yet (OCR placeholder hint) |
 | `passagePage` | Book page id → `assets/photos/<level>/rc/<page>.png` or `photoDir/<page>.png` |
 | `passageImage` | Explicit passage/chart image path under `assets/photos/` |
+| `section` | In-practice banner label (e.g. Warm-Up, Words & Idioms Check-Up) |
 | `wordBank` | Optional chips for `fill` / `text` (tap to insert into the input) |
 | `audioClip` / `clip` | Short clip under `audio/` (self-check, repeat) |
 

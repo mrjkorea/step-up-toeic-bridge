@@ -1,63 +1,80 @@
 {
-  "practiceId": "int-rc-p5-s04",
-  "title": "Part V · Section 04",
-  "subtitle": "Letters & email",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Paying for tuition and activity fee",
-        "B": "Regular health checkup",
-        "C": "Notice on school festival",
-        "D": "Getting prepared for the training session"
-      },
-      "prompt": "What is this e-mail about?",
-      "accept": "D",
-      "passage": "Questions 1-2 refer to the following e-mail. From: To: Subject: Greg <coachgreg@home.com> All students<group@home.com> The School Volleyball Dear students, The School Volleyball season will start soon. Please take a notice of the schedule. - Boy's training will begin from next Friday (23rd). - Girl's training will begin the next day. Please get ready for the training. - Both boys and girls must get a physical checkup from a hospital. - You are required to submit a doctor's note before you join the training. - All participants must pay $50 for uniforms, meals and others. I wish all of you and your family good luck. With best wishes, Your Coach"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Girl's training will begin on 24th.",
-        "B": "Only boys need to have a health checkup.",
-        "C": "A doctor's note should be submitted before the training.",
-        "D": "Greg is a volleyball coach. Questions 3-4 refer to the following letter. Dear Ann, You are cordially invited to the 50th Wedding Anniversary party of Luke and Josephine Martin. It will be held on Saturday, November 5th, 2007 at the Eastview Community Hall 228 Montreal Road, Vanier, Ontario. Dinner will start at 5:30 p.m. The band, \"Swing,\" will perform from 7:00 to 9:00 p.m. A donation to the Eastview Hospital will be accepted instead of a gift. Sincerely, The Martins"
-      },
-      "prompt": "Which of the following is NOT true?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "A birthday party",
-        "B": "A wedding"
-      },
-      "prompt": "What is the invitation for?",
-      "accept": "C",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "C": "An anniversary party",
-        "D": "A Christmas party",
-        "A": "At 4:00",
-        "B": "At 4:30"
-      },
-      "prompt": "When does the band finish?",
-      "accept": "D"
-    }
-  ]
+ "practiceId": "int-rc-p5-s04",
+ "title": "Part V · Section 04",
+ "subtitle": "Letters & email",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Paying for tuition and activity fee",
+    "B": "Regular health checkup",
+    "C": "Notice on school festival",
+    "D": "Getting prepared for the training session"
+   },
+   "prompt": "What is this e-mail about?",
+   "accept": "D",
+   "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
+   "passageHead": "Questions 1-2 refer to the following e-mail.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Girl's training will begin on 24th.",
+    "B": "Only boys need to have a health checkup.",
+    "C": "A doctor's note should be submitted before the training.",
+    "D": "Greg is a volleyball coach."
+   },
+   "prompt": "Which of the following is NOT true?",
+   "accept": "B",
+   "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
+   "passageHead": "Questions 1-2 refer to the following e-mail.",
+   "passagePage": 102,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "A birthday party",
+    "B": "A wedding",
+    "C": "An anniversary party",
+    "D": "A Christmas party"
+   },
+   "prompt": "What is the invitation for?",
+   "accept": "C",
+   "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
+   "passageHead": "Questions 3-4 refer to the following letter.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "At 4:00",
+    "B": "At 4:30",
+    "C": "At 7:00",
+    "D": "At 9:00"
+   },
+   "prompt": "When does the band finish?",
+   "accept": "D",
+   "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
+   "passageHead": "Questions 3-4 refer to the following letter.",
+   "passagePage": 103,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -1,64 +1,80 @@
 {
-  "practiceId": "bas-rc-p5-s02",
-  "title": "Part V · Section 02",
-  "subtitle": "Ads",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Seafood",
-        "B": "Fruit",
-        "C": "Toy",
-        "D": "Book"
-      },
-      "prompt": "What is being advertised?",
-      "accept": "B",
-      "passage": "Questions 1-2 refer to the following advertisement. ON SALE! Fresh Oranges $1 for two $3 for seven Until 7 p.m. tonight"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "In a house",
-        "C": "In a factory",
-        "B": "In a supermarket",
-        "D": "In a seafood market Questions 3-4 refer to the following advertisement. Garage Sale We are moving next Mon! Come and get everything you need! CHEAP & STILL USEFUL Thur and Fri 5-7 p.m. Sat and Sun 3-5 p.m. At John's house"
-      },
-      "prompt": "Where can you see this advertisement?",
-      "accept": "B"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "To invite to a party",
-        "B": "To tell about a sale",
-        "D": "To clean the house",
-        "C": "To tell about a family event"
-      },
-      "prompt": "What is this advertisement for?",
-      "accept": "B"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "3 p.m.",
-        "B": "4 p.m.",
-        "C": "5 p.m.",
-        "D": "6 p.m."
-      },
-      "prompt": "When does the sale start for the weekend?",
-      "accept": "A"
-    }
-  ]
+ "practiceId": "bas-rc-p5-s02",
+ "title": "Part V · Section 02",
+ "subtitle": "Ads",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Seafood",
+    "B": "Fruit",
+    "C": "Toy",
+    "D": "Book"
+   },
+   "prompt": "What is being advertised?",
+   "accept": "B",
+   "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+   "passageHead": "Questions 1-2 refer to the following advertisement.",
+   "passagePage": 90,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "In a house",
+    "B": "In a supermarket",
+    "C": "In a factory",
+    "D": "In a seafood market"
+   },
+   "prompt": "Where can you see this advertisement?",
+   "accept": "B",
+   "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+   "passageHead": "Questions 1-2 refer to the following advertisement.",
+   "passagePage": 90,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "To invite to a party",
+    "B": "To tell about a sale",
+    "C": "To tell about a family event",
+    "D": "To clean the house"
+   },
+   "prompt": "What is this advertisement for?",
+   "accept": "B",
+   "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
+   "passageHead": "Questions 3-4 refer to the following advertisement.",
+   "passagePage": 91,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "3 p.m",
+    "B": "4 p.m",
+    "C": "5 p.m",
+    "D": "6 p.m"
+   },
+   "prompt": "When does the sale start for the weekend?",
+   "accept": "A",
+   "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
+   "passageHead": "Questions 3-4 refer to the following advertisement.",
+   "passagePage": 91,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

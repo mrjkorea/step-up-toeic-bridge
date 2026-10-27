@@ -13,17 +13,214 @@
       "label": "1",
       "type": "choice",
       "choices": {
+        "A": "computer shop",
+        "B": "toy store"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "computer shop",
+        "B": "toy store"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "$19",
+        "B": "$200"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "$19",
+        "B": "$200"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(c): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
         "A": "Asking for help",
         "B": "Using fewer boxes",
         "C": "Renting a larger truck",
         "D": "Putting heavy items in small boxes"
       },
       "prompt": "What does the speaker recommend?",
-      "accept": "D"
+      "accept": "D",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q2",
-      "label": "2",
+      "id": "q15",
+      "label": "15",
       "type": "choice",
       "choices": {
         "A": "At a school",
@@ -32,11 +229,12 @@
         "D": "At a sporting event"
       },
       "prompt": "Where would this announcement probably be heard?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q3",
-      "label": "3",
+      "id": "q16",
+      "label": "16",
       "type": "choice",
       "choices": {
         "A": "They are free.",
@@ -45,11 +243,12 @@
         "D": "They must be placed on the animal's collar."
       },
       "prompt": "What does the speaker say about pet licenses?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q4",
-      "label": "4",
+      "id": "q17",
+      "label": "17",
       "type": "choice",
       "choices": {
         "A": "Bus fares will go up.",
@@ -58,11 +257,12 @@
         "D": "The new bus terminal will be opened."
       },
       "prompt": "What is going to happen on June 2?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q5",
-      "label": "5",
+      "id": "q18",
+      "label": "18",
       "type": "choice",
       "choices": {
         "A": "Take a test",
@@ -71,11 +271,12 @@
         "D": "Attend a lecture"
       },
       "prompt": "What does the speaker say they will do after lunch?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q6",
-      "label": "6",
+      "id": "q19",
+      "label": "19",
       "type": "choice",
       "choices": {
         "A": "It will have more computers.",
@@ -84,7 +285,9 @@
         "D": "It will be open during the summer."
       },
       "prompt": "What does the speaker say about the new lab?",
-      "accept": "A"
+      "accept": "A",
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

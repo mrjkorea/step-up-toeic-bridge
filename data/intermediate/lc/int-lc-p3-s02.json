@@ -13,17 +13,198 @@
       "label": "1",
       "type": "choice",
       "choices": {
+        "A": "Internet",
+        "B": "Reception"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Internet",
+        "B": "Reception"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Debit card",
+        "B": "Sending money"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Debit card",
+        "B": "Sending money"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Cooking",
+        "B": "Go shopping"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Cooking",
+        "B": "Go shopping"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "A book",
+        "B": "A leak",
+        "C": "An allergy",
+        "D": "Man's bone",
+        "E": "Michael's car",
+        "F": "Winter holiday"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
         "A": "Where the school will be built",
         "B": "When the school will be built",
         "C": "The location of the meeting",
         "D": "How to make the town more interesting"
       },
       "prompt": "What was the topic of the town meeting?",
-      "accept": "A"
+      "accept": "A",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q2",
-      "label": "2",
+      "id": "q14",
+      "label": "14",
       "type": "choice",
       "choices": {
         "A": "Where to go on a vacation",
@@ -32,11 +213,12 @@
         "D": "An interesting book the man borrowed"
       },
       "prompt": "What are the two people discussing?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q3",
-      "label": "3",
+      "id": "q15",
+      "label": "15",
       "type": "choice",
       "choices": {
         "A": "A book that the man is reading",
@@ -45,11 +227,12 @@
         "D": "A book that the woman likes to read"
       },
       "prompt": "What are the speakers talking about?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q4",
-      "label": "4",
+      "id": "q16",
+      "label": "16",
       "type": "choice",
       "choices": {
         "A": "That the man won't make the target",
@@ -58,11 +241,12 @@
         "D": "That she won't be able to make this month's target"
       },
       "prompt": "What is the woman saying?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q5",
-      "label": "5",
+      "id": "q17",
+      "label": "17",
       "type": "choice",
       "choices": {
         "A": "That her TV is broken",
@@ -71,11 +255,12 @@
         "D": "That her TV is still not repaired yet"
       },
       "prompt": "What is the man telling the woman?",
-      "accept": "D"
+      "accept": "D",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q6",
-      "label": "6",
+      "id": "q18",
+      "label": "18",
       "type": "choice",
       "choices": {
         "A": "He wants to apply for a job.",
@@ -84,7 +269,9 @@
         "D": "He will check the e-mail the woman sent him."
       },
       "prompt": "What is the man telling the woman?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

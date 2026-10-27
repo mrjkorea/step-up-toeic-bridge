@@ -1,63 +1,80 @@
 {
-  "practiceId": "int-rc-p5-s02",
-  "title": "Part V · Section 02",
-  "subtitle": "Ads",
-  "level": "intermediate",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Wellington Holiday Inn is a hotel.",
-        "B": "Guests are offered breakfast during their stay.",
-        "C": "Only foreigners can get special offer.",
-        "D": "Suite room with an ocean view costs $150."
-      },
-      "prompt": "Which of the following is NOT true?",
-      "accept": "D",
-      "passage": "Questions 1-2 refer to the following advertisement. Wellington Holiday Inn (A) At least two nights (B) At most two nights Special offer for foreign guests ONLY! * Standard single room $60 per night * Deluxe double room $80 per night * Suite room $150 per night (Room with an ocean view costs extra $20) * Breakfast (Buffet) included * This special offer is only valid with a minimum of 3 nights' stay."
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "C": "At least three nights",
-        "D": "At least four nights Questions 3-4 refer to the following advertisement. Sign Up Today and try HOME_MOVIE_NET for FREE! Special Price $3.99 a month. * Free shipping - Both ways * * Classics to new releases (including TV soap operas) Cancel anytime before next month's DVDs arrive * Watch movies instantly on your PC - * anywhere, anytime Over 100,000 titles * Free delivery in about 1 Business Day * Keep each movie as long as you want * Return a movie to get a new one from the list"
-      },
-      "prompt": "How many nights should one guest stay?",
-      "accept": "C",
-      "_note": "choice parse incomplete - proofread from book"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "Selling videos online",
-        "B": "Renting videos to home",
-        "C": "Purchasing old videos from home",
-        "D": "Exchanging old videos with new ones"
-      },
-      "prompt": "What is this advertisement for?",
-      "accept": "B"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "The company pays for delivery.",
-        "B": "100,000 titles are offered at one time.",
-        "C": "One can cancel anytime before the next DVD arrives.",
-        "D": "One can keep movies only for two days."
-      },
-      "prompt": "Which of the following is NOT true?",
-      "accept": "B"
-    }
-  ]
+ "practiceId": "int-rc-p5-s02",
+ "title": "Part V · Section 02",
+ "subtitle": "Ads",
+ "level": "intermediate",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Wellington Holiday Inn is a hotel.",
+    "B": "Guests are offered breakfast during their stay.",
+    "C": "Only foreigners can get special offer.",
+    "D": "Suite room with an ocean view costs $150."
+   },
+   "prompt": "Which of the following is NOT true?",
+   "accept": "D",
+   "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
+   "passageHead": "Questions 1-2 refer to the following advertisement.",
+   "passagePage": 90,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "At least two nights",
+    "B": "At most two nights",
+    "C": "At least three nights",
+    "D": "At least four nights"
+   },
+   "prompt": "How many nights should one guest stay?",
+   "accept": "C",
+   "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
+   "passageHead": "Questions 1-2 refer to the following advertisement.",
+   "passagePage": 90,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "Selling videos online",
+    "B": "Renting videos to home",
+    "C": "Purchasing old videos from home",
+    "D": "Exchanging old videos with new ones"
+   },
+   "prompt": "What is this advertisement for?",
+   "accept": "B",
+   "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
+   "passageHead": "Questions 3-4 refer to the following advertisement.",
+   "passagePage": 91,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "The company pays for delivery.",
+    "B": "100,000 titles are offered at one time.",
+    "C": "One can cancel anytime before the next DVD arrives.",
+    "D": "One can keep movies only for two days."
+   },
+   "prompt": "Which of the following is NOT true?",
+   "accept": "B",
+   "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
+   "passageHead": "Questions 3-4 refer to the following advertisement.",
+   "passagePage": 91,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

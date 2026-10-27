@@ -14,90 +14,339 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "The duck is swimming.",
+        "B": "The duck is eating."
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
+      "prompt": "Choose the statement you hear that best matches the picture.",
+      "accept": "A",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q01.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "The store is open.",
+        "B": "The store is closed."
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "C",
+      "prompt": "Choose the statement you hear that best matches the picture.",
+      "accept": "B",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q02.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "closed",
+        "B": "eating",
+        "C": "open",
+        "D": "swimming"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
+      "prompt": "Check-Up (a): Choose the words you hear.",
+      "accept": "D",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q03.png"
+      "section": "Check-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "closed",
+        "B": "eating",
+        "C": "open",
+        "D": "swimming"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
+      "prompt": "Check-Up (b): Choose the words you hear.",
+      "accept": "B",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q04.png"
+      "section": "Check-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "closed",
+        "B": "eating",
+        "C": "open",
+        "D": "swimming"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "A",
+      "prompt": "Check-Up (c): Choose the words you hear.",
+      "accept": "C",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q05.png"
+      "section": "Check-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "closed",
+        "B": "eating",
+        "C": "open",
+        "D": "swimming"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "D",
+      "prompt": "Check-Up (d): Choose the words you hear.",
+      "accept": "A",
       "audioOnly": true,
-      "photo": "basic/p1-s03/q06.png"
+      "section": "Check-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "bed",
+        "B": "lamp"
+      },
+      "prompt": "Check-Up (2) 2-(a): Choose the words you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "bed",
+        "B": "lamp"
+      },
+      "prompt": "Check-Up (2) 2-(b): Choose the words you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "in",
+        "B": "on"
+      },
+      "prompt": "Check-Up (2) 3-(a): Choose the words you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "in",
+        "B": "on"
+      },
+      "prompt": "Check-Up (2) 3-(b): Choose the words you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "The table is outside.",
+        "B": "The table has been set for three.",
+        "C": "The data is being entered into a table.",
+        "D": "The table is being set down."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/p1-s03/q01.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "The fruit is on a plate.",
+        "B": "The fruit is on the table.",
+        "C": "The fruit is for sale.",
+        "D": "The fruit is in cans."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "basic/p1-s03/q02.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "The cat is chasing a ball.",
+        "B": "The cat is eating from the bowl.",
+        "C": "The cat is sleeping on the floor.",
+        "D": "The cat is jumping on the couch."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/p1-s03/q03.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "The cabinet doors are closed.",
+        "B": "The cabinet is being installed.",
+        "C": "The cabinet shelves are empty.",
+        "D": "The cabinet is above the stove."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "basic/p1-s03/q04.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "The magazine is on the counter.",
+        "B": "The magazine is on sale.",
+        "C": "The magazine is on the floor.",
+        "D": "The magazine is on the cups."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "basic/p1-s03/q05.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "The helicopter has landed.",
+        "B": "The helicopter is on the ground.",
+        "C": "The helicopter has not taken off.",
+        "D": "The helicopter is in the sky."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "basic/p1-s03/q06.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

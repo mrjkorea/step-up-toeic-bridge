@@ -34,7 +34,7 @@
   function loadCatalog() {
     if (catalog) return Promise.resolve(catalog);
     if (catalogPromise) return catalogPromise;
-    catalogPromise = fetch(root.stepupUrl("data/catalog.json"), { cache: "no-cache" })
+    catalogPromise = fetch(root.stepupUrl("data/catalog.json?v=2"), { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("catalog");
         return r.json();
@@ -258,8 +258,17 @@
 
   function appendPassageBlock(card, item, practice, passageShown) {
     var imgRef = passageImageRef(item, practice);
-    var passageKey = imgRef ? "img:" + imgRef : item.passage ? "txt:" + item.passage : "";
+    var head = item.passageHead ? String(item.passageHead) : "";
+    var bodyKey = imgRef
+      ? "img:" + imgRef
+      : item.passage
+        ? "txt:" + item.passage
+        : item.passageNote
+          ? "note:" + item.passageNote
+          : "";
+    var passageKey = (head ? "h:" + head + "|" : "") + bodyKey;
     if (passageKey && passageShown[passageKey]) return;
+    if (head) card.appendChild(el("p", "q-passage-head", head));
     if (imgRef) {
       appendPhotoBlock(card, imgRef, "Reading passage page");
       if (passageKey) passageShown[passageKey] = true;
@@ -267,8 +276,10 @@
     }
     if (item.passage) {
       card.appendChild(el("div", "q-passage", item.passage));
-      if (passageKey) passageShown[passageKey] = true;
+    } else if (item.passageNote) {
+      card.appendChild(el("p", "q-passage-note", item.passageNote));
     }
+    if (passageKey) passageShown[passageKey] = true;
   }
 
   function appendPrompt(card, item) {
@@ -616,7 +627,12 @@
             );
           } else {
             var passageShown = {};
+            var lastSection = null;
             items.forEach(function (item) {
+              if (item.section && item.section !== lastSection) {
+                form.appendChild(el("div", "practice-section-banner", item.section));
+                lastSection = item.section;
+              }
               form.appendChild(renderQuizItem(item, responses, practice, passageShown));
             });
           }
@@ -676,6 +692,8 @@
     if (progressUnsub) progressUnsub();
     if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.onChange) {
       progressUnsub = root.STEPUP_PROGRESS.onChange(function () {
+        var route = parseRoute();
+        if (route.view === "practice") return;
         render();
       });
     }

@@ -1,141 +1,152 @@
 {
-  "practiceId": "bas-rc-at-q01-10",
-  "title": "RC Actual Test · Questions 01–10",
-  "subtitle": "10 questions (book Q51–60)",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Reading Actual Test — choose the best answer for each question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "51",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "An",
-        "C": "Some",
-        "D": "Only 53. My father and I for lunch last Monday. to the restaurant"
-      },
-      "prompt": "vase slipped out of her hand and broke on the floor.",
-      "accept": "A"
-    },
-    {
-      "id": "q2",
-      "label": "52",
-      "type": "choice",
-      "choices": {
-        "A": "going",
-        "B": "went camping for the big family trip.",
-        "C": "to go",
-        "D": "go"
-      },
-      "prompt": "My cousins wanted",
-      "accept": "D"
-    },
-    {
-      "id": "q3",
-      "label": "53",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q4",
-      "label": "54",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q5",
-      "label": "55",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q6",
-      "label": "56",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "B",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q7",
-      "label": "57",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "D",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q8",
-      "label": "58",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "C",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q9",
-      "label": "59",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    },
-    {
-      "id": "q10",
-      "label": "60",
-      "type": "choice",
-      "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
-      },
-      "accept": "A",
-      "_note": "stem/choices not parsed - proofread from book"
-    }
-  ]
+ "practiceId": "bas-rc-at-q01-10",
+ "title": "RC Actual Test · Questions 01–10",
+ "subtitle": "10 questions (book Q51–60)",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Reading Actual Test — choose the best answer for each question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "51",
+   "type": "choice",
+   "choices": {
+    "A": "A",
+    "B": "An",
+    "C": "Some",
+    "D": "Only"
+   },
+   "prompt": "_______ vase slipped out of her hand and broke on the floor.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q2",
+   "label": "52",
+   "type": "choice",
+   "choices": {
+    "A": "go",
+    "B": "goes",
+    "C": "going",
+    "D": "to go"
+   },
+   "prompt": "My cousins wanted _______ camping for the big family trip.",
+   "accept": "D",
+   "part": "IV"
+  },
+  {
+   "id": "q3",
+   "label": "53",
+   "type": "choice",
+   "choices": {
+    "A": "going",
+    "B": "went",
+    "C": "to go",
+    "D": "go"
+   },
+   "prompt": "My father and I _______ to the restaurant for lunch last Monday.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q4",
+   "label": "54",
+   "type": "choice",
+   "choices": {
+    "A": "act",
+    "B": "acts",
+    "C": "acted",
+    "D": "acting"
+   },
+   "prompt": "Our class _______ in a school play last weekend.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q5",
+   "label": "55",
+   "type": "choice",
+   "choices": {
+    "A": "movie",
+    "B": "painting",
+    "C": "book",
+    "D": "photo"
+   },
+   "prompt": "On my way home, I read a _______ on the bus.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q6",
+   "label": "56",
+   "type": "choice",
+   "choices": {
+    "A": "I",
+    "B": "my",
+    "C": "me",
+    "D": "mine"
+   },
+   "prompt": "Spaghetti is _______ favorite meal these days.",
+   "accept": "B",
+   "part": "IV"
+  },
+  {
+   "id": "q7",
+   "label": "57",
+   "type": "choice",
+   "choices": {
+    "A": "he",
+    "B": "he's",
+    "C": "him",
+    "D": "his"
+   },
+   "prompt": "Bob checked _______ bag before leaving for school.",
+   "accept": "D",
+   "part": "IV"
+  },
+  {
+   "id": "q8",
+   "label": "58",
+   "type": "choice",
+   "choices": {
+    "A": "we",
+    "B": "our",
+    "C": "me",
+    "D": "I"
+   },
+   "prompt": "The teacher gave _______ extra work to do.",
+   "accept": "C",
+   "part": "IV"
+  },
+  {
+   "id": "q9",
+   "label": "59",
+   "type": "choice",
+   "choices": {
+    "A": "hers",
+    "B": "his",
+    "C": "yours",
+    "D": "theirs"
+   },
+   "prompt": "Jennifer said that the pen was _______,but it was mine.",
+   "accept": "A",
+   "part": "IV"
+  },
+  {
+   "id": "q10",
+   "label": "60",
+   "type": "choice",
+   "choices": {
+    "A": "we",
+    "B": "our",
+    "C": "ours",
+    "D": "those"
+   },
+   "prompt": "My friends and I decided to go hiking so _______ met at the bus stop this morning.",
+   "accept": "A",
+   "part": "IV"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

@@ -7,85 +7,350 @@
   "stub": false,
   "audioRef": "int-lc-p2-s07",
   "introEn": "Listen to each question and choose the best response (How).",
+  "timerMinutes": 12,
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you make",
+        "B": "find the key",
+        "C": "get involved with",
+        "D": "was your vacation",
+        "E": "you are so wet"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "C",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you make",
+        "B": "find the key",
+        "C": "get involved with",
+        "D": "was your vacation",
+        "E": "you are so wet"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you make",
+        "B": "find the key",
+        "C": "get involved with",
+        "D": "was your vacation",
+        "E": "you are so wet"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you make",
+        "B": "find the key",
+        "C": "get involved with",
+        "D": "was your vacation",
+        "E": "you are so wet"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "did you make",
+        "B": "find the key",
+        "C": "get involved with",
+        "D": "was your vacation",
+        "E": "you are so wet"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "I feel great, thanks.",
+        "B": "I sent her flowers.",
+        "C": "It was Okay.",
+        "D": "It was so much fun.",
+        "E": "She is fine."
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 2-(a): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "I feel great, thanks.",
+        "B": "I sent her flowers.",
+        "C": "It was Okay.",
+        "D": "It was so much fun.",
+        "E": "She is fine."
+      },
+      "prompt": "Warm-Up 2-(b): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "I feel great, thanks.",
+        "B": "I sent her flowers.",
+        "C": "It was Okay.",
+        "D": "It was so much fun.",
+        "E": "She is fine."
+      },
+      "prompt": "Warm-Up 2-(c): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "I feel great, thanks.",
+        "B": "I sent her flowers.",
+        "C": "It was Okay.",
+        "D": "It was so much fun.",
+        "E": "She is fine."
+      },
+      "prompt": "Warm-Up 2-(d): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "I feel great, thanks.",
+        "B": "I sent her flowers.",
+        "C": "It was Okay.",
+        "D": "It was so much fun.",
+        "E": "She is fine."
+      },
+      "prompt": "Warm-Up 2-(e): Choose what you hear.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "It was really good.",
+        "B": "It will start at 8:00.",
+        "C": "I like to play soccer."
+      },
+      "prompt": "How was your soccer match?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "I took a bus.",
+        "B": "I came here with my friend.",
+        "C": "I got here at 7:00."
+      },
+      "prompt": "How did you get here?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "I was very sick yesterday.",
+        "B": "used my computer.",
+        "C": "I will bring my homework."
+      },
+      "prompt": "How come you didn't do your homework?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "It was last Friday.",
+        "B": "Mostly multiple choice.",
+        "C": "I got an A-minus."
+      },
+      "prompt": "How did you do on the test?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "I stepped in a puddle.",
+        "B": "I got them at the mall.",
+        "C": "I wear a size nine and a half."
+      },
+      "prompt": "How did your shoes get so wet?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "I was too sick to go.",
+        "B": "No, I don't think they were.",
+        "C": "Tomorrow would be more convenient."
+      },
+      "prompt": "How come you weren't in class yesterday?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, we've met a couple oftimes.",
+        "B": "Sorry, I can't make it then.",
+        "C": "I don't eat much meat these days."
+      },
+      "prompt": "How about meeting at two?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, in my room.",
+        "B": "For almost three hours.",
+        "C": "After I did the homework."
+      },
+      "prompt": "How long did you study last night?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "I would love to play golf this afternoon.",
+        "B": "Thanks. I played really well.",
+        "C": "I had to take my son to the dentist."
+      },
+      "prompt": "Why didn't you play golf this afternoon?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
   ],
-  "timerMinutes": 12
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

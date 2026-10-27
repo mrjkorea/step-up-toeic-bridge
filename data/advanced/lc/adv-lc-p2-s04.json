@@ -7,85 +7,270 @@
   "stub": false,
   "audioRef": "adv-lc-p2-s04",
   "introEn": "Listen to each question and choose the best response (Choice Q).",
+  "timerMinutes": 12,
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "Do you want",
+        "B": "Should we",
+        "C": "Which do you like better",
+        "D": "Which looks better",
+        "E": "Would you like"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "Do you want",
+        "B": "Should we",
+        "C": "Which do you like better",
+        "D": "Which looks better",
+        "E": "Would you like"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "A",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "Do you want",
+        "B": "Should we",
+        "C": "Which do you like better",
+        "D": "Which looks better",
+        "E": "Would you like"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "Do you want",
+        "B": "Should we",
+        "C": "Which do you like better",
+        "D": "Which looks better",
+        "E": "Would you like"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "Do you want",
+        "B": "Should we",
+        "C": "Which do you like better",
+        "D": "Which looks better",
+        "E": "Would you like"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
       "accept": "A",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Warm-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "No, it's not.",
+        "B": "The red one.",
+        "C": "I'll take two."
+      },
+      "prompt": "Which do you like better, the purple sweater or the red one?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "I don't like either.",
+        "B": "Yes, it is.",
+        "C": "It's the best."
+      },
+      "prompt": "Which do you like better, chocolate milk or strawberry milk?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "Neither show looks very good.",
+        "B": "At 8:30.",
+        "C": "Two tickets."
+      },
+      "prompt": "Which show would you like to go to, \"Dolls and Guys\" or\"Sweety Tim?\"",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "No, they're not.",
+        "B": "The vanilla was better.",
+        "C": "The baker does."
+      },
+      "prompt": "Which cake tasted better, the chocolate one or the vanilla one?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "I'll have cake, please.",
+        "B": "I'm very hungry.",
+        "C": "Yes, I will."
+      },
+      "prompt": "Would you like the coffee cake or the rice pudding with your meal?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "I typed it yesterday.",
+        "B": "Wait until tomorrow.",
+        "C": "Yes, I can."
+      },
+      "prompt": "Should I write the report now or do it tomorrow?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "I cleaned it yesterday.",
+        "B": "You should do it now.",
+        "C": "Yes, I can."
+      },
+      "prompt": "Should I do my homework now or do it on the bus tomorrow?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "The long one.",
+        "B": "On the mountaintop.",
+        "C": "Yes, we should."
+      },
+      "prompt": "Should we take the short trail or the long one?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "I think you're right about that.",
+        "B": "That's the right way to do it.",
+        "C": "I think we should go left."
+      },
+      "prompt": "Which way should we go, left or right?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
   ],
-  "timerMinutes": 12
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

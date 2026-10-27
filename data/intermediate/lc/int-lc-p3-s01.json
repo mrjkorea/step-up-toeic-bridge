@@ -13,17 +13,198 @@
       "label": "1",
       "type": "choice",
       "choices": {
+        "A": "A cookbook",
+        "B": "Ski goggles"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A cookbook",
+        "B": "Ski goggles"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A shirt",
+        "B": "Children's section"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "A shirt",
+        "B": "Children's section"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Customer service",
+        "B": "The line is busy."
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Customer service",
+        "B": "The line is busy."
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "A florist",
+        "B": "Saving money",
+        "C": "The manager",
+        "D": "The schedule has been changed.",
+        "E": "To make an appointment",
+        "F": "To the store"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
         "A": "To have a conversation",
         "B": "To ask her the time",
         "C": "For help in making a phone call",
         "D": "To book an overseas holiday"
       },
       "prompt": "Why is the man calling the operator?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q2",
-      "label": "2",
+      "id": "q14",
+      "label": "14",
       "type": "choice",
       "choices": {
         "A": "It was her husband's birthday.",
@@ -32,11 +213,12 @@
         "D": "She thought it was beautiful."
       },
       "prompt": "Why did the woman get a new jacket?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q3",
-      "label": "3",
+      "id": "q15",
+      "label": "15",
       "type": "choice",
       "choices": {
         "A": "All books are on sale.",
@@ -45,11 +227,12 @@
         "D": "Children's books are being moved from the second floor."
       },
       "prompt": "What is happening in the bookstore today?",
-      "accept": "C"
+      "accept": "C",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q4",
-      "label": "4",
+      "id": "q16",
+      "label": "16",
       "type": "choice",
       "choices": {
         "A": "In the restaurant",
@@ -58,11 +241,12 @@
         "D": "In the subway"
       },
       "prompt": "Where did the man leave his wallet?",
-      "accept": "A"
+      "accept": "A",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q5",
-      "label": "5",
+      "id": "q17",
+      "label": "17",
       "type": "choice",
       "choices": {
         "A": "In an airport",
@@ -71,11 +255,12 @@
         "D": "In an office"
       },
       "prompt": "Where are the speakers?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     },
     {
-      "id": "q6",
-      "label": "6",
+      "id": "q18",
+      "label": "18",
       "type": "choice",
       "choices": {
         "A": "It is the man's birthday.",
@@ -84,7 +269,9 @@
         "D": "There was a surprise party for her."
       },
       "prompt": "Why did the woman make a cake?",
-      "accept": "B"
+      "accept": "B",
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

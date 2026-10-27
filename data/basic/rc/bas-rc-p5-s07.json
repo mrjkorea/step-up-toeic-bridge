@@ -1,64 +1,80 @@
 {
-  "practiceId": "bas-rc-p5-s07",
-  "title": "Part V · Section 07",
-  "subtitle": "Forms",
-  "level": "basic",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Read the passage and choose the best answer.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "Mark Twain",
-        "B": "Seoul International School",
-        "C": "A play \"The Adventures of Tom Sawyer\"",
-        "D": "Drama Club"
-      },
-      "prompt": "What does this flyer advertise? presents \"The Adventures of",
-      "accept": "C",
-      "passage": "Questions 1-2 refer to the following flyer. Seoul International School Drama Club presents \"The Adventures of Tom Sawyer\" by Mark Twain Dec. 14 & 15 at 7:30 p.m. Free Admission"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "Seoul International School Drama Club members will perform the play.",
-        "B": "The play is written by Mark Twain.",
-        "C": "The play will be performed on December 14-15.",
-        "D": "The admission fee is not decided. Questions 3-4 refer to the following receipt. Pizza & Pasta World Table No. 7 Cheese Crust Pizza $7 Salad $2 Drinks $1 Subtotal $10 Tax (10%) $1 Total $11"
-      },
-      "prompt": "Which of the following is not true?",
-      "accept": "D"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "For clothes",
-        "B": "For books",
-        "C": "For food",
-        "D": "For admission"
-      },
-      "prompt": "What is this receipt for?",
-      "accept": "C"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "$7",
-        "B": "$9",
-        "C": "$10",
-        "D": "$11 Actual Test Reading Comprehension YOU WILL HAVE THIRTY-FIVE MINUTES TO COMPLETE PARTS IV AND V OF THE TEST. READING This is the reading section of the test. There are two parts to this section."
-      },
-      "prompt": "How much is the total?",
-      "accept": "D"
-    }
-  ]
+ "practiceId": "bas-rc-p5-s07",
+ "title": "Part V · Section 07",
+ "subtitle": "Forms",
+ "level": "basic",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Read the passage and choose the best answer.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "Mark Twain",
+    "B": "Seoul International School",
+    "C": "A play \"The Adventures of Tom Sawyer\"",
+    "D": "Drama Club"
+   },
+   "prompt": "What does this flyer advertise?",
+   "accept": "C",
+   "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
+   "passageHead": "Questions 1-2 refer to the following flyer.",
+   "passagePage": 120,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "Seoul International School Drama Club members will perform the play.",
+    "B": "The play is written by Mark Twain.",
+    "C": "The play will be performed on December 14-15.",
+    "D": "The admission fee is not decided."
+   },
+   "prompt": "Which of the following is not true?",
+   "accept": "D",
+   "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
+   "passageHead": "Questions 1-2 refer to the following flyer.",
+   "passagePage": 120,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "For clothes",
+    "B": "For books",
+    "C": "For food",
+    "D": "For admission"
+   },
+   "prompt": "What is this receipt for?",
+   "accept": "C",
+   "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
+   "passageHead": "Questions 3-4 refer to the following receipt.",
+   "passagePage": 121,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "$7",
+    "B": "$9",
+    "C": "$10",
+    "D": "$11"
+   },
+   "prompt": "How much is the total?",
+   "accept": "D",
+   "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
+   "passageHead": "Questions 3-4 refer to the following receipt.",
+   "passagePage": 121,
+   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables."
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

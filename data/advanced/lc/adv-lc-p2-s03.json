@@ -7,85 +7,190 @@
   "stub": false,
   "audioRef": "adv-lc-p2-s03",
   "introEn": "Listen to each question and choose the best response (Which).",
+  "timerMinutes": 12,
   "items": [
     {
       "id": "q1",
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Listening Practice"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Listening Practice"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Listening Practice"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "The blue one, please.",
+        "B": "I like big shoes.",
+        "C": "They're on the rack."
       },
-      "prompt": "Mark the best response to the question you hear.",
-      "accept": "B",
-      "audioOnly": true
+      "prompt": "Which sweater would you like to look at?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C"
+        "A": "The one at the end with the red door.",
+        "B": "I lived in the house for three years.",
+        "C": "I live in an apartment."
       },
-      "prompt": "Mark the best response to the question you hear.",
+      "prompt": "Which house do you live in?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "On the plane.",
+        "B": "Number 14, I think.",
+        "C": "400 dollars."
+      },
+      "prompt": "Which gate does your flight leave from?",
       "accept": "B",
-      "audioOnly": true
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "I really like math.",
+        "B": "It has to be English.",
+        "C": "It starts at 9 a.m."
+      },
+      "prompt": "Which subject is your least favorite?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "It came as such a surprise.",
+        "B": "They're all beautiful.",
+        "C": "I don't think it will fit."
+      },
+      "prompt": "Which ring do you like best?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I did.",
+        "B": "My yellow one.",
+        "C": "The large purse."
+      },
+      "prompt": "Which hat did you lose at the concert?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "The coach wants me on the team.",
+        "B": "Volleyball or badminton.",
+        "C": "No, she isn't."
+      },
+      "prompt": "Which sport are you trying out for this year?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "It requires two tickets.",
+        "B": "The 30-2 is probably the fastest.",
+        "C": "In the back seat."
+      },
+      "prompt": "Which bus should I take to get to the amusement park?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "Mr. Evans is a member of the staff.",
+        "B": "Ms. Jones is probably the best candidate.",
+        "C": "No, I don't think that's suitable."
+      },
+      "prompt": "Which member of the staff do you think would be the most suitable?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
   ],
-  "timerMinutes": 12
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

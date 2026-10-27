@@ -1,95 +1,90 @@
 {
-  "practiceId": "adv-rc-p4-s03",
-  "title": "Part IV · Section 03",
-  "subtitle": "Agreement",
-  "level": "advanced",
-  "skill": "rc",
-  "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
-  "items": [
-    {
-      "id": "q1",
-      "label": "1",
-      "type": "choice",
-      "choices": {
-        "A": "might go",
-        "B": "should go",
-        "C": "goes",
-        "D": "go to"
-      },
-      "prompt": "He suggested that she there on behalf of us.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q2",
-      "label": "2",
-      "type": "choice",
-      "choices": {
-        "A": "gets",
-        "B": "got",
-        "C": "had got",
-        "D": "has got"
-      },
-      "prompt": "I finally realized that she current husband. married to her",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q3",
-      "label": "3",
-      "type": "choice",
-      "choices": {
-        "A": "makes",
-        "B": "made",
-        "C": "was made",
-        "D": "were made"
-      },
-      "prompt": "This is one of the most powerful robots which ------- by him.",
-      "accept": "D",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q4",
-      "label": "4",
-      "type": "choice",
-      "choices": {
-        "A": "One three",
-        "B": "Two third",
-        "C": "One third",
-        "D": "One thirds"
-      },
-      "prompt": "of the country is covered with mountains.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q5",
-      "label": "5",
-      "type": "choice",
-      "choices": {
-        "A": "doesn't means",
-        "B": "don't mean",
-        "C": "doesn't mean",
-        "D": "doesn't meaning"
-      },
-      "prompt": "The poor that you are hopeless all the time.",
-      "accept": "C",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    },
-    {
-      "id": "q6",
-      "label": "6",
-      "type": "choice",
-      "choices": {
-        "A": "being",
-        "B": "is not",
-        "C": "are",
-        "D": "not been"
-      },
-      "prompt": "To write an essay with 250 words difficult.",
-      "accept": "B",
-      "_note": "OCR text (all.txt); blank position may be missing - proofread"
-    }
-  ]
+ "practiceId": "adv-rc-p4-s03",
+ "title": "Part IV · Section 03",
+ "subtitle": "Agreement",
+ "level": "advanced",
+ "skill": "rc",
+ "stub": false,
+ "introEn": "Choose the best answer to complete the sentence or question.",
+ "items": [
+  {
+   "id": "q1",
+   "label": "1",
+   "type": "choice",
+   "choices": {
+    "A": "might go",
+    "B": "should go",
+    "C": "goes",
+    "D": "go to"
+   },
+   "prompt": "He suggested that she _______ there.",
+   "accept": "B"
+  },
+  {
+   "id": "q2",
+   "label": "2",
+   "type": "choice",
+   "choices": {
+    "A": "gets",
+    "B": "got",
+    "C": "had got",
+    "D": "has got"
+   },
+   "prompt": "I finally realized that she _______ married to her current husband.",
+   "accept": "C"
+  },
+  {
+   "id": "q3",
+   "label": "3",
+   "type": "choice",
+   "choices": {
+    "A": "makes",
+    "B": "made",
+    "C": "was made",
+    "D": "were made"
+   },
+   "prompt": "This is one of the most powerful robots which _______ by him.",
+   "accept": "D"
+  },
+  {
+   "id": "q4",
+   "label": "4",
+   "type": "choice",
+   "choices": {
+    "A": "One three",
+    "B": "Two third",
+    "C": "One third",
+    "D": "One thirds"
+   },
+   "prompt": "_______ of the country is covered with mountains.",
+   "accept": "C"
+  },
+  {
+   "id": "q5",
+   "label": "5",
+   "type": "choice",
+   "choices": {
+    "A": "doesn't means",
+    "B": "don't mean",
+    "C": "doesn't mean",
+    "D": "doesn't meaning"
+   },
+   "prompt": "The poor _______ that you are hopeless all the time.",
+   "accept": "C"
+  },
+  {
+   "id": "q6",
+   "label": "6",
+   "type": "choice",
+   "choices": {
+    "A": "being",
+    "B": "is not",
+    "C": "are",
+    "D": "not been"
+   },
+   "prompt": "To write an essay with 250 words _______ difficult.",
+   "accept": "B"
+  }
+ ],
+ "contentVersion": "v2-2026-10-28"
 }

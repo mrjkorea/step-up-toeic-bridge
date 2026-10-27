@@ -14,90 +14,385 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "They are cutting the grass.",
+        "B": "They are holding glasses.",
+        "C": "They are wearing glasses.",
+        "D": "They are lying on the grass."
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "A",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q01.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q2",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "They are rowing the boat.",
+        "B": "They are running in a race.",
+        "C": "They are resting on the grass.",
+        "D": "They are tying their shoelaces."
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q02.png"
+      "section": "Warm-Up"
     },
     {
       "id": "q3",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Check-Up (a): Choose the words you hear.",
       "accept": "A",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q03.png"
+      "section": "Check-Up"
     },
     {
       "id": "q4",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Check-Up (b): Choose the words you hear.",
       "accept": "B",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q04.png"
+      "section": "Check-Up"
     },
     {
       "id": "q5",
       "label": "5",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
       },
-      "prompt": "Choose the best answer for this picture.",
-      "accept": "B",
+      "prompt": "Check-Up (c): Choose the words you hear.",
+      "accept": "F",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q05.png"
+      "section": "Check-Up"
     },
     {
       "id": "q6",
       "label": "6",
       "type": "choice",
       "choices": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
       },
-      "prompt": "Choose the best answer for this picture.",
+      "prompt": "Check-Up (d): Choose the words you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
+      },
+      "prompt": "Check-Up (e): Choose the words you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "cutting the grass",
+        "B": "holding glasses",
+        "C": "resting on the grass",
+        "D": "rowing the boat",
+        "E": "running in a race",
+        "F": "wearing glasses"
+      },
+      "prompt": "Check-Up (f): Choose the words you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
       "accept": "B",
       "audioOnly": true,
-      "photo": "advanced/p1-s02/q06.png"
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "True",
+        "B": "False"
+      },
+      "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up (2)"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "They are holding the machine.",
+        "B": "They are lifting the wheelbarrow.",
+        "C": "They are digging with shovels.",
+        "D": "They are cutting the grass."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "advanced/p1-s02/q01.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "The woman is wearing glasses.",
+        "B": "They are holding glasses.",
+        "C": "The man is wearing a sweater.",
+        "D": "They are holding plates."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/p1-s02/q02.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "They are playing on the swings.",
+        "B": "They are playing in the sand.",
+        "C": "They are climbing the tree.",
+        "D": "They are climbing the fence."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "advanced/p1-s02/q03.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "Everyone is wearing hats.",
+        "B": "Some people are playing trumpets.",
+        "C": "The woman is conducting the band.",
+        "D": "The boy is singing a song."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/p1-s02/q04.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "They are running a marathon.",
+        "B": "They are rowing the boat.",
+        "C": "They are in a bike race.",
+        "D": "They are driving cars."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/p1-s02/q05.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "No one is crossing the intersection.",
+        "B": "Some people are carrying bags.",
+        "C": "No one is opening the door.",
+        "D": "The men are wearing hats."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/p1-s02/q06.png",
+      "audioOnly": true,
+      "section": "Test Your Skills"
     }
-  ]
+  ],
+  "contentVersion": "v3-fillpack-2026-10-28"
 }

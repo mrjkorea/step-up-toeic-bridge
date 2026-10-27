@@ -158,16 +158,28 @@
     return readLocalResume();
   }
 
+  function sameResumeTarget(a, b) {
+    if (!a || !b) return false;
+    return (
+      String(a.practiceId || "") === String(b.practiceId || "") &&
+      String(a.trackId || "") === String(b.trackId || "")
+    );
+  }
+
   function touch(practiceId, trackId) {
+    var prev =
+      resumeTarget ||
+      (signedIn() ? null : readLocalResume());
     var entry = {
       practiceId: practiceId,
       trackId: trackId || "",
       at: Date.now(),
     };
+    var changed = !sameResumeTarget(prev, entry);
     writeLocalResume(entry);
     resumeTarget = entry;
     savePackToCloud();
-    notifyChange();
+    if (changed) notifyChange();
   }
 
   function onScorePersisted(practiceId, payload) {
