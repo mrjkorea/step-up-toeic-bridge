@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1: I sent flowers Mary for ______.",
+      "prompt": "Words and Idioms Check-Up 1: I sent flowers to Mary for ______.",
       "choices": {
         "A": "a special sale",
         "B": "her birthday",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1",
-      "stem": "I sent flowers Mary for ______."
+      "stem": "I sent flowers to Mary for ______."
     },
     {
       "type": "choice",
