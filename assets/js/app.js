@@ -925,7 +925,8 @@
             var result = root.STEPUP_QUIZ.gradePractice(practice, resp);
             var duration = Math.round((Date.now() - startedAt) / 1000);
             root.STEPUP_SCORES.persist(practice, result, duration);
-            var needRetry = result.scorePct < retryPct();
+            var completeNow = practiceComplete(practice.practiceId);
+            var needRetry = result.scorePct < retryPct() && !completeNow;
             var resultHtml =
               "<strong>Score: " +
               result.scoreValue +
@@ -939,6 +940,11 @@
                 '<p class="result-retry-msg">Please try this exercise again (under ' +
                 retryPct() +
                 "%).</p>";
+            } else if (result.scorePct < retryPct() && completeNow) {
+              resultHtml +=
+                '<p class="result-retry-msg result-retry-msg--soft">Latest attempt under ' +
+                retryPct() +
+                "%; your best score still counts toward progress.</p>";
             }
             resultBox.innerHTML = resultHtml;
             resultBox.className =
