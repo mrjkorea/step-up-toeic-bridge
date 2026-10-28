@@ -366,15 +366,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): Rewrite the sentence.",
+      "prompt": "Grammar Practice 5-(a): Translate into English. 교실은 너무 습하고 추웠다.",
       "accept": [
-        "Because of the heavy snow, we had to stay at home."
+        "The classroom was very wet and cold."
       ],
       "section": "Grammar Practice",
       "id": "q34",
       "label": "5-(a)",
-      "candidateStem": "교실은 너무 습하고 추웠다.",
-      "blocked": "book prints 5-(a) as '교실은 너무 습하고 추웠다.' but 답지 answer is 'Because of the heavy snow, we had to stay at home.' — needs human decision"
+      "candidateStem": "교실은 너무 습하고 추웠다."
     },
     {
       "type": "text",
