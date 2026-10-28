@@ -245,6 +245,18 @@ body {
   background: linear-gradient(90deg, #f3fbf6 0%, var(--card) 2.5rem);
 }
 
+.practice-card--locked {
+  opacity: 0.72;
+  cursor: not-allowed;
+  background: #f4f5f7;
+  box-shadow: none;
+}
+
+.practice-card--retry {
+  border-color: #f0c987;
+  background: linear-gradient(90deg, #fff8ed 0%, var(--card) 2.5rem);
+}
+
 .practice-card--sample {
   outline: 2px solid var(--accent);
 }
@@ -280,6 +292,16 @@ body {
 .badge-live {
   background: var(--accent-soft);
   color: var(--accent);
+}
+
+.badge-retry {
+  background: #fff0d6;
+  color: #9a6200;
+  font-weight: 600;
+}
+
+.badge-lock {
+  font-size: 0.85rem;
 }
 
 .score-pill {
@@ -521,6 +543,112 @@ body {
 
 .btn-primary:hover {
   filter: brightness(1.05);
+}
+
+a.btn-primary,
+a.btn-secondary {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-secondary {
+  background: #eef1f5;
+  color: var(--text, #1a1d21);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.65rem 1.25rem;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
+
+.result-box--retry {
+  background: #fff4e5;
+  border: 1px solid #f0c987;
+}
+
+.result-retry-msg {
+  margin: 0.5rem 0 0;
+}
+
+.locked-panel {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card);
+}
+
+.locked-panel .btn-primary {
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+.track-map-note {
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.map-group {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.85rem 1rem 1rem;
+  margin-bottom: 1rem;
+  background: var(--card);
+}
+
+.map-group--locked {
+  opacity: 0.88;
+  background: #f7f8fa;
+}
+
+.map-group--done {
+  border-color: #b8dfc8;
+}
+
+.map-group__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.map-group__stat {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.map-group__lock-note {
+  font-size: 0.8rem;
+  color: #9a6200;
+  font-weight: 600;
+}
+
+.book-skill-map {
+  margin-bottom: 2rem;
+}
+
+.book-skill-map__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.book-skill-title {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.book-skill-link {
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .result-box {
