@@ -96,6 +96,8 @@
   }
 
   root.STEPUP_QUIZ = {
+    RETRY_PCT: 50,
+    PASS_PCT: 80,
     gradePractice: gradePractice,
     gradeItem: gradeItem,
     isScoredItem: isScoredItem,

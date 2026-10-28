@@ -35,6 +35,72 @@
     { trackId: "advanced-rc", title: "Advanced", subtitle: "Reading (RC)", tone: "advanced" },
   ];
 
+  var BOOK_LEVELS = [
+    { level: "basic", title: "Basic", tone: "basic" },
+    { level: "intermediate", title: "Intermediate", tone: "intermediate" },
+    { level: "advanced", title: "Advanced", tone: "advanced" },
+  ];
+
+  function retryPct() {
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.RETRY_PCT != null) {
+      return root.STEPUP_PROGRESS.RETRY_PCT;
+    }
+    if (root.STEPUP_QUIZ && root.STEPUP_QUIZ.RETRY_PCT != null) {
+      return root.STEPUP_QUIZ.RETRY_PCT;
+    }
+    return 50;
+  }
+
+  function practiceComplete(practiceId) {
+    return root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isComplete
+      ? root.STEPUP_PROGRESS.isComplete(practiceId)
+      : false;
+  }
+
+  function practiceMustRetry(practiceId) {
+    return root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.mustRetry
+      ? root.STEPUP_PROGRESS.mustRetry(practiceId)
+      : false;
+  }
+
+  function practiceUnlocked(practices, practiceId) {
+    if (!practices || !practices.length) return true;
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isUnlocked) {
+      return root.STEPUP_PROGRESS.isUnlocked(practices, practiceId);
+    }
+    return true;
+  }
+
+  function groupUnlocked(practices, groupName) {
+    if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isGroupUnlocked) {
+      return root.STEPUP_PROGRESS.isGroupUnlocked(practices, groupName);
+    }
+    return true;
+  }
+
+  function orderedGroups(practices) {
+    var groups = [];
+    var seen = {};
+    (practices || []).forEach(function (p) {
+      var g = p.group || "Practice";
+      if (seen[g]) return;
+      seen[g] = true;
+      groups.push(g);
+    });
+    return groups;
+  }
+
+  function groupProgress(practices, groupName) {
+    var total = 0;
+    var done = 0;
+    (practices || []).forEach(function (p) {
+      if (p.group !== groupName) return;
+      total++;
+      if (practiceComplete(p.id)) done++;
+    });
+    return { done: done, total: total };
+  }
+
   function el(tag, cls, html) {
     var n = document.createElement(tag);
     if (cls) n.className = cls;
@@ -69,6 +135,7 @@
     var hash = (root.location.hash || "#/").replace(/^#/, "");
     var parts = hash.split("/").filter(Boolean);
     if (!parts.length || parts[0] === "") return { view: "home" };
+    if (parts[0] === "book" && parts[1]) return { view: "book", level: parts[1] };
     if (parts[0] === "track" && parts[1]) return { view: "track", trackId: parts[1] };
     if (parts[0] === "practice" && parts[1]) return { view: "practice", practiceId: parts[1] };
     return { view: "home" };
@@ -123,49 +190,170 @@
     return '<span class="badge-done" aria-label="Completed">✓</span>';
   }
 
-  function resumeControl() {
+  function appendResumeBar(app, catalog) {
     var resume =
       root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.getResume
         ? root.STEPUP_PROGRESS.getResume()
         : null;
-    if (!resume || !resume.practiceId) return null;
+    if (!resume || !resume.practiceId || !catalog) return;
+    var meta = catalog.practiceIndex && catalog.practiceIndex[resume.practiceId];
+    if (!meta) return;
+    var trackId = meta.level + "-" + meta.skill;
+    var track = (catalog.tracks || []).find(function (t) {
+      return t.trackId === trackId;
+    });
+    if (!track || !practiceUnlocked(track.practices, resume.practiceId)) return;
     var wrap = el("div", "resume-bar");
     var btn = el("a", "btn-resume", "Continue where you left off");
     btn.href = "#/practice/" + resume.practiceId;
     wrap.appendChild(btn);
-    return wrap;
+    app.appendChild(wrap);
   }
 
   function renderHome(app) {
-    app.innerHTML = "";
-    app.appendChild(renderTopbar("Step Up TOEIC Bridge"));
-    var resume = resumeControl();
-    if (resume) app.appendChild(resume);
-    var intro = el(
-      "p",
-      "lead",
-      "Zap-style practices for YBM Step Up TOEIC Bridge — Basic, Intermediate, and Advanced."
-    );
-    app.appendChild(intro);
-    var grid = el("div", "card-grid");
-    TRACK_CARDS.forEach(function (card) {
-      var a = el("a", "track-card track-card--" + card.tone);
-      a.href = "#/track/" + card.trackId;
-      a.innerHTML =
-        '<span class="track-card__level">' +
-        card.title +
-        '</span><span class="track-card__skill">' +
-        card.subtitle +
-        "</span>";
-      grid.appendChild(a);
+    loadCatalog().then(function (c) {
+      app.innerHTML = "";
+      app.appendChild(renderTopbar("Step Up TOEIC Bridge"));
+      appendResumeBar(app, c);
+      var intro = el(
+        "p",
+        "lead",
+        "Zap-style practices for YBM Step Up TOEIC Bridge — Basic, Intermediate, and Advanced."
+      );
+      app.appendChild(intro);
+      var grid = el("div", "card-grid");
+      BOOK_LEVELS.forEach(function (book) {
+        var a = el("a", "track-card track-card--" + book.tone);
+        a.href = "#/book/" + book.level;
+        a.innerHTML =
+          '<span class="track-card__level">' +
+          book.title +
+          '</span><span class="track-card__skill">Listening + Reading map</span>';
+        grid.appendChild(a);
+      });
+      app.appendChild(grid);
+      var note = el(
+        "p",
+        "footnote",
+        "Finish each section at 50% or higher to unlock the next. Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s."
+      );
+      app.appendChild(note);
     });
-    app.appendChild(grid);
-    var note = el(
-      "p",
-      "footnote",
-      "Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s."
-    );
-    app.appendChild(note);
+  }
+
+  function buildPracticeCard(p, practices, trackId) {
+    var complete = practiceComplete(p.id);
+    var retry = practiceMustRetry(p.id);
+    var unlocked = practiceUnlocked(practices, p.id);
+    var cls =
+      "practice-card" +
+      (p.stub === false ? " practice-card--live" : "") +
+      (complete ? " practice-card--done" : "") +
+      (retry ? " practice-card--retry" : "") +
+      (!unlocked ? " practice-card--locked" : "");
+    var sub = p.subtitle ? '<span class="practice-card__sub">' + p.subtitle + "</span>" : "";
+    var stub =
+      p.stub === false
+        ? '<span class="badge-live">ready</span>'
+        : '<span class="badge-stub">stub</span>';
+    var retryTag = retry ? '<span class="badge-retry">Try again</span>' : "";
+    var lockTag = !unlocked ? '<span class="badge-lock" aria-hidden="true">🔒</span>' : "";
+    var inner =
+      lockTag +
+      doneMarkHtml(p.id) +
+      '<span class="practice-card__title">' +
+      p.title +
+      "</span>" +
+      sub +
+      retryTag +
+      stub +
+      scoreBadgeHtml(p.id);
+    if (!unlocked) {
+      var row = el("div", cls);
+      row.innerHTML = inner;
+      row.setAttribute("aria-disabled", "true");
+      row.title = "Finish the previous section at " + retryPct() + "% or higher to unlock.";
+      return row;
+    }
+    var a = el("a", cls);
+    a.href = "#/practice/" + p.id;
+    a.innerHTML = inner;
+    return a;
+  }
+
+  function renderTrackMap(track, container) {
+    var practices = track.practices || [];
+    var groups = {};
+    practices.forEach(function (p) {
+      groups[p.group] = groups[p.group] || [];
+      groups[p.group].push(p);
+    });
+    orderedGroups(practices).forEach(function (groupName) {
+      var prog = groupProgress(practices, groupName);
+      var gOpen = groupUnlocked(practices, groupName);
+      var gDone = prog.total > 0 && prog.done === prog.total;
+      var section = el(
+        "section",
+        "practice-group map-group" +
+          (gDone ? " map-group--done" : "") +
+          (!gOpen ? " map-group--locked" : " map-group--open")
+      );
+      var head = el("div", "map-group__head");
+      head.appendChild(el("h2", "group-title", groupName));
+      var stat = el(
+        "span",
+        "map-group__stat",
+        prog.done + " / " + prog.total + " finished (≥" + retryPct() + "%)"
+      );
+      head.appendChild(stat);
+      if (!gOpen) {
+        head.appendChild(el("span", "map-group__lock-note", "Locked — finish the previous part first"));
+      }
+      section.appendChild(head);
+      var list = el("div", "practice-list");
+      (groups[groupName] || []).forEach(function (p) {
+        list.appendChild(buildPracticeCard(p, practices, track.trackId));
+      });
+      section.appendChild(list);
+      container.appendChild(section);
+    });
+  }
+
+  function renderBook(app, level) {
+    loadCatalog().then(function (c) {
+      var bookMeta = BOOK_LEVELS.find(function (b) {
+        return b.level === level;
+      });
+      if (!bookMeta) {
+        app.innerHTML = "<p>Book not found.</p>";
+        return;
+      }
+      var tracks = (c.tracks || []).filter(function (t) {
+        return t.level === level;
+      });
+      app.innerHTML = "";
+      app.appendChild(renderTopbar(bookMeta.title + " · Step Up", "#/"));
+      appendResumeBar(app, c);
+      var intro = el(
+        "p",
+        "lead",
+        "Course map — Listening and Reading. Each step unlocks after you score at least " +
+          retryPct() +
+          "% on the previous exercise."
+      );
+      app.appendChild(intro);
+      tracks.forEach(function (track) {
+        var block = el("section", "book-skill-map");
+        var head = el("div", "book-skill-map__head");
+        head.appendChild(el("h2", "book-skill-title", track.skillLabel));
+        var open = el("a", "book-skill-link", "Open " + track.skillLabel + " track →");
+        open.href = "#/track/" + track.trackId;
+        head.appendChild(open);
+        block.appendChild(head);
+        renderTrackMap(track, block);
+        app.appendChild(block);
+      });
+    });
   }
 
   function renderTrack(app, trackId) {
@@ -178,9 +366,10 @@
         return;
       }
       app.innerHTML = "";
-      app.appendChild(renderTopbar(track.levelLabel + " · " + track.skillLabel, "#/"));
-      var resume = resumeControl();
-      if (resume) app.appendChild(resume);
+      app.appendChild(
+        renderTopbar(track.levelLabel + " · " + track.skillLabel, "#/book/" + track.level)
+      );
+      appendResumeBar(app, c);
       if (track.skill === "lc") {
         var audioNote = el(
           "p",
@@ -189,45 +378,15 @@
         );
         app.appendChild(audioNote);
       }
-      var groups = {};
-      (track.practices || []).forEach(function (p) {
-        groups[p.group] = groups[p.group] || [];
-        groups[p.group].push(p);
-      });
-      Object.keys(groups).forEach(function (groupName) {
-        var section = el("section", "practice-group");
-        section.appendChild(el("h2", "group-title", groupName));
-        var list = el("div", "practice-list");
-        groups[groupName].forEach(function (p) {
-          var complete =
-            root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.isComplete
-              ? root.STEPUP_PROGRESS.isComplete(p.id)
-              : false;
-          var a = el(
-            "a",
-            "practice-card" +
-              (p.stub === false ? " practice-card--live" : "") +
-              (complete ? " practice-card--done" : "")
-          );
-          a.href = "#/practice/" + p.id;
-          var sub = p.subtitle ? '<span class="practice-card__sub">' + p.subtitle + "</span>" : "";
-          var stub =
-            p.stub === false
-              ? '<span class="badge-live">ready</span>'
-              : '<span class="badge-stub">stub</span>';
-          a.innerHTML =
-            doneMarkHtml(p.id) +
-            '<span class="practice-card__title">' +
-            p.title +
-            "</span>" +
-            sub +
-            stub +
-            scoreBadgeHtml(p.id);
-          list.appendChild(a);
-        });
-        section.appendChild(list);
-        app.appendChild(section);
-      });
+      var mapIntro = el(
+        "p",
+        "track-map-note",
+        "Green checkmarks mean ≥" + retryPct() + "%. Locked steps need the previous exercise finished first."
+      );
+      app.appendChild(mapIntro);
+      var mapWrap = el("div", "track-map");
+      renderTrackMap(track, mapWrap);
+      app.appendChild(mapWrap);
     });
   }
 
@@ -648,6 +807,23 @@
         return;
       }
       var trackId = meta.level + "-" + meta.skill;
+      var track = (c.tracks || []).find(function (t) {
+        return t.trackId === trackId;
+      });
+      if (track && !practiceUnlocked(track.practices, practiceId)) {
+        app.innerHTML = "";
+        app.appendChild(renderTopbar(meta.title || practiceId, "#/track/" + trackId));
+        var locked = el("div", "locked-panel");
+        locked.innerHTML =
+          "<p><strong>This practice is locked.</strong></p><p>Score at least " +
+          retryPct() +
+          "% on the previous exercise to unlock it.</p>";
+        var back = el("a", "btn-primary", "Back to map");
+        back.href = "#/track/" + trackId;
+        locked.appendChild(back);
+        app.appendChild(locked);
+        return;
+      }
       if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.touch) {
         root.STEPUP_PROGRESS.touch(practiceId, trackId);
       }
@@ -749,7 +925,8 @@
             var result = root.STEPUP_QUIZ.gradePractice(practice, resp);
             var duration = Math.round((Date.now() - startedAt) / 1000);
             root.STEPUP_SCORES.persist(practice, result, duration);
-            resultBox.innerHTML =
+            var needRetry = result.scorePct < retryPct();
+            var resultHtml =
               "<strong>Score: " +
               result.scoreValue +
               " / " +
@@ -757,7 +934,15 @@
               " (" +
               result.scorePct +
               "%)</strong>";
-            resultBox.className = "result-box result-box--show";
+            if (needRetry) {
+              resultHtml +=
+                '<p class="result-retry-msg">Please try this exercise again (under ' +
+                retryPct() +
+                "%).</p>";
+            }
+            resultBox.innerHTML = resultHtml;
+            resultBox.className =
+              "result-box result-box--show" + (needRetry ? " result-box--retry" : "");
             var byId = {};
             result.detail.forEach(function (d) {
               byId[d.id] = d;
@@ -770,6 +955,33 @@
               card.classList.toggle("q-card--wrong", !detail.correct);
             });
             lockPracticeForm();
+            checkBtn.disabled = true;
+            actions.innerHTML = "";
+            if (needRetry) {
+              var tryAgain = el("button", "btn-primary", "Try again");
+              tryAgain.type = "button";
+              tryAgain.addEventListener("click", function () {
+                renderPractice(app, practiceId);
+              });
+              actions.appendChild(tryAgain);
+            } else if (track) {
+              var idx = -1;
+              for (var pi = 0; pi < track.practices.length; pi++) {
+                if (track.practices[pi].id === practiceId) {
+                  idx = pi;
+                  break;
+                }
+              }
+              if (idx >= 0 && idx < track.practices.length - 1) {
+                var nextP = track.practices[idx + 1];
+                var nextBtn = el("a", "btn-primary", "Next exercise →");
+                nextBtn.href = "#/practice/" + nextP.id;
+                actions.appendChild(nextBtn);
+              }
+              var mapBtn = el("a", "btn-secondary", "Back to map");
+              mapBtn.href = "#/track/" + trackId;
+              actions.appendChild(mapBtn);
+            }
           }
 
           checkBtn.addEventListener("click", submitAnswers);
@@ -799,6 +1011,7 @@
     if (!app) return;
     var route = parseRoute();
     if (route.view === "home") renderHome(app);
+    else if (route.view === "book") renderBook(app, route.level);
     else if (route.view === "track") renderTrack(app, route.trackId);
     else if (route.view === "practice") renderPractice(app, route.practiceId);
     else renderHome(app);

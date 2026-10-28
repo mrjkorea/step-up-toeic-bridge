@@ -3,6 +3,8 @@
   "use strict";
 
   var PROGRAM = "step-up-toeic-bridge";
+  var RETRY_PCT = 50;
+  var PASS_PCT = 80;
   var LS_RESUME = "stepup.resume.v1";
   var cloudScores = {};
   var resumeTarget = null;
@@ -146,9 +148,64 @@
     return null;
   }
 
-  function isComplete(practiceId) {
+  function scorePctOf(practiceId) {
     var s = getScore(practiceId);
-    return !!(s && s.scoreMax);
+    if (!s || s.scoreMax == null || s.scoreMax === "") return null;
+    if (s.scorePct != null && s.scorePct !== "") return Number(s.scorePct);
+    if (s.scoreValue != null && Number(s.scoreMax) > 0) {
+      return Math.round((Number(s.scoreValue) / Number(s.scoreMax)) * 100);
+    }
+    return null;
+  }
+
+  function isComplete(practiceId) {
+    var pct = scorePctOf(practiceId);
+    return pct != null && pct >= RETRY_PCT;
+  }
+
+  function mustRetry(practiceId) {
+    var s = getScore(practiceId);
+    if (!s || !s.scoreMax) return false;
+    var pct = scorePctOf(practiceId);
+    return pct != null && pct < RETRY_PCT;
+  }
+
+  function isUnlocked(practices, practiceId) {
+    if (!practices || !practices.length) return true;
+    var idx = -1;
+    for (var i = 0; i < practices.length; i++) {
+      if (practices[i].id === practiceId) {
+        idx = i;
+        break;
+      }
+    }
+    if (idx <= 0) return true;
+    return isComplete(practices[idx - 1].id);
+  }
+
+  function groupComplete(practices, groupName) {
+    var any = false;
+    var all = true;
+    (practices || []).forEach(function (p) {
+      if (p.group !== groupName) return;
+      any = true;
+      if (!isComplete(p.id)) all = false;
+    });
+    return any && all;
+  }
+
+  function isGroupUnlocked(practices, groupName) {
+    if (!practices || !practices.length) return true;
+    var groupOrder = [];
+    var seen = {};
+    practices.forEach(function (p) {
+      if (!p.group || seen[p.group]) return;
+      seen[p.group] = true;
+      groupOrder.push(p.group);
+    });
+    var gi = groupOrder.indexOf(groupName);
+    if (gi <= 0) return true;
+    return groupComplete(practices, groupOrder[gi - 1]);
   }
 
   function getResume() {
@@ -214,8 +271,15 @@
 
   root.STEPUP_PROGRESS = {
     PROGRAM: PROGRAM,
+    RETRY_PCT: RETRY_PCT,
+    PASS_PCT: PASS_PCT,
     getScore: getScore,
+    scorePctOf: scorePctOf,
     isComplete: isComplete,
+    mustRetry: mustRetry,
+    isUnlocked: isUnlocked,
+    isGroupUnlocked: isGroupUnlocked,
+    groupComplete: groupComplete,
     getResume: getResume,
     touch: touch,
     onScorePersisted: onScorePersisted,
