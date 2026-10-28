@@ -1,474 +1,463 @@
 {
- "practiceId": "adv-rc-p4-s02",
- "title": "Part IV · Section 02",
- "subtitle": "Participles / voice",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Before long",
-    "B": "get hurt",
-    "C": "Hundreds of",
-    "D": "satisfied with"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Before long",
-    "B": "get hurt",
-    "C": "Hundreds of",
-    "D": "satisfied with"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Before long",
-    "B": "get hurt",
-    "C": "Hundreds of",
-    "D": "satisfied with"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Before long",
-    "B": "get hurt",
-    "C": "Hundreds of",
-    "D": "satisfied with"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s02/page-016.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
-   "accept": [
-    "standing"
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "killed"
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
-   "accept": [
-    "broken"
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
-   "accept": [
-    "excited"
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "The letter was written by Tom."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
-   "accept": [
-    "The bird will be saved by the man."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
-   "accept": [
-    "The book has been read several times by him."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): type the answer (see the book page).",
-   "accept": [
-    "The people are being served by the woman."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
-   "accept": [
-    "My friends speak English in class."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
-   "accept": [
-    "He has supported her."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
-   "accept": [
-    "He announced the result."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(d): type the answer (see the book page).",
-   "accept": [
-    "They called me Mr. Kim."
-   ],
-   "photo": "advanced/rc-p4-s02/page-019.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1: Choose the set of participles that fits blanks (a)-(d).",
-   "choices": {
-    "A": "(1) interesting - interested - surprising - surprised",
-    "B": "(2) interested - interesting - surprising - surprised",
-    "C": "(3) interesting - interested - surprised - surprising",
-    "D": "(4) interested - interesting - surprised - surprising"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2: Choose the awkward sentence.",
-   "choices": {
-    "A": "I was very tired when you called me last night.",
-    "B": "The movie was really boring.",
-    "C": "Why don't we do something exciting?",
-    "D": "I am boring. I want to play computer games."
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-fix: Correct the wrong word in the awkward sentence.",
-   "accept": [
-    "bored"
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-: type the answer (see the book page).",
-   "accept": [
-    "("
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "When walking on the street, I encountered him."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "Though feeling sleepy, I must not go to bed."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "Doing the dishes, she sings pop songs."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "Made in Japan, it is expensive."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
-   "accept": [
-    "I was made to clean his office by my boss."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
-   "accept": [
-    "The wounded bird was taken care of by him."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
-   "accept": [
-    "The sunrise was caught sight of by her."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(d): type the answer (see the book page).",
-   "accept": [
-    "My grandfather was seen to play"
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(a): type the answer (see the book page).",
-   "accept": [
-    "The radio was turned off by me."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(b): type the answer (see the book page).",
-   "accept": [
-    "By whom was it made?"
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(c): type the answer (see the book page).",
-   "accept": [
-    "The chairs are being repaired by the man."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): type the answer (see the book page).",
-   "accept": [
-    "He was made to pick it up."
-   ],
-   "photo": "advanced/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q32",
-   "label": "32"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "drop",
-    "B": "dropping",
-    "C": "dropped",
-    "D": "to drop"
-   },
-   "prompt": "When _______ by the office, he saw her working hard.",
-   "accept": "B"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "look",
-    "B": "looking",
-    "C": "to look",
-    "D": "looked"
-   },
-   "prompt": "They sat on the bench _______ at the field.",
-   "accept": "B"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "Judge",
-    "B": "Judging",
-    "C": "Judged",
-    "D": "Judgement"
-   },
-   "prompt": "_______ from his accent, he must be Japanese.",
-   "accept": "B"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "enter",
-    "B": "to enter",
-    "C": "entering",
-    "D": "entered"
-   },
-   "prompt": "The robber was seen _______ the house by the police.",
-   "accept": "B"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "sell",
-    "B": "sold",
-    "C": "be sold",
-    "D": "selling"
-   },
-   "prompt": "Don't let the house _______ out till I arrive there.",
-   "accept": "C"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "fix",
-    "B": "fixed",
-    "C": "fixing",
-    "D": "fixers"
-   },
-   "prompt": "I have to have my car _______ by the repairman.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s02/page-016.jpg",
-  "advanced/rc-p4-s02/page-017.jpg",
-  "advanced/rc-p4-s02/page-018.jpg",
-  "advanced/rc-p4-s02/page-019.jpg",
-  "advanced/rc-p4-s02/page-020.jpg",
-  "advanced/rc-p4-s02/page-021.jpg"
- ]
+  "practiceId": "adv-rc-p4-s02",
+  "title": "Part IV · Section 02",
+  "subtitle": "Participles / voice",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Before long",
+        "B": "get hurt",
+        "C": "Hundreds of",
+        "D": "satisfied with"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Before long",
+        "B": "get hurt",
+        "C": "Hundreds of",
+        "D": "satisfied with"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Before long",
+        "B": "get hurt",
+        "C": "Hundreds of",
+        "D": "satisfied with"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Before long",
+        "B": "get hurt",
+        "C": "Hundreds of",
+        "D": "satisfied with"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): type the answer.",
+      "accept": [
+        "standing"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "killed"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(c): type the answer.",
+      "accept": [
+        "broken"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): type the answer.",
+      "accept": [
+        "excited"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "The letter was written by Tom."
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): type the answer.",
+      "accept": [
+        "The bird will be saved by the man."
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): type the answer.",
+      "accept": [
+        "The book has been read several times by him."
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): type the answer.",
+      "accept": [
+        "The people are being served by the woman."
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): type the answer.",
+      "accept": [
+        "My friends speak English in class."
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): type the answer.",
+      "accept": [
+        "He has supported her."
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): type the answer.",
+      "accept": [
+        "He announced the result."
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(d): type the answer.",
+      "accept": [
+        "They called me Mr. Kim."
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1: Choose the set of participles that fits blanks (a)-(d).",
+      "choices": {
+        "A": "(1) interesting - interested - surprising - surprised",
+        "B": "(2) interested - interesting - surprising - surprised",
+        "C": "(3) interesting - interested - surprised - surprising",
+        "D": "(4) interested - interesting - surprised - surprising"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q17",
+      "label": "1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2: Choose the awkward sentence.",
+      "choices": {
+        "A": "I was very tired when you called me last night.",
+        "B": "The movie was really boring.",
+        "C": "Why don't we do something exciting?",
+        "D": "I am boring. I want to play computer games."
+      },
+      "accept": "D",
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-fix: Correct the wrong word in the awkward sentence.",
+      "accept": [
+        "bored"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-: type the answer.",
+      "accept": [
+        "("
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "4",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "accept": [
+        "When walking on the street, I encountered him."
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "accept": [
+        "Though feeling sleepy, I must not go to bed."
+      ],
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "accept": [
+        "Doing the dishes, she sings pop songs."
+      ],
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(d): type the answer.",
+      "accept": [
+        "Made in Japan, it is expensive."
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(a): type the answer.",
+      "accept": [
+        "I was made to clean his office by my boss."
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): type the answer.",
+      "accept": [
+        "The wounded bird was taken care of by him."
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): type the answer.",
+      "accept": [
+        "The sunrise was caught sight of by her."
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(d): type the answer.",
+      "accept": [
+        "My grandfather was seen to play"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "4-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(a): type the answer.",
+      "accept": [
+        "The radio was turned off by me."
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "5-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(b): type the answer.",
+      "accept": [
+        "By whom was it made?"
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "5-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(c): type the answer.",
+      "accept": [
+        "The chairs are being repaired by the man."
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "5-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(d): type the answer.",
+      "accept": [
+        "He was made to pick it up."
+      ],
+      "section": "Grammar Practice",
+      "id": "q32",
+      "label": "5-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q33",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "drop",
+        "B": "dropping",
+        "C": "dropped",
+        "D": "to drop"
+      },
+      "prompt": "When _______ by the office, he saw her working hard.",
+      "accept": "B"
+    },
+    {
+      "id": "q34",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "look",
+        "B": "looking",
+        "C": "to look",
+        "D": "looked"
+      },
+      "prompt": "They sat on the bench _______ at the field.",
+      "accept": "B"
+    },
+    {
+      "id": "q35",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Judge",
+        "B": "Judging",
+        "C": "Judged",
+        "D": "Judgement"
+      },
+      "prompt": "_______ from his accent, he must be Japanese.",
+      "accept": "B"
+    },
+    {
+      "id": "q36",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "enter",
+        "B": "to enter",
+        "C": "entering",
+        "D": "entered"
+      },
+      "prompt": "The robber was seen _______ the house by the police.",
+      "accept": "B"
+    },
+    {
+      "id": "q37",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "sell",
+        "B": "sold",
+        "C": "be sold",
+        "D": "selling"
+      },
+      "prompt": "Don't let the house _______ out till I arrive there.",
+      "accept": "C"
+    },
+    {
+      "id": "q38",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "fix",
+        "B": "fixed",
+        "C": "fixing",
+        "D": "fixers"
+      },
+      "prompt": "I have to have my car _______ by the repairman.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

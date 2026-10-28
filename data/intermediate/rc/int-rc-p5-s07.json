@@ -9,7 +9,7 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "height",
     "B": "repeat",
@@ -17,14 +17,14 @@
     "D": "undergo"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "height",
     "B": "repeat",
@@ -32,14 +32,14 @@
     "D": "undergo"
    },
    "accept": "D",
-   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "height",
     "B": "repeat",
@@ -47,14 +47,14 @@
     "D": "undergo"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "(c)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "height",
     "B": "repeat",
@@ -62,131 +62,131 @@
     "D": "undergo"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s07/page-116.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
-   "label": "4"
+   "label": "(d)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "report card"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "library card"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "interest area"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "medical history"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "apply for"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "as a result of"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "fill out"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q11",
-   "label": "11"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "registration form"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q12",
-   "label": "12"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "prompt": "Warm-Up 9-: type the answer.",
    "accept": [
     "come into effect"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q13",
-   "label": "13"
+   "label": "9",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 10-: type the answer (see the book page).",
+   "prompt": "Warm-Up 10-: type the answer.",
    "accept": [
     "as of"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q14",
-   "label": "14"
+   "label": "10",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 11-: type the answer (see the book page).",
+   "prompt": "Warm-Up 11-: type the answer.",
    "accept": [
     "maintenance cost"
    ],
-   "photo": "intermediate/rc-p5-s07/page-117.jpg",
    "section": "Warm-Up",
    "id": "q15",
-   "label": "15"
+   "label": "11",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -196,10 +196,9 @@
     "B": "John’s study result"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-118.jpg",
    "section": "Reading Practice 1",
    "id": "q16",
-   "label": "16"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -209,10 +208,9 @@
     "B": "John’s math score is not good."
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-118.jpg",
    "section": "Reading Practice 1",
    "id": "q17",
-   "label": "17"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -222,10 +220,9 @@
     "B": "To apply for a high school"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s07/page-119.jpg",
    "section": "Reading Practice 2",
    "id": "q18",
-   "label": "18"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -235,14 +232,13 @@
     "B": "Homeroom teacher’s name"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s07/page-119.jpg",
    "section": "Reading Practice 2",
    "id": "q19",
-   "label": "19"
+   "label": "2"
   },
   {
    "id": "q20",
-   "label": "20",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "At a gym",
@@ -253,14 +249,11 @@
    "prompt": "Where would you most likely find this application form?",
    "accept": "A",
    "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
-   "passageHead": "Questions 1-2 refer to the following form.",
-   "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-120.jpg"
+   "passageHead": "Questions 1-2 refer to the following form."
   },
   {
    "id": "q21",
-   "label": "21",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "30 minutes",
@@ -271,14 +264,11 @@
    "prompt": "How often do people have to attend the introduction training session?",
    "accept": "D",
    "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
-   "passageHead": "Questions 1-2 refer to the following form.",
-   "passagePage": 120,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-120.jpg"
+   "passageHead": "Questions 1-2 refer to the following form."
   },
   {
    "id": "q22",
-   "label": "22",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "To inform people of maintenance work in November",
@@ -289,14 +279,11 @@
    "prompt": "What is the notice for?",
    "accept": "C",
    "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
-   "passageHead": "Questions 3-4 refer to the following form.",
-   "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-121.jpg"
+   "passageHead": "Questions 3-4 refer to the following form."
   },
   {
    "id": "q23",
-   "label": "23",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "Cars and motorbikes",
@@ -307,17 +294,8 @@
    "prompt": "Which of the vehicles are NOT affected by the price increase?",
    "accept": "D",
    "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
-   "passageHead": "Questions 3-4 refer to the following form.",
-   "passagePage": 121,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-121.jpg"
+   "passageHead": "Questions 3-4 refer to the following form."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p5-s07/page-116.jpg",
-  "intermediate/rc-p5-s07/page-117.jpg",
-  "intermediate/rc-p5-s07/page-118.jpg",
-  "intermediate/rc-p5-s07/page-119.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

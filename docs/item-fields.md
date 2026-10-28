@@ -22,7 +22,7 @@ Content packs import into `data/<level>/<lc|rc>/<practiceId>.json`. The quiz she
 | `accept` | Correct answer: letter for choice/tf, string or string[] for text/fill/self-check |
 | `displayOnly` | Instruction / warm-up card — not scored |
 | `scored` | Set `false` to show UI but exclude from score (e.g. optional drill) |
-| `blocked` | When `true`, item is hidden from the student quiz until content pack stems land (`#debug=1` shows them locally). Not scored. |
+| `blocked` | When set (boolean or reason string), item is hidden from the student quiz until stems land (`#debug=1` shows locally). Not scored. |
 | `photo` | Allowed only for LC Actual Test (`at/qNN.png`) and Part I Test Your Skills crops (`p1-sNN/q01`–`q06.png`). No `page-NNN` scans. |
 | `pageImage` | **Banned** (full book pages). Use written `prompt` / `passage` text instead. |
 | `photos` | String or array — first entry used as `pageImage` |

@@ -1,267 +1,259 @@
 {
- "practiceId": "int-rc-p4-s06",
- "title": "Part IV · Section 06",
- "subtitle": "Jobs",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "actress",
-    "B": "farmer",
-    "C": "lawyer"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "actress",
-    "B": "farmer",
-    "C": "lawyer"
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "actress",
-    "B": "farmer",
-    "C": "lawyer"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "intermediate/rc-p4-s06/page-055.jpg",
-   "photo": "intermediate/rc-p4-s06/page-055.jpg",
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "farmer"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "painter"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "firefighter"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): correct or complete it (see the book page).",
-   "accept": [
-    "baseball player"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "police officer: police officer"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "hair dresser: hairdresser"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "fire fighter: firefighter"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "player"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "reporter"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "driver"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "golfer"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(e): type the answer (see the book page).",
-   "accept": [
-    "painter"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(f): type the answer (see the book page).",
-   "accept": [
-    "singer"
-   ],
-   "photo": "intermediate/rc-p4-s06/page-058.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "a brush",
-    "B": "a knife",
-    "C": "scissors",
-    "D": "a fork"
-   },
-   "prompt": "A hairdresser uses _______ to cut hair.",
-   "accept": "C"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "sing",
-    "B": "play",
-    "C": "direct",
-    "D": "study"
-   },
-   "prompt": "She can _______ the piano very well.",
-   "accept": "B"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "firefighter",
-    "B": "police officer",
-    "C": "lawyer",
-    "D": "announcer"
-   },
-   "prompt": "My father is a _______ working at a police station.",
-   "accept": "B"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "report",
-    "B": "drive",
-    "C": "paint",
-    "D": "grow"
-   },
-   "prompt": "His job is to _______ the news.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s06/page-054.jpg",
-  "intermediate/rc-p4-s06/page-055.jpg",
-  "intermediate/rc-p4-s06/page-056.jpg",
-  "intermediate/rc-p4-s06/page-057.jpg",
-  "intermediate/rc-p4-s06/page-058.jpg"
- ]
+  "practiceId": "int-rc-p4-s06",
+  "title": "Part IV · Section 06",
+  "subtitle": "Jobs",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "actress",
+        "B": "farmer",
+        "C": "lawyer"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "actress",
+        "B": "farmer",
+        "C": "lawyer"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "actress",
+        "B": "farmer",
+        "C": "lawyer"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "farmer"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q5",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "painter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "firefighter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it.",
+      "accept": [
+        "baseball player"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "police officer: police officer"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "hair dresser: hairdresser"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "fire fighter: firefighter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "player"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "reporter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "driver"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "accept": [
+        "golfer"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "accept": [
+        "painter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q16",
+      "label": "3-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(f): type the answer.",
+      "accept": [
+        "singer"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q17",
+      "label": "3-(f)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "a brush",
+        "B": "a knife",
+        "C": "scissors",
+        "D": "a fork"
+      },
+      "prompt": "A hairdresser uses _______ to cut hair.",
+      "accept": "C"
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "sing",
+        "B": "play",
+        "C": "direct",
+        "D": "study"
+      },
+      "prompt": "She can _______ the piano very well.",
+      "accept": "B"
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "firefighter",
+        "B": "police officer",
+        "C": "lawyer",
+        "D": "announcer"
+      },
+      "prompt": "My father is a _______ working at a police station.",
+      "accept": "B"
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "report",
+        "B": "drive",
+        "C": "paint",
+        "D": "grow"
+      },
+      "prompt": "His job is to _______ the news.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

@@ -1,152 +1,152 @@
 {
- "practiceId": "bas-rc-at-q11-20",
- "title": "RC Actual Test · Questions 11–20",
- "subtitle": "10 questions (book Q61–70)",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "they",
-    "B": "their",
-    "C": "them",
-    "D": "themselves"
-   },
-   "prompt": "The students met in the library to discuss _______ homework.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "swing",
-    "B": "hang",
-    "C": "fall",
-    "D": "drop"
-   },
-   "prompt": "Take off your coat and _______ it on the coat hook.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "ours",
-    "B": "our",
-    "C": "us",
-    "D": "we"
-   },
-   "prompt": "The tour bus will pick _______ up at the airport at 4:30.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "move",
-    "B": "will move",
-    "C": "moved",
-    "D": "are moving"
-   },
-   "prompt": "John's family recently _______ to the city.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "watch",
-    "B": "watched",
-    "C": "watches",
-    "D": "watching"
-   },
-   "prompt": "The family decided to _______ a movie after dinner.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "to run",
-    "B": "ran",
-    "C": "running",
-    "D": "runner"
-   },
-   "prompt": "The man enjoyed _______ in the park every morning.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Him",
-    "B": "Their",
-    "C": "We",
-    "D": "Them"
-   },
-   "prompt": "_______ decided to take the dog with us on our vacation.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "excite",
-    "B": "excitement",
-    "C": "exciting",
-    "D": "excited"
-   },
-   "prompt": "John loved the _______ of snowboarding.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "adventure",
-    "B": "adventurer",
-    "C": "adventures",
-    "D": "adventuring"
-   },
-   "prompt": "The woman is a world famous _______.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "they",
-    "B": "our",
-    "C": "him",
-    "D": "she"
-   },
-   "prompt": "Everyone decided that _______ painting was the best.",
-   "accept": "B",
-   "part": "IV"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "bas-rc-at-q11-20",
+  "title": "RC Actual Test · Questions 11–20",
+  "subtitle": "10 questions (book Q61–70)",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "they",
+        "B": "their",
+        "C": "them",
+        "D": "themselves"
+      },
+      "prompt": "The students met in the library to discuss _______ homework.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "swing",
+        "B": "hang",
+        "C": "fall",
+        "D": "drop"
+      },
+      "prompt": "Take off your coat and _______ it on the coat hook.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "ours",
+        "B": "our",
+        "C": "us",
+        "D": "we"
+      },
+      "prompt": "The tour bus will pick _______ up at the airport at 4:30.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "move",
+        "B": "will move",
+        "C": "moved",
+        "D": "are moving"
+      },
+      "prompt": "John's family recently _______ to the city.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "watch",
+        "B": "watched",
+        "C": "watches",
+        "D": "watching"
+      },
+      "prompt": "The family decided to _______ a movie after dinner.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "to run",
+        "B": "ran",
+        "C": "running",
+        "D": "runner"
+      },
+      "prompt": "The man enjoyed _______ in the park every morning.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "Him",
+        "B": "Their",
+        "C": "We",
+        "D": "Them"
+      },
+      "prompt": "_______ decided to take the dog with us on our vacation.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "excite",
+        "B": "excitement",
+        "C": "exciting",
+        "D": "excited"
+      },
+      "prompt": "John loved the _______ of snowboarding.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "adventure",
+        "B": "adventurer",
+        "C": "adventures",
+        "D": "adventuring"
+      },
+      "prompt": "The woman is a world famous _______.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "they",
+        "B": "our",
+        "C": "him",
+        "D": "she"
+      },
+      "prompt": "Everyone decided that _______ painting was the best.",
+      "accept": "B",
+      "part": "IV"
+    }
+  ],
+  "contentVersion": "v2-2026-10-28"
 }

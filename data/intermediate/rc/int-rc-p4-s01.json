@@ -1,522 +1,511 @@
 {
- "practiceId": "int-rc-p4-s01",
- "title": "Part IV · Section 01",
- "subtitle": "Articles",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "feather",
-    "B": "honest",
-    "C": "practice",
-    "D": "Wash"
-   },
-   "accept": "D",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "feather",
-    "B": "honest",
-    "C": "practice",
-    "D": "Wash"
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "feather",
-    "B": "honest",
-    "C": "practice",
-    "D": "Wash"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "feather",
-    "B": "honest",
-    "C": "practice",
-    "D": "Wash"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s01/page-007.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(a): My father and mother are at table. Say the meaning of the underlined part in Korean (see the book page). Not scored.",
-   "pageImage": "intermediate/rc-p4-s01/page-008.jpg",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(b): He wants to be a Newton. Say the meaning in Korean (see the book page). Not scored.",
-   "pageImage": "intermediate/rc-p4-s01/page-008.jpg",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(c): A dog is a faithful animal. Say the meaning in Korean (see the book page). Not scored.",
-   "pageImage": "intermediate/rc-p4-s01/page-008.jpg",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean (see the book page). Not scored.",
-   "pageImage": "intermediate/rc-p4-s01/page-008.jpg",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(a): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "x"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(c): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
-   "accept": [
-    "x"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "An"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 2-(b): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
-   "accept": [
-    "an"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): type the answer (see the book page).",
-   "accept": [
-    "An"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
-   "accept": [
-    "x"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
-   "accept": [
-    "The"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
-   "accept": [
-    "x"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(d): type the answer (see the book page).",
-   "accept": [
-    "the"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-008.jpg",
-   "section": "Warm-Up",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "an"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(b): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(c): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): type the answer (see the book page).",
-   "accept": [
-    "an"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "the"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "the"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2-(c): choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "the"
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "I like to play the baseball with the my friends."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "We go to the church after a breakfast."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "don't like the winter."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "A waiter, please give me the some water."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q32",
-   "label": "32"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): type the answer (see the book page).",
-   "accept": [
-    "He will go to x America by x airplane."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q33",
-   "label": "33"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
-   "accept": [
-    "I practice the piano every x Wednesday."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q34",
-   "label": "34"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): type the answer (see the book page).",
-   "accept": [
-    "The book in this bag is an English book."
-   ],
-   "photo": "intermediate/rc-p4-s01/page-010.jpg",
-   "section": "Grammar Practice",
-   "id": "q35",
-   "label": "35"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "A",
-    "B": "An",
-    "C": "The",
-    "D": "In"
-   },
-   "prompt": "_______ year has 365 days.",
-   "accept": "A"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "a money",
-    "B": "much money",
-    "C": "some money",
-    "D": "the money"
-   },
-   "prompt": "My father gave me some money and I gave all _______ to the beggar.",
-   "accept": "D"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "A waiter",
-    "B": "The waiter",
-    "C": "An waiter",
-    "D": "Waiter"
-   },
-   "prompt": "_______, give me a spoon, please.",
-   "accept": "D"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "a my",
-    "B": "my a",
-    "C": "my best",
-    "D": "the my best"
-   },
-   "prompt": "A dam is one of _______ friends.",
-   "accept": "C"
-  },
-  {
-   "id": "q40",
-   "label": "40",
-   "type": "choice",
-   "choices": {
-    "A": "A",
-    "B": "The",
-    "C": "An",
-    "D": "Some"
-   },
-   "prompt": "_______ book on the shelf is about solar system.",
-   "accept": "B"
-  },
-  {
-   "id": "q41",
-   "label": "41",
-   "type": "choice",
-   "choices": {
-    "A": "a",
-    "B": "the",
-    "C": "an",
-    "D": "any"
-   },
-   "prompt": "Jack is _______ strongest boy in his school.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s01/page-007.jpg",
-  "intermediate/rc-p4-s01/page-008.jpg",
-  "intermediate/rc-p4-s01/page-009.jpg",
-  "intermediate/rc-p4-s01/page-010.jpg",
-  "intermediate/rc-p4-s01/page-011.jpg"
- ]
+  "practiceId": "int-rc-p4-s01",
+  "title": "Part IV · Section 01",
+  "subtitle": "Articles",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "feather",
+        "B": "honest",
+        "C": "practice",
+        "D": "Wash"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "feather",
+        "B": "honest",
+        "C": "practice",
+        "D": "Wash"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "feather",
+        "B": "honest",
+        "C": "practice",
+        "D": "Wash"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "feather",
+        "B": "honest",
+        "C": "practice",
+        "D": "Wash"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(a): My father and mother are at table. Say the meaning of the underlined part in Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(b): He wants to be a Newton. Say the meaning in Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(c): A dog is a faithful animal. Say the meaning in Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(a): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "x"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(c): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): type the answer.",
+      "accept": [
+        "x"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "An"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 2-(b): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): type the answer.",
+      "accept": [
+        "an"
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): type the answer.",
+      "accept": [
+        "An"
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): type the answer.",
+      "accept": [
+        "x"
+      ],
+      "section": "Warm-Up",
+      "id": "q17",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): type the answer.",
+      "accept": [
+        "The"
+      ],
+      "section": "Warm-Up",
+      "id": "q18",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): type the answer.",
+      "accept": [
+        "x"
+      ],
+      "section": "Warm-Up",
+      "id": "q19",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(d): type the answer.",
+      "accept": [
+        "the"
+      ],
+      "section": "Warm-Up",
+      "id": "q20",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "accept": [
+        "an"
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(b): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(c): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): type the answer.",
+      "accept": [
+        "an"
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "accept": [
+        "the"
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "accept": [
+        "the"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2-(c): choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "accept": [
+        "the"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "accept": [
+        "I like to play the baseball with the my friends."
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "accept": [
+        "We go to the church after a breakfast."
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "accept": [
+        "don't like the winter."
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(d): type the answer.",
+      "accept": [
+        "A waiter, please give me the some water."
+      ],
+      "section": "Grammar Practice",
+      "id": "q32",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(a): type the answer.",
+      "accept": [
+        "He will go to x America by x airplane."
+      ],
+      "section": "Grammar Practice",
+      "id": "q33",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): type the answer.",
+      "accept": [
+        "I practice the piano every x Wednesday."
+      ],
+      "section": "Grammar Practice",
+      "id": "q34",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): type the answer.",
+      "accept": [
+        "The book in this bag is an English book."
+      ],
+      "section": "Grammar Practice",
+      "id": "q35",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q36",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "In"
+      },
+      "prompt": "_______ year has 365 days.",
+      "accept": "A"
+    },
+    {
+      "id": "q37",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "a money",
+        "B": "much money",
+        "C": "some money",
+        "D": "the money"
+      },
+      "prompt": "My father gave me some money and I gave all _______ to the beggar.",
+      "accept": "D"
+    },
+    {
+      "id": "q38",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A waiter",
+        "B": "The waiter",
+        "C": "An waiter",
+        "D": "Waiter"
+      },
+      "prompt": "_______, give me a spoon, please.",
+      "accept": "D"
+    },
+    {
+      "id": "q39",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "a my",
+        "B": "my a",
+        "C": "my best",
+        "D": "the my best"
+      },
+      "prompt": "A dam is one of _______ friends.",
+      "accept": "C"
+    },
+    {
+      "id": "q40",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "The",
+        "C": "An",
+        "D": "Some"
+      },
+      "prompt": "_______ book on the shelf is about solar system.",
+      "accept": "B"
+    },
+    {
+      "id": "q41",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "a",
+        "B": "the",
+        "C": "an",
+        "D": "any"
+      },
+      "prompt": "Jack is _______ strongest boy in his school.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

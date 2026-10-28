@@ -1,474 +1,461 @@
 {
- "practiceId": "bas-lc-p3-s06",
- "title": "Part III · Section 06",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s06",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "finish",
-    "B": "traffic"
-   },
-   "accept": "B",
-   "photo": "basic/lc-p3-s06/page-129.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "finish",
-    "B": "traffic"
-   },
-   "accept": "A",
-   "photo": "basic/lc-p3-s06/page-129.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "better",
-    "B": "butter",
-    "C": "car",
-    "D": "dock"
-   },
-   "prompt": "Pronunciation Check-Up 1-(a): Choose the sound/word you hear.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "better",
-    "B": "butter",
-    "C": "car",
-    "D": "dock"
-   },
-   "prompt": "Pronunciation Check-Up 1-(b): Choose the sound/word you hear.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "better",
-    "B": "butter",
-    "C": "car",
-    "D": "dock"
-   },
-   "prompt": "Pronunciation Check-Up 1-(c): Choose the sound/word you hear.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "better",
-    "B": "butter",
-    "C": "car",
-    "D": "dock"
-   },
-   "prompt": "Pronunciation Check-Up 1-(d): Choose the sound/word you hear.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "gallery",
-    "C": "zoo"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "gallery",
-    "C": "zoo"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "gallery",
-    "C": "zoo"
-   },
-   "prompt": "Warm-Up 1-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "bicycle",
-    "B": "book",
-    "C": "computer"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "bicycle",
-    "B": "book",
-    "C": "computer"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "bicycle",
-    "B": "book",
-    "C": "computer"
-   },
-   "prompt": "Warm-Up 2-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "Dr. Brown's office",
-    "B": "Julie's house"
-   },
-   "prompt": "Warm-Up 3-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "Dr. Brown's office",
-    "B": "Julie's house"
-   },
-   "prompt": "Warm-Up 3-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "passengers"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-131.jpg",
-   "section": "Listening Practice 1",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "Airline counter"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-131.jpg",
-   "section": "Listening Practice 1",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "cell phone"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-132.jpg",
-   "section": "Listening Practice 2",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "leather bag"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-132.jpg",
-   "section": "Listening Practice 2",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q24",
-   "label": "24",
-   "type": "choice",
-   "choices": {
-    "A": "airport",
-    "B": "an airport",
-    "C": "At a travel agency",
-    "D": "bag",
-    "E": "hospital",
-    "F": "phone"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "Travel Agency"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-133.jpg",
-   "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "emergency room"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s06/page-133.jpg",
-   "section": "Listening Practice 3",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "A bridge will be repaired.",
-    "B": "A new highway will be built.",
-    "C": "The traffic in midtown is heavy.",
-    "D": "An accident has closed a highway."
-   },
-   "prompt": "What is announced?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Use the elevator",
-    "B": "Use the telephone",
-    "C": "Enter the building",
-    "D": "Check their e-mail"
-   },
-   "prompt": "What will people be unable to do the next morning?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "On a ship",
-    "B": "On a train",
-    "C": "On a bus",
-    "D": "On a plane"
-   },
-   "prompt": "Where can you hear this announcement?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "At an airport",
-    "B": "At a museum",
-    "C": "At a library",
-    "D": "At a hospital"
-   },
-   "prompt": "Where can this announcement be heard?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "On a train",
-    "B": "At a concert",
-    "C": "In a classroom",
-    "D": "In a supermarket"
-   },
-   "prompt": "Where is this announcement heard?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "A flight has been delayed.",
-    "B": "The airport has been closed.",
-    "C": "A storm has caused an accident.",
-    "D": "The speaker's trip has been canceled"
-   },
-   "prompt": "What has happened?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p3-s06/page-129.jpg",
-  "basic/lc-p3-s06/page-130.jpg",
-  "basic/lc-p3-s06/page-131.jpg",
-  "basic/lc-p3-s06/page-132.jpg",
-  "basic/lc-p3-s06/page-133.jpg"
- ]
+  "practiceId": "bas-lc-p3-s06",
+  "title": "Part III · Section 06",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s06",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "finish",
+        "B": "traffic"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "finish",
+        "B": "traffic"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q3",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "better",
+        "B": "butter",
+        "C": "car",
+        "D": "dock"
+      },
+      "prompt": "Pronunciation Check-Up 1-(a): Choose the sound/word you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q4",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "better",
+        "B": "butter",
+        "C": "car",
+        "D": "dock"
+      },
+      "prompt": "Pronunciation Check-Up 1-(b): Choose the sound/word you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q5",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "better",
+        "B": "butter",
+        "C": "car",
+        "D": "dock"
+      },
+      "prompt": "Pronunciation Check-Up 1-(c): Choose the sound/word you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q6",
+      "label": "1-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "better",
+        "B": "butter",
+        "C": "car",
+        "D": "dock"
+      },
+      "prompt": "Pronunciation Check-Up 1-(d): Choose the sound/word you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q7",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "gallery",
+        "C": "zoo"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "gallery",
+        "C": "zoo"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "gallery",
+        "C": "zoo"
+      },
+      "prompt": "Warm-Up 1-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "bicycle",
+        "B": "book",
+        "C": "computer"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "bicycle",
+        "B": "book",
+        "C": "computer"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "2-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "bicycle",
+        "B": "book",
+        "C": "computer"
+      },
+      "prompt": "Warm-Up 2-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "3-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Dr. Brown's office",
+        "B": "Julie's house"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q14",
+      "label": "3-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Dr. Brown's office",
+        "B": "Julie's house"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q15",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q16",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "passengers"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q17",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "Airline counter"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q18",
+      "label": "4"
+    },
+    {
+      "id": "q19",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q20",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "cell phone"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q21",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "leather bag"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q22",
+      "label": "4"
+    },
+    {
+      "id": "q23",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q24",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "airport",
+        "B": "an airport",
+        "C": "At a travel agency",
+        "D": "bag",
+        "E": "hospital",
+        "F": "phone"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "Travel Agency"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q25",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "emergency room"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q26",
+      "label": "4"
+    },
+    {
+      "id": "q27",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A bridge will be repaired.",
+        "B": "A new highway will be built.",
+        "C": "The traffic in midtown is heavy.",
+        "D": "An accident has closed a highway."
+      },
+      "prompt": "What is announced?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Use the elevator",
+        "B": "Use the telephone",
+        "C": "Enter the building",
+        "D": "Check their e-mail"
+      },
+      "prompt": "What will people be unable to do the next morning?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "On a ship",
+        "B": "On a train",
+        "C": "On a bus",
+        "D": "On a plane"
+      },
+      "prompt": "Where can you hear this announcement?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "At an airport",
+        "B": "At a museum",
+        "C": "At a library",
+        "D": "At a hospital"
+      },
+      "prompt": "Where can this announcement be heard?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q31",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "On a train",
+        "B": "At a concert",
+        "C": "In a classroom",
+        "D": "In a supermarket"
+      },
+      "prompt": "Where is this announcement heard?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q32",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A flight has been delayed.",
+        "B": "The airport has been closed.",
+        "C": "A storm has caused an accident.",
+        "D": "The speaker's trip has been canceled"
+      },
+      "prompt": "What has happened?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

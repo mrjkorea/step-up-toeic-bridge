@@ -231,7 +231,10 @@
   }
 
   function isBlockedItem(item) {
-    return !!(item && (item.blocked === true || item.blocked === "true"));
+    if (!item) return false;
+    var b = item.blocked;
+    if (b === false || b == null || b === "") return false;
+    return true;
   }
 
   function isPlayableItem(item) {

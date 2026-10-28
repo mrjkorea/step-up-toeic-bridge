@@ -1,152 +1,152 @@
 {
- "practiceId": "int-rc-at-q01-10",
- "title": "RC Actual Test · Questions 01–10",
- "subtitle": "10 questions (book Q51–60)",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "again",
-    "B": "enough",
-    "C": "hourly",
-    "D": "anymore"
-   },
-   "prompt": "Fees are on an _______ basis.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "lot",
-    "B": "mail",
-    "C": "bunch",
-    "D": "package"
-   },
-   "prompt": "There is a _______ for Ms. Williams in the mailbox.",
-   "accept": "D",
-   "part": "IV"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "can",
-    "B": "can't",
-    "C": "must",
-    "D": "will"
-   },
-   "prompt": "Ron _______ understand this difficult problem because he is smart.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "must",
-    "B": "must not",
-    "C": "can",
-    "D": "will"
-   },
-   "prompt": "I _______ be going now for I have to pick up my son.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "a",
-    "B": "an",
-    "C": "the",
-    "D": "X (None of the above)"
-   },
-   "prompt": "Is _______ milk on the table cold or hot?",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "a",
-    "B": "an",
-    "C": "the",
-    "D": "X (None of the above)"
-   },
-   "prompt": "If you make _______ same mistake, I will not forgive you.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "than",
-    "B": "that",
-    "C": "them",
-    "D": "there"
-   },
-   "prompt": "Vermont has more state partnerships with business _______ any other state.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "most",
-    "B": "warmest",
-    "C": "highest",
-    "D": "heaviest"
-   },
-   "prompt": "The weather forecast said this winter will be the _______ of the century.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "more",
-    "B": "later",
-    "C": "older",
-    "D": "larger"
-   },
-   "prompt": "Reports will be accepted no _______ than 3:00 p.m.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "Approximate",
-    "B": "Approximate to",
-    "C": "Approximately",
-    "D": "Approximately to"
-   },
-   "prompt": "_______ one of our lives is spent sleeping.",
-   "accept": "C",
-   "part": "IV"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "int-rc-at-q01-10",
+  "title": "RC Actual Test · Questions 01–10",
+  "subtitle": "10 questions (book Q51–60)",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "again",
+        "B": "enough",
+        "C": "hourly",
+        "D": "anymore"
+      },
+      "prompt": "Fees are on an _______ basis.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "lot",
+        "B": "mail",
+        "C": "bunch",
+        "D": "package"
+      },
+      "prompt": "There is a _______ for Ms. Williams in the mailbox.",
+      "accept": "D",
+      "part": "IV"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "can",
+        "B": "can't",
+        "C": "must",
+        "D": "will"
+      },
+      "prompt": "Ron _______ understand this difficult problem because he is smart.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "must",
+        "B": "must not",
+        "C": "can",
+        "D": "will"
+      },
+      "prompt": "I _______ be going now for I have to pick up my son.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "X (None of the above)"
+      },
+      "prompt": "Is _______ milk on the table cold or hot?",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "X (None of the above)"
+      },
+      "prompt": "If you make _______ same mistake, I will not forgive you.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "than",
+        "B": "that",
+        "C": "them",
+        "D": "there"
+      },
+      "prompt": "Vermont has more state partnerships with business _______ any other state.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "most",
+        "B": "warmest",
+        "C": "highest",
+        "D": "heaviest"
+      },
+      "prompt": "The weather forecast said this winter will be the _______ of the century.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "more",
+        "B": "later",
+        "C": "older",
+        "D": "larger"
+      },
+      "prompt": "Reports will be accepted no _______ than 3:00 p.m.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Approximate",
+        "B": "Approximate to",
+        "C": "Approximately",
+        "D": "Approximately to"
+      },
+      "prompt": "_______ one of our lives is spent sleeping.",
+      "accept": "C",
+      "part": "IV"
+    }
+  ],
+  "contentVersion": "v2-2026-10-28"
 }

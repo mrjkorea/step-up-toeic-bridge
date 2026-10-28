@@ -5,20 +5,11 @@ on:
     branches: [main]
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
-  assets:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: No workbook page scans in assets
-        run: python3 scripts/check_practice_data.py --assets-only
-
-  data-full:
-    if: github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Full JSON + assets (run before importing content pack v2+)
+      - name: No page scans in assets or JSON
         run: python3 scripts/check_practice_data.py

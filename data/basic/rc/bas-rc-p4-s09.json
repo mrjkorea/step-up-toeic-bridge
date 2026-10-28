@@ -1,242 +1,234 @@
 {
- "practiceId": "bas-rc-p4-s09",
- "title": "Part IV · Section 09",
- "subtitle": "Hobbies",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "comic books",
-    "B": "enjoyed",
-    "C": "Listen to",
-    "D": "poems"
-   },
-   "accept": "A",
-   "photo": "basic/rc-p4-s09/page-072.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "comic books",
-    "B": "enjoyed",
-    "C": "Listen to",
-    "D": "poems"
-   },
-   "accept": "D",
-   "photo": "basic/rc-p4-s09/page-072.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "comic books",
-    "B": "enjoyed",
-    "C": "Listen to",
-    "D": "poems"
-   },
-   "accept": "B",
-   "photo": "basic/rc-p4-s09/page-072.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "comic books",
-    "B": "enjoyed",
-    "C": "Listen to",
-    "D": "poems"
-   },
-   "accept": "C",
-   "photo": "basic/rc-p4-s09/page-072.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "basic/rc-p4-s09/page-073.jpg",
-   "photo": "basic/rc-p4-s09/page-073.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "poem"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "movie"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "painting"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "learning"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "reading"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "skiing"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "listening"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "watching"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "Mountain",
-    "climbing"
-   ],
-   "photo": "basic/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "Taking",
-    "B": "Having",
-    "C": "Reading",
-    "D": "Listening"
-   },
-   "prompt": "_______ to English pop songs everyday will improve your English.",
-   "accept": "D"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "has",
-    "B": "watches",
-    "C": "hears",
-    "D": "listens"
-   },
-   "prompt": "John _______ TV everyday.",
-   "accept": "B"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "see",
-    "B": "take",
-    "C": "listen",
-    "D": "watch"
-   },
-   "prompt": "I usually _______ to the radio in a bus.",
-   "accept": "C"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "Playing",
-    "B": "Thinking",
-    "C": "Taking",
-    "D": "Reading"
-   },
-   "prompt": "_______ soccer is popular among children after the World Cup.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/rc-p4-s09/page-072.jpg",
-  "basic/rc-p4-s09/page-073.jpg",
-  "basic/rc-p4-s09/page-074.jpg",
-  "basic/rc-p4-s09/page-075.jpg",
-  "basic/rc-p4-s09/page-076.jpg"
- ]
+  "practiceId": "bas-rc-p4-s09",
+  "title": "Part IV · Section 09",
+  "subtitle": "Hobbies",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "comic books",
+        "B": "enjoyed",
+        "C": "Listen to",
+        "D": "poems"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "comic books",
+        "B": "enjoyed",
+        "C": "Listen to",
+        "D": "poems"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "comic books",
+        "B": "enjoyed",
+        "C": "Listen to",
+        "D": "poems"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "comic books",
+        "B": "enjoyed",
+        "C": "Listen to",
+        "D": "poems"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "poem"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "movie"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "painting"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "accept": [
+        "learning"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "reading"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "skiing"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "listening"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "watching"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "Mountain",
+        "climbing"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q15",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Taking",
+        "B": "Having",
+        "C": "Reading",
+        "D": "Listening"
+      },
+      "prompt": "_______ to English pop songs everyday will improve your English.",
+      "accept": "D"
+    },
+    {
+      "id": "q16",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "has",
+        "B": "watches",
+        "C": "hears",
+        "D": "listens"
+      },
+      "prompt": "John _______ TV everyday.",
+      "accept": "B"
+    },
+    {
+      "id": "q17",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "see",
+        "B": "take",
+        "C": "listen",
+        "D": "watch"
+      },
+      "prompt": "I usually _______ to the radio in a bus.",
+      "accept": "C"
+    },
+    {
+      "id": "q18",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Playing",
+        "B": "Thinking",
+        "C": "Taking",
+        "D": "Reading"
+      },
+      "prompt": "_______ soccer is popular among children after the World Cup.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

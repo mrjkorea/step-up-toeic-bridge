@@ -1,428 +1,411 @@
 {
- "practiceId": "bas-lc-p3-s03",
- "title": "Part III · Section 03",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s03",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "better"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-105.jpg",
-   "section": "Pronunciation",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "letter"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-105.jpg",
-   "section": "Pronunciation",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "writer"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-105.jpg",
-   "section": "Pronunciation",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "butter"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-105.jpg",
-   "section": "Pronunciation",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "borrow some books",
-    "B": "call the teacher",
-    "C": "send by plane",
-    "D": "take a subway"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "borrow some books",
-    "B": "call the teacher",
-    "C": "send by plane",
-    "D": "take a subway"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "borrow some books",
-    "B": "call the teacher",
-    "C": "send by plane",
-    "D": "take a subway"
-   },
-   "prompt": "Warm-Up 1-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "borrow some books",
-    "B": "call the teacher",
-    "C": "send by plane",
-    "D": "take a subway"
-   },
-   "prompt": "Warm-Up 1-(d): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "biographies",
-    "B": "make plans",
-    "C": "sing"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "biographies",
-    "B": "make plans",
-    "C": "sing"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "biographies",
-    "B": "make plans",
-    "C": "sing"
-   },
-   "prompt": "Warm-Up 2-(c): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "sing"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-107.jpg",
-   "section": "Listening Practice 1",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "talk"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-107.jpg",
-   "section": "Listening Practice 1",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "take"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-108.jpg",
-   "section": "Listening Practice 2",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "plane"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-108.jpg",
-   "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "book",
-    "B": "Discussing the topic",
-    "C": "Singing",
-    "D": "summer job",
-    "E": "Take a taxi",
-    "F": "Take a train"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "get"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-109.jpg",
-   "section": "Listening Practice 3",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "is reading"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s03/page-109.jpg",
-   "section": "Listening Practice 3",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "id": "q24",
-   "label": "24",
-   "type": "choice",
-   "choices": {
-    "A": "Ask Wendy to call Bill",
-    "B": "Call Bill again",
-    "C": "Give Wendy a message",
-    "D": "Give Wendy a telephone number"
-   },
-   "prompt": "What will the woman do after the call?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q25",
-   "label": "25",
-   "type": "choice",
-   "choices": {
-    "A": "Have dinner at a restaurant",
-    "B": "Meet inside the restaurant",
-    "C": "Have dinner with seven people",
-    "D": "Book a table at 8 p.m."
-   },
-   "prompt": "What are the speakers going to do?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "Move to a bigger house",
-    "B": "Buy a small house",
-    "C": "Choose a new house to move to",
-    "D": "Decide which house to buy out"
-   },
-   "prompt": "What is the man going to do?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "Go for having dinner with the man",
-    "B": "Go to visit a doctor",
-    "C": "Get exercise",
-    "D": "Get some rest"
-   },
-   "prompt": "What is the woman going to do?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Tell the man's teacher that the man is late",
-    "B": "Give the man a ride",
-    "C": "Pick up the man at school",
-    "D": "Buy the man a car"
-   },
-   "prompt": "What is the woman going to do?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "Borrow a book",
-    "B": "Return a book",
-    "C": "Buy a book",
-    "D": "Copy an overdue book"
-   },
-   "prompt": "What is the woman going to do?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p3-s03/page-105.jpg",
-  "basic/lc-p3-s03/page-106.jpg",
-  "basic/lc-p3-s03/page-107.jpg",
-  "basic/lc-p3-s03/page-108.jpg",
-  "basic/lc-p3-s03/page-109.jpg"
- ]
+  "practiceId": "bas-lc-p3-s03",
+  "title": "Part III · Section 03",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s03",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "better"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q1",
+      "label": "1"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "letter"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q2",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "writer"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q3",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "butter"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q4",
+      "label": "4"
+    },
+    {
+      "id": "q5",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "borrow some books",
+        "B": "call the teacher",
+        "C": "send by plane",
+        "D": "take a subway"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "borrow some books",
+        "B": "call the teacher",
+        "C": "send by plane",
+        "D": "take a subway"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "borrow some books",
+        "B": "call the teacher",
+        "C": "send by plane",
+        "D": "take a subway"
+      },
+      "prompt": "Warm-Up 1-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "1-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "borrow some books",
+        "B": "call the teacher",
+        "C": "send by plane",
+        "D": "take a subway"
+      },
+      "prompt": "Warm-Up 1-(d): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "biographies",
+        "B": "make plans",
+        "C": "sing"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "biographies",
+        "B": "make plans",
+        "C": "sing"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "2-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "biographies",
+        "B": "make plans",
+        "C": "sing"
+      },
+      "prompt": "Warm-Up 2-(c): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q13",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "sing"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q14",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "talk"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q15",
+      "label": "4"
+    },
+    {
+      "id": "q16",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q17",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "take"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q18",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "plane"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q19",
+      "label": "4"
+    },
+    {
+      "id": "q20",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q21",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "book",
+        "B": "Discussing the topic",
+        "C": "Singing",
+        "D": "summer job",
+        "E": "Take a taxi",
+        "F": "Take a train"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "get"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q22",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "is reading"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q23",
+      "label": "4"
+    },
+    {
+      "id": "q24",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Ask Wendy to call Bill",
+        "B": "Call Bill again",
+        "C": "Give Wendy a message",
+        "D": "Give Wendy a telephone number"
+      },
+      "prompt": "What will the woman do after the call?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q25",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Have dinner at a restaurant",
+        "B": "Meet inside the restaurant",
+        "C": "Have dinner with seven people",
+        "D": "Book a table at 8 p.m."
+      },
+      "prompt": "What are the speakers going to do?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Move to a bigger house",
+        "B": "Buy a small house",
+        "C": "Choose a new house to move to",
+        "D": "Decide which house to buy out"
+      },
+      "prompt": "What is the man going to do?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q27",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Go for having dinner with the man",
+        "B": "Go to visit a doctor",
+        "C": "Get exercise",
+        "D": "Get some rest"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Tell the man's teacher that the man is late",
+        "B": "Give the man a ride",
+        "C": "Pick up the man at school",
+        "D": "Buy the man a car"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Borrow a book",
+        "B": "Return a book",
+        "C": "Buy a book",
+        "D": "Copy an overdue book"
+      },
+      "prompt": "What is the woman going to do?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

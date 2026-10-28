@@ -1,464 +1,451 @@
 {
- "practiceId": "bas-lc-p3-s05",
- "title": "Part III · Section 05",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s05",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "clean up",
-    "B": "help me",
-    "C": "likes to",
-    "D": "turn off"
-   },
-   "prompt": "Pronunciation Check-Up 1-(a): Choose the sound/word you hear.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "clean up",
-    "B": "help me",
-    "C": "likes to",
-    "D": "turn off"
-   },
-   "prompt": "Pronunciation Check-Up 1-(b): Choose the sound/word you hear.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "clean up",
-    "B": "help me",
-    "C": "likes to",
-    "D": "turn off"
-   },
-   "prompt": "Pronunciation Check-Up 1-(c): Choose the sound/word you hear.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "clean up",
-    "B": "help me",
-    "C": "likes to",
-    "D": "turn off"
-   },
-   "prompt": "Pronunciation Check-Up 1-(d): Choose the sound/word you hear.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Pronunciation Check-Up"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "cloudy",
-    "B": "foggy",
-    "C": "sunny"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "cloudy",
-    "B": "foggy",
-    "C": "sunny"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "cloudy",
-    "B": "foggy",
-    "C": "sunny"
-   },
-   "prompt": "Warm-Up 1-(c): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "cafeteria",
-    "B": "gym",
-    "C": "science lab"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "cafeteria",
-    "B": "gym",
-    "C": "science lab"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "cafeteria",
-    "B": "gym",
-    "C": "science lab"
-   },
-   "prompt": "Warm-Up 2-(c): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "chicken",
-    "B": "pizza",
-    "C": "sandwich"
-   },
-   "prompt": "Warm-Up 3-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "chicken",
-    "B": "pizza",
-    "C": "sandwich"
-   },
-   "prompt": "Warm-Up 3-(b): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "chicken",
-    "B": "pizza",
-    "C": "sandwich"
-   },
-   "prompt": "Warm-Up 3-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "sketchbook"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-123.jpg",
-   "section": "Listening Practice 1",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "experiments"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-123.jpg",
-   "section": "Listening Practice 1",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "snow"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-124.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "raining"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-124.jpg",
-   "section": "Listening Practice 2",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "A student experiment",
-    "B": "An art class",
-    "C": "Making cookies",
-    "D": "rainy",
-    "E": "Snowy",
-    "F": "The origin of pizza"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "pizza"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-125.jpg",
-   "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "cookies"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s05/page-125.jpg",
-   "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "Wood working",
-    "B": "Home economics",
-    "C": "English",
-    "D": "History"
-   },
-   "prompt": "What subject does this teacher teach?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "Hot and dry",
-    "B": "Dry and mild",
-    "C": "Hot and humid",
-    "D": "Cold and rainy"
-   },
-   "prompt": "How does the speaker describe the weather?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Finish his homework",
-    "B": "Get a medical examination",
-    "C": "Have his parents sign a slip",
-    "D": "Make a special trip to the museum"
-   },
-   "prompt": "What does the speaker say David needs to do?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "Her spelling class",
-    "B": "Social studies class",
-    "C": "Fire safety class",
-    "D": "First aid class"
-   },
-   "prompt": "What class is this teacher speaking to?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "Art class",
-    "B": "Computer class",
-    "C": "Book keeping",
-    "D": "History"
-   },
-   "prompt": "What class is this project for?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "A shoe",
-    "B": "An animal",
-    "C": "A medicine",
-    "D": "An exercise"
-   },
-   "prompt": "What is the speaker describing?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p3-s05/page-121.jpg",
-  "basic/lc-p3-s05/page-122.jpg",
-  "basic/lc-p3-s05/page-123.jpg",
-  "basic/lc-p3-s05/page-124.jpg",
-  "basic/lc-p3-s05/page-125.jpg"
- ]
+  "practiceId": "bas-lc-p3-s05",
+  "title": "Part III · Section 05",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s05",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "clean up",
+        "B": "help me",
+        "C": "likes to",
+        "D": "turn off"
+      },
+      "prompt": "Pronunciation Check-Up 1-(a): Choose the sound/word you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q2",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "clean up",
+        "B": "help me",
+        "C": "likes to",
+        "D": "turn off"
+      },
+      "prompt": "Pronunciation Check-Up 1-(b): Choose the sound/word you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q3",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "clean up",
+        "B": "help me",
+        "C": "likes to",
+        "D": "turn off"
+      },
+      "prompt": "Pronunciation Check-Up 1-(c): Choose the sound/word you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q4",
+      "label": "1-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "clean up",
+        "B": "help me",
+        "C": "likes to",
+        "D": "turn off"
+      },
+      "prompt": "Pronunciation Check-Up 1-(d): Choose the sound/word you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Pronunciation Check-Up"
+    },
+    {
+      "id": "q5",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "cloudy",
+        "B": "foggy",
+        "C": "sunny"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "cloudy",
+        "B": "foggy",
+        "C": "sunny"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "cloudy",
+        "B": "foggy",
+        "C": "sunny"
+      },
+      "prompt": "Warm-Up 1-(c): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "cafeteria",
+        "B": "gym",
+        "C": "science lab"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "cafeteria",
+        "B": "gym",
+        "C": "science lab"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "2-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "cafeteria",
+        "B": "gym",
+        "C": "science lab"
+      },
+      "prompt": "Warm-Up 2-(c): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "3-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "chicken",
+        "B": "pizza",
+        "C": "sandwich"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "3-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "chicken",
+        "B": "pizza",
+        "C": "sandwich"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "3-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "chicken",
+        "B": "pizza",
+        "C": "sandwich"
+      },
+      "prompt": "Warm-Up 3-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q14",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q15",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "sketchbook"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q16",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "experiments"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q17",
+      "label": "4"
+    },
+    {
+      "id": "q18",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q19",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "snow"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "raining"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q21",
+      "label": "4"
+    },
+    {
+      "id": "q22",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q23",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A student experiment",
+        "B": "An art class",
+        "C": "Making cookies",
+        "D": "rainy",
+        "E": "Snowy",
+        "F": "The origin of pizza"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "pizza"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q24",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "cookies"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q25",
+      "label": "4"
+    },
+    {
+      "id": "q26",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Wood working",
+        "B": "Home economics",
+        "C": "English",
+        "D": "History"
+      },
+      "prompt": "What subject does this teacher teach?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q27",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Hot and dry",
+        "B": "Dry and mild",
+        "C": "Hot and humid",
+        "D": "Cold and rainy"
+      },
+      "prompt": "How does the speaker describe the weather?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Finish his homework",
+        "B": "Get a medical examination",
+        "C": "Have his parents sign a slip",
+        "D": "Make a special trip to the museum"
+      },
+      "prompt": "What does the speaker say David needs to do?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Her spelling class",
+        "B": "Social studies class",
+        "C": "Fire safety class",
+        "D": "First aid class"
+      },
+      "prompt": "What class is this teacher speaking to?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Art class",
+        "B": "Computer class",
+        "C": "Book keeping",
+        "D": "History"
+      },
+      "prompt": "What class is this project for?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q31",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A shoe",
+        "B": "An animal",
+        "C": "A medicine",
+        "D": "An exercise"
+      },
+      "prompt": "What is the speaker describing?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

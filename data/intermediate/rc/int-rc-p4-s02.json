@@ -1,431 +1,409 @@
 {
- "practiceId": "int-rc-p4-s02",
- "title": "Part IV · Section 02",
- "subtitle": "Modals",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "carry",
-    "B": "do the dishes",
-    "C": "foreign",
-    "D": "succeed"
-   },
-   "accept": "D",
-   "photo": "intermediate/rc-p4-s02/page-017.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "carry",
-    "B": "do the dishes",
-    "C": "foreign",
-    "D": "succeed"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s02/page-017.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "carry",
-    "B": "do the dishes",
-    "C": "foreign",
-    "D": "succeed"
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s02/page-017.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "carry",
-    "B": "do the dishes",
-    "C": "foreign",
-    "D": "succeed"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s02/page-017.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1: Warm-Up 1: choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "D",
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): rewrite the sentence as shown in the book (see the book page).",
-   "accept": [
-    "Jane cannot speak Korea.",
-    "Jane can not speak Korea.",
-    "Jane can't speak Korea."
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): rewrite the sentence as shown in the book (see the book page).",
-   "accept": [
-    "Sam will not go to see his aunt tomorrow.",
-    "Sam won't go to see his aunt tomorrow."
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 3-(a): Can you solve the problem? Translate into Korean (see the book page). Not scored.",
-   "pageImage": "intermediate/rc-p4-s02/page-018.jpg",
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 3-(b): She may be a spy. Translate into Korean. Not scored.",
-   "pageImage": "intermediate/rc-p4-s02/page-018.jpg",
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 3-(c): We must arrive at the hotel before 7 p.m. Translate into Korean. Not scored.",
-   "pageImage": "intermediate/rc-p4-s02/page-018.jpg",
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 3-(d): He must be tired. Translate into Korean. Not scored.",
-   "pageImage": "intermediate/rc-p4-s02/page-018.jpg",
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "Can Gary read Japanese novels?"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
-   "accept": [
-    "Will Candy use my computer tomorrow?"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
-   "accept": [
-    "He will teach me."
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
-   "accept": [
-    "We will not meet him at the mart early in the morning."
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
-   "accept": [
-    "Will you be in a hurry?"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(d): type the answer (see the book page).",
-   "accept": [
-    "Will she bring her younger sister here?"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-018.jpg",
-   "section": "Warm-Up",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): Correct the wrong part (see the book page).",
-   "accept": [
-    "will"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): Correct the wrong part.",
-   "accept": [
-    "will be"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): Correct the wrong part.",
-   "accept": [
-    "play"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): Correct the wrong part.",
-   "accept": [
-    "be"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2-(a): People (should / may) drive their car carefully when it snows.",
-   "choices": {
-    "A": "should",
-    "B": "may"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2-(b): Who broke the window? My sister (will / did).",
-   "choices": {
-    "A": "will",
-    "B": "did"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2-(c): May I come in? Yes, you may. But you (must / can) be quiet.",
-   "choices": {
-    "A": "must",
-    "B": "can"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3: Choose the wrong sentence.",
-   "choices": {
-    "A": "We should be polite to other people.",
-    "B": "She must be an English teacher.",
-    "C": "John should be the dishes this evening.",
-    "D": "He may be late for school tomorrow."
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-fix: Correct the wrong part of that sentence.",
-   "accept": [
-    "should do"
-   ],
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4: Grammar Practice 4: choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s02/page-020.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "help",
-    "B": "helps",
-    "C": "helping",
-    "D": "is helping"
-   },
-   "prompt": "Sometimes a young boy can _______ an old man.",
-   "accept": "A"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "do",
-    "B": "does",
-    "C": "is",
-    "D": "doing"
-   },
-   "prompt": "Vicky doesn't like science, but David _______.",
-   "accept": "B"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "becomes",
-    "B": "become",
-    "C": "will become",
-    "D": "becoming"
-   },
-   "prompt": "Both John and Jane _______ 14 years old next year.",
-   "accept": "C"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "do",
-    "B": "should",
-    "C": "can",
-    "D": "may"
-   },
-   "prompt": "You _______ not fight with your friends and be nice to them all the time.",
-   "accept": "B"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "must",
-    "B": "have",
-    "C": "would",
-    "D": "can"
-   },
-   "prompt": "How _______ you like your steak?",
-   "accept": "C"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "May",
-    "B": "Can",
-    "C": "Could",
-    "D": "Must"
-   },
-   "prompt": "_______ God bless all the people in this country.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s02/page-017.jpg",
-  "intermediate/rc-p4-s02/page-018.jpg",
-  "intermediate/rc-p4-s02/page-019.jpg",
-  "intermediate/rc-p4-s02/page-020.jpg",
-  "intermediate/rc-p4-s02/page-021.jpg"
- ]
+  "practiceId": "int-rc-p4-s02",
+  "title": "Part IV · Section 02",
+  "subtitle": "Modals",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "carry",
+        "B": "do the dishes",
+        "C": "foreign",
+        "D": "succeed"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "carry",
+        "B": "do the dishes",
+        "C": "foreign",
+        "D": "succeed"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "carry",
+        "B": "do the dishes",
+        "C": "foreign",
+        "D": "succeed"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "carry",
+        "B": "do the dishes",
+        "C": "foreign",
+        "D": "succeed"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1: Warm-Up 1: choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "D",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): rewrite the sentence as shown in the book.",
+      "accept": [
+        "Jane cannot speak Korea.",
+        "Jane can not speak Korea.",
+        "Jane can't speak Korea."
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): rewrite the sentence as shown in the book.",
+      "accept": [
+        "Sam will not go to see his aunt tomorrow.",
+        "Sam won't go to see his aunt tomorrow."
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 3-(a): Can you solve the problem? Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 3-(b): She may be a spy. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "3-(b)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 3-(c): We must arrive at the hotel before 7 p.m. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "3-(c)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 3-(d): He must be tired. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "3-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "Can Gary read Japanese novels?"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): type the answer.",
+      "accept": [
+        "Will Candy use my computer tomorrow?"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(a): type the answer.",
+      "accept": [
+        "He will teach me."
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(b): type the answer.",
+      "accept": [
+        "We will not meet him at the mart early in the morning."
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(c): type the answer.",
+      "accept": [
+        "Will you be in a hurry?"
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(d): type the answer.",
+      "accept": [
+        "Will she bring her younger sister here?"
+      ],
+      "section": "Warm-Up",
+      "id": "q17",
+      "label": "4-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): Correct the wrong part.",
+      "accept": [
+        "will"
+      ],
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): Correct the wrong part.",
+      "accept": [
+        "will be"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "1-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): Correct the wrong part.",
+      "accept": [
+        "play"
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "1-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): Correct the wrong part.",
+      "accept": [
+        "be"
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "1-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2-(a): People (should / may) drive their car carefully when it snows.",
+      "choices": {
+        "A": "should",
+        "B": "may"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "2-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2-(b): Who broke the window? My sister (will / did).",
+      "choices": {
+        "A": "will",
+        "B": "did"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "2-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2-(c): May I come in? Yes, you may. But you (must / can) be quiet.",
+      "choices": {
+        "A": "must",
+        "B": "can"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "2-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3: Choose the wrong sentence.",
+      "choices": {
+        "A": "We should be polite to other people.",
+        "B": "She must be an English teacher.",
+        "C": "John should be the dishes this evening.",
+        "D": "He may be late for school tomorrow."
+      },
+      "accept": "C",
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "8"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-fix: Correct the wrong part of that sentence.",
+      "accept": [
+        "should do"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "9"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4: Grammar Practice 4: choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "10",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q28",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "help",
+        "B": "helps",
+        "C": "helping",
+        "D": "is helping"
+      },
+      "prompt": "Sometimes a young boy can _______ an old man.",
+      "accept": "A"
+    },
+    {
+      "id": "q29",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "doing"
+      },
+      "prompt": "Vicky doesn't like science, but David _______.",
+      "accept": "B"
+    },
+    {
+      "id": "q30",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "becomes",
+        "B": "become",
+        "C": "will become",
+        "D": "becoming"
+      },
+      "prompt": "Both John and Jane _______ 14 years old next year.",
+      "accept": "C"
+    },
+    {
+      "id": "q31",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "do",
+        "B": "should",
+        "C": "can",
+        "D": "may"
+      },
+      "prompt": "You _______ not fight with your friends and be nice to them all the time.",
+      "accept": "B"
+    },
+    {
+      "id": "q32",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "must",
+        "B": "have",
+        "C": "would",
+        "D": "can"
+      },
+      "prompt": "How _______ you like your steak?",
+      "accept": "C"
+    },
+    {
+      "id": "q33",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "May",
+        "B": "Can",
+        "C": "Could",
+        "D": "Must"
+      },
+      "prompt": "_______ God bless all the people in this country.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

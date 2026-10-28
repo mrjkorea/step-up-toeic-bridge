@@ -1,572 +1,552 @@
 {
- "practiceId": "bas-lc-p2-s04",
- "title": "Part II · Section 04",
- "subtitle": "Short answer",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p2-s04",
- "introEn": "Listen to each question and choose the best response (Short answer).",
- "timerMinutes": 12,
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "leaving"
-   },
-   "accept": "A",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "leaving"
-   },
-   "accept": "B",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "leaving"
-   },
-   "accept": "C",
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "three"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "think"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "thank"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "this"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "that"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #6: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "mother"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-063.jpg",
-   "section": "Pronunciation",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "coming",
-    "D": "leaving",
-    "E": "start"
-   },
-   "prompt": "Warm-Up 1-(a): Choose what you hear.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "coming",
-    "D": "leaving",
-    "E": "start"
-   },
-   "prompt": "Warm-Up 1-(b): Choose what you hear.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "coming",
-    "D": "leaving",
-    "E": "start"
-   },
-   "prompt": "Warm-Up 1-(c): Choose what you hear.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "coming",
-    "D": "leaving",
-    "E": "start"
-   },
-   "prompt": "Warm-Up 1-(d): Choose what you hear.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "birthday",
-    "B": "close",
-    "C": "coming",
-    "D": "leaving",
-    "E": "start"
-   },
-   "prompt": "Warm-Up 1-(e): Choose what you hear.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "Anytime.",
-    "B": "At 5 p.m.",
-    "C": "At 8:00 in the morning.",
-    "D": "December 15th.",
-    "E": "Early next week."
-   },
-   "prompt": "Warm-Up 2-(a): Choose what you hear.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "Anytime.",
-    "B": "At 5 p.m.",
-    "C": "At 8:00 in the morning.",
-    "D": "December 15th.",
-    "E": "Early next week."
-   },
-   "prompt": "Warm-Up 2-(b): Choose what you hear.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "Anytime.",
-    "B": "At 5 p.m.",
-    "C": "At 8:00 in the morning.",
-    "D": "December 15th.",
-    "E": "Early next week."
-   },
-   "prompt": "Warm-Up 2-(c): Choose what you hear.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "Anytime.",
-    "B": "At 5 p.m.",
-    "C": "At 8:00 in the morning.",
-    "D": "December 15th.",
-    "E": "Early next week."
-   },
-   "prompt": "Warm-Up 2-(d): Choose what you hear.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "Anytime.",
-    "B": "At 5 p.m.",
-    "C": "At 8:00 in the morning.",
-    "D": "December 15th.",
-    "E": "Early next week."
-   },
-   "prompt": "Warm-Up 2-(e): Choose what you hear.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "(A)",
-    "B": "(B)",
-    "C": "(C)"
-   },
-   "prompt": "Listening Practice 1-1): Listen and choose the best response.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "(A)",
-    "B": "(B)",
-    "C": "(C)"
-   },
-   "prompt": "Listening Practice 1-2): Listen and choose the best response.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "(A)",
-    "B": "(B)",
-    "C": "(C)"
-   },
-   "prompt": "Listening Practice 1-3): Listen and choose the best response.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "(A)",
-    "B": "(B)",
-    "C": "(C)"
-   },
-   "prompt": "Listening Practice 1-4): Listen and choose the best response.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-1) blank 1: type the words you hear.",
-   "accept": [
-    "When"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-1) blank 2: type the words you hear.",
-   "accept": [
-    "June 16th"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-2) blank 1: type the words you hear.",
-   "accept": [
-    "When"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-2) blank 2: type the words you hear.",
-   "accept": [
-    "Today"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-3) blank 1: type the words you hear.",
-   "accept": [
-    "When does"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-3) blank 2: type the words you hear.",
-   "accept": [
-    "6 p.m."
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-4) blank 1: type the words you hear.",
-   "accept": [
-    "When do you"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2-4) blank 2: type the words you hear.",
-   "accept": [
-    "About"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p2-s04/page-065.jpg",
-   "section": "Listening Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "It is Jane's birthday party.",
-    "B": "At 7 p.m.",
-    "C": "At her house."
-   },
-   "prompt": "When do you need to go to the party?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "Next Wednesday.",
-    "B": "Last week.",
-    "C": "This homework is hard."
-   },
-   "prompt": "When is the homework due?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "Early next month.",
-    "B": "Last week.",
-    "C": "I am planning to go to Canada."
-   },
-   "prompt": "When do you plan to move to Canada?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Check-Up"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "Before three o'clock.",
-    "B": "Please call me at home.",
-    "C": "No, not really."
-   },
-   "prompt": "When do you need to call John?",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "I'll leave right after school gets out.",
-    "B": "No, not usually.",
-    "C": "About seven fifteen."
-   },
-   "prompt": "When do you usually leave for school?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "Thank you.",
-    "B": "In late August.",
-    "C": "I'll be fifteen."
-   },
-   "prompt": "When's your birthday?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "So do I.",
-    "B": "On my desk.",
-    "C": "At noon."
-   },
-   "prompt": "When do you need to leave?",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "No, it's open.",
-    "B": "Every day at five o'clock.",
-    "C": "It takes about 15 minutes."
-   },
-   "prompt": "When does the store close?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q40",
-   "label": "40",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, I have already seen it.",
-    "B": "In 30 minutes I think.",
-    "C": "It lasts for about two hours."
-   },
-   "prompt": "When does the show start?",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p2-s04/page-063.jpg",
-  "basic/lc-p2-s04/page-064.jpg",
-  "basic/lc-p2-s04/page-065.jpg",
-  "basic/lc-p2-s04/page-066.jpg"
- ]
+  "practiceId": "bas-lc-p2-s04",
+  "title": "Part II · Section 04",
+  "subtitle": "Short answer",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p2-s04",
+  "introEn": "Listen to each question and choose the best response (Short answer).",
+  "timerMinutes": 12,
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "leaving"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "leaving"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "leaving"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "three"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q4",
+      "label": "1"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "think"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q5",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "thank"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q6",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "this"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q7",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "that"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q8",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #6: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "mother"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q9",
+      "label": "6"
+    },
+    {
+      "id": "q10",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "coming",
+        "D": "leaving",
+        "E": "start"
+      },
+      "prompt": "Warm-Up 1-(a): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "coming",
+        "D": "leaving",
+        "E": "start"
+      },
+      "prompt": "Warm-Up 1-(b): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "coming",
+        "D": "leaving",
+        "E": "start"
+      },
+      "prompt": "Warm-Up 1-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "1-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "coming",
+        "D": "leaving",
+        "E": "start"
+      },
+      "prompt": "Warm-Up 1-(d): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q14",
+      "label": "1-(e)",
+      "type": "choice",
+      "choices": {
+        "A": "birthday",
+        "B": "close",
+        "C": "coming",
+        "D": "leaving",
+        "E": "start"
+      },
+      "prompt": "Warm-Up 1-(e): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q15",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Anytime.",
+        "B": "At 5 p.m.",
+        "C": "At 8:00 in the morning.",
+        "D": "December 15th.",
+        "E": "Early next week."
+      },
+      "prompt": "Warm-Up 2-(a): Choose what you hear.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q16",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Anytime.",
+        "B": "At 5 p.m.",
+        "C": "At 8:00 in the morning.",
+        "D": "December 15th.",
+        "E": "Early next week."
+      },
+      "prompt": "Warm-Up 2-(b): Choose what you hear.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q17",
+      "label": "2-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "Anytime.",
+        "B": "At 5 p.m.",
+        "C": "At 8:00 in the morning.",
+        "D": "December 15th.",
+        "E": "Early next week."
+      },
+      "prompt": "Warm-Up 2-(c): Choose what you hear.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q18",
+      "label": "2-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "Anytime.",
+        "B": "At 5 p.m.",
+        "C": "At 8:00 in the morning.",
+        "D": "December 15th.",
+        "E": "Early next week."
+      },
+      "prompt": "Warm-Up 2-(d): Choose what you hear.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q19",
+      "label": "2-(e)",
+      "type": "choice",
+      "choices": {
+        "A": "Anytime.",
+        "B": "At 5 p.m.",
+        "C": "At 8:00 in the morning.",
+        "D": "December 15th.",
+        "E": "Early next week."
+      },
+      "prompt": "Warm-Up 2-(e): Choose what you hear.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q20",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-1): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q21",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q22",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "id": "q23",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
+      },
+      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-1) blank 1: type the words you hear.",
+      "accept": [
+        "When"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q24",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-1) blank 2: type the words you hear.",
+      "accept": [
+        "June 16th"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q25",
+      "label": "6"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-2) blank 1: type the words you hear.",
+      "accept": [
+        "When"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q26",
+      "label": "7"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-2) blank 2: type the words you hear.",
+      "accept": [
+        "Today"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q27",
+      "label": "8"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-3) blank 1: type the words you hear.",
+      "accept": [
+        "When does"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q28",
+      "label": "9"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-3) blank 2: type the words you hear.",
+      "accept": [
+        "6 p.m."
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q29",
+      "label": "10"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-4) blank 1: type the words you hear.",
+      "accept": [
+        "When do you"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q30",
+      "label": "11"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2-4) blank 2: type the words you hear.",
+      "accept": [
+        "About"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice",
+      "id": "q31",
+      "label": "12"
+    },
+    {
+      "id": "q32",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "It is Jane's birthday party.",
+        "B": "At 7 p.m.",
+        "C": "At her house."
+      },
+      "prompt": "When do you need to go to the party?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q33",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Next Wednesday.",
+        "B": "Last week.",
+        "C": "This homework is hard."
+      },
+      "prompt": "When is the homework due?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q34",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Early next month.",
+        "B": "Last week.",
+        "C": "I am planning to go to Canada."
+      },
+      "prompt": "When do you plan to move to Canada?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Check-Up"
+    },
+    {
+      "id": "q35",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Before three o'clock.",
+        "B": "Please call me at home.",
+        "C": "No, not really."
+      },
+      "prompt": "When do you need to call John?",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q36",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "I'll leave right after school gets out.",
+        "B": "No, not usually.",
+        "C": "About seven fifteen."
+      },
+      "prompt": "When do you usually leave for school?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q37",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Thank you.",
+        "B": "In late August.",
+        "C": "I'll be fifteen."
+      },
+      "prompt": "When's your birthday?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q38",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "So do I.",
+        "B": "On my desk.",
+        "C": "At noon."
+      },
+      "prompt": "When do you need to leave?",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q39",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "No, it's open.",
+        "B": "Every day at five o'clock.",
+        "C": "It takes about 15 minutes."
+      },
+      "prompt": "When does the store close?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q40",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I have already seen it.",
+        "B": "In 30 minutes I think.",
+        "C": "It lasts for about two hours."
+      },
+      "prompt": "When does the show start?",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

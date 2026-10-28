@@ -1,277 +1,269 @@
 {
- "practiceId": "adv-rc-p4-s06",
- "title": "Part IV · Section 06",
- "subtitle": "Senses",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "delicious",
-    "B": "happen",
-    "C": "observe",
-    "D": "slippery"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "delicious",
-    "B": "happen",
-    "C": "observe",
-    "D": "slippery"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "delicious",
-    "B": "happen",
-    "C": "observe",
-    "D": "slippery"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "delicious",
-    "B": "happen",
-    "C": "observe",
-    "D": "slippery"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s06/page-054.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s06/page-055.jpg",
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "perfume"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "beer"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "sight"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): correct or complete it (see the book page).",
-   "accept": [
-    "touch - rock",
-    "touch, rock",
-    "touch rock",
-    "touch / rock"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "taste chocolate"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "smell"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "feel perfume excited"
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "It smells bad."
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "It feels cold."
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(e): type the answer (see the book page).",
-   "accept": [
-    "It looks dirty."
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "It tastes bitter."
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "It sounds noisy."
-   ],
-   "photo": "advanced/rc-p4-s06/page-055.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "notice",
-    "B": "happen",
-    "C": "sleep",
-    "D": "walk"
-   },
-   "prompt": "I was very busy at that time so I could not _______ anything different.",
-   "accept": "A"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "witness",
-    "B": "feel",
-    "C": "tickle",
-    "D": "tap"
-   },
-   "prompt": "Did you _______ the car accident on the main street last night?",
-   "accept": "A"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "green",
-    "B": "easy",
-    "C": "basic",
-    "D": "delicious"
-   },
-   "prompt": "I thought it was _______ but it tasted bitter.",
-   "accept": "D"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "clap",
-    "B": "crack",
-    "C": "rattle",
-    "D": "perfume"
-   },
-   "prompt": "Is it okay if I put on _______ when having an interview?",
-   "accept": "D"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s06/page-054.jpg",
-  "advanced/rc-p4-s06/page-055.jpg",
-  "advanced/rc-p4-s06/page-056.jpg",
-  "advanced/rc-p4-s06/page-057.jpg",
-  "advanced/rc-p4-s06/page-058.jpg"
- ]
+  "practiceId": "adv-rc-p4-s06",
+  "title": "Part IV · Section 06",
+  "subtitle": "Senses",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "delicious",
+        "B": "happen",
+        "C": "observe",
+        "D": "slippery"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "delicious",
+        "B": "happen",
+        "C": "observe",
+        "D": "slippery"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "delicious",
+        "B": "happen",
+        "C": "observe",
+        "D": "slippery"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "delicious",
+        "B": "happen",
+        "C": "observe",
+        "D": "slippery"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "perfume"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "beer"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "sight"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it.",
+      "accept": [
+        "touch - rock",
+        "touch, rock",
+        "touch rock",
+        "touch / rock"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "taste chocolate"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "smell"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "feel perfume excited"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "It smells bad."
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "It feels cold."
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "accept": [
+        "It looks dirty."
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "It tastes bitter."
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q16",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "accept": [
+        "It sounds noisy."
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q17",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "notice",
+        "B": "happen",
+        "C": "sleep",
+        "D": "walk"
+      },
+      "prompt": "I was very busy at that time so I could not _______ anything different.",
+      "accept": "A"
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "witness",
+        "B": "feel",
+        "C": "tickle",
+        "D": "tap"
+      },
+      "prompt": "Did you _______ the car accident on the main street last night?",
+      "accept": "A"
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "green",
+        "B": "easy",
+        "C": "basic",
+        "D": "delicious"
+      },
+      "prompt": "I thought it was _______ but it tasted bitter.",
+      "accept": "D"
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "clap",
+        "B": "crack",
+        "C": "rattle",
+        "D": "perfume"
+      },
+      "prompt": "Is it okay if I put on _______ when having an interview?",
+      "accept": "D"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

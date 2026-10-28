@@ -1,152 +1,152 @@
 {
- "practiceId": "int-rc-at-q11-20",
- "title": "RC Actual Test · Questions 11–20",
- "subtitle": "10 questions (book Q61–70)",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "true",
-    "B": "clean",
-    "C": "dirty",
-    "D": "polite"
-   },
-   "prompt": "Floors must be kept _______ of trash.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "good",
-    "B": "left",
-    "C": "clear",
-    "D": "sure"
-   },
-   "prompt": "When opening the lid, make _______ the red dot is on top.",
-   "accept": "D",
-   "part": "IV"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "neat",
-    "B": "neatly",
-    "C": "neatness",
-    "D": "neats"
-   },
-   "prompt": "Portfolios must be _______ bound and organized.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "far",
-    "B": "old",
-    "C": "deep",
-    "D": "round"
-   },
-   "prompt": "The cave is nearly 1,250 meters _______.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "tall",
-    "B": "taller",
-    "C": "tallest",
-    "D": "tallness"
-   },
-   "prompt": "Even though she's two years old, Sarah is definitely _______ than her three-year-old sister.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "A",
-    "B": "An",
-    "C": "Some",
-    "D": "Only"
-   },
-   "prompt": "_______ plate slipped out of her hand and broke on the floor.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "steps",
-    "B": "a ladder",
-    "C": "an elevator",
-    "D": "stairs"
-   },
-   "prompt": "The worker used _______ to paint the ceiling of the living room.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "extreme",
-    "B": "extremely",
-    "C": "extremity",
-    "D": "extremeness"
-   },
-   "prompt": "Before going to the dentist's office, Terry's tooth had been _______ sore for two days.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "cautiously",
-    "B": "carefully",
-    "C": "easily",
-    "D": "calmly"
-   },
-   "prompt": "Although he thought it would be difficult, Harry _______ passed the geography exam.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "Luck",
-    "B": "Lucky",
-    "C": "Luckiness",
-    "D": "Luckily"
-   },
-   "prompt": "_______,the cleaning lady found my watch on the dresser in the hotel room.",
-   "accept": "D",
-   "part": "IV"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "int-rc-at-q11-20",
+  "title": "RC Actual Test · Questions 11–20",
+  "subtitle": "10 questions (book Q61–70)",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "true",
+        "B": "clean",
+        "C": "dirty",
+        "D": "polite"
+      },
+      "prompt": "Floors must be kept _______ of trash.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "good",
+        "B": "left",
+        "C": "clear",
+        "D": "sure"
+      },
+      "prompt": "When opening the lid, make _______ the red dot is on top.",
+      "accept": "D",
+      "part": "IV"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "neat",
+        "B": "neatly",
+        "C": "neatness",
+        "D": "neats"
+      },
+      "prompt": "Portfolios must be _______ bound and organized.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "far",
+        "B": "old",
+        "C": "deep",
+        "D": "round"
+      },
+      "prompt": "The cave is nearly 1,250 meters _______.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest",
+        "D": "tallness"
+      },
+      "prompt": "Even though she's two years old, Sarah is definitely _______ than her three-year-old sister.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A",
+        "B": "An",
+        "C": "Some",
+        "D": "Only"
+      },
+      "prompt": "_______ plate slipped out of her hand and broke on the floor.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "steps",
+        "B": "a ladder",
+        "C": "an elevator",
+        "D": "stairs"
+      },
+      "prompt": "The worker used _______ to paint the ceiling of the living room.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "extreme",
+        "B": "extremely",
+        "C": "extremity",
+        "D": "extremeness"
+      },
+      "prompt": "Before going to the dentist's office, Terry's tooth had been _______ sore for two days.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "cautiously",
+        "B": "carefully",
+        "C": "easily",
+        "D": "calmly"
+      },
+      "prompt": "Although he thought it would be difficult, Harry _______ passed the geography exam.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Luck",
+        "B": "Lucky",
+        "C": "Luckiness",
+        "D": "Luckily"
+      },
+      "prompt": "_______,the cleaning lady found my watch on the dresser in the hotel room.",
+      "accept": "D",
+      "part": "IV"
+    }
+  ],
+  "contentVersion": "v2-2026-10-28"
 }

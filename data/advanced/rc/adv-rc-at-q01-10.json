@@ -1,152 +1,152 @@
 {
- "practiceId": "adv-rc-at-q01-10",
- "title": "RC Actual Test · Questions 01–10",
- "subtitle": "10 questions (book Q51–60)",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "kept",
-    "B": "built",
-    "C": "opened",
-    "D": "listened"
-   },
-   "prompt": "Canada's first drive-in theater _______ in 1946.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "so",
-    "B": "also",
-    "C": "once",
-    "D": "still"
-   },
-   "prompt": "The Workbook features self-study practices _______ students can work independently.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "neither",
-    "B": "as well",
-    "C": "either",
-    "D": "both"
-   },
-   "prompt": "The super glue is sold in _______ bottles and tubes.",
-   "accept": "D",
-   "part": "IV"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "save",
-    "B": "to save",
-    "C": "saved",
-    "D": "saving"
-   },
-   "prompt": "The firemen had to break down the door _______ the frightened kitten.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "at",
-    "B": "on",
-    "C": "to",
-    "D": "in"
-   },
-   "prompt": "All travelers are reminded that the boat will leave _______ 7 p.m. on Monday night.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "make",
-    "B": "making",
-    "C": "to make",
-    "D": "made"
-   },
-   "prompt": "Snow covered the roads, _______ it impossible to drive.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "since",
-    "B": "for",
-    "C": "after",
-    "D": "and"
-   },
-   "prompt": "John's grades have improved _______ he began working with a tutor.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "To",
-    "B": "Of",
-    "C": "At",
-    "D": "For"
-   },
-   "prompt": "_______ this assignment, you will need a pencil, a ruler, scissors, and some glue.",
-   "accept": "D",
-   "part": "IV"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "closing",
-    "B": "to close",
-    "C": "is closed",
-    "D": "closed"
-   },
-   "prompt": "The rear entrance _______ for repairs.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "off",
-    "B": "over",
-    "C": "down",
-    "D": "around"
-   },
-   "prompt": "Please remain in your seats until the captain has turned _______ the seatbelt sign.",
-   "accept": "A",
-   "part": "IV"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "adv-rc-at-q01-10",
+  "title": "RC Actual Test · Questions 01–10",
+  "subtitle": "10 questions (book Q51–60)",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "kept",
+        "B": "built",
+        "C": "opened",
+        "D": "listened"
+      },
+      "prompt": "Canada's first drive-in theater _______ in 1946.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "so",
+        "B": "also",
+        "C": "once",
+        "D": "still"
+      },
+      "prompt": "The Workbook features self-study practices _______ students can work independently.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "neither",
+        "B": "as well",
+        "C": "either",
+        "D": "both"
+      },
+      "prompt": "The super glue is sold in _______ bottles and tubes.",
+      "accept": "D",
+      "part": "IV"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "save",
+        "B": "to save",
+        "C": "saved",
+        "D": "saving"
+      },
+      "prompt": "The firemen had to break down the door _______ the frightened kitten.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "at",
+        "B": "on",
+        "C": "to",
+        "D": "in"
+      },
+      "prompt": "All travelers are reminded that the boat will leave _______ 7 p.m. on Monday night.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made"
+      },
+      "prompt": "Snow covered the roads, _______ it impossible to drive.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "since",
+        "B": "for",
+        "C": "after",
+        "D": "and"
+      },
+      "prompt": "John's grades have improved _______ he began working with a tutor.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "To",
+        "B": "Of",
+        "C": "At",
+        "D": "For"
+      },
+      "prompt": "_______ this assignment, you will need a pencil, a ruler, scissors, and some glue.",
+      "accept": "D",
+      "part": "IV"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "closing",
+        "B": "to close",
+        "C": "is closed",
+        "D": "closed"
+      },
+      "prompt": "The rear entrance _______ for repairs.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "off",
+        "B": "over",
+        "C": "down",
+        "D": "around"
+      },
+      "prompt": "Please remain in your seats until the captain has turned _______ the seatbelt sign.",
+      "accept": "A",
+      "part": "IV"
+    }
+  ],
+  "contentVersion": "v2-2026-10-28"
 }

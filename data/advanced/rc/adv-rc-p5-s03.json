@@ -9,144 +9,144 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "amount",
     "B": "situation",
     "C": "violence"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "amount",
     "B": "situation",
     "C": "violence"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "amount",
     "B": "situation",
     "C": "violence"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "(c)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "a loaf of bread"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q4",
-   "label": "4"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "be prepared for A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "relate to A"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "in the solar system"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "more and more"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "become concerned about"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "keep A awake"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "on average"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q11",
-   "label": "11"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 9-: type the answer (see the book page).",
+   "prompt": "Warm-Up 9-: type the answer.",
    "accept": [
     "be made of"
    ],
-   "photo": "advanced/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q12",
-   "label": "12"
+   "label": "9",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -156,10 +156,9 @@
     "B": "It contains a lot of fat."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q13",
-   "label": "13"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -169,10 +168,9 @@
     "B": "It keeps people awake."
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q14",
-   "label": "14"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -182,10 +180,9 @@
     "B": "Advanced Algebra"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q15",
-   "label": "15"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -195,14 +192,13 @@
     "B": "It requires students to use a computer."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q16",
-   "label": "16"
+   "label": "2"
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "Its air contains oxygen.",
@@ -213,14 +209,11 @@
    "prompt": "Which of the following facts about Ganymede is NOT mentioned?",
    "accept": "A",
    "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
-   "passageHead": "Questions 1-2 refer to the following article.",
-   "passagePage": 96,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.jpg"
+   "passageHead": "Questions 1-2 refer to the following article."
   },
   {
    "id": "q18",
-   "label": "18",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "It may once have had life.",
@@ -231,14 +224,11 @@
    "prompt": "What do scientists believe may be true about Ganymede?",
    "accept": "A",
    "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
-   "passageHead": "Questions 1-2 refer to the following article.",
-   "passagePage": 96,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-096.jpg"
+   "passageHead": "Questions 1-2 refer to the following article."
   },
   {
    "id": "q19",
-   "label": "19",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "To let children watch more television",
@@ -249,14 +239,11 @@
    "prompt": "What are experts warning parents to do?",
    "accept": "C",
    "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
-   "passageHead": "Questions 3-4 refer to the following article.",
-   "passagePage": 97,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.jpg"
+   "passageHead": "Questions 3-4 refer to the following article."
   },
   {
    "id": "q20",
-   "label": "20",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "Educational programs",
@@ -267,17 +254,8 @@
    "prompt": "What type of programs are experts most concerned about?",
    "accept": "B",
    "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
-   "passageHead": "Questions 3-4 refer to the following article.",
-   "passagePage": 97,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-097.jpg"
+   "passageHead": "Questions 3-4 refer to the following article."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p5-s03/page-092.jpg",
-  "advanced/rc-p5-s03/page-093.jpg",
-  "advanced/rc-p5-s03/page-094.jpg",
-  "advanced/rc-p5-s03/page-095.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

@@ -1,262 +1,255 @@
 {
- "practiceId": "adv-rc-p4-s07",
- "title": "Part IV · Section 07",
- "subtitle": "Body & feelings",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "cough",
-    "B": "hiccup",
-    "C": "mourn",
-    "D": "swallow"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s07/page-061.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "cough",
-    "B": "hiccup",
-    "C": "mourn",
-    "D": "swallow"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s07/page-061.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "cough",
-    "B": "hiccup",
-    "C": "mourn",
-    "D": "swallow"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s07/page-061.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "cough",
-    "B": "hiccup",
-    "C": "mourn",
-    "D": "swallow"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s07/page-061.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s07/page-061.jpg",
-   "photo": "advanced/rc-p4-s07/page-061.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "thigh"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "lung"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "disappoint"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "head mouth, hair"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "hand thumb, palm"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "leg toe, knee"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "organs liver, heart"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "breathe"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "digest"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "yawn"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "burped"
-   ],
-   "photo": "advanced/rc-p4-s07/page-064.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "eyes",
-    "B": "ears",
-    "C": "tongue",
-    "D": "hip"
-   },
-   "prompt": "Animals also use their _______ when they taste something.",
-   "accept": "C"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "cough",
-    "B": "digest",
-    "C": "sigh",
-    "D": "breathe"
-   },
-   "prompt": "If you can't _______ well, you will have a stomach ache.",
-   "accept": "B"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "knee",
-    "B": "chest",
-    "C": "waist",
-    "D": "forehead"
-   },
-   "prompt": "The doctor felt my _______ to see if I had fever.",
-   "accept": "D"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "gloomy",
-    "B": "delightful",
-    "C": "fearful",
-    "D": "delicious"
-   },
-   "prompt": "When you feel _______ and sorrowful, it's good to talk with your friends.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s07/page-061.jpg",
-  "advanced/rc-p4-s07/page-062.jpg",
-  "advanced/rc-p4-s07/page-063.jpg",
-  "advanced/rc-p4-s07/page-064.jpg"
- ]
+  "practiceId": "adv-rc-p4-s07",
+  "title": "Part IV · Section 07",
+  "subtitle": "Body & feelings",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "cough",
+        "B": "hiccup",
+        "C": "mourn",
+        "D": "swallow"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "cough",
+        "B": "hiccup",
+        "C": "mourn",
+        "D": "swallow"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "cough",
+        "B": "hiccup",
+        "C": "mourn",
+        "D": "swallow"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "cough",
+        "B": "hiccup",
+        "C": "mourn",
+        "D": "swallow"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "thigh"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "lung"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "disappoint"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "accept": [
+        "head mouth, hair"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "hand thumb, palm"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "leg toe, knee"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "organs liver, heart"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "breathe"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "digest"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "yawn"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "accept": [
+        "burped"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q16",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q17",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "eyes",
+        "B": "ears",
+        "C": "tongue",
+        "D": "hip"
+      },
+      "prompt": "Animals also use their _______ when they taste something.",
+      "accept": "C"
+    },
+    {
+      "id": "q18",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "cough",
+        "B": "digest",
+        "C": "sigh",
+        "D": "breathe"
+      },
+      "prompt": "If you can't _______ well, you will have a stomach ache.",
+      "accept": "B"
+    },
+    {
+      "id": "q19",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "knee",
+        "B": "chest",
+        "C": "waist",
+        "D": "forehead"
+      },
+      "prompt": "The doctor felt my _______ to see if I had fever.",
+      "accept": "D"
+    },
+    {
+      "id": "q20",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "gloomy",
+        "B": "delightful",
+        "C": "fearful",
+        "D": "delicious"
+      },
+      "prompt": "When you feel _______ and sorrowful, it's good to talk with your friends.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

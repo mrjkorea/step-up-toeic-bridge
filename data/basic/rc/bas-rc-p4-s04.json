@@ -1,475 +1,463 @@
 {
- "practiceId": "bas-rc-p4-s04",
- "title": "Part IV · Section 04",
- "subtitle": "Verbs",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "B",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "A",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "D",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "F",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 3-(a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "C",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 3-(b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "bought",
-    "B": "enjoy",
-    "C": "glad",
-    "D": "hospital",
-    "E": "sad",
-    "F": "volleyball"
-   },
-   "accept": "E",
-   "photo": "basic/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
-   "accept": [
-    "are"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "was"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
-   "accept": [
-    "were"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "studied"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
-   "accept": [
-    "enjoyed"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
-   "accept": [
-    "hoped"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
-   "accept": [
-    "is"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
-   "accept": [
-    "going"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
-   "accept": [
-    "were"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
-   "accept": [
-    "don't"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
-   "accept": [
-    "doesn't"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
-   "accept": [
-    "didn't"
-   ],
-   "photo": "basic/rc-p4-s04/page-037.jpg",
-   "section": "Warm-Up",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): Jane buys shoes. Change it to the past tense.",
-   "accept": [
-    "Jane bought shoes."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): Jane buys shoes. Change it to the present progressive.",
-   "accept": [
-    "Jane is buying shoes."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): Jane buys shoes. Change it to the present negative.",
-   "accept": [
-    "Jane does not buy shoes."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Grammar Practice 3-trans: Translate (a)-(c) into Korean in your notebook (see the book page). Not scored.",
-   "pageImage": "basic/rc-p4-s04/page-040.jpg",
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): correct the wrong word (see the book page).",
-   "accept": [
-    "quit"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): correct the wrong word (see the book page).",
-   "accept": [
-    "washes"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "He is writing a letter."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "She is watching TV."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "He kicks the ball."
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "sleep"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "was"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "taught"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): type the answer (see the book page).",
-   "accept": [
-    "comed- came"
-   ],
-   "photo": "basic/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "are",
-    "B": "was",
-    "C": "is",
-    "D": "were"
-   },
-   "prompt": "Bob and Cathy _______ late for school yesterday.",
-   "accept": "D"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "is",
-    "B": "isn't",
-    "C": "are",
-    "D": "wasn't"
-   },
-   "prompt": "It _______ that hot last night.",
-   "accept": "D"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "mix",
-    "B": "mixes",
-    "C": "mixs",
-    "D": "mixies"
-   },
-   "prompt": "Sally _______ beans and corns together.",
-   "accept": "B"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "cry",
-    "B": "cried",
-    "C": "crying",
-    "D": "cries"
-   },
-   "prompt": "She _______ all night because her father became sick.",
-   "accept": "B"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "drink",
-    "B": "drinking",
-    "C": "is drink",
-    "D": "is drinking"
-   },
-   "prompt": "She _______ a glass of grape juice now.",
-   "accept": "D"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "write",
-    "B": "writing",
-    "C": "is writing",
-    "D": "written"
-   },
-   "prompt": "Mr. Hong _______ an e-mail to one of his friends.",
-   "accept": "C"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/rc-p4-s04/page-036.jpg",
-  "basic/rc-p4-s04/page-037.jpg",
-  "basic/rc-p4-s04/page-038.jpg",
-  "basic/rc-p4-s04/page-039.jpg",
-  "basic/rc-p4-s04/page-040.jpg",
-  "basic/rc-p4-s04/page-041.jpg"
- ]
+  "practiceId": "bas-rc-p4-s04",
+  "title": "Part IV · Section 04",
+  "subtitle": "Verbs",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "F",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 3-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q5",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 3-(b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bought",
+        "B": "enjoy",
+        "C": "glad",
+        "D": "hospital",
+        "E": "sad",
+        "F": "volleyball"
+      },
+      "accept": "E",
+      "section": "Words and Idioms Check-Up",
+      "id": "q6",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): type the answer.",
+      "accept": [
+        "are"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "was"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(c): type the answer.",
+      "accept": [
+        "were"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "studied"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): type the answer.",
+      "accept": [
+        "enjoyed"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): type the answer.",
+      "accept": [
+        "hoped"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): type the answer.",
+      "accept": [
+        "is"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): type the answer.",
+      "accept": [
+        "going"
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): type the answer.",
+      "accept": [
+        "were"
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(a): type the answer.",
+      "accept": [
+        "don't"
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(b): type the answer.",
+      "accept": [
+        "doesn't"
+      ],
+      "section": "Warm-Up",
+      "id": "q17",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(c): type the answer.",
+      "accept": [
+        "didn't"
+      ],
+      "section": "Warm-Up",
+      "id": "q18",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): Jane buys shoes. Change it to the past tense.",
+      "accept": [
+        "Jane bought shoes."
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "3-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): Jane buys shoes. Change it to the present progressive.",
+      "accept": [
+        "Jane is buying shoes."
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "3-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): Jane buys shoes. Change it to the present negative.",
+      "accept": [
+        "Jane does not buy shoes."
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "3-(c)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Grammar Practice 3-trans: Translate (a)-(c) into Korean in your notebook. Not scored.",
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "4",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(a): correct the wrong word.",
+      "accept": [
+        "quit"
+      ],
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): correct the wrong word.",
+      "accept": [
+        "washes"
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "accept": [
+        "He is writing a letter."
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): type the answer.",
+      "accept": [
+        "She is watching TV."
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): type the answer.",
+      "accept": [
+        "He kicks the ball."
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "accept": [
+        "sleep"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "accept": [
+        "was"
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "accept": [
+        "taught"
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): type the answer.",
+      "accept": [
+        "comed- came"
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q32",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "are",
+        "B": "was",
+        "C": "is",
+        "D": "were"
+      },
+      "prompt": "Bob and Cathy _______ late for school yesterday.",
+      "accept": "D"
+    },
+    {
+      "id": "q33",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "is",
+        "B": "isn't",
+        "C": "are",
+        "D": "wasn't"
+      },
+      "prompt": "It _______ that hot last night.",
+      "accept": "D"
+    },
+    {
+      "id": "q34",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "mix",
+        "B": "mixes",
+        "C": "mixs",
+        "D": "mixies"
+      },
+      "prompt": "Sally _______ beans and corns together.",
+      "accept": "B"
+    },
+    {
+      "id": "q35",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "cry",
+        "B": "cried",
+        "C": "crying",
+        "D": "cries"
+      },
+      "prompt": "She _______ all night because her father became sick.",
+      "accept": "B"
+    },
+    {
+      "id": "q36",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "drink",
+        "B": "drinking",
+        "C": "is drink",
+        "D": "is drinking"
+      },
+      "prompt": "She _______ a glass of grape juice now.",
+      "accept": "D"
+    },
+    {
+      "id": "q37",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "write",
+        "B": "writing",
+        "C": "is writing",
+        "D": "written"
+      },
+      "prompt": "Mr. Hong _______ an e-mail to one of his friends.",
+      "accept": "C"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

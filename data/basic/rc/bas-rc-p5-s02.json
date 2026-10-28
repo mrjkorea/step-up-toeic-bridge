@@ -9,7 +9,7 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "are interested in",
     "B": "Chefs",
@@ -17,14 +17,14 @@
     "D": "seafood"
    },
    "accept": "D",
-   "photo": "basic/rc-p5-s02/page-086.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "1-(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "are interested in",
     "B": "Chefs",
@@ -32,14 +32,14 @@
     "D": "seafood"
    },
    "accept": "B",
-   "photo": "basic/rc-p5-s02/page-086.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "1-(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "are interested in",
     "B": "Chefs",
@@ -47,14 +47,14 @@
     "D": "seafood"
    },
    "accept": "A",
-   "photo": "basic/rc-p5-s02/page-086.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "2-(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "are interested in",
     "B": "Chefs",
@@ -62,98 +62,98 @@
     "D": "seafood"
    },
    "accept": "C",
-   "photo": "basic/rc-p5-s02/page-086.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
-   "label": "4"
+   "label": "2-(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "Special dishes"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "Garage sale"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "Wanted"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "On sale"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "From Monday to Wednesday"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "If interested"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "Until midnight"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q11",
-   "label": "11"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "We are moving"
    ],
-   "photo": "basic/rc-p5-s02/page-087.jpg",
    "section": "Warm-Up",
    "id": "q12",
-   "label": "12"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -163,10 +163,9 @@
     "B": "To find a chef"
    },
    "accept": "B",
-   "passageImage": "basic/rc-p5-s02/page-088.jpg",
    "section": "Reading Practice 1",
    "id": "q13",
-   "label": "13"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -176,10 +175,9 @@
     "B": "The person who can work only weekends"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s02/page-088.jpg",
    "section": "Reading Practice 1",
    "id": "q14",
-   "label": "14"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -189,10 +187,9 @@
     "B": "In a coffee shop"
    },
    "accept": "A",
-   "passageImage": "basic/rc-p5-s02/page-089.jpg",
    "section": "Reading Practice 2",
    "id": "q15",
-   "label": "15"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -202,14 +199,13 @@
     "B": "In the evening for the weekend"
    },
    "accept": "B",
-   "passageImage": "basic/rc-p5-s02/page-089.jpg",
    "section": "Reading Practice 2",
    "id": "q16",
-   "label": "16"
+   "label": "2"
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "Seafood",
@@ -220,14 +216,11 @@
    "prompt": "What is being advertised?",
    "accept": "B",
    "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
-   "passageHead": "Questions 1-2 refer to the following advertisement.",
-   "passagePage": 90,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-090.jpg"
+   "passageHead": "Questions 1-2 refer to the following advertisement."
   },
   {
    "id": "q18",
-   "label": "18",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "In a house",
@@ -238,14 +231,11 @@
    "prompt": "Where can you see this advertisement?",
    "accept": "B",
    "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
-   "passageHead": "Questions 1-2 refer to the following advertisement.",
-   "passagePage": 90,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-090.jpg"
+   "passageHead": "Questions 1-2 refer to the following advertisement."
   },
   {
    "id": "q19",
-   "label": "19",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "To invite to a party",
@@ -256,14 +246,11 @@
    "prompt": "What is this advertisement for?",
    "accept": "B",
    "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
-   "passageHead": "Questions 3-4 refer to the following advertisement.",
-   "passagePage": 91,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-091.jpg"
+   "passageHead": "Questions 3-4 refer to the following advertisement."
   },
   {
    "id": "q20",
-   "label": "20",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "3 p.m",
@@ -274,17 +261,8 @@
    "prompt": "When does the sale start for the weekend?",
    "accept": "A",
    "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
-   "passageHead": "Questions 3-4 refer to the following advertisement.",
-   "passagePage": 91,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "basic/rc-pages/page-091.jpg"
+   "passageHead": "Questions 3-4 refer to the following advertisement."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/rc-p5-s02/page-086.jpg",
-  "basic/rc-p5-s02/page-087.jpg",
-  "basic/rc-p5-s02/page-088.jpg",
-  "basic/rc-p5-s02/page-089.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

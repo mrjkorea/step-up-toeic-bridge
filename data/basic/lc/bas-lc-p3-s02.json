@@ -1,452 +1,433 @@
 {
- "practiceId": "bas-lc-p3-s02",
- "title": "Part III · Section 02",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s02",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "want to"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "like to"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "wait to"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "closed to"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "help me"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #6: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "next to"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-097.jpg",
-   "section": "Pronunciation",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "A computer",
-    "B": "A teacher",
-    "C": "going bike riding",
-    "D": "Their food"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "A computer",
-    "B": "A teacher",
-    "C": "going bike riding",
-    "D": "Their food"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "A computer",
-    "B": "A teacher",
-    "C": "going bike riding",
-    "D": "Their food"
-   },
-   "prompt": "Warm-Up 1-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "A computer",
-    "B": "A teacher",
-    "C": "going bike riding",
-    "D": "Their food"
-   },
-   "prompt": "Warm-Up 1-(d): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "Chinese food",
-    "B": "place",
-    "C": "time"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "Chinese food",
-    "B": "place",
-    "C": "time"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "Chinese food",
-    "B": "place",
-    "C": "time"
-   },
-   "prompt": "Warm-Up 2-(c): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "season"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-099.jpg",
-   "section": "Listening Practice 1",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "swimming"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-099.jpg",
-   "section": "Listening Practice 1",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "party"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-100.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "clean"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-100.jpg",
-   "section": "Listening Practice 2",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "Checking computer",
-    "B": "Clean the house",
-    "C": "favorite season",
-    "D": "Going swimming",
-    "E": "Planning a party",
-    "F": "Studying together"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "mid-term"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-101.jpg",
-   "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "computer"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s02/page-101.jpg",
-   "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "Closing the door",
-    "B": "Using baking soda",
-    "C": "Throwing out some items",
-    "D": "Building an extra closet"
-   },
-   "prompt": "What does the man suggest?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "Being a teacher",
-    "B": "Doing their class activities",
-    "C": "Doing their homework",
-    "D": "Preparing to take their mid-term exams"
-   },
-   "prompt": "What are they talking about?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Going home early",
-    "B": "Rescheduling a meeting",
-    "C": "Checking a meeting agenda",
-    "D": "Meeting the woman on Friday"
-   },
-   "prompt": "What is the man talking about?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "Which DVD to watch",
-    "B": "Their favorite actors",
-    "C": "A picture in a magazine",
-    "D": "What to give a friend for her birthday"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "Playing a video game",
-    "B": "Having dinner at the man's house",
-    "C": "Coming to the man's birthday party",
-    "D": "Meeting the man's brother and sister"
-   },
-   "prompt": "What are the speakers talking about?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "Going to the post office",
-    "B": "Writing down the man's address",
-    "C": "Writing a letter to her sister",
-    "D": "Telling the man's sister that she received a letter"
-   },
-   "prompt": "What is the woman talking about?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p3-s02/page-097.jpg",
-  "basic/lc-p3-s02/page-098.jpg",
-  "basic/lc-p3-s02/page-099.jpg",
-  "basic/lc-p3-s02/page-100.jpg",
-  "basic/lc-p3-s02/page-101.jpg"
- ]
+  "practiceId": "bas-lc-p3-s02",
+  "title": "Part III · Section 02",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s02",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "want to"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q1",
+      "label": "1"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "like to"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q2",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "wait to"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q3",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "closed to"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q4",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "help me"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q5",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #6: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "next to"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q6",
+      "label": "6"
+    },
+    {
+      "id": "q7",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A computer",
+        "B": "A teacher",
+        "C": "going bike riding",
+        "D": "Their food"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A computer",
+        "B": "A teacher",
+        "C": "going bike riding",
+        "D": "Their food"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "1-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "A computer",
+        "B": "A teacher",
+        "C": "going bike riding",
+        "D": "Their food"
+      },
+      "prompt": "Warm-Up 1-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "1-(d)",
+      "type": "choice",
+      "choices": {
+        "A": "A computer",
+        "B": "A teacher",
+        "C": "going bike riding",
+        "D": "Their food"
+      },
+      "prompt": "Warm-Up 1-(d): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Chinese food",
+        "B": "place",
+        "C": "time"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Chinese food",
+        "B": "place",
+        "C": "time"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "2-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "Chinese food",
+        "B": "place",
+        "C": "time"
+      },
+      "prompt": "Warm-Up 2-(c): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q14",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q15",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "season"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q16",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "swimming"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q17",
+      "label": "4"
+    },
+    {
+      "id": "q18",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q19",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "party"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "clean"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q21",
+      "label": "4"
+    },
+    {
+      "id": "q22",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q23",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Checking computer",
+        "B": "Clean the house",
+        "C": "favorite season",
+        "D": "Going swimming",
+        "E": "Planning a party",
+        "F": "Studying together"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "mid-term"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q24",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "computer"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q25",
+      "label": "4"
+    },
+    {
+      "id": "q26",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Closing the door",
+        "B": "Using baking soda",
+        "C": "Throwing out some items",
+        "D": "Building an extra closet"
+      },
+      "prompt": "What does the man suggest?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q27",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Being a teacher",
+        "B": "Doing their class activities",
+        "C": "Doing their homework",
+        "D": "Preparing to take their mid-term exams"
+      },
+      "prompt": "What are they talking about?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Going home early",
+        "B": "Rescheduling a meeting",
+        "C": "Checking a meeting agenda",
+        "D": "Meeting the woman on Friday"
+      },
+      "prompt": "What is the man talking about?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Which DVD to watch",
+        "B": "Their favorite actors",
+        "C": "A picture in a magazine",
+        "D": "What to give a friend for her birthday"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Playing a video game",
+        "B": "Having dinner at the man's house",
+        "C": "Coming to the man's birthday party",
+        "D": "Meeting the man's brother and sister"
+      },
+      "prompt": "What are the speakers talking about?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q31",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Going to the post office",
+        "B": "Writing down the man's address",
+        "C": "Writing a letter to her sister",
+        "D": "Telling the man's sister that she received a letter"
+      },
+      "prompt": "What is the woman talking about?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

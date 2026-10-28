@@ -1,472 +1,441 @@
 {
- "practiceId": "adv-rc-p4-s05",
- "title": "Part IV · Section 05",
- "subtitle": "Prepositions",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fill out",
-    "B": "keep an eye on",
-    "C": "take pictures",
-    "D": "think about"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s05/page-046.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fill out",
-    "B": "keep an eye on",
-    "C": "take pictures",
-    "D": "think about"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s05/page-046.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fill out",
-    "B": "keep an eye on",
-    "C": "take pictures",
-    "D": "think about"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s05/page-046.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fill out",
-    "B": "keep an eye on",
-    "C": "take pictures",
-    "D": "think about"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s05/page-046.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1: Choose the correct sentence.",
-   "choices": {
-    "A": "They traveled 1,300 kilometers on bike.",
-    "B": "We will be home in Friday morning.",
-    "C": "She was disappointed with her exam results.",
-    "D": "The letter was full with mistakes."
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): Correct the wrong word: They traveled 1,300 kilometers on bike.",
-   "accept": [
-    "by"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): Correct the wrong word: We will be home in Friday morning.",
-   "accept": [
-    "on"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): Correct the wrong word: The letter was full with mistakes.",
-   "accept": [
-    "of"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): He has lived ____ the city ____ ten years.",
-   "accept": [
-    "in / for",
-    "in for",
-    "in, for"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): I am going to meet him ____ noon ____ Sunday.",
-   "accept": [
-    "at / on",
-    "at on",
-    "at, on"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): Bob walked ____ an hour.",
-   "accept": [
-    "for"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): I was born ____ (see the book page).",
-   "accept": [
-    "in"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): We will go to Jeju island ____ plane.",
-   "accept": [
-    "by"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): You must come back ____ 4 p.m.",
-   "accept": [
-    "by"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): I had to wait for my teacher ____ three hours.",
-   "accept": [
-    "for"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(d): I bought a toy ____ my son.",
-   "accept": [
-    "for"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): He sat ____ Sally and me.",
-   "accept": [
-    "between"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): He went to school ____ taxi.",
-   "accept": [
-    "by"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): The river runs ____ the bridge.",
-   "accept": [
-    "under"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): We play soccer together ____ Thursdays.",
-   "accept": [
-    "on"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 2: Grammar Practice 2: choose the answer (see the book page).",
-   "choices": {
-    "A": "(a)",
-    "B": "(b)",
-    "C": "(c)",
-    "D": "(d)"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): Grammar Practice 2: type the word for (d) (see the book page).",
-   "accept": [
-    "In"
-   ],
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3-(a): Everyone must come back (by / until) 4 p.m.",
-   "choices": {
-    "A": "by",
-    "B": "until"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3-(b): We will have a vacation (by / until) the end of this month.",
-   "choices": {
-    "A": "by",
-    "B": "until"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3-(c): They work (from / since) 8 a.m. to 6 p.m.",
-   "choices": {
-    "A": "from",
-    "B": "since"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3-(d): They have known each other (from / since) they were children.",
-   "choices": {
-    "A": "from",
-    "B": "since"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(a): I slept (for / from) seven hours.",
-   "choices": {
-    "A": "for",
-    "B": "from"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(b): He helped the poor (with / during) the war.",
-   "choices": {
-    "A": "with",
-    "B": "during"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(c): You should return it (within / before) two hours.",
-   "choices": {
-    "A": "within",
-    "B": "before"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(d): Let's meet (by / after) school.",
-   "choices": {
-    "A": "by",
-    "B": "after"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s05/page-047.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "Because of",
-    "B": "Despite",
-    "C": "In spite of",
-    "D": "Although"
-   },
-   "prompt": "_______ the bad weather, we could not continue the game.",
-   "accept": "A"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "by",
-    "B": "until",
-    "C": "as",
-    "D": "for"
-   },
-   "prompt": "She decided to wait _______ Wednesday before making a decision.",
-   "accept": "B"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "with"
-   },
-   "prompt": "Do you know that English is spoken _______ Canada?",
-   "accept": "A"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "in",
-    "B": "on",
-    "C": "at",
-    "D": "with"
-   },
-   "prompt": "In the picture, my brother is standing with his friends and he is _______ his red shirt.",
-   "accept": "A"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "in",
-    "B": "on",
-    "C": "with",
-    "D": "for"
-   },
-   "prompt": "The new dress which you bought really looks good _______ you.",
-   "accept": "B"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "for",
-    "B": "of",
-    "C": "with",
-    "D": "by"
-   },
-   "prompt": "After staying in the desert for a few weeks, I became tired _______ the same food.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s05/page-046.jpg",
-  "advanced/rc-p4-s05/page-047.jpg",
-  "advanced/rc-p4-s05/page-048.jpg",
-  "advanced/rc-p4-s05/page-049.jpg",
-  "advanced/rc-p4-s05/page-050.jpg",
-  "advanced/rc-p4-s05/page-051.jpg"
- ]
+  "practiceId": "adv-rc-p4-s05",
+  "title": "Part IV · Section 05",
+  "subtitle": "Prepositions",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fill out",
+        "B": "keep an eye on",
+        "C": "take pictures",
+        "D": "think about"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fill out",
+        "B": "keep an eye on",
+        "C": "take pictures",
+        "D": "think about"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fill out",
+        "B": "keep an eye on",
+        "C": "take pictures",
+        "D": "think about"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fill out",
+        "B": "keep an eye on",
+        "C": "take pictures",
+        "D": "think about"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1: Choose the correct sentence.",
+      "choices": {
+        "A": "They traveled 1,300 kilometers on bike.",
+        "B": "We will be home in Friday morning.",
+        "C": "She was disappointed with her exam results.",
+        "D": "The letter was full with mistakes."
+      },
+      "accept": "C",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): Correct the wrong word: They traveled 1,300 kilometers on bike.",
+      "accept": [
+        "by"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "1-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): Correct the wrong word: We will be home in Friday morning.",
+      "accept": [
+        "on"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): Correct the wrong word: The letter was full with mistakes.",
+      "accept": [
+        "of"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "1-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): He has lived ____ the city ____ ten years.",
+      "accept": [
+        "in / for",
+        "in for",
+        "in, for"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "2-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): I am going to meet him ____ noon ____ Sunday.",
+      "accept": [
+        "at / on",
+        "at on",
+        "at, on"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): Bob walked ____ an hour.",
+      "accept": [
+        "for"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): I was born ____.",
+      "accept": [
+        "in"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): We will go to Jeju island ____ plane.",
+      "accept": [
+        "by"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "3-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): You must come back ____ 4 p.m.",
+      "accept": [
+        "by"
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): I had to wait for my teacher ____ three hours.",
+      "accept": [
+        "for"
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "3-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(d): I bought a toy ____ my son.",
+      "accept": [
+        "for"
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "3-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): He sat ____ Sally and me.",
+      "accept": [
+        "between"
+      ],
+      "section": "Grammar Practice",
+      "id": "q17",
+      "label": "1-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): He went to school ____ taxi.",
+      "accept": [
+        "by"
+      ],
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "1-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): The river runs ____ the bridge.",
+      "accept": [
+        "under"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "1-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): We play soccer together ____ Thursdays.",
+      "accept": [
+        "on"
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "1-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 2: Grammar Practice 2: choose the answer.",
+      "choices": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
+      },
+      "accept": "D",
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "5",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): Grammar Practice 2: type the word for (d).",
+      "accept": [
+        "In"
+      ],
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3-(a): Everyone must come back (by / until) 4 p.m.",
+      "choices": {
+        "A": "by",
+        "B": "until"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "3-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3-(b): We will have a vacation (by / until) the end of this month.",
+      "choices": {
+        "A": "by",
+        "B": "until"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "3-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3-(c): They work (from / since) 8 a.m. to 6 p.m.",
+      "choices": {
+        "A": "from",
+        "B": "since"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "3-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3-(d): They have known each other (from / since) they were children.",
+      "choices": {
+        "A": "from",
+        "B": "since"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "3-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(a): I slept (for / from) seven hours.",
+      "choices": {
+        "A": "for",
+        "B": "from"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "4-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(b): He helped the poor (with / during) the war.",
+      "choices": {
+        "A": "with",
+        "B": "during"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "4-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(c): You should return it (within / before) two hours.",
+      "choices": {
+        "A": "within",
+        "B": "before"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "4-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(d): Let's meet (by / after) school.",
+      "choices": {
+        "A": "by",
+        "B": "after"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "4-(d)"
+    },
+    {
+      "id": "q31",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Because of",
+        "B": "Despite",
+        "C": "In spite of",
+        "D": "Although"
+      },
+      "prompt": "_______ the bad weather, we could not continue the game.",
+      "accept": "A"
+    },
+    {
+      "id": "q32",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "by",
+        "B": "until",
+        "C": "as",
+        "D": "for"
+      },
+      "prompt": "She decided to wait _______ Wednesday before making a decision.",
+      "accept": "B"
+    },
+    {
+      "id": "q33",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "with"
+      },
+      "prompt": "Do you know that English is spoken _______ Canada?",
+      "accept": "A"
+    },
+    {
+      "id": "q34",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "with"
+      },
+      "prompt": "In the picture, my brother is standing with his friends and he is _______ his red shirt.",
+      "accept": "A"
+    },
+    {
+      "id": "q35",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "in",
+        "B": "on",
+        "C": "with",
+        "D": "for"
+      },
+      "prompt": "The new dress which you bought really looks good _______ you.",
+      "accept": "B"
+    },
+    {
+      "id": "q36",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "by"
+      },
+      "prompt": "After staying in the desert for a few weeks, I became tired _______ the same food.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

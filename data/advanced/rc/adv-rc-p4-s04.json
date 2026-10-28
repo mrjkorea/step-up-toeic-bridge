@@ -1,522 +1,488 @@
 {
- "practiceId": "adv-rc-p4-s04",
- "title": "Part IV · Section 04",
- "subtitle": "Conjunctions",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fail to",
-    "B": "have an appointment",
-    "C": "pass the exam",
-    "D": "take an umbrella"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fail to",
-    "B": "have an appointment",
-    "C": "pass the exam",
-    "D": "take an umbrella"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fail to",
-    "B": "have an appointment",
-    "C": "pass the exam",
-    "D": "take an umbrella"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "fail to",
-    "B": "have an appointment",
-    "C": "pass the exam",
-    "D": "take an umbrella"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s04/page-036.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(a): They are not only cheap but also useful. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(b): Get up now or you will miss the train. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(c): Many people insist that he be a spy from another country. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up 4-(d): Neither my father nor my uncle knows the secret. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s04/page-039.jpg",
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
-   "accept": [
-    "and"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "or"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
-   "accept": [
-    "and"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
-   "accept": [
-    "and"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "and but"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): type the answer (see the book page).",
-   "accept": [
-    "and"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): type the answer (see the book page).",
-   "accept": [
-    "or"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): type the answer (see the book page).",
-   "accept": [
-    "that"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(d): type the answer (see the book page).",
-   "accept": [
-    "but"
-   ],
-   "photo": "advanced/rc-p4-s04/page-039.jpg",
-   "section": "Warm-Up",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): Catch me ____ you can!",
-   "accept": [
-    "if"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): I must be going now ____ it is getting darker.",
-   "accept": [
-    "because"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): I wonder ____ you are for it or against it.",
-   "accept": [
-    "if"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): ____ young, he is respected by many people.",
-   "accept": [
-    "Although"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): He can't come into the toy house ____ he is too tall.",
-   "accept": [
-    "since"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): I have been learning English ____ we moved to Seoul.",
-   "accept": [
-    "since"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(c): Poor ____ he is, he is generous.",
-   "accept": [
-    "as"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): ____ I look back on, he is a man of great help.",
-   "accept": [
-    "as"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): This is the day ____ we make a contract.",
-   "accept": [
-    "when"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): This is the hall ____ the concert will be on.",
-   "accept": [
-    "where"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): She bites her finger nails ____ she becomes nervous.",
-   "accept": [
-    "when"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(d): This is the toy ____ my father gave me on my birthday.",
-   "accept": [
-    "which",
-    "that"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): Fill in the blank (see the book page).",
-   "accept": [
-    "In case of"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): Fill in the blank.",
-   "accept": [
-    "If"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): Fill in the blank.",
-   "accept": [
-    "While"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q32",
-   "label": "32"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(d): Fill in the blank.",
-   "accept": [
-    "If"
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q33",
-   "label": "33"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(a): Rewrite the sentence (see the book page).",
-   "accept": [
-    "Because of the heavy snow, we had to stay at home."
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q34",
-   "label": "34"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(b): Rewrite the sentence.",
-   "accept": [
-    "After you finish your homework, you may get out."
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q35",
-   "label": "35"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(c): Rewrite the sentence.",
-   "accept": [
-    "When she was 18, she moved to Seoul."
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q36",
-   "label": "36"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): Rewrite the sentence.",
-   "accept": [
-    "If you find the person, please call me."
-   ],
-   "photo": "advanced/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q37",
-   "label": "37"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "that",
-    "B": "whether",
-    "C": "who",
-    "D": "what"
-   },
-   "prompt": "We believe _______ you can do a better job next time.",
-   "accept": "A"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "and",
-    "B": "for",
-    "C": "but",
-    "D": "that"
-   },
-   "prompt": "My father always told me to become a doctor, _______ I didn't like it.",
-   "accept": "C"
-  },
-  {
-   "id": "q40",
-   "label": "40",
-   "type": "choice",
-   "choices": {
-    "A": "and",
-    "B": "nor",
-    "C": "or",
-    "D": "but"
-   },
-   "prompt": "Work hard, _______ you will regret someday near future.",
-   "accept": "C"
-  },
-  {
-   "id": "q41",
-   "label": "41",
-   "type": "choice",
-   "choices": {
-    "A": "When",
-    "B": "If",
-    "C": "Whether",
-    "D": "Why"
-   },
-   "prompt": "_______ there was a beeper, many people had at least one.",
-   "accept": "A"
-  },
-  {
-   "id": "q42",
-   "label": "42",
-   "type": "choice",
-   "choices": {
-    "A": "If",
-    "B": "Unless",
-    "C": "For",
-    "D": "Since"
-   },
-   "prompt": "_______ he finished his degree, he has taught English at university.",
-   "accept": "D"
-  },
-  {
-   "id": "q43",
-   "label": "43",
-   "type": "choice",
-   "choices": {
-    "A": "but",
-    "B": "so",
-    "C": "where",
-    "D": "that"
-   },
-   "prompt": "How did the people know _______ the earth goes round the sun?",
-   "accept": "D"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s04/page-036.jpg",
-  "advanced/rc-p4-s04/page-037.jpg",
-  "advanced/rc-p4-s04/page-038.jpg",
-  "advanced/rc-p4-s04/page-039.jpg",
-  "advanced/rc-p4-s04/page-040.jpg",
-  "advanced/rc-p4-s04/page-041.jpg"
- ]
+  "practiceId": "adv-rc-p4-s04",
+  "title": "Part IV · Section 04",
+  "subtitle": "Conjunctions",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fail to",
+        "B": "have an appointment",
+        "C": "pass the exam",
+        "D": "take an umbrella"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fail to",
+        "B": "have an appointment",
+        "C": "pass the exam",
+        "D": "take an umbrella"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fail to",
+        "B": "have an appointment",
+        "C": "pass the exam",
+        "D": "take an umbrella"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "fail to",
+        "B": "have an appointment",
+        "C": "pass the exam",
+        "D": "take an umbrella"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(a): They are not only cheap but also useful. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "4-(a)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(b): Get up now or you will miss the train. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "4-(b)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(c): Many people insist that he be a spy from another country. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4-(c)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up 4-(d): Neither my father nor my uncle knows the secret. Translate into Korean. Not scored.",
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): type the answer.",
+      "accept": [
+        "and"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "or"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(c): type the answer.",
+      "accept": [
+        "and"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): type the answer.",
+      "accept": [
+        "and"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "and but"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): type the answer.",
+      "accept": [
+        "and"
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): type the answer.",
+      "accept": [
+        "or"
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): type the answer.",
+      "accept": [
+        "that"
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(d): type the answer.",
+      "accept": [
+        "but"
+      ],
+      "section": "Warm-Up",
+      "id": "q17",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): Catch me ____ you can!",
+      "accept": [
+        "if"
+      ],
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "1-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): I must be going now ____ it is getting darker.",
+      "accept": [
+        "because"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "1-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): I wonder ____ you are for it or against it.",
+      "accept": [
+        "if"
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "1-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): ____ young, he is respected by many people.",
+      "accept": [
+        "Although"
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "1-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): He can't come into the toy house ____ he is too tall.",
+      "accept": [
+        "since"
+      ],
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "2-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): I have been learning English ____ we moved to Seoul.",
+      "accept": [
+        "since"
+      ],
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "2-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(c): Poor ____ he is, he is generous.",
+      "accept": [
+        "as"
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "2-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): ____ I look back on, he is a man of great help.",
+      "accept": [
+        "as"
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "2-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): This is the day ____ we make a contract.",
+      "accept": [
+        "when"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "3-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): This is the hall ____ the concert will be on.",
+      "accept": [
+        "where"
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "3-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): She bites her finger nails ____ she becomes nervous.",
+      "accept": [
+        "when"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "3-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(d): This is the toy ____ my father gave me on my birthday.",
+      "accept": [
+        "which",
+        "that"
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "3-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(a): Fill in the blank.",
+      "accept": [
+        "In case of"
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank.",
+      "accept": [
+        "If"
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "4-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank.",
+      "accept": [
+        "While"
+      ],
+      "section": "Grammar Practice",
+      "id": "q32",
+      "label": "4-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(d): Fill in the blank.",
+      "accept": [
+        "If"
+      ],
+      "section": "Grammar Practice",
+      "id": "q33",
+      "label": "4-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(a): Rewrite the sentence.",
+      "accept": [
+        "Because of the heavy snow, we had to stay at home."
+      ],
+      "section": "Grammar Practice",
+      "id": "q34",
+      "label": "5-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(b): Rewrite the sentence.",
+      "accept": [
+        "After you finish your homework, you may get out."
+      ],
+      "section": "Grammar Practice",
+      "id": "q35",
+      "label": "5-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(c): Rewrite the sentence.",
+      "accept": [
+        "When she was 18, she moved to Seoul."
+      ],
+      "section": "Grammar Practice",
+      "id": "q36",
+      "label": "5-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(d): Rewrite the sentence.",
+      "accept": [
+        "If you find the person, please call me."
+      ],
+      "section": "Grammar Practice",
+      "id": "q37",
+      "label": "5-(d)"
+    },
+    {
+      "id": "q38",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "that",
+        "B": "whether",
+        "C": "who",
+        "D": "what"
+      },
+      "prompt": "We believe _______ you can do a better job next time.",
+      "accept": "A"
+    },
+    {
+      "id": "q39",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "and",
+        "B": "for",
+        "C": "but",
+        "D": "that"
+      },
+      "prompt": "My father always told me to become a doctor, _______ I didn't like it.",
+      "accept": "C"
+    },
+    {
+      "id": "q40",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "and",
+        "B": "nor",
+        "C": "or",
+        "D": "but"
+      },
+      "prompt": "Work hard, _______ you will regret someday near future.",
+      "accept": "C"
+    },
+    {
+      "id": "q41",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "When",
+        "B": "If",
+        "C": "Whether",
+        "D": "Why"
+      },
+      "prompt": "_______ there was a beeper, many people had at least one.",
+      "accept": "A"
+    },
+    {
+      "id": "q42",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "If",
+        "B": "Unless",
+        "C": "For",
+        "D": "Since"
+      },
+      "prompt": "_______ he finished his degree, he has taught English at university.",
+      "accept": "D"
+    },
+    {
+      "id": "q43",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "but",
+        "B": "so",
+        "C": "where",
+        "D": "that"
+      },
+      "prompt": "How did the people know _______ the earth goes round the sun?",
+      "accept": "D"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

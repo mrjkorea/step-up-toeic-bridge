@@ -1,432 +1,414 @@
 {
- "practiceId": "bas-lc-p3-s04",
- "title": "Part III · Section 04",
- "subtitle": "Conversations & talks",
- "level": "basic",
- "skill": "lc",
- "stub": false,
- "audioRef": "bas-lc-p3-s04",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "dock"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-113.jpg",
-   "section": "Pronunciation",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "can't"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-113.jpg",
-   "section": "Pronunciation",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "director"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-113.jpg",
-   "section": "Pronunciation",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "box"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-113.jpg",
-   "section": "Pronunciation",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
-   "accept": [
-    "car"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-113.jpg",
-   "section": "Pronunciation",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "computer shop",
-    "B": "toy store"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "computer shop",
-    "B": "toy store"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "$19",
-    "B": "$200"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "$19",
-    "B": "$200"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "collecting coins",
-    "B": "playing baseball",
-    "C": "swimming"
-   },
-   "prompt": "Warm-Up 3-(a): Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "collecting coins",
-    "B": "playing baseball",
-    "C": "swimming"
-   },
-   "prompt": "Warm-Up 3-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "collecting coins",
-    "B": "playing baseball",
-    "C": "swimming"
-   },
-   "prompt": "Warm-Up 3-(c): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "good price"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-115.jpg",
-   "section": "Listening Practice 1",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "burger"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-115.jpg",
-   "section": "Listening Practice 1",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "steal"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-116.jpg",
-   "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "house"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-116.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "fast-food restaurant",
-    "B": "Fishing",
-    "C": "Free",
-    "D": "piano",
-    "E": "record shop",
-    "F": "Too cheap"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "pianist"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-117.jpg",
-   "section": "Listening Practice 3",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "go fishing"
-   ],
-   "audioOnly": true,
-   "photo": "basic/lc-p3-s04/page-117.jpg",
-   "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "id": "q25",
-   "label": "25",
-   "type": "choice",
-   "choices": {
-    "A": "Asking for help",
-    "B": "Using fewer boxes",
-    "C": "Renting a larger truck",
-    "D": "Putting heavy items in small boxes"
-   },
-   "prompt": "What does the speaker recommend?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "At a school",
-    "B": "At an airport",
-    "C": "At a shopping mall",
-    "D": "At a sporting event"
-   },
-   "prompt": "Where would this announcement probably be heard?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "They are free.",
-    "B": "They cost four dollars.",
-    "C": "They are legally required.",
-    "D": "They must be placed on the animal's collar."
-   },
-   "prompt": "What does the speaker say about pet licenses?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Bus fares will go up.",
-    "B": "A bus will stop in front of the school.",
-    "C": "The number 8 bus will stop running.",
-    "D": "The new bus terminal will be opened."
-   },
-   "prompt": "What is going to happen on June 2?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "Take a test",
-    "B": "Take a tour",
-    "C": "Watch a film",
-    "D": "Attend a lecture"
-   },
-   "prompt": "What does the speaker say they will do after lunch?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "It will have more computers.",
-    "B": "It will be in a new building.",
-    "C": "It will be closed on weekends.",
-    "D": "It will be open during the summer."
-   },
-   "prompt": "What does the speaker say about the new lab?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "basic/lc-p3-s04/page-113.jpg",
-  "basic/lc-p3-s04/page-114.jpg",
-  "basic/lc-p3-s04/page-115.jpg",
-  "basic/lc-p3-s04/page-116.jpg",
-  "basic/lc-p3-s04/page-117.jpg"
- ]
+  "practiceId": "bas-lc-p3-s04",
+  "title": "Part III · Section 04",
+  "subtitle": "Conversations & talks",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-p3-s04",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #1: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "dock"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q1",
+      "label": "1"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #2: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "can't"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q2",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #3: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "director"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q3",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #4: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "box"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q4",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Pronunciation — Listen and Repeat #5: say it aloud, then type the word or phrase you hear.",
+      "accept": [
+        "car"
+      ],
+      "audioOnly": true,
+      "section": "Pronunciation",
+      "id": "q5",
+      "label": "5"
+    },
+    {
+      "id": "q6",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "computer shop",
+        "B": "toy store"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "computer shop",
+        "B": "toy store"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "$19",
+        "B": "$200"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "$19",
+        "B": "$200"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "3-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q11",
+      "label": "3-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q12",
+      "label": "3-(c)",
+      "type": "choice",
+      "choices": {
+        "A": "collecting coins",
+        "B": "playing baseball",
+        "C": "swimming"
+      },
+      "prompt": "Warm-Up 3-(c): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q13",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q14",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "good price"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q15",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "burger"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q16",
+      "label": "4"
+    },
+    {
+      "id": "q17",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q18",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "steal"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q19",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "house"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "4"
+    },
+    {
+      "id": "q21",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q22",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "fast-food restaurant",
+        "B": "Fishing",
+        "C": "Free",
+        "D": "piano",
+        "E": "record shop",
+        "F": "Too cheap"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "pianist"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q23",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "go fishing"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q24",
+      "label": "4"
+    },
+    {
+      "id": "q25",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Asking for help",
+        "B": "Using fewer boxes",
+        "C": "Renting a larger truck",
+        "D": "Putting heavy items in small boxes"
+      },
+      "prompt": "What does the speaker recommend?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "At a school",
+        "B": "At an airport",
+        "C": "At a shopping mall",
+        "D": "At a sporting event"
+      },
+      "prompt": "Where would this announcement probably be heard?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q27",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "They are free.",
+        "B": "They cost four dollars.",
+        "C": "They are legally required.",
+        "D": "They must be placed on the animal's collar."
+      },
+      "prompt": "What does the speaker say about pet licenses?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Bus fares will go up.",
+        "B": "A bus will stop in front of the school.",
+        "C": "The number 8 bus will stop running.",
+        "D": "The new bus terminal will be opened."
+      },
+      "prompt": "What is going to happen on June 2?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Take a test",
+        "B": "Take a tour",
+        "C": "Watch a film",
+        "D": "Attend a lecture"
+      },
+      "prompt": "What does the speaker say they will do after lunch?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "It will have more computers.",
+        "B": "It will be in a new building.",
+        "C": "It will be closed on weekends.",
+        "D": "It will be open during the summer."
+      },
+      "prompt": "What does the speaker say about the new lab?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }
