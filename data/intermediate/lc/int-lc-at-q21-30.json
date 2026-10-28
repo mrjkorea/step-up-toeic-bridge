@@ -1,0 +1,153 @@
+{
+  "practiceId": "int-lc-at-q21-30",
+  "title": "LC Actual Test · Questions 21–30",
+  "subtitle": "10 questions (book Q21–30)",
+  "level": "intermediate",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "int-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "By this afternoon.",
+        "B": "It was really interesting.",
+        "C": "No, it is not."
+      },
+      "prompt": "When will you have the report finished?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, we had a great time.",
+        "B": "It depends if I have enough money.",
+        "C": "No, we went there two years ago."
+      },
+      "prompt": "You are going on a vacation this year, aren't you?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "It will be ready today.",
+        "B": "I need to look at them.",
+        "C": "Next to the bookstore."
+      },
+      "prompt": "Where are the files kept?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "I missed the train.",
+        "B": "I caught a taxi.",
+        "C": "The traffic was terrible."
+      },
+      "prompt": "How did you get there so fast?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "You are welcome.",
+        "B": "I would really like that.",
+        "C": "No thanks. I am not hungry."
+      },
+      "prompt": "Let's go for a drink sometime.",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I didn't like it.",
+        "B": "No, I have not seen them.",
+        "C": "When would you like to go?"
+      },
+      "prompt": "The movie was scary, wasn't it?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q27",
+      "label": "27",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, the pictures are great.",
+        "B": "It was too expensive.",
+        "C": "My daughter bought it for me."
+      },
+      "prompt": "Who did you get the camera from?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q28",
+      "label": "28",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it was very tiring.",
+        "B": "No, I got my father to do it.",
+        "C": "Of course, what time?"
+      },
+      "prompt": "Would you help me decorate my house tonight?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q29",
+      "label": "29",
+      "type": "choice",
+      "choices": {
+        "A": "So how did you get to work?",
+        "B": "Why are?you late?",
+        "C": "It opens at 6 a.m."
+      },
+      "prompt": "The subway was closed this morning.",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q30",
+      "label": "30",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it was quite it.",
+        "B": "No, I had to cancel",
+        "C": "Yes, I was really surprised."
+      },
+      "prompt": "You won the main prize in the quiz, didn't you? successful.",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}

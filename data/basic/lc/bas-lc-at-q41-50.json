@@ -1,0 +1,153 @@
+{
+  "practiceId": "bas-lc-at-q41-50",
+  "title": "LC Actual Test · Questions 41–50",
+  "subtitle": "10 questions (book Q41–50)",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q41",
+      "label": "41",
+      "type": "choice",
+      "choices": {
+        "A": "They have to be rewound.",
+        "B": "They have a special red label.",
+        "C": "They will be fined if they don't",
+        "D": "They will be given money."
+      },
+      "prompt": "Why should people take tapes back to the store on time?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q42",
+      "label": "42",
+      "type": "choice",
+      "choices": {
+        "A": "A book that the man is reading",
+        "B": "A book the woman borrowed from the man",
+        "C": "An interesting and funny book the man has just bought",
+        "D": "What books the woman likes to read"
+      },
+      "prompt": "What are the people talking about?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q43",
+      "label": "43",
+      "type": "choice",
+      "choices": {
+        "A": "Making dinner arrangements",
+        "B": "Canceling dinner with the woman",
+        "C": "Speaking with his boss",
+        "D": "Asking the woman to go for dinner"
+      },
+      "prompt": "What is the man doing?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q44",
+      "label": "44",
+      "type": "choice",
+      "choices": {
+        "A": "This week",
+        "B": "Next week",
+        "C": "Thursday",
+        "D": "Thursday and Friday"
+      },
+      "prompt": "When is rain forecast?",
+      "accept": "A",
+      "part": "III"
+    },
+    {
+      "id": "q45",
+      "label": "45",
+      "type": "choice",
+      "choices": {
+        "A": "In a taxi",
+        "B": "In a bus",
+        "C": "In an airplane",
+        "D": "In a boat"
+      },
+      "prompt": "Where would you most likely hear this announcement?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q46",
+      "label": "46",
+      "type": "choice",
+      "choices": {
+        "A": "To have a conversation",
+        "B": "To ask her the time",
+        "C": "For help in making a phone call",
+        "D": "To book an overseas holiday"
+      },
+      "prompt": "Why is the man calling the operator?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q47",
+      "label": "47",
+      "type": "choice",
+      "choices": {
+        "A": "The man is wearing a new suit for work.",
+        "B": "The man is already at work.",
+        "C": "The shops are always very busy.",
+        "D": "Many shops are having sales."
+      },
+      "prompt": "Why does the woman want to go shopping?",
+      "accept": "D",
+      "part": "III"
+    },
+    {
+      "id": "q48",
+      "label": "48",
+      "type": "choice",
+      "choices": {
+        "A": "In a restaurant",
+        "B": "In a library",
+        "C": "In a supermarket",
+        "D": "In a department store"
+      },
+      "prompt": "Where would you most likely see this?",
+      "accept": "A",
+      "part": "III"
+    },
+    {
+      "id": "q49",
+      "label": "49",
+      "type": "choice",
+      "choices": {
+        "A": "Press 1",
+        "B": "Press 2",
+        "C": "Press 3",
+        "D": "Press 4"
+      },
+      "prompt": "What should you do if you want to book a flight to America?",
+      "accept": "A",
+      "part": "III"
+    },
+    {
+      "id": "q50",
+      "label": "50",
+      "type": "choice",
+      "choices": {
+        "A": "Going for a coffee after work.",
+        "B": "Going to the gym with the woman.",
+        "C": "Going for a coffee after the woman has been to the gym.",
+        "D": "Going to work with the woman."
+      },
+      "prompt": "What does the man suggest doing?",
+      "accept": "C",
+      "part": "III"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}

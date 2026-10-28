@@ -1,0 +1,153 @@
+{
+  "practiceId": "adv-lc-at-q21-30",
+  "title": "LC Actual Test · Questions 21–30",
+  "subtitle": "10 questions (book Q21–30)",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "I will help you answer it if I can.",
+        "B": "I found the question very difficult.",
+        "C": "Yes, my teacher was very helpful."
+      },
+      "prompt": "Did you find the answer to your question?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "No, but it'll be cold.",
+        "B": "The ski hill is closed.",
+        "C": "Sorry, I can't."
+      },
+      "prompt": "Is it supposed to snow this weekend?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it is.",
+        "B": "A small one, please.",
+        "C": "I don't like it."
+      },
+      "prompt": "Will that be a large or a small coffee?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "It's almost done.",
+        "B": "I won't be there.",
+        "C": "Wood and nails."
+      },
+      "prompt": "How's your new house project coming?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "No, you shouldn't.",
+        "B": "Frank Street.",
+        "C": "It's open."
+      },
+      "prompt": "Which street should I take to get to the museum?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it's hard.",
+        "B": "Yes, she is.",
+        "C": "No, we won't."
+      },
+      "prompt": "Helen is really good at math and French.",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q27",
+      "label": "27",
+      "type": "choice",
+      "choices": {
+        "A": "Next week.",
+        "B": "Good idea.",
+        "C": "In a taxi."
+      },
+      "prompt": "Maybe I should call Susan and ask where she is.",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q28",
+      "label": "28",
+      "type": "choice",
+      "choices": {
+        "A": "No, I don't.",
+        "B": "At the driving school.",
+        "C": "Make a left turn."
+      },
+      "prompt": "You don't know how to drive, do you?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q29",
+      "label": "29",
+      "type": "choice",
+      "choices": {
+        "A": "In front of the shoe store.",
+        "B": "All weekend.",
+        "C": "At 9:45."
+      },
+      "prompt": "Where should we meet on Saturday morning?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q30",
+      "label": "30",
+      "type": "choice",
+      "choices": {
+        "A": "I work with over 20 other people.",
+        "B": "I think my colleagues really liked my advice.",
+        "C": "I just don't think they are experienced enough."
+      },
+      "prompt": "I heard you don't like your new colleagues.",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}

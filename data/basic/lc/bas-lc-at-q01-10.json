@@ -1,0 +1,173 @@
+{
+  "practiceId": "bas-lc-at-q01-10",
+  "title": "LC Actual Test · Questions 01–10",
+  "subtitle": "10 questions (book Q01–10)",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "The television is below the computer.",
+        "B": "The computer is above the stereo.",
+        "C": "The stereo is above the computer.",
+        "D": "The computer is on top of the television."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "basic/at/q01.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "There are many people on the beach.",
+        "B": "There are some boats in the water.",
+        "C": "There are houses on the mountain.",
+        "D": "There are lots of people swimming"
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/at/q02.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "The car is driving down the street.",
+        "B": "The car is parked.",
+        "C": "The car is full of people.",
+        "D": "The car is driving past the house."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/at/q03.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "The man is lifting his friend.",
+        "B": "The men are in a gym.",
+        "C": "The man is sleeping.",
+        "D": "Both men are lying down."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/at/q04.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "The woman is sitting in the garden.",
+        "B": "The woman is riding a motorcycle.",
+        "C": "The woman is pushing a bicycle.",
+        "D": "The trees are in front of the woman."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "basic/at/q05.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "The men are buying guitars.",
+        "B": "The men are selling pictures.",
+        "C": "The men are all wearing hats.",
+        "D": "The men are playing some instruments."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "basic/at/q06.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "They are cooking some food.",
+        "B": "They are having a business meeting.",
+        "C": "They are eating lunch.",
+        "D": "They are washing the dishes."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "basic/at/q07.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "There are many cars on the road.",
+        "B": "There are many people shopping.",
+        "C": "There are lots of horses on the road.",
+        "D": "There are many people walking on the road."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "basic/at/q08.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "The road is busy.",
+        "B": "There are many cars.",
+        "C": "The car is driving along the road.",
+        "D": "The car is getting some gas."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "basic/at/q09.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "The man is using the telephone.",
+        "B": "Someone is working on the computer.",
+        "C": "Nobody is working in the office.",
+        "D": "The woman is sitting in the chair."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "basic/at/q10.png",
+      "audioOnly": true,
+      "part": "I"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}

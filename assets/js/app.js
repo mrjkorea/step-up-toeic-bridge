@@ -6,6 +6,25 @@
   var catalogPromise = null;
   var startedAt = 0;
   var progressUnsub = null;
+  var practiceTimerId = null;
+
+  function clearPracticeTimer() {
+    if (practiceTimerId != null) {
+      clearInterval(practiceTimerId);
+      practiceTimerId = null;
+    }
+  }
+
+  function formatTimer(secs) {
+    var n = Math.max(0, Math.floor(secs));
+    var m = Math.floor(n / 60);
+    var s = n % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (s < 10 ? "0" : "") + s;
+  }
+
+  function secondsPerPlayableItem(skill) {
+    return skill === "lc" ? 60 : 75;
+  }
 
   var TRACK_CARDS = [
     { trackId: "basic-lc", title: "Basic", subtitle: "Listening (LC)", tone: "basic" },
@@ -34,7 +53,7 @@
   function loadCatalog() {
     if (catalog) return Promise.resolve(catalog);
     if (catalogPromise) return catalogPromise;
-    catalogPromise = fetch(root.stepupUrl("data/catalog.json?v=2"), { cache: "no-cache" })
+    catalogPromise = fetch(root.stepupUrl("data/catalog.json?v=3"), { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("catalog");
         return r.json();
@@ -637,11 +656,29 @@
           return r.json();
         })
         .then(function (practice) {
+          clearPracticeTimer();
           startedAt = Date.now();
+          var skill = practice.skill || meta.skill || "rc";
+          var items = (practice.items || []).filter(isPlayableItem);
           app.innerHTML = "";
           var title = practice.title || meta.title;
           var sub = practice.subtitle || meta.subtitle;
           app.appendChild(renderTopbar(title, "#/track/" + trackId));
+
+          var timerBar = null;
+          var timerClock = null;
+          var timerRemaining = 0;
+          if (items.length) {
+            timerRemaining = secondsPerPlayableItem(skill) * items.length;
+            timerBar = el(
+              "div",
+              "practice-timer",
+              'Time left: <span class="practice-timer__clock">' + formatTimer(timerRemaining) + "</span>"
+            );
+            timerClock = timerBar.querySelector(".practice-timer__clock");
+            app.appendChild(timerBar);
+          }
+
           if (sub) app.appendChild(el("p", "practice-subtitle", sub));
           if (practice.introEn) app.appendChild(el("p", "practice-intro", practice.introEn));
 
@@ -659,7 +696,6 @@
           });
 
           var responses = {};
-          var items = (practice.items || []).filter(isPlayableItem);
           var blockedHidden = (practice.items || []).length - items.length;
           if (blockedHidden > 0 && !isContentDebug()) {
             app.appendChild(
@@ -697,7 +733,18 @@
           var checkBtn = el("button", "btn-primary", "Check answers");
           checkBtn.type = "button";
           var resultBox = el("div", "result-box", "");
-          checkBtn.addEventListener("click", function () {
+          var graded = false;
+
+          function lockPracticeForm() {
+            form.querySelectorAll("input, select, textarea, button").forEach(function (node) {
+              node.disabled = true;
+            });
+          }
+
+          function submitAnswers() {
+            if (graded) return;
+            graded = true;
+            clearPracticeTimer();
             var resp = collectResponses(form, practice);
             var result = root.STEPUP_QUIZ.gradePractice(practice, resp);
             var duration = Math.round((Date.now() - startedAt) / 1000);
@@ -717,16 +764,28 @@
             });
             form.querySelectorAll(".q-card").forEach(function (card) {
               var id = card.dataset.itemId;
-              var graded = byId[id];
-              if (!graded) return;
-              card.classList.toggle("q-card--correct", graded.correct);
-              card.classList.toggle("q-card--wrong", !graded.correct);
+              var detail = byId[id];
+              if (!detail) return;
+              card.classList.toggle("q-card--correct", detail.correct);
+              card.classList.toggle("q-card--wrong", !detail.correct);
             });
-          });
+            lockPracticeForm();
+          }
+
+          checkBtn.addEventListener("click", submitAnswers);
           actions.appendChild(checkBtn);
           form.appendChild(actions);
           form.appendChild(resultBox);
           app.appendChild(form);
+
+          if (timerBar && timerClock && timerRemaining > 0) {
+            practiceTimerId = setInterval(function () {
+              timerRemaining -= 1;
+              timerClock.textContent = formatTimer(timerRemaining);
+              if (timerRemaining <= 60) timerBar.classList.add("practice-timer--warn");
+              if (timerRemaining <= 0) submitAnswers();
+            }, 1000);
+          }
         })
         .catch(function () {
           app.innerHTML = "<p>Could not load practice data.</p>";
@@ -735,6 +794,7 @@
   }
 
   function render() {
+    clearPracticeTimer();
     var app = document.getElementById("stepup-app");
     if (!app) return;
     var route = parseRoute();

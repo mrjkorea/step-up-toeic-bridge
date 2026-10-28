@@ -1,0 +1,153 @@
+{
+  "practiceId": "adv-lc-at-q41-50",
+  "title": "LC Actual Test · Questions 41–50",
+  "subtitle": "10 questions (book Q41–50)",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q41",
+      "label": "41",
+      "type": "choice",
+      "choices": {
+        "A": "Kelly",
+        "B": "Bill",
+        "C": "The boss",
+        "D": "The secretary"
+      },
+      "prompt": "Who is the man looking for?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q42",
+      "label": "42",
+      "type": "choice",
+      "choices": {
+        "A": "The mall is opening.",
+        "B": "Stores are closing.",
+        "C": "Lunchbreak has begun.",
+        "D": "Cashiers are going home."
+      },
+      "prompt": "What is happening?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q43",
+      "label": "43",
+      "type": "choice",
+      "choices": {
+        "A": "In a library",
+        "B": "In a restaurant",
+        "C": "In a bookstore",
+        "D": "In an ice cream shop"
+      },
+      "prompt": "Where are the speakers?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q44",
+      "label": "44",
+      "type": "choice",
+      "choices": {
+        "A": "A science museum",
+        "B": "A new house design",
+        "C": "A technology fair",
+        "D": "A computer company"
+      },
+      "prompt": "What is the report about?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q45",
+      "label": "45",
+      "type": "choice",
+      "choices": {
+        "A": "Hot objects",
+        "B": "Soft objects",
+        "C": "Sharp objects",
+        "D": "Safe objects"
+      },
+      "prompt": "What will the people be working with?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q46",
+      "label": "46",
+      "type": "choice",
+      "choices": {
+        "A": "A lawyer",
+        "B": "A nurse",
+        "C": "A doctor",
+        "D": "A dentist"
+      },
+      "prompt": "Who most likely is the man?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q47",
+      "label": "47",
+      "type": "choice",
+      "choices": {
+        "A": "A receipt",
+        "B": "A certificate",
+        "C": "A claim",
+        "D": "A ticket"
+      },
+      "prompt": "What must someone have to win?",
+      "accept": "D",
+      "part": "III"
+    },
+    {
+      "id": "q48",
+      "label": "48",
+      "type": "choice",
+      "choices": {
+        "A": "At 3:00",
+        "B": "At 4:00",
+        "C": "At 5:00",
+        "D": "At 6:00"
+      },
+      "prompt": "When will the man go on the cruise?",
+      "accept": "D",
+      "part": "III"
+    },
+    {
+      "id": "q49",
+      "label": "49",
+      "type": "choice",
+      "choices": {
+        "A": "The car will not start.",
+        "B": "The license plate fell off.",
+        "C": "The car is blocking an exit.",
+        "D": "The car cannot be towed."
+      },
+      "prompt": "What is the problem?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q50",
+      "label": "50",
+      "type": "choice",
+      "choices": {
+        "A": "In a restaurant",
+        "B": "In a bank",
+        "C": "In a hotel",
+        "D": "In a school"
+      },
+      "prompt": "Where are the speakers?",
+      "accept": "C",
+      "part": "III"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}

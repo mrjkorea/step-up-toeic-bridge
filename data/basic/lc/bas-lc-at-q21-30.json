@@ -1,0 +1,153 @@
+{
+  "practiceId": "bas-lc-at-q21-30",
+  "title": "LC Actual Test · Questions 21–30",
+  "subtitle": "10 questions (book Q21–30)",
+  "level": "basic",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "bas-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "No, it's open.",
+        "B": "Every day at five o'clock.",
+        "C": "It takes about 15 minutes."
+      },
+      "prompt": "When does the store close?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, he got one yesterday.",
+        "B": "No, she doesn't.",
+        "C": "No, she has two."
+      },
+      "prompt": "Your mother doesn't like dogs, does she?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "I don't know yet.",
+        "B": "The island was beautiful.",
+        "C": "Yes, if I have enough money."
+      },
+      "prompt": "Where are you going on holiday?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "Thanks, they are my favorite.",
+        "B": "I think they were 50 dollars.",
+        "C": "Yes, they are running shoes."
+      },
+      "prompt": "How much were your shoes?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "No, I really like the summer.",
+        "B": "Yes, I will have to wear more clothes.",
+        "C": "No thanks I am not hungry."
+      },
+      "prompt": "The weather is getting colder, isn't it?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, I really liked the movie.",
+        "B": "No, don't have any money.",
+        "C": "Yes, I really liked it."
+      },
+      "prompt": "The new shop is great, isn't it?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q27",
+      "label": "27",
+      "type": "choice",
+      "choices": {
+        "A": "I think all of us will.",
+        "B": "I think it serves mostly meat.",
+        "C": "Yes, it was quite expensive."
+      },
+      "prompt": "Who is going to pay for the meal?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q28",
+      "label": "28",
+      "type": "choice",
+      "choices": {
+        "A": "Sometime next week.",
+        "B": "Yes, he did.",
+        "C": "Earlier today."
+      },
+      "prompt": "When did Mr. Jenkins call for me?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q29",
+      "label": "29",
+      "type": "choice",
+      "choices": {
+        "A": "Thank you very much.",
+        "B": "Sure, it's over there.",
+        "C": "I really liked it too."
+      },
+      "prompt": "May I borrow your book?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q30",
+      "label": "30",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, we had a great time.",
+        "B": "It depends if I have enough money.",
+        "C": "No, we went there two years ago."
+      },
+      "prompt": "You are going on vacation this year, aren't you?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}
