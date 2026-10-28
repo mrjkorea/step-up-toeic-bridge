@@ -55,24 +55,110 @@
     return String(row.item_id || row.itemId || row.item || "").trim();
   }
 
+  function pctFromRecord(rec) {
+    if (root.STEPUP_SCORES && root.STEPUP_SCORES.pctFromRecord) {
+      return root.STEPUP_SCORES.pctFromRecord(rec);
+    }
+    if (!rec) return null;
+    if (rec.scorePct != null && rec.scorePct !== "") return Number(rec.scorePct);
+    if (rec.scoreValue != null && Number(rec.scoreMax) > 0) {
+      return Math.round((Number(rec.scoreValue) / Number(rec.scoreMax)) * 100);
+    }
+    return null;
+  }
+
+  function mergeScoreRecords(prev, attempt) {
+    if (root.STEPUP_SCORES && root.STEPUP_SCORES.mergeScoreRecords) {
+      return root.STEPUP_SCORES.mergeScoreRecords(prev, attempt);
+    }
+    return attempt;
+  }
+
+  function normalizeStored(rec) {
+    if (!rec || rec.scoreMax == null || rec.scoreMax === "") return null;
+    var pct = pctFromRecord(rec);
+    var bestPct =
+      rec.bestScorePct != null && rec.bestScorePct !== ""
+        ? Number(rec.bestScorePct)
+        : pct;
+    return {
+      practiceId: rec.practiceId,
+      scoreValue: rec.scoreValue,
+      scoreMax: Number(rec.scoreMax),
+      scorePct: pct,
+      at: rec.at || "",
+      bestScoreValue:
+        rec.bestScoreValue != null && rec.bestScoreValue !== ""
+          ? rec.bestScoreValue
+          : rec.scoreValue,
+      bestScoreMax:
+        rec.bestScoreMax != null && rec.bestScoreMax !== ""
+          ? Number(rec.bestScoreMax)
+          : Number(rec.scoreMax),
+      bestScorePct: bestPct,
+      bestAt: rec.bestAt || rec.at || "",
+    };
+  }
+
+  function mergeStoredRecords(a, b) {
+    var na = normalizeStored(a);
+    var nb = normalizeStored(b);
+    if (!na) return nb;
+    if (!nb) return na;
+
+    var latest = String(na.at || "") >= String(nb.at || "") ? na : nb;
+    var bestPctA = na.bestScorePct;
+    var bestPctB = nb.bestScorePct;
+    var bestSource = na;
+    if (bestPctB != null && (bestPctA == null || bestPctB > bestPctA)) {
+      bestSource = nb;
+    } else if (
+      bestPctA != null &&
+      bestPctB != null &&
+      bestPctB === bestPctA &&
+      String(nb.bestAt || nb.at || "") < String(na.bestAt || na.at || "")
+    ) {
+      bestSource = nb;
+    }
+
+    return {
+      practiceId: na.practiceId || nb.practiceId,
+      scoreValue: latest.scoreValue,
+      scoreMax: latest.scoreMax,
+      scorePct: latest.scorePct,
+      at: latest.at,
+      bestScoreValue: bestSource.bestScoreValue,
+      bestScoreMax: bestSource.bestScoreMax,
+      bestScorePct: bestSource.bestScorePct,
+      bestAt: bestSource.bestAt,
+    };
+  }
+
+  function rowToAttempt(row, id) {
+    var scoreMax = row.score_max != null ? row.score_max : row.scoreMax;
+    var scoreValue = row.score_value != null ? row.score_value : row.scoreValue;
+    var scorePct = row.score_pct != null ? row.score_pct : row.scorePct;
+    if (scoreMax == null || scoreMax === "") return null;
+    if (scorePct == null && scoreValue != null && Number(scoreMax) > 0) {
+      scorePct = Math.round((Number(scoreValue) / Number(scoreMax)) * 100);
+    }
+    return {
+      practiceId: id,
+      scoreValue: Number(scoreValue),
+      scoreMax: Number(scoreMax),
+      scorePct: scorePct,
+      at: row.updated_at || row.updatedAt || row.local_date || row.localDate || "",
+    };
+  }
+
   function ingestProgressRows(rows) {
     (rows || []).forEach(function (row) {
       var id = rowPracticeId(row);
       if (!id) return;
-      var scoreMax = row.score_max != null ? row.score_max : row.scoreMax;
-      var scoreValue = row.score_value != null ? row.score_value : row.scoreValue;
-      var scorePct = row.score_pct != null ? row.score_pct : row.scorePct;
-      if (scoreMax == null || scoreMax === "") return;
-      if (scorePct == null && scoreValue != null && Number(scoreMax) > 0) {
-        scorePct = Math.round((Number(scoreValue) / Number(scoreMax)) * 100);
-      }
-      cloudScores[id] = {
-        practiceId: id,
-        scoreValue: Number(scoreValue),
-        scoreMax: Number(scoreMax),
-        scorePct: scorePct,
-        at: row.updated_at || row.updatedAt || row.local_date || row.localDate || "",
-      };
+      var attempt = rowToAttempt(row, id);
+      if (!attempt) return;
+      var prev = cloudScores[id];
+      cloudScores[id] = mergeScoreRecords(prev, attempt);
     });
     notifyChange();
   }
@@ -139,35 +225,37 @@
   }
 
   function getScore(practiceId) {
-    if (signedIn() && cloudScores[practiceId]) {
-      return cloudScores[practiceId];
-    }
-    if (root.STEPUP_SCORES && root.STEPUP_SCORES.loadLocal) {
-      return root.STEPUP_SCORES.loadLocal(practiceId);
-    }
+    var local =
+      root.STEPUP_SCORES && root.STEPUP_SCORES.loadLocal
+        ? root.STEPUP_SCORES.loadLocal(practiceId)
+        : null;
+    var cloud = signedIn() ? cloudScores[practiceId] : null;
+    if (local && cloud) return mergeStoredRecords(local, cloud);
+    if (cloud) return normalizeStored(cloud);
+    if (local) return normalizeStored(local);
     return null;
+  }
+
+  function bestScorePctOf(practiceId) {
+    var s = getScore(practiceId);
+    if (!s) return null;
+    if (s.bestScorePct != null && s.bestScorePct !== "") return Number(s.bestScorePct);
+    return pctFromRecord(s);
   }
 
   function scorePctOf(practiceId) {
-    var s = getScore(practiceId);
-    if (!s || s.scoreMax == null || s.scoreMax === "") return null;
-    if (s.scorePct != null && s.scorePct !== "") return Number(s.scorePct);
-    if (s.scoreValue != null && Number(s.scoreMax) > 0) {
-      return Math.round((Number(s.scoreValue) / Number(s.scoreMax)) * 100);
-    }
-    return null;
+    return bestScorePctOf(practiceId);
   }
 
   function isComplete(practiceId) {
-    var pct = scorePctOf(practiceId);
+    var pct = bestScorePctOf(practiceId);
     return pct != null && pct >= RETRY_PCT;
   }
 
   function mustRetry(practiceId) {
     var s = getScore(practiceId);
     if (!s || !s.scoreMax) return false;
-    var pct = scorePctOf(practiceId);
-    return pct != null && pct < RETRY_PCT;
+    return !isComplete(practiceId);
   }
 
   function isUnlocked(practices, practiceId) {
@@ -241,13 +329,10 @@
 
   function onScorePersisted(practiceId, payload) {
     if (!signedIn()) return;
-    cloudScores[practiceId] = {
-      practiceId: practiceId,
-      scoreValue: payload.scoreValue,
-      scoreMax: payload.scoreMax,
-      scorePct: payload.scorePct,
-      at: payload.at || new Date().toISOString(),
-    };
+    var prev = cloudScores[practiceId];
+    cloudScores[practiceId] = prev
+      ? mergeStoredRecords(prev, payload)
+      : normalizeStored(payload);
     notifyChange();
   }
 
@@ -275,6 +360,7 @@
     PASS_PCT: PASS_PCT,
     getScore: getScore,
     scorePctOf: scorePctOf,
+    bestScorePctOf: bestScorePctOf,
     isComplete: isComplete,
     mustRetry: mustRetry,
     isUnlocked: isUnlocked,
