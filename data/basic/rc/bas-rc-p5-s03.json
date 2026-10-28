@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): Help yourself to the",
+      "prompt": "Words and Idioms Check-Up 2-(b): Help yourself to the ______",
       "choices": {
         "A": "dish",
         "B": "recycled",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "stem": "Help yourself to the"
+      "stem": "Help yourself to the ______"
     },
     {
       "type": "text",

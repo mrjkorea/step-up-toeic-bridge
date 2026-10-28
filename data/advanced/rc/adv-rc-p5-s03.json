@@ -73,14 +73,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 다음 번에",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: A에 준비가 되다",
       "accept": [
         "be prepared for A"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "2",
-      "stem": "다음 번에",
+      "stem": "A에 준비가 되다",
       "wordBank": [
         "a loaf of bread",
         "be made of",
@@ -95,14 +95,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 내가 장담하다",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: A와 관련이 있다",
       "accept": [
         "relate to A"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "3",
-      "stem": "내가 장담하다",
+      "stem": "A와 관련이 있다",
       "wordBank": [
         "a loaf of bread",
         "be made of",
@@ -183,14 +183,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 동봉된 이력서",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: A를 깨어 있게 하다",
       "accept": [
         "keep A awake"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "7",
-      "stem": "동봉된 이력서",
+      "stem": "A를 깨어 있게 하다",
       "wordBank": [
         "a loaf of bread",
         "be made of",

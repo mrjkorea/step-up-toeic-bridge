@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): The building is",
+      "prompt": "Words and Idioms Check-Up (a): The building is ______",
       "choices": {
         "A": "crumbs",
         "B": "hovering",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "The building is"
+      "stem": "The building is ______"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): Birds are taking a rest in their",
+      "prompt": "Words and Idioms Check-Up (b): Birds are taking a rest in their ______",
       "choices": {
         "A": "crumbs",
         "B": "hovering",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "Birds are taking a rest in their"
+      "stem": "Birds are taking a rest in their ______"
     },
     {
       "type": "choice",
@@ -59,7 +59,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): All of the cars are parked",
+      "prompt": "Words and Idioms Check-Up (d): All of the cars are parked ______",
       "choices": {
         "A": "crumbs",
         "B": "hovering",
@@ -71,7 +71,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "All of the cars are parked"
+      "stem": "All of the cars are parked ______"
     },
     {
       "type": "choice",

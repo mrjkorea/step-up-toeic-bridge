@@ -51,14 +51,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 만료 일자",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 지원 양식",
       "accept": [
         "application form"
       ],
       "section": "Warm-Up",
       "id": "q4",
       "label": "1",
-      "stem": "만료 일자",
+      "stem": "지원 양식",
       "wordBank": [
         "accounts department",
         "application form",
@@ -72,14 +72,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~ 을 찾다",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 흥미가 있다면",
       "accept": [
         "if interested"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "2",
-      "stem": "~ 을 찾다",
+      "stem": "흥미가 있다면",
       "wordBank": [
         "accounts department",
         "application form",
@@ -93,14 +93,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 도서관 카드",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 요청하다",
       "accept": [
         "ask for"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "3",
-      "stem": "도서관 카드",
+      "stem": "요청하다",
       "wordBank": [
         "accounts department",
         "application form",
@@ -114,14 +114,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 항상",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 확실히 하다",
       "accept": [
         "make sure"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "4",
-      "stem": "항상",
+      "stem": "확실히 하다",
       "wordBank": [
         "accounts department",
         "application form",
@@ -135,14 +135,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 주제",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 더이상 ~아니다",
       "accept": [
         "no longer"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "5",
-      "stem": "주제",
+      "stem": "더이상 ~아니다",
       "wordBank": [
         "accounts department",
         "application form",
@@ -156,14 +156,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 전반적인 평가",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 회사 회식",
       "accept": [
         "company dinner"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "6",
-      "stem": "전반적인 평가",
+      "stem": "회사 회식",
       "wordBank": [
         "accounts department",
         "application form",
@@ -177,14 +177,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 풍부한 지식",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: ~할 것이 기대되다",
       "accept": [
         "be expected to"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "7",
-      "stem": "풍부한 지식",
+      "stem": "~할 것이 기대되다",
       "wordBank": [
         "accounts department",
         "application form",
@@ -281,7 +281,7 @@
       },
       "prompt": "Who wrote this memo?",
       "accept": "D",
-      "passage": "",
+      "passage": "To all Managers, / Hello, everyone. Please remember that we / will be having our monthly company dinner / on Friday, December 21. This month, we'll / be going to the Riviolo Restaurant on 5th / Avenue. Dinner will begin at 7:00 p.m. We / ask you to send confirmation message to / Sarah before the 19th. You may bring one / guest with you. / See you there, / Tim, Director",
       "passageHead": "Questions 1-2 refer to the following memo."
     },
     {
@@ -296,7 +296,7 @@
       },
       "prompt": "How often do they have a company dinner?",
       "accept": "C",
-      "passage": "",
+      "passage": "To all Managers, / Hello, everyone. Please remember that we / will be having our monthly company dinner / on Friday, December 21. This month, we'll / be going to the Riviolo Restaurant on 5th / Avenue. Dinner will begin at 7:00 p.m. We / ask you to send confirmation message to / Sarah before the 19th. You may bring one / guest with you. / See you there, / Tim, Director",
       "passageHead": "Questions 1-2 refer to the following memo."
     },
     {

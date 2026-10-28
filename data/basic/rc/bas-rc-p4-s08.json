@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): Don ’t forget to bring your",
+      "prompt": "Words and Idioms Check-Up 1-(a): Don ’t forget to bring your ______",
       "choices": {
         "A": "cape",
         "B": "sneakers",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "Don ’t forget to bring your"
+      "stem": "Don ’t forget to bring your ______"
     },
     {
       "type": "choice",
