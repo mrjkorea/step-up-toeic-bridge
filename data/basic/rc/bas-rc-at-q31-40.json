@@ -116,7 +116,7 @@
       "prompt": "Why has the school been closed?",
       "accept": "C",
       "part": "V",
-      "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
+      "passage": "SCHOOL CLOSED / Manor Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Manor Park Community / Center. The school will reopen next Monday, May / 10th.",
       "passageHead": "Questions 87-88 refer to the following notice."
     },
     {
@@ -132,7 +132,7 @@
       "prompt": "When will the school reopen?",
       "accept": "D",
       "part": "V",
-      "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
+      "passage": "SCHOOL CLOSED / Manor Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Manor Park Community / Center. The school will reopen next Monday, May / 10th.",
       "passageHead": "Questions 87-88 refer to the following notice."
     },
     {
@@ -148,7 +148,7 @@
       "prompt": "Why did Mrs. Gregory write the letter?",
       "accept": "D",
       "part": "V",
-      "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
+      "passage": "16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
       "passageHead": "Questions 89-90 refer to the following letter."
     },
     {
@@ -164,7 +164,7 @@
       "prompt": "What does she suggest about the cola?",
       "accept": "C",
       "part": "V",
-      "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
+      "passage": "16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
       "passageHead": "Questions 89-90 refer to the following letter."
     }
   ],

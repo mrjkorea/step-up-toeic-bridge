@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): Could you ______ the sentence once more?",
       "choices": {
         "A": "height",
         "B": "repeat",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Could you ______ the sentence once more?"
     },
     {
       "type": "choice",
@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): May I have your ______, please?",
       "choices": {
         "A": "height",
         "B": "repeat",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "May I have your ______, please?"
     },
     {
       "type": "choice",
@@ -93,14 +93,27 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-: type the answer.",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 도서관 카드",
       "accept": [
         "library card"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "도서관 카드",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
     },
     {
       "type": "text",
@@ -176,14 +189,27 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~의 결과로",
       "accept": [
         "as a result of"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~의 결과로",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
     },
     {
       "type": "text",
@@ -283,14 +309,27 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 11-: type the answer.",
+      "prompt": "Warm-Up 11: Write the English expression from the word bank that matches this meaning: 유지 비용",
       "accept": [
         "maintenance cost"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "11",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "유지 비용",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
     },
     {
       "type": "choice",

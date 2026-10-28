@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): If you were in his ______, you would say differently.",
       "choices": {
         "A": "amount",
         "B": "situation",
@@ -19,7 +19,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "If you were in his ______, you would say differently."
     },
     {
       "type": "choice",
@@ -258,7 +258,7 @@
       "section": "Reading Practice 1",
       "id": "q13",
       "label": "1",
-      "blocked": "passage text not found in PDF"
+      "passage": "Chocolate bars have a lot of calories. One small chocolate bar has about the same number of calories as half a loaf of bread. Chocolate bars are a good source of minerals and vitamin B, but chocolate, like coffee, contains caffeine, which can keep you awake when your body needs rest."
     },
     {
       "type": "choice",
@@ -271,7 +271,7 @@
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "2",
-      "blocked": "passage text not found in PDF"
+      "passage": "Chocolate bars have a lot of calories. One small chocolate bar has about the same number of calories as half a loaf of bread. Chocolate bars are a good source of minerals and vitamin B, but chocolate, like coffee, contains caffeine, which can keep you awake when your body needs rest."
     },
     {
       "type": "choice",

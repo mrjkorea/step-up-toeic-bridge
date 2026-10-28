@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): I think it's quite ______ to travel alone in that country.",
       "choices": {
         "A": "dangerous",
         "B": "heavier",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I think it's quite ______ to travel alone in that country."
     },
     {
       "type": "choice",
@@ -114,14 +114,24 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-: type the answer.",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 1년 안에",
       "accept": [
         "in a year"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "4",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "1년 안에",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
     },
     {
       "type": "text",

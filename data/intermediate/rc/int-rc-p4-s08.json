@@ -64,14 +64,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — windsurfing / water-skiing / scuba diving / knitting",
       "accept": [
         "knitting"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "windsurfing / water-skiing / scuba diving / knitting"
     },
     {
       "type": "text",

@@ -223,14 +223,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): Choose the verb from the box — He ______ hungry. (그는 배가 고파 보인다.) [looks / smells / became / gets]",
       "accept": [
         "looks"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He ______ hungry. (그는 배가 고파 보인다.) [looks / smells / became / gets]"
     },
     {
       "type": "text",
@@ -350,36 +350,36 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): Fill in the blank using the Korean — She gave ______ a book. (그녀는 나에게 책 한 권을 주었다.)",
       "accept": [
         "me"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She gave ______ a book. (그녀는 나에게 책 한 권을 주었다.)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Fill in the blank using the Korean — I wrote ______ a letter. (나는 그에게 편지를 썼다.)",
       "accept": [
         "him"
       ],
       "section": "Grammar Practice",
       "id": "q29",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I wrote ______ a letter. (나는 그에게 편지를 썼다.)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): Fill in the blank using the Korean — My father bought me a ______. (아버지께서 내게 시계를 사주셨다.)",
       "accept": [
         "watch"
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My father bought me a ______. (아버지께서 내게 시계를 사주셨다.)"
     },
     {
       "id": "q31",

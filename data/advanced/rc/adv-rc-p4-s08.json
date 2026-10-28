@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): Thankyou for the ______ It will be very helpful tome.",
+      "prompt": "Words and Idioms Check-Up (d): Thank you for the ______ It will be very helpful to me.",
       "choices": {
         "A": "conversation",
         "B": "information",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "Thankyou for the ______ It will be very helpful tome."
+      "stem": "Thank you for the ______ It will be very helpful to me."
     },
     {
       "type": "text",
@@ -146,69 +146,69 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): Change the verb into a noun using -ion, -ing, -ment, or -ance — warn → ______",
       "accept": [
         "warning"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "warn → ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): Change the verb into a noun using -ion, -ing, -ment, or -ance — discuss → ______",
       "accept": [
         "discussion"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "discuss → ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): Change the verb into a noun using -ion, -ing, -ment, or -ance — argue → ______",
       "accept": [
         "argument"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "argue → ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "prompt": "Vocabulary Practice 3-(d): Change the verb into a noun using -ion, -ing, -ment, or -ance — complain → ______",
       "accept": [
         "complaint"
       ],
       "section": "Vocabulary Practice",
       "id": "q16",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "complain → ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "prompt": "Vocabulary Practice 3-(e): Change the verb into a noun using -ion, -ing, -ment, or -ance — agree → ______",
       "accept": [
         "agreement"
       ],
       "section": "Vocabulary Practice",
       "id": "q17",
       "label": "3-(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "agree → ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(f): type the answer.",
+      "prompt": "Vocabulary Practice 3-(f): Change the verb into a noun using -ion, -ing, -ment, or -ance — accept → ______",
       "accept": [
         "acceptance"
       ],
       "section": "Vocabulary Practice",
       "id": "q18",
       "label": "3-(f)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "accept → ______"
     },
     {
       "id": "q19",

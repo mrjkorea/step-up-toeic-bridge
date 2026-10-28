@@ -35,14 +35,24 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: A를 B의 손에 닿지 않게 하다",
       "accept": [
         "keep A out of the reach of B"
       ],
       "section": "Warm-Up",
       "id": "q3",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "A를 B의 손에 닿지 않게 하다",
+      "wordBank": [
+        "at home",
+        "be required to",
+        "go up",
+        "in an institute",
+        "in quarters",
+        "instructions for use",
+        "keep A out of the reach of B",
+        "through computer"
+      ]
     },
     {
       "type": "text",
@@ -130,14 +140,24 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 25센트로",
       "accept": [
         "in quarters"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "25센트로",
+      "wordBank": [
+        "at home",
+        "be required to",
+        "go up",
+        "in an institute",
+        "in quarters",
+        "instructions for use",
+        "keep A out of the reach of B",
+        "through computer"
+      ]
     },
     {
       "type": "text",

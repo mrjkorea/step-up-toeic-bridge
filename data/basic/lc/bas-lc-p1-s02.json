@@ -134,7 +134,8 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s02/wu1.jpg"
     },
     {
       "id": "q12",
@@ -147,11 +148,12 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s02/wu2.jpg"
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 1: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 1: \"They are sitting on a bus.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -163,11 +165,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q13",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s02/lp1.jpg",
+      "stem": "They are sitting on a bus."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 2: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 2: \"They are riding bicycles.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -179,11 +183,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q14",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s02/lp1.jpg",
+      "stem": "They are riding bicycles."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 3: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 3: \"They are sitting in a car.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -195,11 +201,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q15",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s02/lp1.jpg",
+      "stem": "They are sitting in a car."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 4: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 4: \"They are riding a motorcycle.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -211,11 +219,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q16",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s02/lp1.jpg",
+      "stem": "They are riding a motorcycle."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 5: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 5: \"The woman is driving a car.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -227,11 +237,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q17",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s02/lp1.jpg",
+      "stem": "The woman is driving a car."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 1: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 1: \"The woman is buying a ticket.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -250,11 +262,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q18",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The woman is buying a ticket."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 2: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 2: \"They are waiting in line.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -273,11 +287,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q19",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are waiting in line."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 3: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 3: \"The man is fishing.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -296,11 +312,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q20",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The man is fishing."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 4: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 4: \"They are on a boat.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -319,11 +337,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q21",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are on a boat."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 5: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 5: \"The man is looking at the picture.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -342,11 +362,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q22",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The man is looking at the picture."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 6: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 6: \"They are looking at the sculptures.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -365,11 +387,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q23",
-      "label": "6"
+      "label": "6",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are looking at the sculptures."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 7: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 7: \"The boy is sliding.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -388,11 +412,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q24",
-      "label": "7"
+      "label": "7",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The boy is sliding."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 8: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 8: \"They are playing in the playground.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -411,11 +437,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q25",
-      "label": "8"
+      "label": "8",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are playing in the playground."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 9: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 9: \"The woman is eating soup.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -434,11 +462,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q26",
-      "label": "9"
+      "label": "9",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The woman is eating soup."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 10: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 10: \"They are eating in a restaurant.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -457,11 +487,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q27",
-      "label": "10"
+      "label": "10",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are eating in a restaurant."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 11: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 11: \"They are having a picnic in the park.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -480,11 +512,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q28",
-      "label": "11"
+      "label": "11",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "They are having a picnic in the park."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 12: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 12: \"The woman is opening a lunch box.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -503,7 +537,9 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q29",
-      "label": "12"
+      "label": "12",
+      "photo": "basic/p1-s02/lp2.jpg",
+      "stem": "The woman is opening a lunch box."
     },
     {
       "id": "q30",

@@ -101,7 +101,8 @@
       "prompt": "Warm-Up 1: Choose the statement you hear that best matches the picture.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "intermediate/p1-s01/wu1.jpg"
     },
     {
       "id": "q7",
@@ -115,7 +116,8 @@
       "prompt": "Warm-Up 2: Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "intermediate/p1-s01/wu2.jpg"
     },
     {
       "type": "choice",
@@ -136,7 +138,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q8",
-      "label": "1"
+      "label": "1",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -157,7 +160,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q9",
-      "label": "2"
+      "label": "2",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -178,7 +182,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q10",
-      "label": "3"
+      "label": "3",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -199,7 +204,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q11",
-      "label": "4"
+      "label": "4",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -220,7 +226,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q12",
-      "label": "5"
+      "label": "5",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -241,7 +248,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q13",
-      "label": "6"
+      "label": "6",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -262,7 +270,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q14",
-      "label": "7"
+      "label": "7",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -283,7 +292,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q15",
-      "label": "8"
+      "label": "8",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -304,7 +314,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q16",
-      "label": "9"
+      "label": "9",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -325,7 +336,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q17",
-      "label": "10"
+      "label": "10",
+      "photo": "intermediate/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -344,7 +356,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q18",
-      "label": "1"
+      "label": "1",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -363,7 +376,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q19",
-      "label": "2"
+      "label": "2",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -382,7 +396,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q20",
-      "label": "3"
+      "label": "3",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -401,7 +416,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q21",
-      "label": "4"
+      "label": "4",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -420,7 +436,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q22",
-      "label": "5"
+      "label": "5",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -439,7 +456,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q23",
-      "label": "6"
+      "label": "6",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -458,7 +476,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q24",
-      "label": "7"
+      "label": "7",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -477,7 +496,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q25",
-      "label": "8"
+      "label": "8",
+      "photo": "intermediate/p1-s01/lp2.jpg"
     },
     {
       "id": "q26",

@@ -150,7 +150,8 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s03/wu1.jpg"
     },
     {
       "id": "q13",
@@ -163,11 +164,12 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s03/wu2.jpg"
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 1: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 1: \"The birds are flying in the sky.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -181,11 +183,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q14",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The birds are flying in the sky."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 2: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 2: \"The monkeys are climbing on the tree.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -199,11 +203,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q15",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The monkeys are climbing on the tree."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 3: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 3: \"The sheep are chewing grass on the ground.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -217,11 +223,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q16",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The sheep are chewing grass on the ground."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 4: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 4: \"The seals are swimming in the water.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -235,11 +243,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q17",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The seals are swimming in the water."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 5: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 5: \"The cows are in the barn.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -253,11 +263,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q18",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The cows are in the barn."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 6: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 6: \"The horses are next to the hay.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -271,11 +283,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q19",
-      "label": "6"
+      "label": "6",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The horses are next to the hay."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 7: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 7: \"The dogs are sleeping on the grass.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -289,11 +303,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q20",
-      "label": "7"
+      "label": "7",
+      "photo": "basic/p1-s03/lp1.jpg",
+      "stem": "The dogs are sleeping on the grass."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 1: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 1: \"The ball is on the bed.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -310,11 +326,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q21",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The ball is on the bed."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 2: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 2: \"The book is on the table.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -331,11 +349,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q22",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The book is on the table."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 3: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 3: \"The pencil is on the chair.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -352,11 +372,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q23",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The pencil is on the chair."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 4: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 4: \"The bag is under the table.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -373,11 +395,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q24",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The bag is under the table."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 5: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 5: \"The cap is in the box.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -394,11 +418,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q25",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The cap is in the box."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 6: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 6: \"The toy is in front of the bed.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -415,11 +441,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q26",
-      "label": "6"
+      "label": "6",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The toy is in front of the bed."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 7: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 7: \"The lamp is behind the table.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -436,11 +464,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q27",
-      "label": "7"
+      "label": "7",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The lamp is behind the table."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 8: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 8: \"The picture is on the wall.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -457,11 +487,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q28",
-      "label": "8"
+      "label": "8",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The picture is on the wall."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 9: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 9: \"The clock is next to the picture on a wall.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -478,11 +510,13 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q29",
-      "label": "9"
+      "label": "9",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The clock is next to the picture on a wall."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 2 — statement 10: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 2 10: \"The door is open.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -499,7 +533,9 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q30",
-      "label": "10"
+      "label": "10",
+      "photo": "basic/p1-s03/lp2.jpg",
+      "stem": "The door is open."
     },
     {
       "id": "q31",

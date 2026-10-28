@@ -117,14 +117,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): type the answer.",
+      "prompt": "Warm-Up 2-(c): Write the correct form of the given verb — Bread and butter ______ what I like most for breakfast. (be)",
       "accept": [
         "is"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Bread and butter ______ what I like most for breakfast. (be)"
     },
     {
       "type": "text",
@@ -139,14 +139,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): correct or complete it.",
+      "prompt": "Warm-Up 3-(b): This is the wrong sentence; write the correct verb to replace 'are' — The number of questions given to me are 10.",
       "accept": [
         "is"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The number of questions given to me are 10."
     },
     {
       "type": "display",
@@ -197,14 +197,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): correct the wrong word — All pays attention tome when I give a speech.",
+      "prompt": "Grammar Practice 5-(c): correct the wrong word — All pays attention to me when I give a speech.",
       "accept": [
         "pay"
       ],
       "section": "Grammar Practice",
       "id": "q18",
       "label": "5-(c)",
-      "stem": "All pays attention tome when I give a speech."
+      "stem": "All pays attention to me when I give a speech."
     },
     {
       "type": "text",
@@ -252,48 +252,47 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): Make a sentence using the given words to match the Korean — 그와 나 둘 다 배가 고프다. (Both, hungry)",
       "accept": [
         "Both he and I are hungry."
       ],
       "section": "Grammar Practice",
       "id": "q23",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "그와 나 둘 다 배가 고프다. (Both, hungry)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Make a sentence using the given words to match the Korean — 그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)",
       "accept": [
         "Either he or she is impatient."
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): Make a sentence using the given words to match the Korean — 너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)",
       "accept": [
         "Neither you or she can't buy it."
       ],
       "section": "Grammar Practice",
       "id": "q25",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): type the answer.",
+      "prompt": "Grammar Practice 3-(d): Make a sentence using the given words to match the Korean — 나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)",
       "accept": [
         "I like"
       ],
       "section": "Grammar Practice",
       "id": "q26",
       "label": "3-(d)",
-      "candidateStem": "나는 수학뿐만 아니라 고",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)"
     },
     {
       "type": "text",

@@ -306,14 +306,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): type the answer.",
+      "prompt": "Grammar Practice 1-(b): Change the sentence into the progressive form — She watches TV. (진행형으로)",
       "accept": [
         "She is watching TV."
       ],
       "section": "Grammar Practice",
       "id": "q26",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She watches TV. (진행형으로)"
     },
     {
       "type": "text",
@@ -361,14 +361,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): type the answer.",
+      "prompt": "Grammar Practice 4-(b): Find the wrong word and correct it (wrong - right) — He comed to my house. (그가 우리 집에 왔다.)",
       "accept": [
         "comed- came"
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He comed to my house. (그가 우리 집에 왔다.)"
     },
     {
       "id": "q32",

@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Did he ______ that I'm a secret agent?",
       "choices": {
         "A": "allow",
         "B": "determine",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Did he ______ that I'm a secret agent?"
     },
     {
       "type": "choice",
@@ -349,47 +349,47 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank using the Korean as a guide — ______, I'm not a lawyer. (사실대로 말하자면 나는 변호사가 아니다.)",
       "accept": [
         "To tell the truth"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______, I'm not a lawyer. (사실대로 말하자면 나는 변호사가 아니다.)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank using the Korean as a guide — ______, he didn't show up. (이상하게도 그는 나타나지 않았다.)",
       "accept": [
         "Strange to say"
       ],
       "section": "Grammar Practice",
       "id": "q29",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______, he didn't show up. (이상하게도 그는 나타나지 않았다.)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank using the Korean as a guide — ______, he became ill. (설상가상으로 그는 아프게 되었다.)",
       "accept": [
         "To make matters worse"
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______, he became ill. (설상가상으로 그는 아프게 되었다.)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "prompt": "Grammar Practice 2-(d): Fill in the blank using the Korean as a guide — ______, he is not qualified. (엄격하게 말하자면 그는 자질이 없다.)",
       "accept": [
         "To speak strictly"
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______, he is not qualified. (엄격하게 말하자면 그는 자질이 없다.)"
     },
     {
       "type": "text",
@@ -437,14 +437,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): type the answer.",
+      "prompt": "Grammar Practice 5-(c): Find the wrong word and correct it (wrong → right) — I'm looking forward to meet you.",
       "accept": [
         "to meet meeting"
       ],
       "section": "Grammar Practice",
       "id": "q36",
       "label": "5-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I'm looking forward to meet you."
     },
     {
       "id": "q37",

@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I have to do the ______, such as cleaning my room and washing my clothes.",
       "choices": {
         "A": "either",
         "B": "house chore",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I have to do the ______, such as cleaning my room and washing my clothes."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): I like ______ icecream better than chocolate one.",
+      "prompt": "Words and Idioms Check-Up (b): I like ______ ice cream better than chocolate one.",
       "choices": {
         "A": "either",
         "B": "house chore",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "I like ______ icecream better than chocolate one."
+      "stem": "I like ______ ice cream better than chocolate one."
     },
     {
       "type": "choice",

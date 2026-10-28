@@ -51,69 +51,135 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: ~로 나아가다",
       "accept": [
         "proceed to"
       ],
       "section": "Warm-Up",
       "id": "q4",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~로 나아가다",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-: type the answer.",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 속도를 줄이다",
       "accept": [
         "slow down"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "속도를 줄이다",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-: type the answer.",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 속도 제한",
       "accept": [
         "speed limit"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "3",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "속도 제한",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-: type the answer.",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~의 경우에",
       "accept": [
         "in case of"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "4",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~의 경우에",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5-: type the answer.",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에서 나오다",
       "accept": [
         "get out of"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "5",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~에서 나오다",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 줄을 서다",
       "accept": [
         "line up"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "줄을 서다",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
@@ -139,25 +205,47 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8-: type the answer.",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 탑승을 하는",
       "accept": [
         "on board"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "8",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "탑승을 하는",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9-: type the answer.",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하도록 요청받다",
       "accept": [
         "be requested to"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "9",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~하도록 요청받다",
+      "wordBank": [
+        "be requested to",
+        "bound for",
+        "get out of",
+        "in case of",
+        "line up",
+        "on board",
+        "proceed to",
+        "slow down",
+        "speed limit"
+      ]
     },
     {
       "type": "choice",
@@ -197,7 +285,7 @@
       },
       "prompt": "Where can you hear this announcement?",
       "accept": "A",
-      "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
+      "passage": "Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
       "passageHead": "Questions 1-2 refer to the following announcement."
     },
     {
@@ -212,7 +300,7 @@
       },
       "prompt": "Who is this announcement for?",
       "accept": "B",
-      "passage": "pr iA iW iAklriAkWiAk WiAkWiAkWiAiW ii / Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
+      "passage": "Attention, please! / Korean Air flight 1122 bound for / Fukuoka from Incheon / is now on board at Gate No. 9. / All passengers flying to Fukuoka, / please proceed to the Gate No. 9. / Thank you.",
       "passageHead": "Questions 1-2 refer to the following announcement."
     },
     {
@@ -227,7 +315,7 @@
       },
       "prompt": "What is the purpose of this notice?",
       "accept": "A",
-      "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
+      "passage": "Special Announcement! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
       "passageHead": "Questions 3-4 refer to the following notice."
     },
     {
@@ -242,7 +330,7 @@
       },
       "prompt": "Why can't commuters use the shuttle bus service today?",
       "accept": "B",
-      "passage": "Special Announce ment! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
+      "passage": "Special Announcement! / Because the bus has a serious problem / with its engine, today's company shuttle / bus has been cancelled. / Commuters are requested to use another / transportation. / Sorry for the inconvenience. / For more information, call 080-123-5691.",
       "passageHead": "Questions 3-4 refer to the following notice."
     }
   ],

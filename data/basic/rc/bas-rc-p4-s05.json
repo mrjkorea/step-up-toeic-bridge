@@ -276,47 +276,47 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "prompt": "Grammar Practice 2-(c): Change the underlined part into a possessive pronoun — My pants are blue and her pants are red. — replace 'her pants'",
       "accept": [
         "hers"
       ],
       "section": "Grammar Practice",
       "id": "q22",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My pants are blue and her pants are red. — replace 'her pants'"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): Use the Korean and the given words to complete the sentence — 오늘은 비가 온다. (today. / It / rainy / is)",
       "accept": [
         "It is rainy today."
       ],
       "section": "Grammar Practice",
       "id": "q23",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "오늘은 비가 온다. (today. / It / rainy / is)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Use the Korean and the given words to complete the sentence — 내 리포트를 끝내려면 4일이 걸린다. (four / report. / to / finish / takes / It / days / my)",
       "accept": [
         "It takes four days to finish my report."
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "내 리포트를 끝내려면 4일이 걸린다. (four / report. / to / finish / takes / It / days / my)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): Use the Korean and the given words to complete the sentence — 6시가 다 되어 간다. (6 o'clock. / almost / It / is)",
       "accept": [
         "It is almost 6 o'clock. that"
       ],
       "section": "Grammar Practice",
       "id": "q25",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "6시가 다 되어 간다. (6 o'clock. / almost / It / is)"
     },
     {
       "type": "text",
@@ -331,14 +331,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): correct or complete it.",
+      "prompt": "Grammar Practice 4-(b): Find the wrong word and correct it — These students is from China. (이 학생들은 중국에서 왔다.)",
       "accept": [
         "are"
       ],
       "section": "Grammar Practice",
       "id": "q27",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "These students is from China. (이 학생들은 중국에서 왔다.)"
     },
     {
       "type": "text",

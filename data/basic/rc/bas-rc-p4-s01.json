@@ -309,52 +309,51 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): Use the Korean and the given words to make a command — 그곳에 가지 마라. (there. / go / Don't)",
       "accept": [
         "Don't go there."
       ],
       "section": "Grammar Practice",
       "id": "q25",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "그곳에 가지 마라. (there. / go / Don't)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Use the Korean and the given words to make a command — 일찍 일어나세요. (please. / early, / Get / up)",
       "accept": [
         "Get up early, please."
       ],
       "section": "Grammar Practice",
       "id": "q26",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "일찍 일어나세요. (please. / early, / Get / up)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): Use the Korean and the given words to make a command — 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
       "accept": [
         "Don't come back soon."
       ],
       "section": "Grammar Practice",
       "id": "q27",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "일찍 돌아오지 마세요. (soon. / back / Don't / come)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): type the answer.",
+      "prompt": "Grammar Practice 4-(a): Complete the suggestion using the Korean — 자전거를 타자. → ______ a bicycle.",
       "accept": [
         "Let's ride"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "4-(a)",
-      "candidateStem": "자전거를 타자.",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "자전거를 타자. → ______ a bicycle."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): type the answer.",
+      "prompt": "Grammar Practice 4-(b): Complete the suggestion using the Korean — 많이 먹지 말자. → ______ not ______ much.",
       "accept": [
         "Let's",
         "eat"
@@ -362,12 +361,11 @@
       "section": "Grammar Practice",
       "id": "q29",
       "label": "4-(b)",
-      "candidateStem": "많이 먹지 말자.",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "많이 먹지 말자. → ______ not ______ much."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): type the answer.",
+      "prompt": "Grammar Practice 4-(c): Complete the suggestion using the Korean — 야구하자. → ______ baseball.",
       "accept": [
         "Let's",
         "play"
@@ -375,8 +373,7 @@
       "section": "Grammar Practice",
       "id": "q30",
       "label": "4-(c)",
-      "candidateStem": "야 구 자 .",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "야구하자. → ______ baseball."
     },
     {
       "id": "q31",

@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I bought a new ______ to learn how to swim.",
       "choices": {
         "A": "bathing suit",
         "B": "carrying",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I bought a new ______ to learn how to swim."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Are you ______ any cakes in this store?",
       "choices": {
         "A": "bathing suit",
         "B": "carrying",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Are you ______ any cakes in this store?"
     },
     {
       "type": "choice",
@@ -102,7 +102,8 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "advanced/p1-s02/wu1.jpg"
     },
     {
       "id": "q7",
@@ -117,7 +118,8 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "advanced/p1-s02/wu2.jpg"
     },
     {
       "type": "choice",
@@ -136,7 +138,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q8",
-      "label": "1"
+      "label": "1",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -155,7 +158,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q9",
-      "label": "2"
+      "label": "2",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -174,7 +178,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q10",
-      "label": "3"
+      "label": "3",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -193,7 +198,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q11",
-      "label": "4"
+      "label": "4",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -212,7 +218,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q12",
-      "label": "5"
+      "label": "5",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -231,7 +238,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q13",
-      "label": "6"
+      "label": "6",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -250,7 +258,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q14",
-      "label": "7"
+      "label": "7",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -269,7 +278,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q15",
-      "label": "8"
+      "label": "8",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -280,7 +290,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q16",
-      "label": "1"
+      "label": "1",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -291,7 +302,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q17",
-      "label": "2"
+      "label": "2",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -302,7 +314,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q18",
-      "label": "3"
+      "label": "3",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -313,7 +326,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q19",
-      "label": "4"
+      "label": "4",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -324,7 +338,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q20",
-      "label": "5"
+      "label": "5",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -335,7 +350,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q21",
-      "label": "6"
+      "label": "6",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -346,7 +362,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q22",
-      "label": "7"
+      "label": "7",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "text",
@@ -357,7 +374,8 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q23",
-      "label": "8"
+      "label": "8",
+      "photo": "advanced/p1-s02/lp1.jpg"
     },
     {
       "type": "choice",
@@ -377,7 +395,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q24",
-      "label": "1"
+      "label": "1",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -397,7 +416,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q25",
-      "label": "2"
+      "label": "2",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -417,7 +437,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q26",
-      "label": "3"
+      "label": "3",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -437,7 +458,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q27",
-      "label": "4"
+      "label": "4",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -457,7 +479,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q28",
-      "label": "5"
+      "label": "5",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -477,7 +500,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q29",
-      "label": "6"
+      "label": "6",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -497,7 +521,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q30",
-      "label": "7"
+      "label": "7",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -517,7 +542,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q31",
-      "label": "8"
+      "label": "8",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "choice",
@@ -537,7 +563,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q32",
-      "label": "9"
+      "label": "9",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -548,7 +575,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q33",
-      "label": "1"
+      "label": "1",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -559,7 +587,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q34",
-      "label": "2"
+      "label": "2",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -570,7 +599,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q35",
-      "label": "3"
+      "label": "3",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -581,7 +611,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q36",
-      "label": "4"
+      "label": "4",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -592,7 +623,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q37",
-      "label": "5"
+      "label": "5",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -603,7 +635,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q38",
-      "label": "6"
+      "label": "6",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -614,7 +647,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q39",
-      "label": "7"
+      "label": "7",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -625,7 +659,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q40",
-      "label": "8"
+      "label": "8",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "type": "text",
@@ -636,7 +671,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q41",
-      "label": "9"
+      "label": "9",
+      "photo": "advanced/p1-s02/lp2.jpg"
     },
     {
       "id": "q42",

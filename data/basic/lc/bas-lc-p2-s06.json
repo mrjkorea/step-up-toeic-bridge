@@ -25,7 +25,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Why do you ______ so happy? (너는 왜 그렇게 기분이 좋은 거야?)",
       "choices": {
         "A": "busy",
         "B": "looking",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Why do you ______ so happy? (너는 왜 그렇게 기분이 좋은 거야?)"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Why do you ______ to save money? (너는 왜 돈을 모으고 싶어?)",
       "choices": {
         "A": "busy",
         "B": "looking",
@@ -49,7 +49,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Why do you ______ to save money? (너는 왜 돈을 모으고 싶어?)"
     },
     {
       "id": "q4",

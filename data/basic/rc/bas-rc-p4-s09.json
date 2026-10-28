@@ -157,15 +157,19 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank using the Korean — ______ is really good for your health. (등산은 건강에 정말 좋다.)",
       "accept": [
-        "Mountain",
-        "climbing"
+        "Mountain climbing",
+        "mountain climbing"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "accept_before": [
+        "Mountain",
+        "climbing"
+      ],
+      "stem": "______ is really good for your health. (등산은 건강에 정말 좋다.)"
     },
     {
       "id": "q15",

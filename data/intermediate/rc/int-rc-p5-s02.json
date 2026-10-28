@@ -9,14 +9,25 @@
   "items": [
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 바다가 보이는 전망의",
       "accept": [
         "with an ocean view"
       ],
       "section": "Warm-Up",
       "id": "q1",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "바다가 보이는 전망의",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
     },
     {
       "type": "text",
@@ -108,14 +119,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~하는 한",
       "accept": [
         "as long as"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~하는 한",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
     },
     {
       "type": "text",
@@ -163,14 +185,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9-: type the answer.",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 조식 제공",
       "accept": [
         "breakfast included"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "9",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "조식 제공",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
     },
     {
       "type": "choice",
@@ -183,7 +216,7 @@
       "section": "Reading Practice 1",
       "id": "q10",
       "label": "1",
-      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / S at. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
+      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / Sat. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
     },
     {
       "type": "choice",
@@ -196,7 +229,7 @@
       "section": "Reading Practice 1",
       "id": "q11",
       "label": "2",
-      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / S at. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
+      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / Sat. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
     },
     {
       "type": "choice",

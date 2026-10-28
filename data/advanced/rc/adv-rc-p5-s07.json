@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): I will ______ your request for it as soon as I get the form.",
       "choices": {
         "A": "agree",
         "B": "contact",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I will ______ your request for it as soon as I get the form."
     },
     {
       "type": "choice",
@@ -284,7 +284,7 @@
       "section": "Reading Practice 2",
       "id": "q15",
       "label": "1",
-      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thankyou. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
+      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thank you. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
     },
     {
       "type": "choice",
@@ -297,7 +297,7 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "2",
-      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thankyou. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
+      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thank you. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
     },
     {
       "id": "q17",

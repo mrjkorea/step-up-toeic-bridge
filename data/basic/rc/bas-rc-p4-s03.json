@@ -111,14 +111,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): Write the word whose plural form is wrong — books / pens / foxs",
       "accept": [
         "foxs"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "books / pens / foxs"
     },
     {
       "type": "text",
@@ -155,14 +155,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): Write the plural form — man — ______",
       "accept": [
         "men"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "man — ______"
     },
     {
       "type": "text",
@@ -221,15 +221,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): Choose the word from the box — a ______ of paper (종이 한 장) [cup / piece / glass / bottle]",
       "accept": [
         "piece"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(b)",
-      "candidateStem": "a _______________________o f p a p e r 종이 한 장",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "a ______ of paper (종이 한 장) [cup / piece / glass / bottle]"
     },
     {
       "type": "text",
@@ -349,36 +348,36 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): Write it in English — 물 두 잔 → ______",
       "accept": [
         "two glasses of water"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "물 두 잔 → ______"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Write it in English — 종이 세 장 → ______",
       "accept": [
         "three pieces of paper"
       ],
       "section": "Grammar Practice",
       "id": "q29",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "종이 세 장 → ______"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): Write it in English — 커피 세 잔 → ______",
       "accept": [
         "three cups of coffee"
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "커피 세 잔 → ______"
     },
     {
       "id": "q31",
