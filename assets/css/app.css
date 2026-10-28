@@ -82,6 +82,32 @@ body {
   text-overflow: ellipsis;
 }
 
+.practice-timer {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  margin: -0.35rem 0 0.75rem;
+  padding: 0.45rem 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.practice-timer__clock {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+
+.practice-timer--warn {
+  color: #7c2d12;
+  background: #fff7ed;
+  border-color: #fdba74;
+}
+
 .resume-bar {
   margin: 0 0 1rem;
 }

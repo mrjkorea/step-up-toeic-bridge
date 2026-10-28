@@ -1,0 +1,163 @@
+{
+  "practiceId": "int-lc-at-q11-20",
+  "title": "LC Actual Test · Questions 11–20",
+  "subtitle": "10 questions (book Q11–20)",
+  "level": "intermediate",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "int-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "The woman is writing.",
+        "B": "The woman is speaking on the telephone.",
+        "C": "The woman is reading.",
+        "D": "The woman is sleeping."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "intermediate/at/q11.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "The girl is riding the horse.",
+        "B": "The horse is between the children.",
+        "C": "There are many horses next to the children.",
+        "D": "The children are feeding the horse."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "intermediate/at/q12.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "The people are shopping.",
+        "B": "The people are walking in the park.",
+        "C": "The people are posing for a photograph.",
+        "D": "The people are waiting to cross the road."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "intermediate/at/q13.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "The woman is talking to the girl.",
+        "B": "The girl is behind the woman.",
+        "C": "The people are climbing a tree.",
+        "D": "The woman is holding the girl."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "intermediate/at/q14.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "The car is waiting in line.",
+        "B": "The car is being washed.",
+        "C": "The car is on display.",
+        "D": "The car is being repaired. p.153"
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "intermediate/at/q15.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "It will be great to get away.",
+        "B": "I really like lobster.",
+        "C": "It was a little expensive."
+      },
+      "prompt": "What was the hotel you stayed in like?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "No, the rest of the game was quite boring.",
+        "B": "I was busy, maybe tomorrow.",
+        "C": "Yes, everyone has to attend."
+      },
+      "prompt": "Did anything happen after I left last night?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "It could be anyone.",
+        "B": "I can't today because my legs are sore.",
+        "C": "I think it went really well."
+      },
+      "prompt": "Who do you think will be picked to run the office?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "It was last week.",
+        "B": "A new jacket and lots of socks.",
+        "C": "Get me a surprise."
+      },
+      "prompt": "What did you get for your birthday?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it's really hot.",
+        "B": "No, I went last year.",
+        "C": "Yes, I don't like it."
+      },
+      "prompt": "Isn't the weather cold this year?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    }
+  ],
+  "contentVersion": "at-split-2026-10-28"
+}
