@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): What we have to do first is to ______ where togo.",
+      "prompt": "Words and Idioms Check-Up (a): What we have to do first is to ______ where to go.",
       "choices": {
         "A": "allow",
         "B": "determine",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "What we have to do first is to ______ where togo."
+      "stem": "What we have to do first is to ______ where to go."
     },
     {
       "type": "choice",
