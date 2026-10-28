@@ -19,7 +19,9 @@ for f in glob.glob(D+'/*/*/*.json'):
     if k in F: i['accept']=F[k]; i['prompt']=k[1]+': correct or complete it (see the book page).'; n+=1
     out.append(i)
     if k in ADD: x=dict(i); x.update(ADD[k]); out.append(x); n+=1
-  for q,i in enumerate(out,1): i['id']=f'q{q}'; i['label']=str(q)
+  for q,i in enumerate(out,1):
+    i['id']=f'q{q}'
+    # Preserve book-faithful item labels (Zap method); only assign id for form keys.
   j['items']=out
   if 'count' in j: j['count']=len(out)
   json.dump(j,open(f,'w'),ensure_ascii=False,indent=1)

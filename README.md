@@ -22,7 +22,7 @@ Each track has **43 practice days** aligned with LearnWorlds (section practices 
   ```
 
 - **Answer keys** in the pack (`keys/*-answers.json`) drive `accept` values; `stub: false` when every item has a key.
-- Some RC / Actual Test stems still carry OCR gaps (`_note` on items) — proofread against the book before classroom use.
+- Some RC / Actual Test stems still carry OCR gaps — import the latest content pack and run `python3 scripts/check_practice_data.py` before classroom use.
 - **Section audio** — **55 MP4s** from Drive are committed under `audio/<level>/`. LC practices play them in-quiz via `audio/manifest.json` (`audioRef` on each practice JSON).
 
 ## Local preview
@@ -42,7 +42,7 @@ Hash routes: `#/`, `#/track/intermediate-lc`, `#/practice/int-lc-p2-s01`.
 2. To reset layout only (wipes JSON content): `node scripts/generate-stubs.mjs` — **back up** real `data/` first.
 3. Required fields per practice file:
    - `practiceId`, `title`, `level`, `skill`, `items[]`, `stub`
-   - Each item: `id`, `label`, `type`, `accept` (see **[docs/item-fields.md](docs/item-fields.md)** for `choice`, `match`, `text`/`fill`, `tf`, `selfcheck`, photos, and RC passage pages).
+   - Each item: `id`, `label`, `type`, `accept` (see **[docs/item-fields.md](docs/item-fields.md)**). Optional `"blocked": true` hides an item until stems are ready.
    - LC Part II / Actual Test listening items may use letter-only choices (`"A": "A"`) and `audioOnly: true` (three options for Part II Bridge).
 4. `data/catalog.json` lists every practice card (titles, groups, subtitles/themes, `stub` flag).
 
@@ -55,9 +55,23 @@ Part II / Part IV theme subtitles follow the LearnWorlds day-split cheat sheet (
 - **Intermediate Part II §06** uses two files: `p2-s06a.mp4` + `p2-s06b.mp4` (two players in the UI).
 - After adding or renaming tracks only: `node scripts/generate-stubs.mjs` updates manifest paths (existing MP4 files are left in place).
 
-## Part I photos
+## Part I photos (student UI)
 
-Part I uses `practice.pageImage` for the labeled `a`–`j` page, plus per-question `photo` crops under `assets/photos/<level>/p1-sNN/`. RC passages use `passagePage` / `passageImage` (see `docs/item-fields.md`). Drop PNG/JPG/SVG files in those paths — the UI renders them when present.
+Students only see **tight picture crops**, not workbook page scans:
+
+- LC Actual Test: `assets/photos/<level>/at/q01.png` … `q15.png`
+- Part I Test Your Skills: `assets/photos/<level>/p1-sNN/q01.png` … `q06.png`
+
+Full book pages (`page-NNN.jpg`, `bookPages`, `pageImage`, `passageImage`, `passagePage`) are **forbidden** in the student UI and in publish checks. RC reading uses `passage` text in JSON.
+
+Before deploy:
+
+```bash
+python3 scripts/check_practice_data.py          # full (JSON + assets)
+python3 scripts/check_practice_data.py --assets-only   # page-scan files only
+```
+
+Items marked `"blocked": true` in the content pack are hidden from students until stems are ready (append `#debug=1` to preview them locally).
 
 ## Scores & sign-in
 
