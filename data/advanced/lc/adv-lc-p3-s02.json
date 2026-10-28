@@ -1,389 +1,372 @@
 {
- "practiceId": "adv-lc-p3-s02",
- "title": "Part III · Section 02",
- "subtitle": "Conversations & talks",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-p3-s02",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "apologize",
-    "B": "borrow",
-    "C": "encourage",
-    "D": "plug in",
-    "E": "turn it down"
-   },
-   "accept": "D",
-   "photo": "advanced/lc-p3-s02/page-090.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "apologize",
-    "B": "borrow",
-    "C": "encourage",
-    "D": "plug in",
-    "E": "turn it down"
-   },
-   "accept": "A",
-   "photo": "advanced/lc-p3-s02/page-090.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "apologize",
-    "B": "borrow",
-    "C": "encourage",
-    "D": "plug in",
-    "E": "turn it down"
-   },
-   "accept": "E",
-   "photo": "advanced/lc-p3-s02/page-090.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "apologize",
-    "B": "borrow",
-    "C": "encourage",
-    "D": "plug in",
-    "E": "turn it down"
-   },
-   "accept": "C",
-   "photo": "advanced/lc-p3-s02/page-090.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "apologize",
-    "B": "borrow",
-    "C": "encourage",
-    "D": "plug in",
-    "E": "turn it down"
-   },
-   "accept": "B",
-   "photo": "advanced/lc-p3-s02/page-090.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "A student award",
-    "B": "An outlet for her computer",
-    "C": "Getting a graphing calculator"
-   },
-   "prompt": "Warm-Up talk a: Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "A student award",
-    "B": "An outlet for her computer",
-    "C": "Getting a graphing calculator"
-   },
-   "prompt": "Warm-Up talk b: Choose the answer.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "A student award",
-    "B": "An outlet for her computer",
-    "C": "Getting a graphing calculator"
-   },
-   "prompt": "Warm-Up talk c: Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "A pay raise",
-    "B": "Homework",
-    "C": "She will be able to handle the extra work.",
-    "D": "Weather patterns"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "A pay raise",
-    "B": "Homework",
-    "C": "She will be able to handle the extra work.",
-    "D": "Weather patterns"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "As the warm water of the Pacific"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
-   "accept": [
-    "I noticed it rains a lot"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 3: type the words you hear.",
-   "accept": [
-    "mountains form a natural wall"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "the assignment for Thursday's class"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
-   "accept": [
-    "I'll get a good mark or not"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 3: type the words you hear.",
-   "accept": [
-    "when it comes to grading"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-092.jpg",
-   "section": "Listening Practice 1",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "A pay raise",
-    "B": "Homework",
-    "C": "She will be able to handle the extra work.",
-    "D": "Weather patterns"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "A pay raise",
-    "B": "Homework",
-    "C": "She will be able to handle the extra work.",
-    "D": "Weather patterns"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "you got promoted"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-093.jpg",
-   "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 2: type the words you hear.",
-   "accept": [
-    "my work will increase"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-093.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 3: type the words you hear.",
-   "accept": [
-    "you'll get used to it"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-093.jpg",
-   "section": "Listening Practice 2",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "hear about the wage increase"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-093.jpg",
-   "section": "Listening Practice 2",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
-   "accept": [
-    "Each employee will receive"
-   ],
-   "audioOnly": true,
-   "photo": "advanced/lc-p3-s02/page-093.jpg",
-   "section": "Listening Practice 2",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "id": "q24",
-   "label": "24",
-   "type": "choice",
-   "choices": {
-    "A": "Finding jobs",
-    "B": "Eating dinner",
-    "C": "Starting a company",
-    "D": "Going back to school"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q25",
-   "label": "25",
-   "type": "choice",
-   "choices": {
-    "A": "Whether the restaurant will be big enough for",
-    "B": "Whether their customers will like the restaurant",
-    "C": "Whether they should invite their customers to a party",
-    "D": "Whether the customers enjoyed the party"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "Company share prices",
-    "B": "Company products",
-    "C": "Things they will discuss at the lecture",
-    "D": "Things they found interesting at the lecture"
-   },
-   "prompt": "What are the two people discussing?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "Her teachers",
-    "B": "Her gym class",
-    "C": "Her work schedule",
-    "D": "Her school friends"
-   },
-   "prompt": "What is the woman talking about?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/lc-p3-s02/page-090.jpg",
-  "advanced/lc-p3-s02/page-091.jpg",
-  "advanced/lc-p3-s02/page-092.jpg",
-  "advanced/lc-p3-s02/page-093.jpg"
- ]
+  "practiceId": "adv-lc-p3-s02",
+  "title": "Part III · Section 02",
+  "subtitle": "Conversations & talks",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-p3-s02",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "apologize",
+        "B": "borrow",
+        "C": "encourage",
+        "D": "plug in",
+        "E": "turn it down"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "apologize",
+        "B": "borrow",
+        "C": "encourage",
+        "D": "plug in",
+        "E": "turn it down"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "apologize",
+        "B": "borrow",
+        "C": "encourage",
+        "D": "plug in",
+        "E": "turn it down"
+      },
+      "accept": "E",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "apologize",
+        "B": "borrow",
+        "C": "encourage",
+        "D": "plug in",
+        "E": "turn it down"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "apologize",
+        "B": "borrow",
+        "C": "encourage",
+        "D": "plug in",
+        "E": "turn it down"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q5",
+      "label": "(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q6",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk a: Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk b: Choose the answer.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A student award",
+        "B": "An outlet for her computer",
+        "C": "Getting a graphing calculator"
+      },
+      "prompt": "Warm-Up talk c: Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q10",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "As the warm water of the Pacific"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q11",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+      "accept": [
+        "I noticed it rains a lot"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q12",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 3: type the words you hear.",
+      "accept": [
+        "mountains form a natural wall"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q13",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "the assignment for Thursday's class"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q14",
+      "label": "6"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
+      "accept": [
+        "I'll get a good mark or not"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q15",
+      "label": "7"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 3: type the words you hear.",
+      "accept": [
+        "when it comes to grading"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q16",
+      "label": "8"
+    },
+    {
+      "id": "q17",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q18",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A pay raise",
+        "B": "Homework",
+        "C": "She will be able to handle the extra work.",
+        "D": "Weather patterns"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "you got promoted"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q19",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 2: type the words you hear.",
+      "accept": [
+        "my work will increase"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 3: type the words you hear.",
+      "accept": [
+        "you'll get used to it"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q21",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "hear about the wage increase"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q22",
+      "label": "6"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+      "accept": [
+        "Each employee will receive"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q23",
+      "label": "7"
+    },
+    {
+      "id": "q24",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Finding jobs",
+        "B": "Eating dinner",
+        "C": "Starting a company",
+        "D": "Going back to school"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q25",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Whether the restaurant will be big enough for",
+        "B": "Whether their customers will like the restaurant",
+        "C": "Whether they should invite their customers to a party",
+        "D": "Whether the customers enjoyed the party"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q26",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Company share prices",
+        "B": "Company products",
+        "C": "Things they will discuss at the lecture",
+        "D": "Things they found interesting at the lecture"
+      },
+      "prompt": "What are the two people discussing?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q27",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Her teachers",
+        "B": "Her gym class",
+        "C": "Her work schedule",
+        "D": "Her school friends"
+      },
+      "prompt": "What is the woman talking about?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

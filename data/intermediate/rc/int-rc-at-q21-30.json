@@ -1,152 +1,152 @@
 {
- "practiceId": "int-rc-at-q21-30",
- "title": "RC Actual Test · Questions 21–30",
- "subtitle": "10 questions (book Q71–80)",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "very",
-    "B": "slowly",
-    "C": "kindly",
-    "D": "early"
-   },
-   "prompt": "We all were _______ glad to hear that Lucy's baby was healthy and happy.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "new",
-    "B": "newest",
-    "C": "newness",
-    "D": "newly"
-   },
-   "prompt": "The apartment we looked at on Tuesday was the _______ that we have seen yet.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "long",
-    "B": "sleepy",
-    "C": "broken",
-    "D": "general"
-   },
-   "prompt": "The _______ television could not be fixed at the repair shop.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "wisely",
-    "B": "wise",
-    "C": "wisdom",
-    "D": "wizen"
-   },
-   "prompt": "It would be _______ for you to bring your driver's license to the office.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "easy",
-    "B": "ease",
-    "C": "easily",
-    "D": "easier"
-   },
-   "prompt": "My brother _______ finished the exam in two hours.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "long",
-    "B": "difficult",
-    "C": "bad",
-    "D": "unhappy"
-   },
-   "prompt": "Although it looked easy, Janet's mom found it _______ to make homemade pizza.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "excel",
-    "B": "excellent",
-    "C": "excellently",
-    "D": "excels"
-   },
-   "prompt": "Everyone agreed that the concert was _______.",
-   "accept": "B",
-   "part": "IV"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "nice",
-    "B": "nicer",
-    "C": "nicety",
-    "D": "nicely"
-   },
-   "prompt": "It was very _______ of you to send such a wonderful gift.",
-   "accept": "A",
-   "part": "IV"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "hard",
-    "B": "hardly",
-    "C": "hardest",
-    "D": "harder"
-   },
-   "prompt": "Frank always said that science was the _______ subject in school.",
-   "accept": "C",
-   "part": "IV"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "like",
-    "B": "alike",
-    "C": "likely",
-    "D": "liking"
-   },
-   "prompt": "The two brothers looked very much _______.",
-   "accept": "B",
-   "part": "IV"
-  }
- ],
- "contentVersion": "v2-2026-10-28"
+  "practiceId": "int-rc-at-q21-30",
+  "title": "RC Actual Test · Questions 21–30",
+  "subtitle": "10 questions (book Q71–80)",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "very",
+        "B": "slowly",
+        "C": "kindly",
+        "D": "early"
+      },
+      "prompt": "We all were _______ glad to hear that Lucy's baby was healthy and happy.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "new",
+        "B": "newest",
+        "C": "newness",
+        "D": "newly"
+      },
+      "prompt": "The apartment we looked at on Tuesday was the _______ that we have seen yet.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "long",
+        "B": "sleepy",
+        "C": "broken",
+        "D": "general"
+      },
+      "prompt": "The _______ television could not be fixed at the repair shop.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "wisely",
+        "B": "wise",
+        "C": "wisdom",
+        "D": "wizen"
+      },
+      "prompt": "It would be _______ for you to bring your driver's license to the office.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "easy",
+        "B": "ease",
+        "C": "easily",
+        "D": "easier"
+      },
+      "prompt": "My brother _______ finished the exam in two hours.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "long",
+        "B": "difficult",
+        "C": "bad",
+        "D": "unhappy"
+      },
+      "prompt": "Although it looked easy, Janet's mom found it _______ to make homemade pizza.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "excel",
+        "B": "excellent",
+        "C": "excellently",
+        "D": "excels"
+      },
+      "prompt": "Everyone agreed that the concert was _______.",
+      "accept": "B",
+      "part": "IV"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "nice",
+        "B": "nicer",
+        "C": "nicety",
+        "D": "nicely"
+      },
+      "prompt": "It was very _______ of you to send such a wonderful gift.",
+      "accept": "A",
+      "part": "IV"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "hard",
+        "B": "hardly",
+        "C": "hardest",
+        "D": "harder"
+      },
+      "prompt": "Frank always said that science was the _______ subject in school.",
+      "accept": "C",
+      "part": "IV"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "like",
+        "B": "alike",
+        "C": "likely",
+        "D": "liking"
+      },
+      "prompt": "The two brothers looked very much _______.",
+      "accept": "B",
+      "part": "IV"
+    }
+  ],
+  "contentVersion": "v2-2026-10-28"
 }

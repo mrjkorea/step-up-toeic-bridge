@@ -1,426 +1,410 @@
 {
- "practiceId": "adv-rc-p4-s03",
- "title": "Part IV · Section 03",
- "subtitle": "Agreement",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "get married to",
-    "B": "pay attention to",
-    "C": "skip the class"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "get married to",
-    "B": "pay attention to",
-    "C": "skip the class"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "get married to",
-    "B": "pay attention to",
-    "C": "skip the class"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s03/page-026.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
-   "accept": [
-    "are"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
-   "accept": [
-    "This is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
-   "accept": [
-    "These are"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "lives"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
-   "accept": [
-    "are"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
-   "accept": [
-    "is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): type the answer (see the book page).",
-   "accept": [
-    "wins"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): correct or complete it (see the book page).",
-   "accept": [
-    "is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-027.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Grammar Practice 1-(a): The rich are not always happy. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s03/page-030.jpg",
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Grammar Practice 1-(b): The deceased is said to have lived for his country. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s03/page-030.jpg",
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Grammar Practice 1-(c): One fifth of the class wants to take a trip to Hawaii. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s03/page-030.jpg",
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Grammar Practice 1-(d): My family is a large one. Translate into Korean. Not scored.",
-   "pageImage": "advanced/rc-p4-s03/page-030.jpg",
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): correct the wrong word (see the book page).",
-   "accept": [
-    "makes"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(c): correct the wrong word (see the book page).",
-   "accept": [
-    "pay"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "like"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "his"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "they"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "this"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "Both he and I are hungry."
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "Either he or she is impatient."
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "Neither you or she can't buy it."
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "I like"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): correct or complete it (see the book page).",
-   "accept": [
-    "arrives"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(a): correct or complete it (see the book page).",
-   "accept": [
-    "belongs"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): correct or complete it (see the book page).",
-   "accept": [
-    "is"
-   ],
-   "photo": "advanced/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "might go",
-    "B": "should go",
-    "C": "goes",
-    "D": "go to"
-   },
-   "prompt": "He suggested that she _______ there.",
-   "accept": "B"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "gets",
-    "B": "got",
-    "C": "had got",
-    "D": "has got"
-   },
-   "prompt": "I finally realized that she _______ married to her current husband.",
-   "accept": "C"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "makes",
-    "B": "made",
-    "C": "was made",
-    "D": "were made"
-   },
-   "prompt": "This is one of the most powerful robots which _______ by him.",
-   "accept": "D"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "One three",
-    "B": "Two third",
-    "C": "One third",
-    "D": "One thirds"
-   },
-   "prompt": "_______ of the country is covered with mountains.",
-   "accept": "C"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "doesn't means",
-    "B": "don't mean",
-    "C": "doesn't mean",
-    "D": "doesn't meaning"
-   },
-   "prompt": "The poor _______ that you are hopeless all the time.",
-   "accept": "C"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "being",
-    "B": "is not",
-    "C": "are",
-    "D": "not been"
-   },
-   "prompt": "To write an essay with 250 words _______ difficult.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s03/page-026.jpg",
-  "advanced/rc-p4-s03/page-027.jpg",
-  "advanced/rc-p4-s03/page-028.jpg",
-  "advanced/rc-p4-s03/page-029.jpg",
-  "advanced/rc-p4-s03/page-030.jpg",
-  "advanced/rc-p4-s03/page-031.jpg"
- ]
+  "practiceId": "adv-rc-p4-s03",
+  "title": "Part IV · Section 03",
+  "subtitle": "Agreement",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "get married to",
+        "B": "pay attention to",
+        "C": "skip the class"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "get married to",
+        "B": "pay attention to",
+        "C": "skip the class"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "get married to",
+        "B": "pay attention to",
+        "C": "skip the class"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): type the answer.",
+      "accept": [
+        "are"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "is"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(c): type the answer.",
+      "accept": [
+        "This is"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): type the answer.",
+      "accept": [
+        "These are"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "lives"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): type the answer.",
+      "accept": [
+        "are"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): type the answer.",
+      "accept": [
+        "is"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): type the answer.",
+      "accept": [
+        "wins"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): correct or complete it.",
+      "accept": [
+        "is"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Grammar Practice 1-(a): The rich are not always happy. Translate into Korean. Not scored.",
+      "section": "Grammar Practice",
+      "id": "q13",
+      "label": "1-(a)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Grammar Practice 1-(b): The deceased is said to have lived for his country. Translate into Korean. Not scored.",
+      "section": "Grammar Practice",
+      "id": "q14",
+      "label": "1-(b)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Grammar Practice 1-(c): One fifth of the class wants to take a trip to Hawaii. Translate into Korean. Not scored.",
+      "section": "Grammar Practice",
+      "id": "q15",
+      "label": "1-(c)"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Grammar Practice 1-(d): My family is a large one. Translate into Korean. Not scored.",
+      "section": "Grammar Practice",
+      "id": "q16",
+      "label": "1-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): correct the wrong word.",
+      "accept": [
+        "makes"
+      ],
+      "section": "Grammar Practice",
+      "id": "q17",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(c): correct the wrong word.",
+      "accept": [
+        "pay"
+      ],
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "5-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "accept": [
+        "like"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "accept": [
+        "his"
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "accept": [
+        "they"
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "accept": [
+        "this"
+      ],
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "accept": [
+        "Both he and I are hungry."
+      ],
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "accept": [
+        "Either he or she is impatient."
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "accept": [
+        "Neither you or she can't buy it."
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(d): type the answer.",
+      "accept": [
+        "I like"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): correct or complete it.",
+      "accept": [
+        "arrives"
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(a): correct or complete it.",
+      "accept": [
+        "belongs"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "5-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(d): correct or complete it.",
+      "accept": [
+        "is"
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "5-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q30",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "might go",
+        "B": "should go",
+        "C": "goes",
+        "D": "go to"
+      },
+      "prompt": "He suggested that she _______ there.",
+      "accept": "B"
+    },
+    {
+      "id": "q31",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "gets",
+        "B": "got",
+        "C": "had got",
+        "D": "has got"
+      },
+      "prompt": "I finally realized that she _______ married to her current husband.",
+      "accept": "C"
+    },
+    {
+      "id": "q32",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "makes",
+        "B": "made",
+        "C": "was made",
+        "D": "were made"
+      },
+      "prompt": "This is one of the most powerful robots which _______ by him.",
+      "accept": "D"
+    },
+    {
+      "id": "q33",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "One three",
+        "B": "Two third",
+        "C": "One third",
+        "D": "One thirds"
+      },
+      "prompt": "_______ of the country is covered with mountains.",
+      "accept": "C"
+    },
+    {
+      "id": "q34",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "doesn't means",
+        "B": "don't mean",
+        "C": "doesn't mean",
+        "D": "doesn't meaning"
+      },
+      "prompt": "The poor _______ that you are hopeless all the time.",
+      "accept": "C"
+    },
+    {
+      "id": "q35",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "being",
+        "B": "is not",
+        "C": "are",
+        "D": "not been"
+      },
+      "prompt": "To write an essay with 250 words _______ difficult.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

@@ -1,247 +1,239 @@
 {
- "practiceId": "int-rc-p4-s08",
- "title": "Part IV · Section 08",
- "subtitle": "Leisure",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "aerobics",
-    "B": "organ",
-    "C": "windsurfing"
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "aerobics",
-    "B": "organ",
-    "C": "windsurfing"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "aerobics",
-    "B": "organ",
-    "C": "windsurfing"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s08/page-066.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "intermediate/rc-p4-s08/page-067.jpg",
-   "photo": "intermediate/rc-p4-s08/page-067.jpg",
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): Fill in both blanks (see the book page).",
-   "accept": [
-    "scuba diving / dangerous",
-    "scuba diving, dangerous",
-    "scuba diving dangerous"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "knitting"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "elephant"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "surf"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "Internet surfing : Internet surfing"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "scuba diving: scuba diving"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "playing with pets"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "waterskiing : water-skiing"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "comic books"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "exciting"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "moving"
-   ],
-   "photo": "intermediate/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "Speak",
-    "B": "Listen",
-    "C": "Learn",
-    "D": "Use"
-   },
-   "prompt": "_______ to English pop songs every day if you want to speak English well.",
-   "accept": "B"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "skiing",
-    "B": "jumping rope",
-    "C": "painting",
-    "D": "cross stitching"
-   },
-   "prompt": "In winter, I go _______ with my friends. It's thrilling and exciting.",
-   "accept": "A"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "feel",
-    "B": "listen",
-    "C": "hear",
-    "D": "watch"
-   },
-   "prompt": "Many families _______ TV after dinner at home.",
-   "accept": "D"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "think",
-    "B": "play",
-    "C": "take",
-    "D": "have"
-   },
-   "prompt": "I _______ that jogging and walking are good for health.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s08/page-066.jpg",
-  "intermediate/rc-p4-s08/page-067.jpg",
-  "intermediate/rc-p4-s08/page-068.jpg",
-  "intermediate/rc-p4-s08/page-069.jpg",
-  "intermediate/rc-p4-s08/page-070.jpg"
- ]
+  "practiceId": "int-rc-p4-s08",
+  "title": "Part IV · Section 08",
+  "subtitle": "Leisure",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "aerobics",
+        "B": "organ",
+        "C": "windsurfing"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "aerobics",
+        "B": "organ",
+        "C": "windsurfing"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "aerobics",
+        "B": "organ",
+        "C": "windsurfing"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): Fill in both blanks.",
+      "accept": [
+        "scuba diving / dangerous",
+        "scuba diving, dangerous",
+        "scuba diving dangerous"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q5",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "knitting"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "elephant"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "surf"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "accept": [
+        "Internet surfing : Internet surfing"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "scuba diving: scuba diving"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "playing with pets"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "waterskiing : water-skiing"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "comic books"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "exciting"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "moving"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q16",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Speak",
+        "B": "Listen",
+        "C": "Learn",
+        "D": "Use"
+      },
+      "prompt": "_______ to English pop songs every day if you want to speak English well.",
+      "accept": "B"
+    },
+    {
+      "id": "q17",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "skiing",
+        "B": "jumping rope",
+        "C": "painting",
+        "D": "cross stitching"
+      },
+      "prompt": "In winter, I go _______ with my friends. It's thrilling and exciting.",
+      "accept": "A"
+    },
+    {
+      "id": "q18",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "feel",
+        "B": "listen",
+        "C": "hear",
+        "D": "watch"
+      },
+      "prompt": "Many families _______ TV after dinner at home.",
+      "accept": "D"
+    },
+    {
+      "id": "q19",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "think",
+        "B": "play",
+        "C": "take",
+        "D": "have"
+      },
+      "prompt": "I _______ that jogging and walking are good for health.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

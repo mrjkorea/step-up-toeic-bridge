@@ -1,284 +1,277 @@
 {
- "practiceId": "adv-rc-p4-s09",
- "title": "Part IV · Section 09",
- "subtitle": "City & places",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Air pollution",
-    "B": "citizen",
-    "C": "pedestrians",
-    "D": "urban"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s09/page-073.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Air pollution",
-    "B": "citizen",
-    "C": "pedestrians",
-    "D": "urban"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s09/page-073.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Air pollution",
-    "B": "citizen",
-    "C": "pedestrians",
-    "D": "urban"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s09/page-073.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "Air pollution",
-    "B": "citizen",
-    "C": "pedestrians",
-    "D": "urban"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s09/page-073.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s09/page-073.jpg",
-   "photo": "advanced/rc-p4-s09/page-073.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "trash"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "taxi driver"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "bank"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): correct or complete it (see the book page).",
-   "accept": [
-    "department store"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "movie theater: movie theater"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "post office: post office"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "parking lot: parking lot"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "movie theater"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "office building"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "newsstand"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "fire station"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(e): type the answer (see the book page).",
-   "accept": [
-    "post office"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(f): type the answer (see the book page).",
-   "accept": [
-    "rural"
-   ],
-   "photo": "advanced/rc-p4-s09/page-076.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "sell",
-    "B": "park",
-    "C": "cross",
-    "D": "send"
-   },
-   "prompt": "We should not _______ the road unless there is a crosswalk.",
-   "accept": "C"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "traffic light",
-    "B": "traffic sign",
-    "C": "traffic jam",
-    "D": "terrible"
-   },
-   "prompt": "We were caught in a _______ on our way home.",
-   "accept": "C"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "crime",
-    "B": "tollgates",
-    "C": "pets",
-    "D": "public telephones"
-   },
-   "prompt": "Since no one has their cell phones, please use _______.",
-   "accept": "D"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "go",
-    "B": "visit",
-    "C": "park",
-    "D": "pay"
-   },
-   "prompt": "Please _______ my office when you finish your work.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s09/page-073.jpg",
-  "advanced/rc-p4-s09/page-074.jpg",
-  "advanced/rc-p4-s09/page-075.jpg",
-  "advanced/rc-p4-s09/page-076.jpg"
- ]
+  "practiceId": "adv-rc-p4-s09",
+  "title": "Part IV · Section 09",
+  "subtitle": "City & places",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Air pollution",
+        "B": "citizen",
+        "C": "pedestrians",
+        "D": "urban"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Air pollution",
+        "B": "citizen",
+        "C": "pedestrians",
+        "D": "urban"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Air pollution",
+        "B": "citizen",
+        "C": "pedestrians",
+        "D": "urban"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "Air pollution",
+        "B": "citizen",
+        "C": "pedestrians",
+        "D": "urban"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "trash"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "taxi driver"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "bank"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it.",
+      "accept": [
+        "department store"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "movie theater: movie theater"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "post office: post office"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "parking lot: parking lot"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "movie theater"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "office building"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "newsstand"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "accept": [
+        "fire station"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q16",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "accept": [
+        "post office"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q17",
+      "label": "3-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(f): type the answer.",
+      "accept": [
+        "rural"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q18",
+      "label": "3-(f)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q19",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "sell",
+        "B": "park",
+        "C": "cross",
+        "D": "send"
+      },
+      "prompt": "We should not _______ the road unless there is a crosswalk.",
+      "accept": "C"
+    },
+    {
+      "id": "q20",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "traffic light",
+        "B": "traffic sign",
+        "C": "traffic jam",
+        "D": "terrible"
+      },
+      "prompt": "We were caught in a _______ on our way home.",
+      "accept": "C"
+    },
+    {
+      "id": "q21",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "crime",
+        "B": "tollgates",
+        "C": "pets",
+        "D": "public telephones"
+      },
+      "prompt": "Since no one has their cell phones, please use _______.",
+      "accept": "D"
+    },
+    {
+      "id": "q22",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "go",
+        "B": "visit",
+        "C": "park",
+        "D": "pay"
+      },
+      "prompt": "Please _______ my office when you finish your work.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

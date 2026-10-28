@@ -9,117 +9,117 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "delicate",
     "B": "regularly"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "delicate",
     "B": "regularly"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s03/page-092.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "keep A out of the reach of B"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q3",
-   "label": "3"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "at home"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q4",
-   "label": "4"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "in an institute"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "through computer"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "instructions for use"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "in quarters"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "go up"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "be required to"
    ],
-   "photo": "intermediate/rc-p5-s03/page-093.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -129,10 +129,9 @@
     "B": "By cleaning with a brush"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q11",
-   "label": "11"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -142,10 +141,9 @@
     "B": "You shouldn’t use the remote control in the bath"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-094.jpg",
    "section": "Reading Practice 1",
    "id": "q12",
-   "label": "12"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -155,10 +153,9 @@
     "B": "How to learn English"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q13",
-   "label": "13"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -168,14 +165,13 @@
     "B": "Less effectiveness, saving money"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s03/page-095.jpg",
    "section": "Reading Practice 2",
    "id": "q14",
-   "label": "14"
+   "label": "2"
   },
   {
    "id": "q15",
-   "label": "15",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "On a microwave oven",
@@ -186,14 +182,11 @@
    "prompt": "Where would this notice be found?",
    "accept": "B",
    "passage": "Instructions For Use",
-   "passageHead": "Questions 1-2 refer to the following instructions.",
-   "passagePage": 96,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-096.jpg"
+   "passageHead": "Questions 1-2 refer to the following instructions."
   },
   {
    "id": "q16",
-   "label": "16",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "$0.75",
@@ -204,14 +197,11 @@
    "prompt": "How much does this service cost?",
    "accept": "C",
    "passage": "Instructions For Use",
-   "passageHead": "Questions 1-2 refer to the following instructions.",
-   "passagePage": 96,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-096.jpg"
+   "passageHead": "Questions 1-2 refer to the following instructions."
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "A television",
@@ -222,14 +212,11 @@
    "prompt": "What are the instructions for?",
    "accept": "C",
    "passage": "Operating Instructions / 1. Turn machine on. / 2. Place a cassette in the player.",
-   "passageHead": "Questions 3-4 refer to the following instructions.",
-   "passagePage": 97,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-097.jpg"
+   "passageHead": "Questions 3-4 refer to the following instructions."
   },
   {
    "id": "q18",
-   "label": "18",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "It turns the machine on.",
@@ -240,17 +227,8 @@
    "prompt": "What does the \"fast-forward\" button do?",
    "accept": "D",
    "passage": "Operating Instructions / 1. Turn machine on. / 2. Place a cassette in the player.",
-   "passageHead": "Questions 3-4 refer to the following instructions.",
-   "passagePage": 97,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-097.jpg"
+   "passageHead": "Questions 3-4 refer to the following instructions."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p5-s03/page-092.jpg",
-  "intermediate/rc-p5-s03/page-093.jpg",
-  "intermediate/rc-p5-s03/page-094.jpg",
-  "intermediate/rc-p5-s03/page-095.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

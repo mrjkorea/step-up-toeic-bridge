@@ -19,7 +19,7 @@
   function isScoredItem(item) {
     if (!item || item.displayOnly) return false;
     if (item.scored === false) return false;
-    if (item.blocked === true || item.blocked === "true") return false;
+    if (item.blocked !== false && item.blocked != null && item.blocked !== "") return false;
     return true;
   }
 

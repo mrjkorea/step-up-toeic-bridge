@@ -1,478 +1,457 @@
 {
- "practiceId": "int-lc-p3-s04",
- "title": "Part III · Section 04",
- "subtitle": "Conversations & talks",
- "level": "intermediate",
- "skill": "lc",
- "stub": false,
- "audioRef": "int-lc-p3-s04",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "camp",
-    "B": "is not allowed"
-   },
-   "accept": "A",
-   "photo": "intermediate/lc-p3-s04/page-108.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "camp",
-    "B": "is not allowed"
-   },
-   "accept": "B",
-   "photo": "intermediate/lc-p3-s04/page-108.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "From the Royal Hotel",
-    "B": "In front of the main entrance"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "From the Royal Hotel",
-    "B": "In front of the main entrance"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "Kids under 5 years",
-    "B": "Using a cell phone"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Kids under 5 years",
-    "B": "Using a cell phone"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "On the third floor",
-    "B": "Using the stairs"
-   },
-   "prompt": "Warm-Up 3-(a): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "On the third floor",
-    "B": "Using the stairs"
-   },
-   "prompt": "Warm-Up 3-(b): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "Take out a pencil."
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-110.jpg",
-   "section": "Listening Practice 1",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
-   "accept": [
-    "No cheating!"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-110.jpg",
-   "section": "Listening Practice 1",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "passengers"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-110.jpg",
-   "section": "Listening Practice 1",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
-   "accept": [
-    "main entrance"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-110.jpg",
-   "section": "Listening Practice 1",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "be aware that"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-111.jpg",
-   "section": "Listening Practice 2",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "Attention"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-111.jpg",
-   "section": "Listening Practice 2",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
-   "accept": [
-    "turn off"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-111.jpg",
-   "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 3: type the words you hear.",
-   "accept": [
-    "remind"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-111.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "Camping rules",
-    "B": "Giving directions",
-    "C": "In a theater",
-    "D": "In front of the hotel's main entrance",
-    "E": "On the left",
-    "F": "Take out a pencil."
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "art gallery"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
-   "accept": [
-    "get off"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 3: type the words you hear.",
-   "accept": [
-    "across the street"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "sculpture exhibit"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
-   "accept": [
-    "showing"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 3: type the words you hear.",
-   "accept": [
-    "gift shop"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s04/page-112.jpg",
-   "section": "Listening Practice 3",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "Go to the picnic area",
-    "B": "Participate in the quiz with their family",
-    "C": "Join in the Fun Run and then eat",
-    "D": "Go to the main gate at 9 a.m."
-   },
-   "prompt": "What should people do first tomorrow?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "A photo exhibition will close on Saturday.",
-    "B": "A photo exhibition will begin on Saturday.",
-    "C": "The art gallery wants to buy black and white pictures.",
-    "D": "The art gallery is selling black and white pictures."
-   },
-   "prompt": "What is being announced?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "In the elevator",
-    "B": "On the sidewalk",
-    "C": "In the parking lot",
-    "D": "Near the building's entrance"
-   },
-   "prompt": "Where are bicycles not allowed?",
-   "accept": "D",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "The animals can be scared.",
-    "B": "The animals are too young.",
-    "C": "Food might be dangerous.",
-    "D": "The animals might hate food."
-   },
-   "prompt": "Why shou Id people not give food to the animals?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "Part of the gym will be closed.",
-    "B": "They celebrate a national holiday.",
-    "C": "The main entrance is being repaired.",
-    "D": "The gym has many entrances."
-   },
-   "prompt": "Why do members have to use the side entrance from Tuesday to Thursday?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "Drive to work",
-    "B": "Not drive to work",
-    "C": "Get a bus from their house",
-    "D": "Park their car in the company parking lot"
-   },
-   "prompt": "What should the staff do tomorrow?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/lc-p3-s04/page-108.jpg",
-  "intermediate/lc-p3-s04/page-109.jpg",
-  "intermediate/lc-p3-s04/page-110.jpg",
-  "intermediate/lc-p3-s04/page-111.jpg",
-  "intermediate/lc-p3-s04/page-112.jpg"
- ]
+  "practiceId": "int-lc-p3-s04",
+  "title": "Part III · Section 04",
+  "subtitle": "Conversations & talks",
+  "level": "intermediate",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "int-lc-p3-s04",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "camp",
+        "B": "is not allowed"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "camp",
+        "B": "is not allowed"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "2",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q3",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "From the Royal Hotel",
+        "B": "In front of the main entrance"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q4",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "From the Royal Hotel",
+        "B": "In front of the main entrance"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Kids under 5 years",
+        "B": "Using a cell phone"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Kids under 5 years",
+        "B": "Using a cell phone"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "3-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "On the third floor",
+        "B": "Using the stairs"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "3-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "On the third floor",
+        "B": "Using the stairs"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q10",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "Take out a pencil."
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q11",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+      "accept": [
+        "No cheating!"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q12",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "passengers"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q13",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 2: type the words you hear.",
+      "accept": [
+        "main entrance"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q14",
+      "label": "6"
+    },
+    {
+      "id": "q15",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q16",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "be aware that"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q17",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "Attention"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q18",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+      "accept": [
+        "turn off"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q19",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 3: type the words you hear.",
+      "accept": [
+        "remind"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "6"
+    },
+    {
+      "id": "q21",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q22",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Camping rules",
+        "B": "Giving directions",
+        "C": "In a theater",
+        "D": "In front of the hotel's main entrance",
+        "E": "On the left",
+        "F": "Take out a pencil."
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "art gallery"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q23",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
+      "accept": [
+        "get off"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q24",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 3: type the words you hear.",
+      "accept": [
+        "across the street"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q25",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "sculpture exhibit"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q26",
+      "label": "6"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
+      "accept": [
+        "showing"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q27",
+      "label": "7"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 3: type the words you hear.",
+      "accept": [
+        "gift shop"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q28",
+      "label": "8"
+    },
+    {
+      "id": "q29",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Go to the picnic area",
+        "B": "Participate in the quiz with their family",
+        "C": "Join in the Fun Run and then eat",
+        "D": "Go to the main gate at 9 a.m."
+      },
+      "prompt": "What should people do first tomorrow?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A photo exhibition will close on Saturday.",
+        "B": "A photo exhibition will begin on Saturday.",
+        "C": "The art gallery wants to buy black and white pictures.",
+        "D": "The art gallery is selling black and white pictures."
+      },
+      "prompt": "What is being announced?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q31",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "In the elevator",
+        "B": "On the sidewalk",
+        "C": "In the parking lot",
+        "D": "Near the building's entrance"
+      },
+      "prompt": "Where are bicycles not allowed?",
+      "accept": "D",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q32",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "The animals can be scared.",
+        "B": "The animals are too young.",
+        "C": "Food might be dangerous.",
+        "D": "The animals might hate food."
+      },
+      "prompt": "Why shou Id people not give food to the animals?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q33",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Part of the gym will be closed.",
+        "B": "They celebrate a national holiday.",
+        "C": "The main entrance is being repaired.",
+        "D": "The gym has many entrances."
+      },
+      "prompt": "Why do members have to use the side entrance from Tuesday to Thursday?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q34",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Drive to work",
+        "B": "Not drive to work",
+        "C": "Get a bus from their house",
+        "D": "Park their car in the company parking lot"
+      },
+      "prompt": "What should the staff do tomorrow?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

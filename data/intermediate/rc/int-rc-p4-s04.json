@@ -1,464 +1,456 @@
 {
- "practiceId": "int-rc-p4-s04",
- "title": "Part IV · Section 04",
- "subtitle": "Adverbs",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "pick up",
-    "B": "turn on"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s04/page-037.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "pick up",
-    "B": "turn on"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s04/page-037.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(a): correct the wrong word (see the book page).",
-   "accept": [
-    "hard"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(c): Correct the wrong word (see the book page).",
-   "accept": [
-    "expensive"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(d): correct the wrong word (see the book page).",
-   "accept": [
-    "late"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(a): type the answer (see the book page).",
-   "accept": [
-    "I will study very hard."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(b): type the answer (see the book page).",
-   "accept": [
-    "The math exam was very difficult."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(c): type the answer (see the book page).",
-   "accept": [
-    "Happily, he passed the exam."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-(d): type the answer (see the book page).",
-   "accept": [
-    "She ran out of the room very quickly."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): type the answer (see the book page).",
-   "accept": [
-    "exactly"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): type the answer (see the book page).",
-   "accept": [
-    "beautiful"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): type the answer (see the book page).",
-   "accept": [
-    "easy"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): type the answer (see the book page).",
-   "accept": [
-    "well"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-(b): correct or complete it (see the book page).",
-   "accept": [
-    "fast"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(a): type the answer (see the book page).",
-   "accept": [
-    "He is always sad."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(b): type the answer (see the book page).",
-   "accept": [
-    "He sometimes watches TV after dinner."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(c): type the answer (see the book page).",
-   "accept": [
-    "He can hardly read an English newspaper."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-(d): type the answer (see the book page).",
-   "accept": [
-    "He often rides a bike to the mart."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-038.jpg",
-   "section": "Warm-Up",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): Rewrite the sentence (see the book page).",
-   "accept": [
-    "I will go to the cinema with my friends next Wednesday."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4: Correct the word order: We watch often movies at home.",
-   "accept": [
-    "We often watch movies at home."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "fast"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "kindly"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "happily"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): type the answer (see the book page).",
-   "accept": [
-    "sadly"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(e): type the answer (see the book page).",
-   "accept": [
-    "quickly"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(f): type the answer (see the book page).",
-   "accept": [
-    "truly"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(g): type the answer (see the book page).",
-   "accept": [
-    "really"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(h): type the answer (see the book page).",
-   "accept": [
-    "carefully"
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "He is a good singer."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "She is a fast runner."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "The girl is a beautiful player."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "He is a careful driver."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q32",
-   "label": "32"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "This computer is very expensive for me."
-   ],
-   "photo": "intermediate/rc-p4-s04/page-040.jpg",
-   "section": "Grammar Practice",
-   "id": "q33",
-   "label": "33"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "softly",
-    "B": "heavily",
-    "C": "loudly",
-    "D": "carefully"
-   },
-   "prompt": "You had better not go outside when it rains _______.",
-   "accept": "B"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "yet",
-    "B": "already",
-    "C": "near",
-    "D": "hopeful"
-   },
-   "prompt": "I was _______ late for school when I took a taxi.",
-   "accept": "B"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "good – good – good – well",
-    "B": "well – good – well – good",
-    "C": "good – good – well – good",
-    "D": "well – good – well – well"
-   },
-   "prompt": "The bread looks _______, smells _______, tastes _______ and sells _______.",
-   "accept": "A"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "enough rich",
-    "B": "richness enough",
-    "C": "rich enough",
-    "D": "enough richness"
-   },
-   "prompt": "He was _______ to buy the car.",
-   "accept": "C"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "turn it off",
-    "B": "turn off it",
-    "C": "it turn off",
-    "D": "turning it off"
-   },
-   "prompt": "The light is still on. Please _______.",
-   "accept": "A"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "hard - hard",
-    "B": "hardly - hard",
-    "C": "hard - hardly",
-    "D": "hardly - hardly"
-   },
-   "prompt": "Yesterday, it snowed very _______. Cars could _______ move on.",
-   "accept": "C"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s04/page-037.jpg",
-  "intermediate/rc-p4-s04/page-038.jpg",
-  "intermediate/rc-p4-s04/page-039.jpg",
-  "intermediate/rc-p4-s04/page-040.jpg",
-  "intermediate/rc-p4-s04/page-041.jpg"
- ]
+  "practiceId": "int-rc-p4-s04",
+  "title": "Part IV · Section 04",
+  "subtitle": "Adverbs",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "pick up",
+        "B": "turn on"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "pick up",
+        "B": "turn on"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(a): correct the wrong word.",
+      "accept": [
+        "hard"
+      ],
+      "section": "Warm-Up",
+      "id": "q3",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(c): Correct the wrong word.",
+      "accept": [
+        "expensive"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(d): correct the wrong word.",
+      "accept": [
+        "late"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(a): type the answer.",
+      "accept": [
+        "I will study very hard."
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(b): type the answer.",
+      "accept": [
+        "The math exam was very difficult."
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(c): type the answer.",
+      "accept": [
+        "Happily, he passed the exam."
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-(d): type the answer.",
+      "accept": [
+        "She ran out of the room very quickly."
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): type the answer.",
+      "accept": [
+        "exactly"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): type the answer.",
+      "accept": [
+        "beautiful"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): type the answer.",
+      "accept": [
+        "easy"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): type the answer.",
+      "accept": [
+        "well"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3-(b): correct or complete it.",
+      "accept": [
+        "fast"
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(a): type the answer.",
+      "accept": [
+        "He is always sad."
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(b): type the answer.",
+      "accept": [
+        "He sometimes watches TV after dinner."
+      ],
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "4-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(c): type the answer.",
+      "accept": [
+        "He can hardly read an English newspaper."
+      ],
+      "section": "Warm-Up",
+      "id": "q17",
+      "label": "4-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-(d): type the answer.",
+      "accept": [
+        "He often rides a bike to the mart."
+      ],
+      "section": "Warm-Up",
+      "id": "q18",
+      "label": "4-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): Rewrite the sentence.",
+      "accept": [
+        "I will go to the cinema with my friends next Wednesday."
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4: Correct the word order: We watch often movies at home.",
+      "accept": [
+        "We often watch movies at home."
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "2"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "accept": [
+        "fast"
+      ],
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): type the answer.",
+      "accept": [
+        "kindly"
+      ],
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): type the answer.",
+      "accept": [
+        "happily"
+      ],
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): type the answer.",
+      "accept": [
+        "sadly"
+      ],
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "1-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(e): type the answer.",
+      "accept": [
+        "quickly"
+      ],
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "1-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(f): type the answer.",
+      "accept": [
+        "truly"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "1-(f)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(g): type the answer.",
+      "accept": [
+        "really"
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "1-(g)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(h): type the answer.",
+      "accept": [
+        "carefully"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "1-(h)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "accept": [
+        "He is a good singer."
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "accept": [
+        "She is a fast runner."
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "accept": [
+        "The girl is a beautiful player."
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "accept": [
+        "He is a careful driver."
+      ],
+      "section": "Grammar Practice",
+      "id": "q32",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "accept": [
+        "This computer is very expensive for me."
+      ],
+      "section": "Grammar Practice",
+      "id": "q33",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q34",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "softly",
+        "B": "heavily",
+        "C": "loudly",
+        "D": "carefully"
+      },
+      "prompt": "You had better not go outside when it rains _______.",
+      "accept": "B"
+    },
+    {
+      "id": "q35",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "yet",
+        "B": "already",
+        "C": "near",
+        "D": "hopeful"
+      },
+      "prompt": "I was _______ late for school when I took a taxi.",
+      "accept": "B"
+    },
+    {
+      "id": "q36",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "good – good – good – well",
+        "B": "well – good – well – good",
+        "C": "good – good – well – good",
+        "D": "well – good – well – well"
+      },
+      "prompt": "The bread looks _______, smells _______, tastes _______ and sells _______.",
+      "accept": "A"
+    },
+    {
+      "id": "q37",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "enough rich",
+        "B": "richness enough",
+        "C": "rich enough",
+        "D": "enough richness"
+      },
+      "prompt": "He was _______ to buy the car.",
+      "accept": "C"
+    },
+    {
+      "id": "q38",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "turn it off",
+        "B": "turn off it",
+        "C": "it turn off",
+        "D": "turning it off"
+      },
+      "prompt": "The light is still on. Please _______.",
+      "accept": "A"
+    },
+    {
+      "id": "q39",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "hard - hard",
+        "B": "hardly - hard",
+        "C": "hard - hardly",
+        "D": "hardly - hardly"
+      },
+      "prompt": "Yesterday, it snowed very _______. Cars could _______ move on.",
+      "accept": "C"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

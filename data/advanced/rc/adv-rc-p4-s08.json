@@ -1,284 +1,277 @@
 {
- "practiceId": "adv-rc-p4-s08",
- "title": "Part IV · Section 08",
- "subtitle": "Conversation",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "conversation",
-    "B": "information",
-    "C": "objection",
-    "D": "warning"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s08/page-067.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "conversation",
-    "B": "information",
-    "C": "objection",
-    "D": "warning"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s08/page-067.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "conversation",
-    "B": "information",
-    "C": "objection",
-    "D": "warning"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s08/page-067.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "conversation",
-    "B": "information",
-    "C": "objection",
-    "D": "warning"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s08/page-067.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "display",
-   "displayOnly": true,
-   "scored": false,
-   "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-   "pageImage": "advanced/rc-p4-s08/page-068.jpg",
-   "photo": "advanced/rc-p4-s08/page-068.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(a): type the answer (see the book page).",
-   "accept": [
-    "discuss"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(b): type the answer (see the book page).",
-   "accept": [
-    "considerate"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 1-(c): type the answer (see the book page).",
-   "accept": [
-    "state"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "counselor"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "applicant"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "addresser"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "supporter"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(a): type the answer (see the book page).",
-   "accept": [
-    "warning"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "discussion"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "argument"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(d): type the answer (see the book page).",
-   "accept": [
-    "complaint"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(e): type the answer (see the book page).",
-   "accept": [
-    "agreement"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Vocabulary Practice 3-(f): type the answer (see the book page).",
-   "accept": [
-    "acceptance"
-   ],
-   "photo": "advanced/rc-p4-s08/page-070.jpg",
-   "section": "Vocabulary Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "warn",
-    "B": "accept",
-    "C": "swear",
-    "D": "apply"
-   },
-   "prompt": "Sometimes it is not easy to _______ the truth.",
-   "accept": "B"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "agree",
-    "B": "blame",
-    "C": "advise",
-    "D": "request"
-   },
-   "prompt": "Most people _______ that he is the best teacher in the school.",
-   "accept": "A"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "information",
-    "B": "expression",
-    "C": "opinion",
-    "D": "conversation"
-   },
-   "prompt": "What is your _______ about moving into the city?",
-   "accept": "C"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "applicant",
-    "B": "apply",
-    "C": "application",
-    "D": "applies"
-   },
-   "prompt": "In the afternoon, we will interview the job _______",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s08/page-067.jpg",
-  "advanced/rc-p4-s08/page-068.jpg",
-  "advanced/rc-p4-s08/page-069.jpg",
-  "advanced/rc-p4-s08/page-070.jpg"
- ]
+  "practiceId": "adv-rc-p4-s08",
+  "title": "Part IV · Section 08",
+  "subtitle": "Conversation",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "conversation",
+        "B": "information",
+        "C": "objection",
+        "D": "warning"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "conversation",
+        "B": "information",
+        "C": "objection",
+        "D": "warning"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "conversation",
+        "B": "information",
+        "C": "objection",
+        "D": "warning"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "conversation",
+        "B": "information",
+        "C": "objection",
+        "D": "warning"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "display",
+      "displayOnly": true,
+      "scored": false,
+      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "accept": [
+        "discuss"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q6",
+      "label": "1-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "accept": [
+        "considerate"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q7",
+      "label": "1-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "accept": [
+        "state"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q8",
+      "label": "1-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "accept": [
+        "counselor"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "accept": [
+        "applicant"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q10",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "accept": [
+        "addresser"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q11",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "accept": [
+        "supporter"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q12",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "accept": [
+        "warning"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q13",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "accept": [
+        "discussion"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q14",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "accept": [
+        "argument"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q15",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "accept": [
+        "complaint"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q16",
+      "label": "3-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "accept": [
+        "agreement"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q17",
+      "label": "3-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Vocabulary Practice 3-(f): type the answer.",
+      "accept": [
+        "acceptance"
+      ],
+      "section": "Vocabulary Practice",
+      "id": "q18",
+      "label": "3-(f)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q19",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "warn",
+        "B": "accept",
+        "C": "swear",
+        "D": "apply"
+      },
+      "prompt": "Sometimes it is not easy to _______ the truth.",
+      "accept": "B"
+    },
+    {
+      "id": "q20",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "agree",
+        "B": "blame",
+        "C": "advise",
+        "D": "request"
+      },
+      "prompt": "Most people _______ that he is the best teacher in the school.",
+      "accept": "A"
+    },
+    {
+      "id": "q21",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "information",
+        "B": "expression",
+        "C": "opinion",
+        "D": "conversation"
+      },
+      "prompt": "What is your _______ about moving into the city?",
+      "accept": "C"
+    },
+    {
+      "id": "q22",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "applicant",
+        "B": "apply",
+        "C": "application",
+        "D": "applies"
+      },
+      "prompt": "In the afternoon, we will interview the job _______",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

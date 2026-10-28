@@ -9,7 +9,7 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "expensive",
     "B": "favorite",
@@ -17,14 +17,14 @@
     "D": "price"
    },
    "accept": "A",
-   "photo": "intermediate/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "expensive",
     "B": "favorite",
@@ -32,14 +32,14 @@
     "D": "price"
    },
    "accept": "B",
-   "photo": "intermediate/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "expensive",
     "B": "favorite",
@@ -47,14 +47,14 @@
     "D": "price"
    },
    "accept": "D",
-   "photo": "intermediate/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "(c)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "expensive",
     "B": "favorite",
@@ -62,65 +62,65 @@
     "D": "price"
    },
    "accept": "C",
-   "photo": "intermediate/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q4",
-   "label": "4"
+   "label": "(d)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "regular price"
    ],
-   "photo": "intermediate/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "spare time"
    ],
-   "photo": "intermediate/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "at college"
    ],
-   "photo": "intermediate/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "extra large"
    ],
-   "photo": "intermediate/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "store hours"
    ],
-   "photo": "intermediate/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -130,10 +130,9 @@
     "B": "Watermelon"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s05/page-106.jpg",
    "section": "Reading Practice 1",
    "id": "q10",
-   "label": "10"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -143,10 +142,9 @@
     "B": "$6.9"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s05/page-106.jpg",
    "section": "Reading Practice 1",
    "id": "q11",
-   "label": "11"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -156,10 +154,9 @@
     "B": "Six kinds of tea"
    },
    "accept": "A",
-   "passageImage": "intermediate/rc-p5-s05/page-107.jpg",
    "section": "Reading Practice 2",
    "id": "q12",
-   "label": "12"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -169,14 +166,13 @@
     "B": "Iced tea"
    },
    "accept": "B",
-   "passageImage": "intermediate/rc-p5-s05/page-107.jpg",
    "section": "Reading Practice 2",
    "id": "q13",
-   "label": "13"
+   "label": "2"
   },
   {
    "id": "q14",
-   "label": "14",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "Reading",
@@ -187,14 +183,11 @@
    "prompt": "What is the favorite pastime for male students at the college?",
    "accept": "B",
    "passage": "A Graph to show what 100 Male and Female / students do in Their Space Time at College / Reading | Playing | Watching | Drawing / Sports | TV",
-   "passageHead": "Questions 1-2 refer to the following graph.",
-   "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-108.jpg"
+   "passageHead": "Questions 1-2 refer to the following graph."
   },
   {
    "id": "q15",
-   "label": "15",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "Reading, playing sports, and watching TV",
@@ -205,14 +198,11 @@
    "prompt": "What do the female students at the college like doing more than the males?",
    "accept": "C",
    "passage": "A Graph to show what 100 Male and Female / students do in Their Space Time at College / Reading | Playing | Watching | Drawing / Sports | TV",
-   "passageHead": "Questions 1-2 refer to the following graph.",
-   "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-108.jpg"
+   "passageHead": "Questions 1-2 refer to the following graph."
   },
   {
    "id": "q16",
-   "label": "16",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "$1.99",
@@ -223,14 +213,11 @@
    "prompt": "What is the regular price of oranges?",
    "accept": "B",
    "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
-   "passageHead": "Questions 3-4 refer to the following chart.",
-   "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-109.jpg"
+   "passageHead": "Questions 3-4 refer to the following chart."
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "Monday",
@@ -241,17 +228,8 @@
    "prompt": "What is the last day of the sale?",
    "accept": "D",
    "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
-   "passageHead": "Questions 3-4 refer to the following chart.",
-   "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "intermediate/rc-pages/page-109.jpg"
+   "passageHead": "Questions 3-4 refer to the following chart."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p5-s05/page-104.jpg",
-  "intermediate/rc-p5-s05/page-105.jpg",
-  "intermediate/rc-p5-s05/page-106.jpg",
-  "intermediate/rc-p5-s05/page-107.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

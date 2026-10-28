@@ -1,742 +1,742 @@
 {
- "practiceId": "adv-lc-at",
- "title": "LC Actual Test",
- "subtitle": "Questions 01–50",
- "level": "advanced",
- "skill": "lc",
- "stub": false,
- "audioRef": "adv-lc-at",
- "introEn": "Listening Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "The building is being painted.",
-    "B": "There is a sign in the window.",
-    "C": "Someone is opening the door.",
-    "D": "All of the windows are open."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q01.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "The plates are piled on the counter.",
-    "B": "The glasses are lined up in the cupboard.",
-    "C": "The bowls are arranged on the table.",
-    "D": "The food trays are lined up on the tables."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "D",
-   "photo": "advanced/at/q02.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "All of the birds are on the bag.",
-    "B": "The garbage bag is against the wall.",
-    "C": "All of the birds are on the grass.",
-    "D": "The birds are flying away."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q03.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "The wheelbarrow is almost full.",
-    "B": "The men are digging a ditch.",
-    "C": "The truck is on the highway.",
-    "D": "The wheelbarrow is empty."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "A",
-   "photo": "advanced/at/q04.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "The men are shaking hands.",
-    "B": "The men are hugging.",
-    "C": "The men are having a conversation.",
-    "D": "The men are walking past each other."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "A",
-   "photo": "advanced/at/q05.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Everyone is sitting at the table.",
-    "B": "The trays are on the counter.",
-    "C": "The garbage container is full.",
-    "D": "The rags are on the floor."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q06.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Everyone is in the water.",
-    "B": "The dogs are running towards the window.",
-    "C": "The dogs are scratching the window.",
-    "D": "The dogs are jumping through the window."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "C",
-   "photo": "advanced/at/q07.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "The dogs are looking out the window.",
-    "B": "The dogs are running towards the window.",
-    "C": "The dogs are scratching the window.",
-    "D": "The dogs are jumping through the window."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "A",
-   "photo": "advanced/at/q08.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "The cups are stacked on the floor.",
-    "B": "The coffee shop is closed.",
-    "C": "The woman is pouring milk.",
-    "D": "The customer is making an order."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "C",
-   "photo": "advanced/at/q09.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "The cars are parked along the harbor.",
-    "B": "The boats are tied to the pier.",
-    "C": "The stores are open at the beach.",
-    "D": "People are on the boats."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q10.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "The man is working on the roof.",
-    "B": "The building is under construction.",
-    "C": "No one is on the scaffold.",
-    "D": "A ladder is against the wall."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q11.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q12",
-   "label": "12",
-   "type": "choice",
-   "choices": {
-    "A": "The buses are waiting at the intersection.",
-    "B": "The cars are parked along the road.",
-    "C": "The people are lined up at the door.",
-    "D": "The trucks are waiting in the parking lot."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q12.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q13",
-   "label": "13",
-   "type": "choice",
-   "choices": {
-    "A": "The beach is empty.",
-    "B": "The people are carrying umbrellas.",
-    "C": "The chairs are under the beach umbrellas.",
-    "D": "The girl is building a sand castle."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "C",
-   "photo": "advanced/at/q13.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q14",
-   "label": "14",
-   "type": "choice",
-   "choices": {
-    "A": "The man is working on the roof.",
-    "B": "The sidewalk is being repaired.",
-    "C": "They are paving the road.",
-    "D": "The bench is being removed."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q14.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "The men are putting their helmets on.",
-    "B": "The motorcycles are parked together.",
-    "C": "The parking lot is full of cars.",
-    "D": "There are many bicycles."
-   },
-   "prompt": "Choose the statement that best describes the picture.",
-   "accept": "B",
-   "photo": "advanced/at/q15.png",
-   "audioOnly": true,
-   "part": "I"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "It's very nice.",
-    "B": "The number 2 train.",
-    "C": "At 5:00."
-   },
-   "prompt": "What train are you taking to get to Bill's house?",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q17",
-   "label": "17",
-   "type": "choice",
-   "choices": {
-    "A": "No, he's still eating.",
-    "B": "Yes, he'll be late for work.",
-    "C": "It's his favorite meal."
-   },
-   "prompt": "Has he finished his lunch yet?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q18",
-   "label": "18",
-   "type": "choice",
-   "choices": {
-    "A": "Joan and Lewis.",
-    "B": "She's a great actress.",
-    "C": "At 8:45 P.M."
-   },
-   "prompt": "Who are you going to the movie with?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q19",
-   "label": "19",
-   "type": "choice",
-   "choices": {
-    "A": "At 9:15.",
-    "B": "Yes, he has.",
-    "C": "He takes a bus."
-   },
-   "prompt": "James has been late for school every day, hasn't he?",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q20",
-   "label": "20",
-   "type": "choice",
-   "choices": {
-    "A": "All week.",
-    "B": "Next week.",
-    "C": "Three weeks."
-   },
-   "prompt": "When do you think Helen will return from her vacation?",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "I will help you answer it if I can.",
-    "B": "I found the question very difficult.",
-    "C": "Yes, my teacher was very helpful."
-   },
-   "prompt": "Did you find the answer to your question?",
-   "accept": "C",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "No, but it'll be cold.",
-    "B": "The ski hill is closed.",
-    "C": "Sorry, I can't."
-   },
-   "prompt": "Is it supposed to snow this weekend?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, it is.",
-    "B": "A small one, please.",
-    "C": "I don't like it."
-   },
-   "prompt": "Will that be a large or a small coffee?",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q24",
-   "label": "24",
-   "type": "choice",
-   "choices": {
-    "A": "It's almost done.",
-    "B": "I won't be there.",
-    "C": "Wood and nails."
-   },
-   "prompt": "How's your new house project coming?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q25",
-   "label": "25",
-   "type": "choice",
-   "choices": {
-    "A": "No, you shouldn't.",
-    "B": "Frank Street.",
-    "C": "It's open."
-   },
-   "prompt": "Which street should I take to get to the museum?",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, it's hard.",
-    "B": "Yes, she is.",
-    "C": "No, we won't."
-   },
-   "prompt": "Helen is really good at math and French.",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "Next week.",
-    "B": "Good idea.",
-    "C": "In a taxi."
-   },
-   "prompt": "Maybe I should call Susan and ask where she is.",
-   "accept": "B",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "No, I don't.",
-    "B": "At the driving school.",
-    "C": "Make a left turn."
-   },
-   "prompt": "You don't know how to drive, do you?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "In front of the shoe store.",
-    "B": "All weekend.",
-    "C": "At 9:45."
-   },
-   "prompt": "Where should we meet on Saturday morning?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "I work with over 20 other people.",
-    "B": "I think my colleagues really liked my advice.",
-    "C": "I just don't think they are experienced enough."
-   },
-   "prompt": "I heard you don't like your new colleagues.",
-   "accept": "C",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "The one in the mall.",
-    "B": "Size ten and a half.",
-    "C": "The brown one, please."
-   },
-   "prompt": "Which clothing store should we go to?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "To head cashier.",
-    "B": "No, they aren't.",
-    "C": "At the beginning ofeach year."
-   },
-   "prompt": "When do employees usually get promotions?",
-   "accept": "C",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q33",
-   "label": "33",
-   "type": "choice",
-   "choices": {
-    "A": "I think I have some in my car.",
-    "B": "I remember how dark it gets in the mountains.",
-    "C": "I decided not to walk when it's dark."
-   },
-   "prompt": "Shouldn't we take some flashlights with us in case it gets too dark?",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q34",
-   "label": "34",
-   "type": "choice",
-   "choices": {
-    "A": "Yes, he said he would.",
-    "B": "On the float.",
-    "C": "Three hours later."
-   },
-   "prompt": "I wonder if Bill will participate in the parade again this year.",
-   "accept": "A",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q35",
-   "label": "35",
-   "type": "choice",
-   "choices": {
-    "A": "I'm taking him to the dentist tomorrow afternoon.",
-    "B": "I'm going to the dentist at 3 p.m.",
-    "C": "I'm going to tell him this afternoon."
-   },
-   "prompt": "Have you told your boss that you have to go to the dentist tomorrow?",
-   "accept": "C",
-   "audioOnly": true,
-   "part": "II"
-  },
-  {
-   "id": "q36",
-   "label": "36",
-   "type": "choice",
-   "choices": {
-    "A": "His glasses",
-    "B": "His watch",
-    "C": "His keys",
-    "D": "His newspaper"
-   },
-   "prompt": "What is the man looking for?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "On Monday",
-    "B": "On Tuesday",
-    "C": "On Wednesday",
-    "D": "On Thursday"
-   },
-   "prompt": "When will the book sale be held?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "The woman is sick.",
-    "B": "The woman's car stalled.",
-    "C": "The woman is late.",
-    "D": "The woman missed her bus."
-   },
-   "prompt": "What is wrong?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "A house",
-    "B": "A business",
-    "C": "A car",
-    "D": "A hotel room"
-   },
-   "prompt": "What are the speakers discussing?",
-   "accept": "A",
-   "part": "III"
-  },
-  {
-   "id": "q40",
-   "label": "40",
-   "type": "choice",
-   "choices": {
-    "A": "The bus stop",
-    "B": "The hotel's main door",
-    "C": "The temple",
-    "D": "The airport"
-   },
-   "prompt": "Where will the bus depart from?",
-   "accept": "B",
-   "part": "III"
-  },
-  {
-   "id": "q41",
-   "label": "41",
-   "type": "choice",
-   "choices": {
-    "A": "Kelly",
-    "B": "Bill",
-    "C": "The boss",
-    "D": "The secretary"
-   },
-   "prompt": "Who is the man looking for?",
-   "accept": "B",
-   "part": "III"
-  },
-  {
-   "id": "q42",
-   "label": "42",
-   "type": "choice",
-   "choices": {
-    "A": "The mall is opening.",
-    "B": "Stores are closing.",
-    "C": "Lunchbreak has begun.",
-    "D": "Cashiers are going home."
-   },
-   "prompt": "What is happening?",
-   "accept": "B",
-   "part": "III"
-  },
-  {
-   "id": "q43",
-   "label": "43",
-   "type": "choice",
-   "choices": {
-    "A": "In a library",
-    "B": "In a restaurant",
-    "C": "In a bookstore",
-    "D": "In an ice cream shop"
-   },
-   "prompt": "Where are the speakers?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q44",
-   "label": "44",
-   "type": "choice",
-   "choices": {
-    "A": "A science museum",
-    "B": "A new house design",
-    "C": "A technology fair",
-    "D": "A computer company"
-   },
-   "prompt": "What is the report about?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q45",
-   "label": "45",
-   "type": "choice",
-   "choices": {
-    "A": "Hot objects",
-    "B": "Soft objects",
-    "C": "Sharp objects",
-    "D": "Safe objects"
-   },
-   "prompt": "What will the people be working with?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q46",
-   "label": "46",
-   "type": "choice",
-   "choices": {
-    "A": "A lawyer",
-    "B": "A nurse",
-    "C": "A doctor",
-    "D": "A dentist"
-   },
-   "prompt": "Who most likely is the man?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q47",
-   "label": "47",
-   "type": "choice",
-   "choices": {
-    "A": "A receipt",
-    "B": "A certificate",
-    "C": "A claim",
-    "D": "A ticket"
-   },
-   "prompt": "What must someone have to win?",
-   "accept": "D",
-   "part": "III"
-  },
-  {
-   "id": "q48",
-   "label": "48",
-   "type": "choice",
-   "choices": {
-    "A": "At 3:00",
-    "B": "At 4:00",
-    "C": "At 5:00",
-    "D": "At 6:00"
-   },
-   "prompt": "When will the man go on the cruise?",
-   "accept": "D",
-   "part": "III"
-  },
-  {
-   "id": "q49",
-   "label": "49",
-   "type": "choice",
-   "choices": {
-    "A": "The car will not start.",
-    "B": "The license plate fell off.",
-    "C": "The car is blocking an exit.",
-    "D": "The car cannot be towed."
-   },
-   "prompt": "What is the problem?",
-   "accept": "C",
-   "part": "III"
-  },
-  {
-   "id": "q50",
-   "label": "50",
-   "type": "choice",
-   "choices": {
-    "A": "In a restaurant",
-    "B": "In a bank",
-    "C": "In a hotel",
-    "D": "In a school"
-   },
-   "prompt": "Where are the speakers?",
-   "accept": "C",
-   "part": "III"
-  }
- ]
+  "practiceId": "adv-lc-at",
+  "title": "LC Actual Test",
+  "subtitle": "Questions 01–50",
+  "level": "advanced",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "adv-lc-at",
+  "introEn": "Listening Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "The building is being painted.",
+        "B": "There is a sign in the window.",
+        "C": "Someone is opening the door.",
+        "D": "All of the windows are open."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q01.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "The plates are piled on the counter.",
+        "B": "The glasses are lined up in the cupboard.",
+        "C": "The bowls are arranged on the table.",
+        "D": "The food trays are lined up on the tables."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "D",
+      "photo": "advanced/at/q02.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "All of the birds are on the bag.",
+        "B": "The garbage bag is against the wall.",
+        "C": "All of the birds are on the grass.",
+        "D": "The birds are flying away."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q03.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "The wheelbarrow is almost full.",
+        "B": "The men are digging a ditch.",
+        "C": "The truck is on the highway.",
+        "D": "The wheelbarrow is empty."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "advanced/at/q04.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "The men are shaking hands.",
+        "B": "The men are hugging.",
+        "C": "The men are having a conversation.",
+        "D": "The men are walking past each other."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "advanced/at/q05.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "Everyone is sitting at the table.",
+        "B": "The trays are on the counter.",
+        "C": "The garbage container is full.",
+        "D": "The rags are on the floor."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q06.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "Everyone is in the water.",
+        "B": "The dogs are running towards the window.",
+        "C": "The dogs are scratching the window.",
+        "D": "The dogs are jumping through the window."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "advanced/at/q07.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "The dogs are looking out the window.",
+        "B": "The dogs are running towards the window.",
+        "C": "The dogs are scratching the window.",
+        "D": "The dogs are jumping through the window."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "A",
+      "photo": "advanced/at/q08.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "The cups are stacked on the floor.",
+        "B": "The coffee shop is closed.",
+        "C": "The woman is pouring milk.",
+        "D": "The customer is making an order."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "advanced/at/q09.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "The cars are parked along the harbor.",
+        "B": "The boats are tied to the pier.",
+        "C": "The stores are open at the beach.",
+        "D": "People are on the boats."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q10.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q11",
+      "label": "11",
+      "type": "choice",
+      "choices": {
+        "A": "The man is working on the roof.",
+        "B": "The building is under construction.",
+        "C": "No one is on the scaffold.",
+        "D": "A ladder is against the wall."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q11.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q12",
+      "label": "12",
+      "type": "choice",
+      "choices": {
+        "A": "The buses are waiting at the intersection.",
+        "B": "The cars are parked along the road.",
+        "C": "The people are lined up at the door.",
+        "D": "The trucks are waiting in the parking lot."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q12.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q13",
+      "label": "13",
+      "type": "choice",
+      "choices": {
+        "A": "The beach is empty.",
+        "B": "The people are carrying umbrellas.",
+        "C": "The chairs are under the beach umbrellas.",
+        "D": "The girl is building a sand castle."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "C",
+      "photo": "advanced/at/q13.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q14",
+      "label": "14",
+      "type": "choice",
+      "choices": {
+        "A": "The man is working on the roof.",
+        "B": "The sidewalk is being repaired.",
+        "C": "They are paving the road.",
+        "D": "The bench is being removed."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q14.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q15",
+      "label": "15",
+      "type": "choice",
+      "choices": {
+        "A": "The men are putting their helmets on.",
+        "B": "The motorcycles are parked together.",
+        "C": "The parking lot is full of cars.",
+        "D": "There are many bicycles."
+      },
+      "prompt": "Choose the statement that best describes the picture.",
+      "accept": "B",
+      "photo": "advanced/at/q15.png",
+      "audioOnly": true,
+      "part": "I"
+    },
+    {
+      "id": "q16",
+      "label": "16",
+      "type": "choice",
+      "choices": {
+        "A": "It's very nice.",
+        "B": "The number 2 train.",
+        "C": "At 5:00."
+      },
+      "prompt": "What train are you taking to get to Bill's house?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q17",
+      "label": "17",
+      "type": "choice",
+      "choices": {
+        "A": "No, he's still eating.",
+        "B": "Yes, he'll be late for work.",
+        "C": "It's his favorite meal."
+      },
+      "prompt": "Has he finished his lunch yet?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q18",
+      "label": "18",
+      "type": "choice",
+      "choices": {
+        "A": "Joan and Lewis.",
+        "B": "She's a great actress.",
+        "C": "At 8:45 P.M."
+      },
+      "prompt": "Who are you going to the movie with?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q19",
+      "label": "19",
+      "type": "choice",
+      "choices": {
+        "A": "At 9:15.",
+        "B": "Yes, he has.",
+        "C": "He takes a bus."
+      },
+      "prompt": "James has been late for school every day, hasn't he?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q20",
+      "label": "20",
+      "type": "choice",
+      "choices": {
+        "A": "All week.",
+        "B": "Next week.",
+        "C": "Three weeks."
+      },
+      "prompt": "When do you think Helen will return from her vacation?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q21",
+      "label": "21",
+      "type": "choice",
+      "choices": {
+        "A": "I will help you answer it if I can.",
+        "B": "I found the question very difficult.",
+        "C": "Yes, my teacher was very helpful."
+      },
+      "prompt": "Did you find the answer to your question?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q22",
+      "label": "22",
+      "type": "choice",
+      "choices": {
+        "A": "No, but it'll be cold.",
+        "B": "The ski hill is closed.",
+        "C": "Sorry, I can't."
+      },
+      "prompt": "Is it supposed to snow this weekend?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q23",
+      "label": "23",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it is.",
+        "B": "A small one, please.",
+        "C": "I don't like it."
+      },
+      "prompt": "Will that be a large or a small coffee?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q24",
+      "label": "24",
+      "type": "choice",
+      "choices": {
+        "A": "It's almost done.",
+        "B": "I won't be there.",
+        "C": "Wood and nails."
+      },
+      "prompt": "How's your new house project coming?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q25",
+      "label": "25",
+      "type": "choice",
+      "choices": {
+        "A": "No, you shouldn't.",
+        "B": "Frank Street.",
+        "C": "It's open."
+      },
+      "prompt": "Which street should I take to get to the museum?",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q26",
+      "label": "26",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, it's hard.",
+        "B": "Yes, she is.",
+        "C": "No, we won't."
+      },
+      "prompt": "Helen is really good at math and French.",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q27",
+      "label": "27",
+      "type": "choice",
+      "choices": {
+        "A": "Next week.",
+        "B": "Good idea.",
+        "C": "In a taxi."
+      },
+      "prompt": "Maybe I should call Susan and ask where she is.",
+      "accept": "B",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q28",
+      "label": "28",
+      "type": "choice",
+      "choices": {
+        "A": "No, I don't.",
+        "B": "At the driving school.",
+        "C": "Make a left turn."
+      },
+      "prompt": "You don't know how to drive, do you?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q29",
+      "label": "29",
+      "type": "choice",
+      "choices": {
+        "A": "In front of the shoe store.",
+        "B": "All weekend.",
+        "C": "At 9:45."
+      },
+      "prompt": "Where should we meet on Saturday morning?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q30",
+      "label": "30",
+      "type": "choice",
+      "choices": {
+        "A": "I work with over 20 other people.",
+        "B": "I think my colleagues really liked my advice.",
+        "C": "I just don't think they are experienced enough."
+      },
+      "prompt": "I heard you don't like your new colleagues.",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q31",
+      "label": "31",
+      "type": "choice",
+      "choices": {
+        "A": "The one in the mall.",
+        "B": "Size ten and a half.",
+        "C": "The brown one, please."
+      },
+      "prompt": "Which clothing store should we go to?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q32",
+      "label": "32",
+      "type": "choice",
+      "choices": {
+        "A": "To head cashier.",
+        "B": "No, they aren't.",
+        "C": "At the beginning ofeach year."
+      },
+      "prompt": "When do employees usually get promotions?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q33",
+      "label": "33",
+      "type": "choice",
+      "choices": {
+        "A": "I think I have some in my car.",
+        "B": "I remember how dark it gets in the mountains.",
+        "C": "I decided not to walk when it's dark."
+      },
+      "prompt": "Shouldn't we take some flashlights with us in case it gets too dark?",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q34",
+      "label": "34",
+      "type": "choice",
+      "choices": {
+        "A": "Yes, he said he would.",
+        "B": "On the float.",
+        "C": "Three hours later."
+      },
+      "prompt": "I wonder if Bill will participate in the parade again this year.",
+      "accept": "A",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q35",
+      "label": "35",
+      "type": "choice",
+      "choices": {
+        "A": "I'm taking him to the dentist tomorrow afternoon.",
+        "B": "I'm going to the dentist at 3 p.m.",
+        "C": "I'm going to tell him this afternoon."
+      },
+      "prompt": "Have you told your boss that you have to go to the dentist tomorrow?",
+      "accept": "C",
+      "audioOnly": true,
+      "part": "II"
+    },
+    {
+      "id": "q36",
+      "label": "36",
+      "type": "choice",
+      "choices": {
+        "A": "His glasses",
+        "B": "His watch",
+        "C": "His keys",
+        "D": "His newspaper"
+      },
+      "prompt": "What is the man looking for?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q37",
+      "label": "37",
+      "type": "choice",
+      "choices": {
+        "A": "On Monday",
+        "B": "On Tuesday",
+        "C": "On Wednesday",
+        "D": "On Thursday"
+      },
+      "prompt": "When will the book sale be held?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q38",
+      "label": "38",
+      "type": "choice",
+      "choices": {
+        "A": "The woman is sick.",
+        "B": "The woman's car stalled.",
+        "C": "The woman is late.",
+        "D": "The woman missed her bus."
+      },
+      "prompt": "What is wrong?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q39",
+      "label": "39",
+      "type": "choice",
+      "choices": {
+        "A": "A house",
+        "B": "A business",
+        "C": "A car",
+        "D": "A hotel room"
+      },
+      "prompt": "What are the speakers discussing?",
+      "accept": "A",
+      "part": "III"
+    },
+    {
+      "id": "q40",
+      "label": "40",
+      "type": "choice",
+      "choices": {
+        "A": "The bus stop",
+        "B": "The hotel's main door",
+        "C": "The temple",
+        "D": "The airport"
+      },
+      "prompt": "Where will the bus depart from?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q41",
+      "label": "41",
+      "type": "choice",
+      "choices": {
+        "A": "Kelly",
+        "B": "Bill",
+        "C": "The boss",
+        "D": "The secretary"
+      },
+      "prompt": "Who is the man looking for?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q42",
+      "label": "42",
+      "type": "choice",
+      "choices": {
+        "A": "The mall is opening.",
+        "B": "Stores are closing.",
+        "C": "Lunchbreak has begun.",
+        "D": "Cashiers are going home."
+      },
+      "prompt": "What is happening?",
+      "accept": "B",
+      "part": "III"
+    },
+    {
+      "id": "q43",
+      "label": "43",
+      "type": "choice",
+      "choices": {
+        "A": "In a library",
+        "B": "In a restaurant",
+        "C": "In a bookstore",
+        "D": "In an ice cream shop"
+      },
+      "prompt": "Where are the speakers?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q44",
+      "label": "44",
+      "type": "choice",
+      "choices": {
+        "A": "A science museum",
+        "B": "A new house design",
+        "C": "A technology fair",
+        "D": "A computer company"
+      },
+      "prompt": "What is the report about?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q45",
+      "label": "45",
+      "type": "choice",
+      "choices": {
+        "A": "Hot objects",
+        "B": "Soft objects",
+        "C": "Sharp objects",
+        "D": "Safe objects"
+      },
+      "prompt": "What will the people be working with?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q46",
+      "label": "46",
+      "type": "choice",
+      "choices": {
+        "A": "A lawyer",
+        "B": "A nurse",
+        "C": "A doctor",
+        "D": "A dentist"
+      },
+      "prompt": "Who most likely is the man?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q47",
+      "label": "47",
+      "type": "choice",
+      "choices": {
+        "A": "A receipt",
+        "B": "A certificate",
+        "C": "A claim",
+        "D": "A ticket"
+      },
+      "prompt": "What must someone have to win?",
+      "accept": "D",
+      "part": "III"
+    },
+    {
+      "id": "q48",
+      "label": "48",
+      "type": "choice",
+      "choices": {
+        "A": "At 3:00",
+        "B": "At 4:00",
+        "C": "At 5:00",
+        "D": "At 6:00"
+      },
+      "prompt": "When will the man go on the cruise?",
+      "accept": "D",
+      "part": "III"
+    },
+    {
+      "id": "q49",
+      "label": "49",
+      "type": "choice",
+      "choices": {
+        "A": "The car will not start.",
+        "B": "The license plate fell off.",
+        "C": "The car is blocking an exit.",
+        "D": "The car cannot be towed."
+      },
+      "prompt": "What is the problem?",
+      "accept": "C",
+      "part": "III"
+    },
+    {
+      "id": "q50",
+      "label": "50",
+      "type": "choice",
+      "choices": {
+        "A": "In a restaurant",
+        "B": "In a bank",
+        "C": "In a hotel",
+        "D": "In a school"
+      },
+      "prompt": "Where are the speakers?",
+      "accept": "C",
+      "part": "III"
+    }
+  ]
 }

@@ -1,458 +1,440 @@
 {
- "practiceId": "int-lc-p3-s05",
- "title": "Part III · Section 05",
- "subtitle": "Conversations & talks",
- "level": "intermediate",
- "skill": "lc",
- "stub": false,
- "audioRef": "int-lc-p3-s05",
- "introEn": "Listen to the conversation or talk and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "give a speech",
-    "B": "stock price",
-    "C": "vinegar"
-   },
-   "accept": "A",
-   "photo": "intermediate/lc-p3-s05/page-116.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "give a speech",
-    "B": "stock price",
-    "C": "vinegar"
-   },
-   "accept": "B",
-   "photo": "intermediate/lc-p3-s05/page-116.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "give a speech",
-    "B": "stock price",
-    "C": "vinegar"
-   },
-   "accept": "C",
-   "photo": "intermediate/lc-p3-s05/page-116.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "A writer",
-    "B": "An actor"
-   },
-   "prompt": "Warm-Up 1-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "A writer",
-    "B": "An actor"
-   },
-   "prompt": "Warm-Up 1-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "Decreasing",
-    "B": "Rent price"
-   },
-   "prompt": "Warm-Up 2-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Decreasing",
-    "B": "Rent price"
-   },
-   "prompt": "Warm-Up 2-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "Preheat",
-    "B": "Shake them"
-   },
-   "prompt": "Warm-Up 3-(a): Choose the answer.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Preheat",
-    "B": "Shake them"
-   },
-   "prompt": "Warm-Up 3-(b): Choose the answer.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Warm-Up"
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
-   "accept": "C",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "id": "q11",
-   "label": "11",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
-   "accept": "A",
-   "audioOnly": true,
-   "section": "Listening Practice 1"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
-   "accept": [
-    "celebrated writer"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-118.jpg",
-   "section": "Listening Practice 1",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
-   "accept": [
-    "giving a speech"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-118.jpg",
-   "section": "Listening Practice 1",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
-   "accept": [
-    "perform"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-118.jpg",
-   "section": "Listening Practice 1",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "id": "q15",
-   "label": "15",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
-   "accept": "E",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "id": "q16",
-   "label": "16",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
-   "accept": "F",
-   "audioOnly": true,
-   "section": "Listening Practice 2"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
-   "accept": [
-    "go abroad"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-119.jpg",
-   "section": "Listening Practice 2",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (a) blank 2: type the words you hear.",
-   "accept": [
-    "foreign language"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-119.jpg",
-   "section": "Listening Practice 2",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
-   "accept": [
-    "cells"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-119.jpg",
-   "section": "Listening Practice 2",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
-   "accept": [
-    "genetic code"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-119.jpg",
-   "section": "Listening Practice 2",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
-   "accept": "D",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "A pianist",
-    "B": "A recipe",
-    "C": "A writer",
-    "D": "Garlic",
-    "E": "Jobs are becoming more important",
-    "F": "Science"
-   },
-   "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
-   "accept": "B",
-   "audioOnly": true,
-   "section": "Listening Practice 3"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
-   "accept": [
-    "by adding"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-120.jpg",
-   "section": "Listening Practice 3",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
-   "accept": [
-    "Preheat the oven"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-120.jpg",
-   "section": "Listening Practice 3",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
-   "accept": [
-    "ingredients"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-120.jpg",
-   "section": "Listening Practice 3",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
-   "accept": [
-    "bake"
-   ],
-   "audioOnly": true,
-   "photo": "intermediate/lc-p3-s05/page-120.jpg",
-   "section": "Listening Practice 3",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "id": "q27",
-   "label": "27",
-   "type": "choice",
-   "choices": {
-    "A": "She has returned from watching the World Swimming Championships.",
-    "B": "She has graduated from university.",
-    "C": "She has won some medals at a swimming competition.",
-    "D": "She has found some gold and silver medals"
-   },
-   "prompt": "What has Julie Kim just done?",
-   "accept": "C",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q28",
-   "label": "28",
-   "type": "choice",
-   "choices": {
-    "A": "Houses are more expensive than last year.",
-    "B": "Houses are cheaper than last year.",
-    "C": "Houses will be more expensive in the next 6 months.",
-    "D": "There will be no houses on sale in the next 6 months."
-   },
-   "prompt": "What does the increase mean to people buying houses?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q29",
-   "label": "29",
-   "type": "choice",
-   "choices": {
-    "A": "They are very colorful.",
-    "B": "They can fly backwards.",
-    "C": "There are lots of different types.",
-    "D": "They are the only birds that can float."
-   },
-   "prompt": "Why are hummingbirds special?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q30",
-   "label": "30",
-   "type": "choice",
-   "choices": {
-    "A": "He is a rock climber.",
-    "B": "He is a rock star.",
-    "C": "He is a movie director.",
-    "D": "He is studying the world's climate."
-   },
-   "prompt": "What is true about Steve Zimmerman?",
-   "accept": "A",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q31",
-   "label": "31",
-   "type": "choice",
-   "choices": {
-    "A": "Salt",
-    "B": "Garlic",
-    "C": "Oregano",
-    "D": "Olive oil"
-   },
-   "prompt": "Which of the following is NOT an ingredient the speaker says that she uses?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  },
-  {
-   "id": "q32",
-   "label": "32",
-   "type": "choice",
-   "choices": {
-    "A": "The rugs will be cleaned.",
-    "B": "Another class will come in.",
-    "C": "Another movie will be shown.",
-    "D": "The boxes will be moved upstairs."
-   },
-   "prompt": "What does the speaker say will happen next?",
-   "accept": "B",
-   "section": "Test Your Skills"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/lc-p3-s05/page-116.jpg",
-  "intermediate/lc-p3-s05/page-117.jpg",
-  "intermediate/lc-p3-s05/page-118.jpg",
-  "intermediate/lc-p3-s05/page-119.jpg",
-  "intermediate/lc-p3-s05/page-120.jpg"
- ]
+  "practiceId": "int-lc-p3-s05",
+  "title": "Part III · Section 05",
+  "subtitle": "Conversations & talks",
+  "level": "intermediate",
+  "skill": "lc",
+  "stub": false,
+  "audioRef": "int-lc-p3-s05",
+  "introEn": "Listen to the conversation or talk and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "give a speech",
+        "B": "stock price",
+        "C": "vinegar"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "give a speech",
+        "B": "stock price",
+        "C": "vinegar"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "2",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "give a speech",
+        "B": "stock price",
+        "C": "vinegar"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "3",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q4",
+      "label": "1-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A writer",
+        "B": "An actor"
+      },
+      "prompt": "Warm-Up 1-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q5",
+      "label": "1-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A writer",
+        "B": "An actor"
+      },
+      "prompt": "Warm-Up 1-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q6",
+      "label": "2-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Decreasing",
+        "B": "Rent price"
+      },
+      "prompt": "Warm-Up 2-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q7",
+      "label": "2-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Decreasing",
+        "B": "Rent price"
+      },
+      "prompt": "Warm-Up 2-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q8",
+      "label": "3-(a)",
+      "type": "choice",
+      "choices": {
+        "A": "Preheat",
+        "B": "Shake them"
+      },
+      "prompt": "Warm-Up 3-(a): Choose the answer.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q9",
+      "label": "3-(b)",
+      "type": "choice",
+      "choices": {
+        "A": "Preheat",
+        "B": "Shake them"
+      },
+      "prompt": "Warm-Up 3-(b): Choose the answer.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Warm-Up"
+    },
+    {
+      "id": "q10",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 1 (a): Choose the answer for this conversation/talk.",
+      "accept": "C",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "id": "q11",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 1 (b): Choose the answer for this conversation/talk.",
+      "accept": "A",
+      "audioOnly": true,
+      "section": "Listening Practice 1"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 1: type the words you hear.",
+      "accept": [
+        "celebrated writer"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q12",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (a) blank 2: type the words you hear.",
+      "accept": [
+        "giving a speech"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q13",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 1 (b) blank 1: type the words you hear.",
+      "accept": [
+        "perform"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 1",
+      "id": "q14",
+      "label": "5"
+    },
+    {
+      "id": "q15",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 2 (a): Choose the answer for this conversation/talk.",
+      "accept": "E",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "id": "q16",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 2 (b): Choose the answer for this conversation/talk.",
+      "accept": "F",
+      "audioOnly": true,
+      "section": "Listening Practice 2"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 1: type the words you hear.",
+      "accept": [
+        "go abroad"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q17",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (a) blank 2: type the words you hear.",
+      "accept": [
+        "foreign language"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q18",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 1: type the words you hear.",
+      "accept": [
+        "cells"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q19",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 2 (b) blank 2: type the words you hear.",
+      "accept": [
+        "genetic code"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 2",
+      "id": "q20",
+      "label": "6"
+    },
+    {
+      "id": "q21",
+      "label": "(a)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 3 (a): Choose the answer for this conversation/talk.",
+      "accept": "D",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "id": "q22",
+      "label": "(b)",
+      "type": "choice",
+      "choices": {
+        "A": "A pianist",
+        "B": "A recipe",
+        "C": "A writer",
+        "D": "Garlic",
+        "E": "Jobs are becoming more important",
+        "F": "Science"
+      },
+      "prompt": "Listening Practice 3 (b): Choose the answer for this conversation/talk.",
+      "accept": "B",
+      "audioOnly": true,
+      "section": "Listening Practice 3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 1: type the words you hear.",
+      "accept": [
+        "by adding"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q23",
+      "label": "3"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (a) blank 2: type the words you hear.",
+      "accept": [
+        "Preheat the oven"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q24",
+      "label": "4"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 1: type the words you hear.",
+      "accept": [
+        "ingredients"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q25",
+      "label": "5"
+    },
+    {
+      "type": "text",
+      "prompt": "Listening Practice 3 (b) blank 2: type the words you hear.",
+      "accept": [
+        "bake"
+      ],
+      "audioOnly": true,
+      "section": "Listening Practice 3",
+      "id": "q26",
+      "label": "6"
+    },
+    {
+      "id": "q27",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "She has returned from watching the World Swimming Championships.",
+        "B": "She has graduated from university.",
+        "C": "She has won some medals at a swimming competition.",
+        "D": "She has found some gold and silver medals"
+      },
+      "prompt": "What has Julie Kim just done?",
+      "accept": "C",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q28",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Houses are more expensive than last year.",
+        "B": "Houses are cheaper than last year.",
+        "C": "Houses will be more expensive in the next 6 months.",
+        "D": "There will be no houses on sale in the next 6 months."
+      },
+      "prompt": "What does the increase mean to people buying houses?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q29",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "They are very colorful.",
+        "B": "They can fly backwards.",
+        "C": "There are lots of different types.",
+        "D": "They are the only birds that can float."
+      },
+      "prompt": "Why are hummingbirds special?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q30",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "He is a rock climber.",
+        "B": "He is a rock star.",
+        "C": "He is a movie director.",
+        "D": "He is studying the world's climate."
+      },
+      "prompt": "What is true about Steve Zimmerman?",
+      "accept": "A",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q31",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Salt",
+        "B": "Garlic",
+        "C": "Oregano",
+        "D": "Olive oil"
+      },
+      "prompt": "Which of the following is NOT an ingredient the speaker says that she uses?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    },
+    {
+      "id": "q32",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "The rugs will be cleaned.",
+        "B": "Another class will come in.",
+        "C": "Another movie will be shown.",
+        "D": "The boxes will be moved upstairs."
+      },
+      "prompt": "What does the speaker say will happen next?",
+      "accept": "B",
+      "section": "Test Your Skills"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

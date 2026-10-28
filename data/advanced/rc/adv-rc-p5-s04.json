@@ -9,133 +9,133 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "believe",
     "B": "improve",
     "C": "inform"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "believe",
     "B": "improve",
     "C": "inform"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "believe",
     "B": "improve",
     "C": "inform"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s04/page-098.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "(c)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "would like A to B"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q4",
-   "label": "4"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "I"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "next time bet"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "would like to"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "apply for"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "ask for"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "enclosed résumé"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "advertised in the newspaper"
    ],
-   "photo": "advanced/rc-p5-s04/page-099.jpg",
    "section": "Warm-Up",
    "id": "q11",
-   "label": "11"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -145,10 +145,9 @@
     "B": "To ask if he can visit them"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
    "section": "Reading Practice 1",
    "id": "q12",
-   "label": "12"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -158,10 +157,9 @@
     "B": "He has met a famous basketball player."
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s04/page-100.jpg",
    "section": "Reading Practice 1",
    "id": "q13",
-   "label": "13"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -171,10 +169,9 @@
     "B": "Mr. Ben"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
    "section": "Reading Practice 2",
    "id": "q14",
-   "label": "14"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -184,14 +181,13 @@
     "B": "$1,000 plus expenses"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s04/page-101.jpg",
    "section": "Reading Practice 2",
    "id": "q15",
-   "label": "15"
+   "label": "2"
   },
   {
    "id": "q16",
-   "label": "16",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "It is opening a new store.",
@@ -202,14 +198,11 @@
    "prompt": "What is learned about CD World?",
    "accept": "C",
    "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
-   "passageHead": "Questions 1-2 refer to the following e-mail.",
-   "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-102.jpg"
+   "passageHead": "Questions 1-2 refer to the following e-mail."
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "March 1",
@@ -220,14 +213,11 @@
    "prompt": "When does the offer end?",
    "accept": "D",
    "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
-   "passageHead": "Questions 1-2 refer to the following e-mail.",
-   "passagePage": 102,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-102.jpg"
+   "passageHead": "Questions 1-2 refer to the following e-mail."
   },
   {
    "id": "q18",
-   "label": "18",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "To get a job with J&R Technologies",
@@ -238,14 +228,11 @@
    "prompt": "Why has Mr. Whalley written the letter?",
    "accept": "A",
    "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
-   "passageHead": "Questions 3-4 refer to the following letter.",
-   "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-103.jpg"
+   "passageHead": "Questions 3-4 refer to the following letter."
   },
   {
    "id": "q19",
-   "label": "19",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "His résumé",
@@ -256,17 +243,8 @@
    "prompt": "What has Mr. Whalley sent with the letter?",
    "accept": "A",
    "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
-   "passageHead": "Questions 3-4 refer to the following letter.",
-   "passagePage": 103,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-103.jpg"
+   "passageHead": "Questions 3-4 refer to the following letter."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p5-s04/page-098.jpg",
-  "advanced/rc-p5-s04/page-099.jpg",
-  "advanced/rc-p5-s04/page-100.jpg",
-  "advanced/rc-p5-s04/page-101.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }

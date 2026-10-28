@@ -1,557 +1,529 @@
 {
- "practiceId": "adv-rc-p4-s01",
- "title": "Part IV · Section 01",
- "subtitle": "To-inf / gerunds",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "allow",
-    "B": "determine",
-    "C": "discover",
-    "D": "enjoy"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "allow",
-    "B": "determine",
-    "C": "discover",
-    "D": "enjoy"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "allow",
-    "B": "determine",
-    "C": "discover",
-    "D": "enjoy"
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "allow",
-    "B": "determine",
-    "C": "discover",
-    "D": "enjoy"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-006.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(a): We went to the station (see / to see) him off.",
-   "choices": {
-    "A": "see",
-    "B": "to see"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(b): Thank you for (visiting / to visit) my Web site.",
-   "choices": {
-    "A": "visiting",
-    "B": "to visit"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(c): He is used to (get / getting) up early.",
-   "choices": {
-    "A": "get",
-    "B": "getting"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 1-(d): She wants (meet / to meet) your teacher in person.",
-   "choices": {
-    "A": "meet",
-    "B": "to meet"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(a): I don't know ____. (see the book page)",
-   "accept": [
-    "what to wear"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(b): Do you know ____ the engine?",
-   "accept": [
-    "how to start"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(c): Please tell me ____ for Seoul.",
-   "accept": [
-    "when to leave"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-(d): They will decide ____ next Friday.",
-   "accept": [
-    "where to meet"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 3-(a): I will let you (go / to go / going) if you want to.",
-   "choices": {
-    "A": "go",
-    "B": "to go",
-    "C": "going"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 3-(b): She expected me (do / to do / doing) a better job.",
-   "choices": {
-    "A": "do",
-    "B": "to do",
-    "C": "doing"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 3-(c): She made me (work / to work / working) all day long.",
-   "choices": {
-    "A": "work",
-    "B": "to work",
-    "C": "working"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "choice",
-   "prompt": "Warm-Up 3-(d): Thank you for (help / to help / helping) me with my work.",
-   "choices": {
-    "A": "help",
-    "B": "to help",
-    "C": "helping"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Warm-Up",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(a): I like (play / playing) soccer with my friends every day.",
-   "choices": {
-    "A": "play",
-    "B": "playing"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(b): I ask them (come / to come / coming) to the playground as soon as the class is over.",
-   "choices": {
-    "A": "come",
-    "B": "to come",
-    "C": "coming"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(c): After (finish / to finish / finishing) the game, we go to the shower room.",
-   "choices": {
-    "A": "finish",
-    "B": "to finish",
-    "C": "finishing"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 1-(d): (take / to take / taking) showers.",
-   "choices": {
-    "A": "take",
-    "B": "to take",
-    "C": "taking"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 3: Choose the correct sentence.",
-   "choices": {
-    "A": "It is wise for you to say like that.",
-    "B": "He has finished do his homework.",
-    "C": "The doctor made her to stay at home for the time being.",
-    "D": "It is necessary for him to prepare for the test."
-   },
-   "accept": "D",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q21",
-   "label": "21"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(a): I have something to give you. Which use of the to-infinitive?",
-   "choices": {
-    "A": "noun use",
-    "B": "adjective use",
-    "C": "adverb use"
-   },
-   "accept": "B",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q22",
-   "label": "22"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(b): My wish is to become a president. Which use of the to-infinitive?",
-   "choices": {
-    "A": "noun use",
-    "B": "adjective use",
-    "C": "adverb use"
-   },
-   "accept": "A",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q23",
-   "label": "23"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(c): I will go to America to study English. Which use of the to-infinitive?",
-   "choices": {
-    "A": "noun use",
-    "B": "adjective use",
-    "C": "adverb use"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q24",
-   "label": "24"
-  },
-  {
-   "type": "choice",
-   "prompt": "Grammar Practice 4-(d): You must be very happy to see your father again. Which use of the to-infinitive?",
-   "choices": {
-    "A": "noun use",
-    "B": "adjective use",
-    "C": "adverb use"
-   },
-   "accept": "C",
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q25",
-   "label": "25"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(a): correct the wrong word (see the book page).",
-   "accept": [
-    "crying"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q26",
-   "label": "26"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(d): correct the wrong word (see the book page).",
-   "accept": [
-    "reading"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q27",
-   "label": "27"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): type the answer (see the book page).",
-   "accept": [
-    "To tell the truth"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q28",
-   "label": "28"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): type the answer (see the book page).",
-   "accept": [
-    "Strange to say"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q29",
-   "label": "29"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(c): type the answer (see the book page).",
-   "accept": [
-    "To make matters worse"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q30",
-   "label": "30"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(d): type the answer (see the book page).",
-   "accept": [
-    "To speak strictly"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q31",
-   "label": "31"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): correct or complete it (see the book page).",
-   "accept": [
-    "of"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q32",
-   "label": "32"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): type the answer (see the book page).",
-   "accept": [
-    "do- doing"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q33",
-   "label": "33"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): type the answer (see the book page).",
-   "accept": [
-    "to stay stay"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q34",
-   "label": "34"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(b): correct or complete it (see the book page).",
-   "accept": [
-    "to return"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q35",
-   "label": "35"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 5-(c): type the answer (see the book page).",
-   "accept": [
-    "to meet meeting"
-   ],
-   "photo": "advanced/rc-p4-s01/page-007.jpg",
-   "section": "Grammar Practice",
-   "id": "q36",
-   "label": "36"
-  },
-  {
-   "id": "q37",
-   "label": "37",
-   "type": "choice",
-   "choices": {
-    "A": "clean",
-    "B": "to clean",
-    "C": "cleaning",
-    "D": "cleaned"
-   },
-   "prompt": "She told us _______ our room first.",
-   "accept": "B"
-  },
-  {
-   "id": "q38",
-   "label": "38",
-   "type": "choice",
-   "choices": {
-    "A": "take",
-    "B": "to take",
-    "C": "taking",
-    "D": "took"
-   },
-   "prompt": "I was really busy _______ care of my son by myself.",
-   "accept": "C"
-  },
-  {
-   "id": "q39",
-   "label": "39",
-   "type": "choice",
-   "choices": {
-    "A": "make",
-    "B": "making",
-    "C": "to make",
-    "D": "made"
-   },
-   "prompt": "I feel sorry for _______ you wait for a long time.",
-   "accept": "B"
-  },
-  {
-   "id": "q40",
-   "label": "40",
-   "type": "choice",
-   "choices": {
-    "A": "not buy",
-    "B": "not to buy",
-    "C": "not buying",
-    "D": "not bought"
-   },
-   "prompt": "He decided _______ the car because it was already old-fashioned.",
-   "accept": "B"
-  },
-  {
-   "id": "q41",
-   "label": "41",
-   "type": "choice",
-   "choices": {
-    "A": "Happy",
-    "B": "Happily",
-    "C": "Happiness",
-    "D": "To happy"
-   },
-   "prompt": "_______ to say, he won the first prize again this year.",
-   "accept": "A"
-  },
-  {
-   "id": "q42",
-   "label": "42",
-   "type": "choice",
-   "choices": {
-    "A": "to",
-    "B": "of",
-    "C": "for",
-    "D": "with"
-   },
-   "prompt": "It is very nice _______ you to help the old woman carry the bag.",
-   "accept": "B"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p4-s01/page-006.jpg",
-  "advanced/rc-p4-s01/page-007.jpg",
-  "advanced/rc-p4-s01/page-008.jpg",
-  "advanced/rc-p4-s01/page-009.jpg",
-  "advanced/rc-p4-s01/page-010.jpg",
-  "advanced/rc-p4-s01/page-011.jpg"
- ]
+  "practiceId": "adv-rc-p4-s01",
+  "title": "Part IV · Section 01",
+  "subtitle": "To-inf / gerunds",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "allow",
+        "B": "determine",
+        "C": "discover",
+        "D": "enjoy"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "allow",
+        "B": "determine",
+        "C": "discover",
+        "D": "enjoy"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "allow",
+        "B": "determine",
+        "C": "discover",
+        "D": "enjoy"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "allow",
+        "B": "determine",
+        "C": "discover",
+        "D": "enjoy"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(a): We went to the station (see / to see) him off.",
+      "choices": {
+        "A": "see",
+        "B": "to see"
+      },
+      "accept": "B",
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(b): Thank you for (visiting / to visit) my Web site.",
+      "choices": {
+        "A": "visiting",
+        "B": "to visit"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "1-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(c): He is used to (get / getting) up early.",
+      "choices": {
+        "A": "get",
+        "B": "getting"
+      },
+      "accept": "B",
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "1-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 1-(d): She wants (meet / to meet) your teacher in person.",
+      "choices": {
+        "A": "meet",
+        "B": "to meet"
+      },
+      "accept": "B",
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "1-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(a): I don't know ____.",
+      "accept": [
+        "what to wear"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(b): Do you know ____ the engine?",
+      "accept": [
+        "how to start"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "2-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(c): Please tell me ____ for Seoul.",
+      "accept": [
+        "when to leave"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "2-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-(d): They will decide ____ next Friday.",
+      "accept": [
+        "where to meet"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "2-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 3-(a): I will let you (go / to go / going) if you want to.",
+      "choices": {
+        "A": "go",
+        "B": "to go",
+        "C": "going"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "3-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 3-(b): She expected me (do / to do / doing) a better job.",
+      "choices": {
+        "A": "do",
+        "B": "to do",
+        "C": "doing"
+      },
+      "accept": "B",
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "3-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 3-(c): She made me (work / to work / working) all day long.",
+      "choices": {
+        "A": "work",
+        "B": "to work",
+        "C": "working"
+      },
+      "accept": "A",
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "3-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warm-Up 3-(d): Thank you for (help / to help / helping) me with my work.",
+      "choices": {
+        "A": "help",
+        "B": "to help",
+        "C": "helping"
+      },
+      "accept": "C",
+      "section": "Warm-Up",
+      "id": "q16",
+      "label": "3-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(a): I like (play / playing) soccer with my friends every day.",
+      "choices": {
+        "A": "play",
+        "B": "playing"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q17",
+      "label": "1-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(b): I ask them (come / to come / coming) to the playground as soon as the class is over.",
+      "choices": {
+        "A": "come",
+        "B": "to come",
+        "C": "coming"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "1-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(c): After (finish / to finish / finishing) the game, we go to the shower room.",
+      "choices": {
+        "A": "finish",
+        "B": "to finish",
+        "C": "finishing"
+      },
+      "accept": "C",
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "1-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 1-(d): (take / to take / taking) showers.",
+      "choices": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "1-(d)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 3: Choose the correct sentence.",
+      "choices": {
+        "A": "It is wise for you to say like that.",
+        "B": "He has finished do his homework.",
+        "C": "The doctor made her to stay at home for the time being.",
+        "D": "It is necessary for him to prepare for the test."
+      },
+      "accept": "D",
+      "section": "Grammar Practice",
+      "id": "q21",
+      "label": "5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(a): I have something to give you. Which use of the to-infinitive?",
+      "choices": {
+        "A": "noun use",
+        "B": "adjective use",
+        "C": "adverb use"
+      },
+      "accept": "B",
+      "section": "Grammar Practice",
+      "id": "q22",
+      "label": "4-(a)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(b): My wish is to become a president. Which use of the to-infinitive?",
+      "choices": {
+        "A": "noun use",
+        "B": "adjective use",
+        "C": "adverb use"
+      },
+      "accept": "A",
+      "section": "Grammar Practice",
+      "id": "q23",
+      "label": "4-(b)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(c): I will go to America to study English. Which use of the to-infinitive?",
+      "choices": {
+        "A": "noun use",
+        "B": "adjective use",
+        "C": "adverb use"
+      },
+      "accept": "C",
+      "section": "Grammar Practice",
+      "id": "q24",
+      "label": "4-(c)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammar Practice 4-(d): You must be very happy to see your father again. Which use of the to-infinitive?",
+      "choices": {
+        "A": "noun use",
+        "B": "adjective use",
+        "C": "adverb use"
+      },
+      "accept": "C",
+      "section": "Grammar Practice",
+      "id": "q25",
+      "label": "4-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(a): correct the wrong word.",
+      "accept": [
+        "crying"
+      ],
+      "section": "Grammar Practice",
+      "id": "q26",
+      "label": "5-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(d): correct the wrong word.",
+      "accept": [
+        "reading"
+      ],
+      "section": "Grammar Practice",
+      "id": "q27",
+      "label": "5-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "accept": [
+        "To tell the truth"
+      ],
+      "section": "Grammar Practice",
+      "id": "q28",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "accept": [
+        "Strange to say"
+      ],
+      "section": "Grammar Practice",
+      "id": "q29",
+      "label": "2-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "accept": [
+        "To make matters worse"
+      ],
+      "section": "Grammar Practice",
+      "id": "q30",
+      "label": "2-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "accept": [
+        "To speak strictly"
+      ],
+      "section": "Grammar Practice",
+      "id": "q31",
+      "label": "2-(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): correct or complete it.",
+      "accept": [
+        "of"
+      ],
+      "section": "Grammar Practice",
+      "id": "q32",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "accept": [
+        "do- doing"
+      ],
+      "section": "Grammar Practice",
+      "id": "q33",
+      "label": "3-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "accept": [
+        "to stay stay"
+      ],
+      "section": "Grammar Practice",
+      "id": "q34",
+      "label": "3-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(b): correct or complete it.",
+      "accept": [
+        "to return"
+      ],
+      "section": "Grammar Practice",
+      "id": "q35",
+      "label": "5-(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 5-(c): type the answer.",
+      "accept": [
+        "to meet meeting"
+      ],
+      "section": "Grammar Practice",
+      "id": "q36",
+      "label": "5-(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "id": "q37",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaning",
+        "D": "cleaned"
+      },
+      "prompt": "She told us _______ our room first.",
+      "accept": "B"
+    },
+    {
+      "id": "q38",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking",
+        "D": "took"
+      },
+      "prompt": "I was really busy _______ care of my son by myself.",
+      "accept": "C"
+    },
+    {
+      "id": "q39",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made"
+      },
+      "prompt": "I feel sorry for _______ you wait for a long time.",
+      "accept": "B"
+    },
+    {
+      "id": "q40",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "not buy",
+        "B": "not to buy",
+        "C": "not buying",
+        "D": "not bought"
+      },
+      "prompt": "He decided _______ the car because it was already old-fashioned.",
+      "accept": "B"
+    },
+    {
+      "id": "q41",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Happy",
+        "B": "Happily",
+        "C": "Happiness",
+        "D": "To happy"
+      },
+      "prompt": "_______ to say, he won the first prize again this year.",
+      "accept": "A"
+    },
+    {
+      "id": "q42",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "to",
+        "B": "of",
+        "C": "for",
+        "D": "with"
+      },
+      "prompt": "It is very nice _______ you to help the old woman carry the bag.",
+      "accept": "B"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

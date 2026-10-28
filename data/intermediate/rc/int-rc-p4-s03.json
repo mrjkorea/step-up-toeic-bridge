@@ -1,336 +1,316 @@
 {
- "practiceId": "int-rc-p4-s03",
- "title": "Part IV · Section 03",
- "subtitle": "Adjectives",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Choose the best answer to complete the sentence or question.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "auditorium",
-    "B": "coin",
-    "C": "ghost",
-    "D": "president"
-   },
-   "accept": "D",
-   "photo": "intermediate/rc-p4-s03/page-027.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "auditorium",
-    "B": "coin",
-    "C": "ghost",
-    "D": "president"
-   },
-   "accept": "C",
-   "photo": "intermediate/rc-p4-s03/page-027.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "auditorium",
-    "B": "coin",
-    "C": "ghost",
-    "D": "president"
-   },
-   "accept": "A",
-   "photo": "intermediate/rc-p4-s03/page-027.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "3"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence (see the book page).",
-   "choices": {
-    "A": "auditorium",
-    "B": "coin",
-    "C": "ghost",
-    "D": "president"
-   },
-   "accept": "B",
-   "photo": "intermediate/rc-p4-s03/page-027.jpg",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "4"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(a): Write 5,462 in words.",
-   "accept": [
-    "five thousand four hundred sixty-two",
-    "five thousand four hundred sixty two",
-    "five thousand four hundred and sixty-two"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q5",
-   "label": "5"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(b): Write 3/5 in words.",
-   "accept": [
-    "three fifths"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q6",
-   "label": "6"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(c): Write 2.47 in words.",
-   "accept": [
-    "two point four seven"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q7",
-   "label": "7"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(d): Write 2007 (the year) in words.",
-   "accept": [
-    "two thousand seven"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q8",
-   "label": "8"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(e): Write the date in words (see the book page).",
-   "accept": [
-    "November twentieth"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q9",
-   "label": "9"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(f): Write 243-5908 in words.",
-   "accept": [
-    "two four three five nine zero eight"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q10",
-   "label": "10"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 1-(g): Write $5.41 in words.",
-   "accept": [
-    "five dollars forty one cents",
-    "five dollars forty-one cents"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q11",
-   "label": "11"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(a): Combine: This is a truck. This truck is big.",
-   "accept": [
-    "This is a big truck."
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q12",
-   "label": "12"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 2-(b): Combine: That building is a police station. That police station is old.",
-   "accept": [
-    "That police station building is old."
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q13",
-   "label": "13"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(a): Fill in the blank (see the book page).",
-   "accept": [
-    "a little"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q14",
-   "label": "14"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(b): Fill in the blank.",
-   "accept": [
-    "little"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q15",
-   "label": "15"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(c): Fill in the blank.",
-   "accept": [
-    "Every"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q16",
-   "label": "16"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 3-(d): Fill in the blank.",
-   "accept": [
-    "many"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q17",
-   "label": "17"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(a): Fill in the blank (see the book page).",
-   "accept": [
-    "busy"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q18",
-   "label": "18"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(b): Fill in the blank.",
-   "accept": [
-    "kind"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q19",
-   "label": "19"
-  },
-  {
-   "type": "text",
-   "prompt": "Grammar Practice 4-(c): Fill in the blank.",
-   "accept": [
-    "delicious"
-   ],
-   "photo": "intermediate/rc-p4-s03/page-030.jpg",
-   "section": "Grammar Practice",
-   "id": "q20",
-   "label": "20"
-  },
-  {
-   "id": "q21",
-   "label": "21",
-   "type": "choice",
-   "choices": {
-    "A": "All",
-    "B": "Each",
-    "C": "Many",
-    "D": "A lot of"
-   },
-   "prompt": "_______ girl in the club has her own instrument.",
-   "accept": "B"
-  },
-  {
-   "id": "q22",
-   "label": "22",
-   "type": "choice",
-   "choices": {
-    "A": "happy",
-    "B": "happiness",
-    "C": "happily",
-    "D": "is happy"
-   },
-   "prompt": "The boy looks very _______.",
-   "accept": "A"
-  },
-  {
-   "id": "q23",
-   "label": "23",
-   "type": "choice",
-   "choices": {
-    "A": "many",
-    "B": "quiet a few",
-    "C": "few",
-    "D": "a lot of"
-   },
-   "prompt": "We had _______ rain last summer.",
-   "accept": "D"
-  },
-  {
-   "id": "q24",
-   "label": "24",
-   "type": "choice",
-   "choices": {
-    "A": "happy",
-    "B": "afraid",
-    "C": "angry",
-    "D": "beautiful"
-   },
-   "prompt": "Many children are _______ of ghosts and monsters.",
-   "accept": "B"
-  },
-  {
-   "id": "q25",
-   "label": "25",
-   "type": "choice",
-   "choices": {
-    "A": "the one of December",
-    "B": "the fourth of March",
-    "C": "the second May",
-    "D": "the nine of April"
-   },
-   "prompt": "I was born on _______.",
-   "accept": "B"
-  },
-  {
-   "id": "q26",
-   "label": "26",
-   "type": "choice",
-   "choices": {
-    "A": "something cold",
-    "B": "cold something",
-    "C": "nothing cold",
-    "D": "cold nothing"
-   },
-   "prompt": "It's very hot today. Please give me _______ to drink.",
-   "accept": "A"
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "intermediate/rc-p4-s03/page-027.jpg",
-  "intermediate/rc-p4-s03/page-028.jpg",
-  "intermediate/rc-p4-s03/page-029.jpg",
-  "intermediate/rc-p4-s03/page-030.jpg",
-  "intermediate/rc-p4-s03/page-031.jpg"
- ]
+  "practiceId": "int-rc-p4-s03",
+  "title": "Part IV · Section 03",
+  "subtitle": "Adjectives",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Choose the best answer to complete the sentence or question.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "auditorium",
+        "B": "coin",
+        "C": "ghost",
+        "D": "president"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "auditorium",
+        "B": "coin",
+        "C": "ghost",
+        "D": "president"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "auditorium",
+        "B": "coin",
+        "C": "ghost",
+        "D": "president"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "auditorium",
+        "B": "coin",
+        "C": "ghost",
+        "D": "president"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(a): Write 5,462 in words.",
+      "accept": [
+        "five thousand four hundred sixty-two",
+        "five thousand four hundred sixty two",
+        "five thousand four hundred and sixty-two"
+      ],
+      "section": "Grammar Practice",
+      "id": "q5",
+      "label": "1-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(b): Write 3/5 in words.",
+      "accept": [
+        "three fifths"
+      ],
+      "section": "Grammar Practice",
+      "id": "q6",
+      "label": "1-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(c): Write 2.47 in words.",
+      "accept": [
+        "two point four seven"
+      ],
+      "section": "Grammar Practice",
+      "id": "q7",
+      "label": "1-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(d): Write 2007 (the year) in words.",
+      "accept": [
+        "two thousand seven"
+      ],
+      "section": "Grammar Practice",
+      "id": "q8",
+      "label": "1-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(e): Write the date in words.",
+      "accept": [
+        "November twentieth"
+      ],
+      "section": "Grammar Practice",
+      "id": "q9",
+      "label": "1-(e)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(f): Write 243-5908 in words.",
+      "accept": [
+        "two four three five nine zero eight"
+      ],
+      "section": "Grammar Practice",
+      "id": "q10",
+      "label": "1-(f)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 1-(g): Write $5.41 in words.",
+      "accept": [
+        "five dollars forty one cents",
+        "five dollars forty-one cents"
+      ],
+      "section": "Grammar Practice",
+      "id": "q11",
+      "label": "1-(g)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(a): Combine: This is a truck. This truck is big.",
+      "accept": [
+        "This is a big truck."
+      ],
+      "section": "Grammar Practice",
+      "id": "q12",
+      "label": "2-(a)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 2-(b): Combine: That building is a police station. That police station is old.",
+      "accept": [
+        "That police station building is old."
+      ],
+      "section": "Grammar Practice",
+      "id": "q13",
+      "label": "2-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(a): Fill in the blank.",
+      "accept": [
+        "a little"
+      ],
+      "section": "Grammar Practice",
+      "id": "q14",
+      "label": "3-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(b): Fill in the blank.",
+      "accept": [
+        "little"
+      ],
+      "section": "Grammar Practice",
+      "id": "q15",
+      "label": "3-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(c): Fill in the blank.",
+      "accept": [
+        "Every"
+      ],
+      "section": "Grammar Practice",
+      "id": "q16",
+      "label": "3-(c)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 3-(d): Fill in the blank.",
+      "accept": [
+        "many"
+      ],
+      "section": "Grammar Practice",
+      "id": "q17",
+      "label": "3-(d)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(a): Fill in the blank.",
+      "accept": [
+        "busy"
+      ],
+      "section": "Grammar Practice",
+      "id": "q18",
+      "label": "4-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank.",
+      "accept": [
+        "kind"
+      ],
+      "section": "Grammar Practice",
+      "id": "q19",
+      "label": "4-(b)"
+    },
+    {
+      "type": "text",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank.",
+      "accept": [
+        "delicious"
+      ],
+      "section": "Grammar Practice",
+      "id": "q20",
+      "label": "4-(c)"
+    },
+    {
+      "id": "q21",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "All",
+        "B": "Each",
+        "C": "Many",
+        "D": "A lot of"
+      },
+      "prompt": "_______ girl in the club has her own instrument.",
+      "accept": "B"
+    },
+    {
+      "id": "q22",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "happy",
+        "B": "happiness",
+        "C": "happily",
+        "D": "is happy"
+      },
+      "prompt": "The boy looks very _______.",
+      "accept": "A"
+    },
+    {
+      "id": "q23",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "many",
+        "B": "quiet a few",
+        "C": "few",
+        "D": "a lot of"
+      },
+      "prompt": "We had _______ rain last summer.",
+      "accept": "D"
+    },
+    {
+      "id": "q24",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "happy",
+        "B": "afraid",
+        "C": "angry",
+        "D": "beautiful"
+      },
+      "prompt": "Many children are _______ of ghosts and monsters.",
+      "accept": "B"
+    },
+    {
+      "id": "q25",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "the one of December",
+        "B": "the fourth of March",
+        "C": "the second May",
+        "D": "the nine of April"
+      },
+      "prompt": "I was born on _______.",
+      "accept": "B"
+    },
+    {
+      "id": "q26",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "something cold",
+        "B": "cold something",
+        "C": "nothing cold",
+        "D": "cold nothing"
+      },
+      "prompt": "It's very hot today. Please give me _______ to drink.",
+      "accept": "A"
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

@@ -9,133 +9,133 @@
  "items": [
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "dangerous",
     "B": "heavier",
     "C": "international"
    },
    "accept": "B",
-   "photo": "advanced/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q1",
-   "label": "1"
+   "label": "(a)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "dangerous",
     "B": "heavier",
     "C": "international"
    },
    "accept": "A",
-   "photo": "advanced/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q2",
-   "label": "2"
+   "label": "(b)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence (see the book page).",
+   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
    "choices": {
     "A": "dangerous",
     "B": "heavier",
     "C": "international"
    },
    "accept": "C",
-   "photo": "advanced/rc-p5-s05/page-104.jpg",
    "section": "Words and Idioms Check-Up",
    "id": "q3",
-   "label": "3"
+   "label": "(c)",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 1-: type the answer (see the book page).",
+   "prompt": "Warm-Up 1-: type the answer.",
    "accept": [
     "traffic accident"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q4",
-   "label": "4"
+   "label": "1",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 2-: type the answer (see the book page).",
+   "prompt": "Warm-Up 2-: type the answer.",
    "accept": [
     "late night"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q5",
-   "label": "5"
+   "label": "2",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 3-: type the answer (see the book page).",
+   "prompt": "Warm-Up 3-: type the answer.",
    "accept": [
     "per hour"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q6",
-   "label": "6"
+   "label": "3",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 4-: type the answer (see the book page).",
+   "prompt": "Warm-Up 4-: type the answer.",
    "accept": [
     "in a year"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q7",
-   "label": "7"
+   "label": "4",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 5-: type the answer (see the book page).",
+   "prompt": "Warm-Up 5-: type the answer.",
    "accept": [
     "international news"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q8",
-   "label": "8"
+   "label": "5",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 6-: type the answer (see the book page).",
+   "prompt": "Warm-Up 6-: type the answer.",
    "accept": [
     "cooking hour"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q9",
-   "label": "9"
+   "label": "6",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 7-: type the answer (see the book page).",
+   "prompt": "Warm-Up 7-: type the answer.",
    "accept": [
     "children's show"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q10",
-   "label": "10"
+   "label": "7",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "text",
-   "prompt": "Warm-Up 8-: type the answer (see the book page).",
+   "prompt": "Warm-Up 8-: type the answer.",
    "accept": [
     "how many hours"
    ],
-   "photo": "advanced/rc-p5-s05/page-105.jpg",
    "section": "Warm-Up",
    "id": "q11",
-   "label": "11"
+   "label": "8",
+   "blocked": "stem text not yet transcribed from PDF"
   },
   {
    "type": "choice",
@@ -145,10 +145,9 @@
     "B": "Three and a half hours"
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s05/page-106.jpg",
    "section": "Reading Practice 1",
    "id": "q12",
-   "label": "12"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -158,10 +157,9 @@
     "B": "Five times"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s05/page-106.jpg",
    "section": "Reading Practice 1",
    "id": "q13",
-   "label": "13"
+   "label": "2"
   },
   {
    "type": "choice",
@@ -171,10 +169,9 @@
     "B": "Sun"
    },
    "accept": "A",
-   "passageImage": "advanced/rc-p5-s05/page-107.jpg",
    "section": "Reading Practice 2",
    "id": "q14",
-   "label": "14"
+   "label": "1"
   },
   {
    "type": "choice",
@@ -184,14 +181,13 @@
     "B": "Sunny days are the second most dangerous days to drive on."
    },
    "accept": "B",
-   "passageImage": "advanced/rc-p5-s05/page-107.jpg",
    "section": "Reading Practice 2",
    "id": "q15",
-   "label": "15"
+   "label": "2"
   },
   {
    "id": "q16",
-   "label": "16",
+   "label": "1",
    "type": "choice",
    "choices": {
     "A": "January",
@@ -202,14 +198,11 @@
    "prompt": "In what month was the difference between family cars and sportscars sold the biggest?",
    "accept": "B",
    "passage": "The number of family and sports cars sold in a year / family car / sportscar",
-   "passageHead": "Questions 1-2 refer to the following graph.",
-   "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-108.jpg"
+   "passageHead": "Questions 1-2 refer to the following graph."
   },
   {
    "id": "q17",
-   "label": "17",
+   "label": "2",
    "type": "choice",
    "choices": {
     "A": "February",
@@ -220,14 +213,11 @@
    "prompt": "In what month were the most cars sold?",
    "accept": "C",
    "passage": "The number of family and sports cars sold in a year / family car / sportscar",
-   "passageHead": "Questions 1-2 refer to the following graph.",
-   "passagePage": 108,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-108.jpg"
+   "passageHead": "Questions 1-2 refer to the following graph."
   },
   {
    "id": "q18",
-   "label": "18",
+   "label": "3",
    "type": "choice",
    "choices": {
     "A": "Running 10 mph",
@@ -238,14 +228,11 @@
    "prompt": "Which of the following activities burns the most calories?",
    "accept": "A",
    "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
-   "passageHead": "Questions 3-4 refer to the following chart.",
-   "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-109.jpg"
+   "passageHead": "Questions 3-4 refer to the following chart."
   },
   {
    "id": "q19",
-   "label": "19",
+   "label": "4",
    "type": "choice",
    "choices": {
     "A": "650",
@@ -256,17 +243,8 @@
    "prompt": "According to the chart, how many calories per hour does jumping rope burn?",
    "accept": "B",
    "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
-   "passageHead": "Questions 3-4 refer to the following chart.",
-   "passagePage": 109,
-   "passageNote": "Draft OCR of the passage; use the book page image for graphics/tables.",
-   "passageImage": "advanced/rc-pages/page-109.jpg"
+   "passageHead": "Questions 3-4 refer to the following chart."
   }
  ],
- "contentVersion": "v4-finishpack-2026-10-28",
- "bookPages": [
-  "advanced/rc-p5-s05/page-104.jpg",
-  "advanced/rc-p5-s05/page-105.jpg",
-  "advanced/rc-p5-s05/page-106.jpg",
-  "advanced/rc-p5-s05/page-107.jpg"
- ]
+ "contentVersion": "v4-finishpack-2026-10-28"
 }
