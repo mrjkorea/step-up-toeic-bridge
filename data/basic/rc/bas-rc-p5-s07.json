@@ -1,279 +1,382 @@
 {
- "practiceId": "bas-rc-p5-s07",
- "title": "Part V · Section 07",
- "subtitle": "Forms",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "Admission",
-    "B": "application",
-    "C": "more",
-    "D": "off"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "Admission",
-    "B": "application",
-    "C": "more",
-    "D": "off"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "Admission",
-    "B": "application",
-    "C": "more",
-    "D": "off"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "Admission",
-    "B": "application",
-    "C": "more",
-    "D": "off"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1: Warm-Up 1: type the answer.",
-   "accept": [
-    "Check-in"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Departure time"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Flight No."
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "Application card"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "Expiry date"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "Free admission"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Table No."
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Student ID"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "Teacher's guide"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What kind of form is this?",
-   "choices": {
-    "A": "A diary",
-    "B": "A coupon"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is not true?",
-   "choices": {
-    "A": "The company started in 1920.",
-    "B": "Every item is 50% off."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is this ticket for?",
-   "choices": {
-    "A": "Aship",
-    "B": "A plane"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is not true?",
-   "choices": {
-    "A": "The passenger will travel from Chicago to Houston.",
-    "B": "The flight will arrive in Houston at 12:10."
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Mark Twain",
-    "B": "Seoul International School",
-    "C": "A play \"The Adventures of Tom Sawyer\"",
-    "D": "Drama Club"
-   },
-   "prompt": "What does this flyer advertise?",
-   "accept": "C",
-   "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
-   "passageHead": "Questions 1-2 refer to the following flyer."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Seoul International School Drama Club members will perform the play.",
-    "B": "The play is written by Mark Twain.",
-    "C": "The play will be performed on December 14-15.",
-    "D": "The admission fee is not decided."
-   },
-   "prompt": "Which of the following is not true?",
-   "accept": "D",
-   "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
-   "passageHead": "Questions 1-2 refer to the following flyer."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "For clothes",
-    "B": "For books",
-    "C": "For food",
-    "D": "For admission"
-   },
-   "prompt": "What is this receipt for?",
-   "accept": "C",
-   "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
-   "passageHead": "Questions 3-4 refer to the following receipt."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "$7",
-    "B": "$9",
-    "C": "$10",
-    "D": "$11"
-   },
-   "prompt": "How much is the total?",
-   "accept": "D",
-   "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
-   "passageHead": "Questions 3-4 refer to the following receipt."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s07",
+  "title": "Part V · Section 07",
+  "subtitle": "Forms",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): ______ to the theater is ten dollars.",
+      "choices": {
+        "A": "Admission",
+        "B": "application",
+        "C": "more",
+        "D": "off"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "______ to the theater is ten dollars."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): I filled out my ______ form.",
+      "choices": {
+        "A": "Admission",
+        "B": "application",
+        "C": "more",
+        "D": "off"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "I filled out my ______ form."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): The ______ the better.",
+      "choices": {
+        "A": "Admission",
+        "B": "application",
+        "C": "more",
+        "D": "off"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "The ______ the better."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): A two -year subscription is 50 % ______ the cover price.",
+      "choices": {
+        "A": "Admission",
+        "B": "application",
+        "C": "more",
+        "D": "off"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "A two -year subscription is 50 % ______ the cover price."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 수속하다",
+      "accept": [
+        "Check-in"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "수속하다",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 출발 시간",
+      "accept": [
+        "Departure time"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "출발 시간",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 항공편 번호",
+      "accept": [
+        "Flight No."
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "항공편 번호",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 신청 카드",
+      "accept": [
+        "Application card"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "신청 카드",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 만기 일자",
+      "accept": [
+        "Expiry date"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "만기 일자",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 무료 입장",
+      "accept": [
+        "Free admission"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "stem": "무료 입장",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 테이블 번호",
+      "accept": [
+        "Table No."
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "테이블 번호",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 학생증",
+      "accept": [
+        "Student ID"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "학생증",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 교사 지도서",
+      "accept": [
+        "Teacher's guide"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "교사 지도서",
+      "wordBank": [
+        "Application card",
+        "Check-in",
+        "Departure time",
+        "Expiry date",
+        "Flight No.",
+        "Free admission",
+        "Student ID",
+        "Table No.",
+        "Teacher's guide"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What kind of form is this?",
+      "choices": {
+        "A": "A diary",
+        "B": "A coupon"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Costumes / 1 ______ What kind of form is this? / (a) A diary / (b) A coupon / 2. Which of the following is not true? / (a) The company started in 1920. / (b) Every item is 5 0 % off."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is not true?",
+      "choices": {
+        "A": "The company started in 1920.",
+        "B": "Every item is 50% off."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Costumes / 1 ______ What kind of form is this? / (a) A diary / (b) A coupon / 2. Which of the following is not true? / (a) The company started in 1920. / (b) Every item is 5 0 % off."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is this ticket for?",
+      "choices": {
+        "A": "Aship",
+        "B": "A plane"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "Check In Confirmation / I 1II 1IIII 1 III ______ IIII III Il ______ l / Name (Gender) ______ Peter Ramon (Mr.) ______ ^ / Seat No. ______ 2B................................... / From ______ Chicago ______ To ______ Houston / Departure Time ______ 12:10 ______ Date(Y-M-D) ______ 07-07-09 / Flight No. ______ OZ8918 ______ Confirmation No. ______ 2563214 / 1 ______ What is this ticket for? / (a) A ship / (b) A plane / 2. Which of the following is not true? / (a) The passenger will travel from Chicago to Houston. / (b) The flight will arrive in Houston at 12:10."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is not true?",
+      "choices": {
+        "A": "The passenger will travel from Chicago to Houston.",
+        "B": "The flight will arrive in Houston at 12:10."
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "Check In Confirmation / I 1II 1IIII 1 III ______ IIII III Il ______ l / Name (Gender) ______ Peter Ramon (Mr.) ______ ^ / Seat No. ______ 2B................................... / From ______ Chicago ______ To ______ Houston / Departure Time ______ 12:10 ______ Date(Y-M-D) ______ 07-07-09 / Flight No. ______ OZ8918 ______ Confirmation No. ______ 2563214 / 1 ______ What is this ticket for? / (a) A ship / (b) A plane / 2. Which of the following is not true? / (a) The passenger will travel from Chicago to Houston. / (b) The flight will arrive in Houston at 12:10."
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Mark Twain",
+        "B": "Seoul International School",
+        "C": "A play \"The Adventures of Tom Sawyer\"",
+        "D": "Drama Club"
+      },
+      "prompt": "What does this flyer advertise?",
+      "accept": "C",
+      "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
+      "passageHead": "Questions 1-2 refer to the following flyer."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Seoul International School Drama Club members will perform the play.",
+        "B": "The play is written by Mark Twain.",
+        "C": "The play will be performed on December 14-15.",
+        "D": "The admission fee is not decided."
+      },
+      "prompt": "Which of the following is not true?",
+      "accept": "D",
+      "passage": "Seoul International School Drama Club / presents / \" Tf ie Adventures of Tom Saw yer^ / by Mark Twain / Dec. 14 & 15 at 7:30 p.m. / aa | Free Admission / OOmi / presents \"The Adventures of / 1 What does this flyer advertise? / (A) Mark Twain / (B) Seoul International School / (C) A play \" The Adventures of Tom Saw ye r\" / (D) Drama Club / 2. Which of the following is not true? / (A) Seoul International School Drama Club / members will perform the play. / (B) The play is written by Mark Twain. / (C) The play will be performed on December 14-15 . / (D) The admission fee is not decided.",
+      "passageHead": "Questions 1-2 refer to the following flyer."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "For clothes",
+        "B": "For books",
+        "C": "For food",
+        "D": "For admission"
+      },
+      "prompt": "What is this receipt for?",
+      "accept": "C",
+      "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
+      "passageHead": "Questions 3-4 refer to the following receipt."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "$7",
+        "B": "$9",
+        "C": "$10",
+        "D": "$11"
+      },
+      "prompt": "How much is the total?",
+      "accept": "D",
+      "passage": "Pizza & Pasta World / Table No. 7 / Cheese Crust Pizza | $7 / Salad | $2 / Drinks | $1 / Subtotal | $10 / Tax (10%) | $1 / Total | $11",
+      "passageHead": "Questions 3-4 refer to the following receipt."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

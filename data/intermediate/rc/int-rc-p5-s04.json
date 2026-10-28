@@ -1,279 +1,349 @@
 {
- "practiceId": "int-rc-p5-s04",
- "title": "Part V · Section 04",
- "subtitle": "Letters & email",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "anniversary",
-    "B": "enjoy",
-    "C": "invitation",
-    "D": "pay"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "anniversary",
-    "B": "enjoy",
-    "C": "invitation",
-    "D": "pay"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "anniversary",
-    "B": "enjoy",
-    "C": "invitation",
-    "D": "pay"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "anniversary",
-    "B": "enjoy",
-    "C": "invitation",
-    "D": "pay"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "(d)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "have A in mind"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "let A know"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "no doubt"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "come to one's party"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "take a notice of"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "get ready for"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "a physical checkup"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "be invited to"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "instead of"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Where does the writer write this letter?",
-   "choices": {
-    "A": "At school",
-    "B": "In Hawaii"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does the writer think about the place?",
-   "choices": {
-    "A": "Not so good.",
-    "B": "Couldn’t be better."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is the purpose of this e-mail?",
-   "choices": {
-    "A": "A reply to the complaint",
-    "B": "A reply to the invitation"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "When did Jack receive the letter from Bob?",
-   "choices": {
-    "A": "Monday, January 5th, 2009",
-    "B": "Monday, May 1st, 2009"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Paying for tuition and activity fee",
-    "B": "Regular health checkup",
-    "C": "Notice on school festival",
-    "D": "Getting prepared for the training session"
-   },
-   "prompt": "What is this e-mail about?",
-   "accept": "D",
-   "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
-   "passageHead": "Questions 1-2 refer to the following e-mail."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Girl's training will begin on 24th.",
-    "B": "Only boys need to have a health checkup.",
-    "C": "A doctor's note should be submitted before the training.",
-    "D": "Greg is a volleyball coach."
-   },
-   "prompt": "Which of the following is NOT true?",
-   "accept": "B",
-   "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
-   "passageHead": "Questions 1-2 refer to the following e-mail."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "A birthday party",
-    "B": "A wedding",
-    "C": "An anniversary party",
-    "D": "A Christmas party"
-   },
-   "prompt": "What is the invitation for?",
-   "accept": "C",
-   "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
-   "passageHead": "Questions 3-4 refer to the following letter."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "At 4:00",
-    "B": "At 4:30",
-    "C": "At 7:00",
-    "D": "At 9:00"
-   },
-   "prompt": "When does the band finish?",
-   "accept": "D",
-   "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
-   "passageHead": "Questions 3-4 refer to the following letter."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "int-rc-p5-s04",
+  "title": "Part V · Section 04",
+  "subtitle": "Letters & email",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): Thankyou for your ______. It’s very nice of you.",
+      "choices": {
+        "A": "anniversary",
+        "B": "enjoy",
+        "C": "invitation",
+        "D": "pay"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "Thankyou for your ______. It’s very nice of you."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): Tomorrow is their 40th wedding",
+      "choices": {
+        "A": "anniversary",
+        "B": "enjoy",
+        "C": "invitation",
+        "D": "pay"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "Tomorrow is their 40th wedding"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): I will ______ for the meal this time.",
+      "choices": {
+        "A": "anniversary",
+        "B": "enjoy",
+        "C": "invitation",
+        "D": "pay"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "I will ______ for the meal this time."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): They really ______ bowling.",
+      "choices": {
+        "A": "anniversary",
+        "B": "enjoy",
+        "C": "invitation",
+        "D": "pay"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "stem": "They really ______ bowling."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-: type the answer.",
+      "accept": [
+        "have A in mind"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-: type the answer.",
+      "accept": [
+        "let A know"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 의심할 여지 없이",
+      "accept": [
+        "no doubt"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "의심할 여지 없이",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 파티에 참석하다",
+      "accept": [
+        "come to one's party"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "파티에 참석하다",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 주지하다",
+      "accept": [
+        "take a notice of"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "~을 주지하다",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "get ready for"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 건강 검진",
+      "accept": [
+        "a physical checkup"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "건강 검진",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
+      "accept": [
+        "be invited to"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "~에 초대되다",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~대신에",
+      "accept": [
+        "instead of"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "~대신에",
+      "wordBank": [
+        "a physical checkup",
+        "be invited to",
+        "come to one's party",
+        "get ready for",
+        "have A in mind",
+        "instead of",
+        "let A know",
+        "no doubt",
+        "take a notice of"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does the writer write this letter?",
+      "choices": {
+        "A": "At school",
+        "B": "In Hawaii"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+    },
+    {
+      "type": "choice",
+      "prompt": "What does the writer think about the place?",
+      "choices": {
+        "A": "Not so good.",
+        "B": "Couldn’t be better."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the purpose of this e-mail?",
+      "choices": {
+        "A": "A reply to the complaint",
+        "B": "A reply to the invitation"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "From : ______ jackie@ gg.com / To : ______ bobbie @ gg.com..................................................... / Bob, / No doubt, I will come to your party. ______ ji / If you have a gift in mind, let me know / beforehand. / Need any help? Tell me anytime. / From your best friend, Jack"
+    },
+    {
+      "type": "choice",
+      "prompt": "When did Jack receive the letter from Bob?",
+      "choices": {
+        "A": "Monday, January 5th, 2009",
+        "B": "Monday, May 1st, 2009"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "From : ______ jackie@ gg.com / To : ______ bobbie @ gg.com..................................................... / Bob, / No doubt, I will come to your party. ______ ji / If you have a gift in mind, let me know / beforehand. / Need any help? Tell me anytime. / From your best friend, Jack"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Paying for tuition and activity fee",
+        "B": "Regular health checkup",
+        "C": "Notice on school festival",
+        "D": "Getting prepared for the training session"
+      },
+      "prompt": "What is this e-mail about?",
+      "accept": "D",
+      "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
+      "passageHead": "Questions 1-2 refer to the following e-mail."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Girl's training will begin on 24th.",
+        "B": "Only boys need to have a health checkup.",
+        "C": "A doctor's note should be submitted before the training.",
+        "D": "Greg is a volleyball coach."
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "B",
+      "passage": "Greg < coachgreg@ home.com > / The School Volleyball / Dear students, / The School Volleyball season will start soon. / Please take a notice of the schedule. / - Boy's training will begin from next Friday (23rd). / - Girl's training will begin the next day. / Please get ready for the training. / - Both boys and girls must get a physical check up / from a hospital. / You are required to submit a doctor's note before you / join the training. / - All participants must pay $50 for uniforms, meals and / others. / I wish all of you and your family good k jck. / With best wishes, / Your Coach / 1 What is this e-mail about? / (A) Paying for tuition and activity fee / (B) Regular health checkup / (C) Notice on school festival / (D) Getting prepared for the training session / 2. Which of the following is NOT true? / (A) Girl's training will begin on 24th. / (B) Only boys need to have a health checkup. / (C) A doctor's note should be submitted before the / training. / (D) Greg is a volleyball coach.",
+      "passageHead": "Questions 1-2 refer to the following e-mail."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A birthday party",
+        "B": "A wedding",
+        "C": "An anniversary party",
+        "D": "A Christmas party"
+      },
+      "prompt": "What is the invitation for?",
+      "accept": "C",
+      "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
+      "passageHead": "Questions 3-4 refer to the following letter."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "At 4:00",
+        "B": "At 4:30",
+        "C": "At 7:00",
+        "D": "At 9:00"
+      },
+      "prompt": "When does the band finish?",
+      "accept": "D",
+      "passage": "You are cordially invited to the 50th Wedding / Anniversary party of Luke and Josephine Martin. / It will be held on Saturday, November 5th, 2007 / at the Eastview Community Hall 228 Montreal / Road, Vanier, Ontario. Dinner will start at 5:30 / p.m. The band, \"Swing,\" will perform from 7:00 / to 9:00 p.m. A donation to the Eastview / Hospital | will | be | accepted | instead | of | gift. / Sincerely , / The Martins",
+      "passageHead": "Questions 3-4 refer to the following letter."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

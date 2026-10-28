@@ -1,250 +1,334 @@
 {
- "practiceId": "adv-rc-p5-s04",
- "title": "Part V · Section 04",
- "subtitle": "Letters & email",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "believe",
-    "B": "improve",
-    "C": "inform"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "believe",
-    "B": "improve",
-    "C": "inform"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "believe",
-    "B": "improve",
-    "C": "inform"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "would like A to B"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "I"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "next time bet"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "would like to"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "apply for"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "ask for"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "enclosed résumé"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "advertised in the newspaper"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Why has David written to his uncle and aunt?",
-   "choices": {
-    "A": "To thank them for a present",
-    "B": "To ask if he can visit them"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q12",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does David claim?",
-   "choices": {
-    "A": "He is getting better at basketball.",
-    "B": "He has met a famous basketball player."
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who buys glass from Nu-Glass Inc.?",
-   "choices": {
-    "A": "Mr. Charles",
-    "B": "Mr. Ben"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "How much will Mr. Charles receive if he gives the talk?",
-   "choices": {
-    "A": "$1,000",
-    "B": "$1,000 plus expenses"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "id": "q16",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "It is opening a new store.",
-    "B": "It is based outside the U.S.",
-    "C": "It sells videos as well as CDs.",
-    "D": "It guarantees the lowest prices."
-   },
-   "prompt": "What is learned about CD World?",
-   "accept": "C",
-   "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
-   "passageHead": "Questions 1-2 refer to the following e-mail."
-  },
-  {
-   "id": "q17",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "March 1",
-    "B": "March 24",
-    "C": "March 30",
-    "D": "March 31"
-   },
-   "prompt": "When does the offer end?",
-   "accept": "D",
-   "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
-   "passageHead": "Questions 1-2 refer to the following e-mail."
-  },
-  {
-   "id": "q18",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To get a job with J&R Technologies",
-    "B": "To advertise in a newspaper",
-    "C": "To gain some experience",
-    "D": "To ask for some qualifications"
-   },
-   "prompt": "Why has Mr. Whalley written the letter?",
-   "accept": "A",
-   "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
-   "passageHead": "Questions 3-4 refer to the following letter."
-  },
-  {
-   "id": "q19",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "His résumé",
-    "B": "Recommendations",
-    "C": "Today's newspaper",
-    "D": "Copy of university diploma"
-   },
-   "prompt": "What has Mr. Whalley sent with the letter?",
-   "accept": "A",
-   "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
-   "passageHead": "Questions 3-4 refer to the following letter."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s04",
+  "title": "Part V · Section 04",
+  "subtitle": "Letters & email",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): I can hardly ______ what he said yesterday.",
+      "choices": {
+        "A": "believe",
+        "B": "improve",
+        "C": "inform"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "I can hardly ______ what he said yesterday."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): It will ______ _ your English if you listen to this CD everyday.",
+      "choices": {
+        "A": "believe",
+        "B": "improve",
+        "C": "inform"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "It will ______ _ your English if you listen to this CD everyday."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "believe",
+        "B": "improve",
+        "C": "inform"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 교통사고",
+      "accept": [
+        "would like A to B"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "교통사고",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 다음 번에",
+      "accept": [
+        "I"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "다음 번에",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 내가 장담하다",
+      "accept": [
+        "next time bet"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "내가 장담하다",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~하고 싶다",
+      "accept": [
+        "would like to"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "~하고 싶다",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "accept": [
+        "apply for"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "~에 지원하다",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~을 요구하다",
+      "accept": [
+        "ask for"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "~을 요구하다",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 동봉된 이력서",
+      "accept": [
+        "enclosed résumé"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "동봉된 이력서",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 신문에 광고된",
+      "accept": [
+        "advertised in the newspaper"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "신문에 광고된",
+      "wordBank": [
+        "I",
+        "advertised in the newspaper",
+        "apply for",
+        "ask for",
+        "enclosed résumé",
+        "next time bet",
+        "would like A to B",
+        "would like to"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Why has David written to his uncle and aunt?",
+      "choices": {
+        "A": "To thank them for a present",
+        "B": "To ask if he can visit them"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q12",
+      "label": "1",
+      "passage": "Dear Uncle John and Aunt Sarah, / Thankyou berth so much for the basketball / you sent me for my birthday! How did you / know I needed a new one? I've been playing / with it everyday since I got it, and my skills / are really improving. Next time you visit, / I want to play with John and I be tI'll win! / Again, thankyou for the basketball! / Iloveyou both! / Your nephew, David. / 1 ______ Why has David written to his uncle and aunt? / (a) To thank them for a present / (b) To ask if he can visit them / 2. What does David claim? / (a) He is getting better at basketball. / (b) He has meta famous basketball player."
+    },
+    {
+      "type": "choice",
+      "prompt": "What does David claim?",
+      "choices": {
+        "A": "He is getting better at basketball.",
+        "B": "He has met a famous basketball player."
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "2",
+      "passage": "Dear Uncle John and Aunt Sarah, / Thankyou berth so much for the basketball / you sent me for my birthday! How did you / know I needed a new one? I've been playing / with it everyday since I got it, and my skills / are really improving. Next time you visit, / I want to play with John and I be tI'll win! / Again, thankyou for the basketball! / Iloveyou both! / Your nephew, David. / 1 ______ Why has David written to his uncle and aunt? / (a) To thank them for a present / (b) To ask if he can visit them / 2. What does David claim? / (a) He is getting better at basketball. / (b) He has meta famous basketball player."
+    },
+    {
+      "type": "choice",
+      "prompt": "Who buys glass from Nu-Glass Inc.?",
+      "choices": {
+        "A": "Mr. Charles",
+        "B": "Mr. Ben"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q14",
+      "label": "1",
+      "passage": "Jane 7 3 @ excited. com / Charles @ noose. com / Dear Mr. Charles, / This is Jane Jones from Nu-Glass Inc. Ac / Mr. Ben from AD Glass, informed / give a small talk to our staff on Monday, November 21st. / We will pay all expenses and also give you $1,000. Please / let / Yours sincerely, / J. Jones"
+    },
+    {
+      "type": "choice",
+      "prompt": "How much will Mr. Charles receive if he gives the talk?",
+      "choices": {
+        "A": "$1,000",
+        "B": "$1,000 plus expenses"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "2",
+      "passage": "Jane 7 3 @ excited. com / Charles @ noose. com / Dear Mr. Charles, / This is Jane Jones from Nu-Glass Inc. Ac / Mr. Ben from AD Glass, informed / give a small talk to our staff on Monday, November 21st. / We will pay all expenses and also give you $1,000. Please / let / Yours sincerely, / J. Jones"
+    },
+    {
+      "id": "q16",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "It is opening a new store.",
+        "B": "It is based outside the U.S.",
+        "C": "It sells videos as well as CDs.",
+        "D": "It guarantees the lowest prices."
+      },
+      "prompt": "What is learned about CD World?",
+      "accept": "C",
+      "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
+      "passageHead": "Questions 1-2 refer to the following e-mail."
+    },
+    {
+      "id": "q17",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "March 1",
+        "B": "March 24",
+        "C": "March 30",
+        "D": "March 31"
+      },
+      "prompt": "When does the offer end?",
+      "accept": "D",
+      "passage": "promotions @ cd world. com / jerry @ garcia networks. com / Thursday Feb 24 ,2007 / Subject | You get $5 off $30 ! / CD World would like to thank you for choosing / cd world. com as your source for music CD s, DV Ds, / and videos. To show our apprecia tion we are / offering you $5 off your next purchase of $30 or / more. Just vis it http: / / www. cd world. com and / choose from the latest releases. / But hurry, this offer ends March 31 ! / Coupon Code: 95309U PZVLM / Thanks, CD World.",
+      "passageHead": "Questions 1-2 refer to the following e-mail."
+    },
+    {
+      "id": "q18",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To get a job with J&R Technologies",
+        "B": "To advertise in a newspaper",
+        "C": "To gain some experience",
+        "D": "To ask for some qualifications"
+      },
+      "prompt": "Why has Mr. Whalley written the letter?",
+      "accept": "A",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passageHead": "Questions 3-4 refer to the following letter."
+    },
+    {
+      "id": "q19",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "His résumé",
+        "B": "Recommendations",
+        "C": "Today's newspaper",
+        "D": "Copy of university diploma"
+      },
+      "prompt": "What has Mr. Whalley sent with the letter?",
+      "accept": "A",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passageHead": "Questions 3-4 refer to the following letter."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

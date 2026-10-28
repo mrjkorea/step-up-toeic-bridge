@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): head of a country or a company",
       "choices": {
         "A": "auditorium",
         "B": "coin",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "head of a country or a company"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): spirit of a dead person",
       "choices": {
         "A": "auditorium",
         "B": "coin",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "spirit of a dead person"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): place of audience to s it",
       "choices": {
         "A": "auditorium",
         "B": "coin",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "place of audience to s it"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): small piece of metal which is used as money",
       "choices": {
         "A": "auditorium",
         "B": "coin",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "small piece of metal which is used as money"
     },
     {
       "type": "text",
@@ -118,7 +118,8 @@
       "section": "Grammar Practice",
       "id": "q9",
       "label": "1-(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "11월 2 0 일 ᅳ __________",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
@@ -163,14 +164,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Fill in the blank.",
+      "prompt": "Grammar Practice 3-(a): Fill in the blank — There is (a few / a little) water in the kitchen.",
       "accept": [
         "a little"
       ],
       "section": "Grammar Practice",
       "id": "q14",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "There is (a few / a little) water in the kitchen."
     },
     {
       "type": "text",
@@ -204,14 +205,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(a): Fill in the blank — She has a lot of homework to do.",
       "accept": [
         "busy"
       ],
       "section": "Grammar Practice",
       "id": "q18",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She has a lot of homework to do."
     },
     {
       "type": "text",

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): A : You look angry. What’sup?",
       "choices": {
         "A": "better than",
         "B": "no longer"
@@ -18,7 +18,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "A : You look angry. What’sup?"
     },
     {
       "type": "choice",
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Write the comparative and superlative forms.",
+      "prompt": "Warm-Up 2-(a): Write the comparative and superlative forms — many - ______ - ______",
       "accept": [
         "more - most / more - most",
         "more most / more most",
@@ -44,7 +44,7 @@
       "section": "Warm-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "many - ______ - ______"
     },
     {
       "type": "text",
@@ -110,14 +110,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): long ______ - ______ - ______",
       "accept": [
         "longer longest"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "long ______ - ______ - ______"
     },
     {
       "type": "text",
@@ -143,7 +143,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): correct or complete it.",
+      "prompt": "Warm-Up 1-(d): correct or complete it — easy ______ - ______ - ______",
       "accept": [
         "easier - easiest",
         "easier, easiest",
@@ -152,7 +152,7 @@
       "section": "Warm-Up",
       "id": "q13",
       "label": "1-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "easy ______ - ______ - ______"
     },
     {
       "type": "text",
@@ -169,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(f): write the comparative and superlative forms.",
+      "prompt": "Warm-Up 1-(f): write the comparative and superlative forms — hot ______ - ______ - ______",
       "accept": [
         "hotter - hottest",
         "hotter, hottest",
@@ -178,51 +178,51 @@
       "section": "Warm-Up",
       "id": "q15",
       "label": "1-(f)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "hot ______ - ______ - ______"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): type the answer.",
+      "prompt": "Warm-Up 3-(a): John is as smart ______ his brother.",
       "accept": [
         "as"
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "John is as smart ______ his brother."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): type the answer.",
+      "prompt": "Warm-Up 3-(b): ______ is bigger, the baseball or golf ball?",
       "accept": [
         "Which"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ is bigger, the baseball or golf ball?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): type the answer.",
+      "prompt": "Warm-Up 3-(c): It is getting colder and ______",
       "accept": [
         "colder"
       ],
       "section": "Warm-Up",
       "id": "q18",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is getting colder and ______"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): type the answer.",
+      "prompt": "Warm-Up 3-(d): He is the ______ of all.",
       "accept": [
         "tallest"
       ],
       "section": "Warm-Up",
       "id": "q19",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He is the ______ of all."
     },
     {
       "type": "text",

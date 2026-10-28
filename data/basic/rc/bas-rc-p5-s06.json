@@ -1,279 +1,382 @@
 {
- "practiceId": "bas-rc-p5-s06",
- "title": "Part V · Section 06",
- "subtitle": "Memos",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "aisle",
-    "B": "flavor",
-    "C": "following",
-    "D": "personal"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "aisle",
-    "B": "flavor",
-    "C": "following",
-    "D": "personal"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "aisle",
-    "B": "flavor",
-    "C": "following",
-    "D": "personal"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "aisle",
-    "B": "flavor",
-    "C": "following",
-    "D": "personal"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "Get back"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Late for class"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "While you were out"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "To do list"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "Drop b"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "See you later"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "After class"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Will call agai"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "Write an e-mail"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "When was this call made?",
-   "choices": {
-    "A": "August 14, before ten a.m.",
-    "B": "August 14, after ten a.m."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What will Sally do when she reads this message?",
-   "choices": {
-    "A": "Go for a ride",
-    "B": "Call Jack"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is this list for?",
-   "choices": {
-    "A": "For shopping",
-    "B": "For cooking"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "How many items does the writer need?",
-   "choices": {
-    "A": "4",
-    "B": "5"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Train schedule",
-    "B": "Office job list",
-    "C": "Personal things to do list",
-    "D": "Letter"
-   },
-   "prompt": "What is this memo for?",
-   "accept": "C",
-   "passage": "Things to do list / Date: 02 /03 / - Call Mr. Kim & say \" Thanks \" / - Buy a red pen / - Write a ne - mail to Nancy / - Return the book / - Drop by the bank / - Lunch with James / 1 What is this memo for? / (A) Train schedule / (B) Office job list / (C) Personal things to do list / (D) Letter / Who will receive ane -m a il from the person? | vvrite an e-mail to / (A) James / (B) Nancy / (C) Mr. Kim / (D) Bank teller",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "James",
-    "B": "Nancy",
-    "C": "Mr. Kim",
-    "D": "Bank teller"
-   },
-   "prompt": "Who will receive an e-mail from the person?",
-   "accept": "B",
-   "passage": "Things to do list / Date: 02 /03 / - Call Mr. Kim & say \" Thanks \" / - Buy a red pen / - Write a ne - mail to Nancy / - Return the book / - Drop by the bank / - Lunch with James / 1 What is this memo for? / (A) Train schedule / (B) Office job list / (C) Personal things to do list / (D) Letter / Who will receive ane -m a il from the person? | vvrite an e-mail to / (A) James / (B) Nancy / (C) Mr. Kim / (D) Bank teller",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "In the hospital",
-    "B": "In the classroom",
-    "C": "In the playground",
-    "D": "In the aisle"
-   },
-   "prompt": "Where can you see this memo?",
-   "accept": "B",
-   "passage": "To all students / 1. PLEASE remember to turn off the aircon / dition er when you leave the classroom. / 2. Report to me if you find a lost book.",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "A father",
-    "B": "A student",
-    "C": "A teacher",
-    "D": "A doctor"
-   },
-   "prompt": "Who is the memo from?",
-   "accept": "C",
-   "passage": "To all students / 1. PLEASE remember to turn off the aircon / dition er when you leave the classroom. / 2. Report to me if you find a lost book.",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s06",
+  "title": "Part V · Section 06",
+  "subtitle": "Memos",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): What ______ would you like?",
+      "choices": {
+        "A": "aisle",
+        "B": "flavor",
+        "C": "following",
+        "D": "personal"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "What ______ would you like?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): He is walking down the ______.",
+      "choices": {
+        "A": "aisle",
+        "B": "flavor",
+        "C": "following",
+        "D": "personal"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "He is walking down the ______."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): Nothing ______!",
+      "choices": {
+        "A": "aisle",
+        "B": "flavor",
+        "C": "following",
+        "D": "personal"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "Nothing ______!"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): The ______ is the list of passengers.",
+      "choices": {
+        "A": "aisle",
+        "B": "flavor",
+        "C": "following",
+        "D": "personal"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "The ______ is the list of passengers."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 수속하다",
+      "accept": [
+        "Get back"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "수속하다",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 출발 시간",
+      "accept": [
+        "Late for class"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "출발 시간",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 항공편 번호",
+      "accept": [
+        "While you were out"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "항공편 번호",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 신청 카드",
+      "accept": [
+        "To do list"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "신청 카드",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 만기 일자",
+      "accept": [
+        "Drop b"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "만기 일자",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 무료 입장",
+      "accept": [
+        "See you later"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "stem": "무료 입장",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 테이블 번호",
+      "accept": [
+        "After class"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "테이블 번호",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 학생증",
+      "accept": [
+        "Will call agai"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "학생증",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 교사 지도서",
+      "accept": [
+        "Write an e-mail"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "교사 지도서",
+      "wordBank": [
+        "After class",
+        "Drop b",
+        "Get back",
+        "Late for class",
+        "See you later",
+        "To do list",
+        "While you were out",
+        "Will call agai",
+        "Write an e-mail"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "When was this call made?",
+      "choices": {
+        "A": "August 14, before ten a.m.",
+        "B": "August 14, after ten a.m."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "\\ } J Hi LeV ^ u ______ V Je / Call me when you get back."
+    },
+    {
+      "type": "choice",
+      "prompt": "What will Sally do when she reads this message?",
+      "choices": {
+        "A": "Go for a ride",
+        "B": "Call Jack"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "\\ } J Hi LeV ^ u ______ V Je / Call me when you get back."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is this list for?",
+      "choices": {
+        "A": "For shopping",
+        "B": "For cooking"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "To: Honey, please buy these following items. / List"
+    },
+    {
+      "type": "choice",
+      "prompt": "How many items does the writer need?",
+      "choices": {
+        "A": "4",
+        "B": "5"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "To: Honey, please buy these following items. / List"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Train schedule",
+        "B": "Office job list",
+        "C": "Personal things to do list",
+        "D": "Letter"
+      },
+      "prompt": "What is this memo for?",
+      "accept": "C",
+      "passage": "Things to do list / Date: 02 /03 / - Call Mr. Kim & say \" Thanks \" / - Buy a red pen / - Write a ne - mail to Nancy / - Return the book / - Drop by the bank / - Lunch with James / 1 What is this memo for? / (A) Train schedule / (B) Office job list / (C) Personal things to do list / (D) Letter / Who will receive ane -m a il from the person? | vvrite an e-mail to / (A) James / (B) Nancy / (C) Mr. Kim / (D) Bank teller",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "James",
+        "B": "Nancy",
+        "C": "Mr. Kim",
+        "D": "Bank teller"
+      },
+      "prompt": "Who will receive an e-mail from the person?",
+      "accept": "B",
+      "passage": "Things to do list / Date: 02 /03 / - Call Mr. Kim & say \" Thanks \" / - Buy a red pen / - Write a ne - mail to Nancy / - Return the book / - Drop by the bank / - Lunch with James / 1 What is this memo for? / (A) Train schedule / (B) Office job list / (C) Personal things to do list / (D) Letter / Who will receive ane -m a il from the person? | vvrite an e-mail to / (A) James / (B) Nancy / (C) Mr. Kim / (D) Bank teller",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "In the hospital",
+        "B": "In the classroom",
+        "C": "In the playground",
+        "D": "In the aisle"
+      },
+      "prompt": "Where can you see this memo?",
+      "accept": "B",
+      "passage": "To all students / 1. PLEASE remember to turn off the aircon / dition er when you leave the classroom. / 2. Report to me if you find a lost book.",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "A father",
+        "B": "A student",
+        "C": "A teacher",
+        "D": "A doctor"
+      },
+      "prompt": "Who is the memo from?",
+      "accept": "C",
+      "passage": "To all students / 1. PLEASE remember to turn off the aircon / dition er when you leave the classroom. / 2. Report to me if you find a lost book.",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

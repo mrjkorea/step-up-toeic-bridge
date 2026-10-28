@@ -1,219 +1,289 @@
 {
- "practiceId": "int-rc-p5-s02",
- "title": "Part V · Section 02",
- "subtitle": "Ads",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "with an ocean view"
-   ],
-   "section": "Warm-Up",
-   "id": "q1",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "sign up"
-   ],
-   "section": "Warm-Up",
-   "id": "q2",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "special price"
-   ],
-   "section": "Warm-Up",
-   "id": "q3",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "free shipping"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "business day"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "as long as"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "from the list"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "at one time"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "breakfast included"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What event is this advertisement for?",
-   "choices": {
-    "A": "A classical concert",
-    "B": "A jazz concert"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q10",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is the admission for students?",
-   "choices": {
-    "A": "5 dollars",
-    "B": "10 dollars"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q11",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "When does a customer get the special treats?",
-   "choices": {
-    "A": "On weekends, before 9 p.m.",
-    "B": "On weekdays, before 9 p.m."
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q12",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "When does this special offer end?",
-   "choices": {
-    "A": "November 10",
-    "B": "December 23"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q13",
-   "label": "2"
-  },
-  {
-   "id": "q14",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Wellington Holiday Inn is a hotel.",
-    "B": "Guests are offered breakfast during their stay.",
-    "C": "Only foreigners can get special offer.",
-    "D": "Suite room with an ocean view costs $150."
-   },
-   "prompt": "Which of the following is NOT true?",
-   "accept": "D",
-   "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q15",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "At least two nights",
-    "B": "At most two nights",
-    "C": "At least three nights",
-    "D": "At least four nights"
-   },
-   "prompt": "How many nights should one guest stay?",
-   "accept": "C",
-   "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q16",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Selling videos online",
-    "B": "Renting videos to home",
-    "C": "Purchasing old videos from home",
-    "D": "Exchanging old videos with new ones"
-   },
-   "prompt": "What is this advertisement for?",
-   "accept": "B",
-   "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  },
-  {
-   "id": "q17",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "The company pays for delivery.",
-    "B": "100,000 titles are offered at one time.",
-    "C": "One can cancel anytime before the next DVD arrives.",
-    "D": "One can keep movies only for two days."
-   },
-   "prompt": "Which of the following is NOT true?",
-   "accept": "B",
-   "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "int-rc-p5-s02",
+  "title": "Part V · Section 02",
+  "subtitle": "Ads",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-: type the answer.",
+      "accept": [
+        "with an ocean view"
+      ],
+      "section": "Warm-Up",
+      "id": "q1",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 집에서",
+      "accept": [
+        "sign up"
+      ],
+      "section": "Warm-Up",
+      "id": "q2",
+      "label": "2",
+      "stem": "집에서",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 학원에서",
+      "accept": [
+        "special price"
+      ],
+      "section": "Warm-Up",
+      "id": "q3",
+      "label": "3",
+      "stem": "학원에서",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 컴퓨터를 통해서",
+      "accept": [
+        "free shipping"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "4",
+      "stem": "컴퓨터를 통해서",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 사용 설명",
+      "accept": [
+        "business day"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "5",
+      "stem": "사용 설명",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "as long as"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 목록에서",
+      "accept": [
+        "from the list"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "7",
+      "stem": "목록에서",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~하도록 요청받다",
+      "accept": [
+        "at one time"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "8",
+      "stem": "~하도록 요청받다",
+      "wordBank": [
+        "as long as",
+        "at one time",
+        "breakfast included",
+        "business day",
+        "free shipping",
+        "from the list",
+        "sign up",
+        "special price",
+        "with an ocean view"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9-: type the answer.",
+      "accept": [
+        "breakfast included"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "9",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "What event is this advertisement for?",
+      "choices": {
+        "A": "A classical concert",
+        "B": "A jazz concert"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q10",
+      "label": "1",
+      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / S at. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the admission for students?",
+      "choices": {
+        "A": "5 dollars",
+        "B": "10 dollars"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q11",
+      "label": "2",
+      "passage": "Special Concert / by Helen Jackson, the JAZZ Queen / S at. Night 7 p.m. / Culture Center in King's Town / $10 admission for adults / (50% off for students)"
+    },
+    {
+      "type": "choice",
+      "prompt": "When does a customer get the special treats?",
+      "choices": {
+        "A": "On weekends, before 9 p.m.",
+        "B": "On weekdays, before 9 p.m."
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q12",
+      "label": "1",
+      "passage": "Evening Special Treats! / “Come and get the FREE treats! ” / From November 10 to December 23. / Order Mary’s Evening Special Menu / and enjoy the special treats. / (You may choose either A Type or / B type shown on the menu.) / Until 9 p.m. (Monday - Friday) / Offer available only for the first time visit."
+    },
+    {
+      "type": "choice",
+      "prompt": "When does this special offer end?",
+      "choices": {
+        "A": "November 10",
+        "B": "December 23"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q13",
+      "label": "2",
+      "passage": "Evening Special Treats! / “Come and get the FREE treats! ” / From November 10 to December 23. / Order Mary’s Evening Special Menu / and enjoy the special treats. / (You may choose either A Type or / B type shown on the menu.) / Until 9 p.m. (Monday - Friday) / Offer available only for the first time visit."
+    },
+    {
+      "id": "q14",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Wellington Holiday Inn is a hotel.",
+        "B": "Guests are offered breakfast during their stay.",
+        "C": "Only foreigners can get special offer.",
+        "D": "Suite room with an ocean view costs $150."
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "D",
+      "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q15",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "At least two nights",
+        "B": "At most two nights",
+        "C": "At least three nights",
+        "D": "At least four nights"
+      },
+      "prompt": "How many nights should one guest stay?",
+      "accept": "C",
+      "passage": "Wellington Holiday Inn / Special offer for foreign guests ONLY! / * Standard single room $60 per night / * Deluxe double room $80 per night / * Suite room $150 per night / (Room with an oceanview costs extra / $20) / * Breakfast (B uffet) included / * This special offer is only valid with / a minimum of 3 nights 'stay.",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q16",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Selling videos online",
+        "B": "Renting videos to home",
+        "C": "Purchasing old videos from home",
+        "D": "Exchanging old videos with new ones"
+      },
+      "prompt": "What is this advertisement for?",
+      "accept": "B",
+      "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    },
+    {
+      "id": "q17",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "The company pays for delivery.",
+        "B": "100,000 titles are offered at one time.",
+        "C": "One can cancel anytime before the next DVD arrives.",
+        "D": "One can keep movies only for two days."
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "B",
+      "passage": "Sign Up Today / and try HOME_MOVIE_NET for FREE! / Special Price $3.99 a month. / * Free shipping - Both ways / * Classics to new releases (including TV soap / operas) / * Cancel anytime before next month's DVDs / arrive / * Watch movies instantly on your PC - / anywhere, anytime / * Over 100,000 titles / * Free delivery in about 1 Business Day / * Keep each movie as long as you want / * Return a movie to get a new one from the list",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

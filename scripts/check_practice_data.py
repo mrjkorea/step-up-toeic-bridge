@@ -15,7 +15,8 @@ PHOTOS = os.path.join(ROOT, "assets", "photos")
 PAGE_REF = re.compile(r"page-\d+\.(?:jpe?g|png)|/rc-pages/|rc-pages/", re.I)
 VAGUE = re.compile(r"see the book page", re.I)
 ALLOWED_PHOTO = re.compile(
-    r"^(basic|intermediate|advanced)/(at/q\d+|p1-s\d\d/q0[1-6])\.png$", re.I
+    r"^(basic|intermediate|advanced)/(at/q\d+|p1-s\d\d/q0[1-6]|p1-s\d\d/(wu1|wu2|lp1|lp2))\.(?:png|jpe?g)$",
+    re.I,
 )
 
 

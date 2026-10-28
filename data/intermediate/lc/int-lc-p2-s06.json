@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I ______ this shirt.",
       "choices": {
         "A": "am done",
         "B": "borrowed",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ this shirt."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): I will ______ him to the party.",
       "choices": {
         "A": "am done",
         "B": "borrowed",
@@ -39,11 +39,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I will ______ him to the party."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): I went to the ______.",
       "choices": {
         "A": "am done",
         "B": "borrowed",
@@ -55,7 +55,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I went to the ______."
     },
     {
       "type": "choice",
@@ -75,7 +75,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): I think my ______ is broken.",
       "choices": {
         "A": "am done",
         "B": "borrowed",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I think my ______ is broken."
     },
     {
       "id": "q6",

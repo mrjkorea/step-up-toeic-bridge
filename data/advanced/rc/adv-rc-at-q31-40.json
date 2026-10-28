@@ -1,172 +1,172 @@
 {
- "practiceId": "adv-rc-at-q31-40",
- "title": "RC Actual Test · Questions 31–40",
- "subtitle": "10 questions (book Q81–90)",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Toys",
-    "B": "Clothing",
-    "C": "Sports equipment",
-    "D": "Books"
-   },
-   "prompt": "Which of the following items will NOT be on sale?",
-   "accept": "D",
-   "part": "V",
-   "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
-   "passageHead": "Questions 81-82 refer to the following advertisement."
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "A free drink",
-    "B": "A free toy",
-    "C": "A free balloon",
-    "D": "Free food"
-   },
-   "prompt": "What will people receive if they buy something?",
-   "accept": "C",
-   "part": "V",
-   "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
-   "passageHead": "Questions 81-82 refer to the following advertisement."
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Her children need help studying math.",
-    "B": "She finds math difficult.",
-    "C": "Her children have an important math exam soon.",
-    "D": "She wants to be a good student."
-   },
-   "prompt": "Why is the woman looking for a math tutor?",
-   "accept": "A",
-   "part": "V",
-   "passage": "WANTED: MATH TUTOR / I'm the mother of two children. I am looking for a math tutor / for them. My children are 9 and 11 years old. They are both / good students, but find math difficult. I would like a math / tutor to teach my children twice a week, Mondays and / Wednesdays, for one hour each time. You should provide / books and all other materials. I, / m willing to pay $20 an hour.",
-   "passageHead": "Questions 83-84 refer to the following advertisement."
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Once a week",
-    "B": "Once every two weeks",
-    "C": "Twice a week",
-    "D": "Twice a month"
-   },
-   "prompt": "How often does the woman want her children to be taught?",
-   "accept": "C",
-   "part": "V",
-   "passage": "WANTED: MATH TUTOR / I'm the mother of two children. I am looking for a math tutor / for them. My children are 9 and 11 years old. They are both / good students, but find math difficult. I would like a math / tutor to teach my children twice a week, Mondays and / Wednesdays, for one hour each time. You should provide / books and all other materials. I, / m willing to pay $20 an hour.",
-   "passageHead": "Questions 83-84 refer to the following advertisement."
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "It has no smell.",
-    "B": "It costs less than soap.",
-    "C": "It keeps skin from drying out.",
-    "D": "It can be found at a pharmacy."
-   },
-   "prompt": "What information is given about glycerin?",
-   "accept": "D",
-   "part": "V",
-   "passage": "Almond & Honey Bubble Bath / 1/2 cup honey / 1/2 cup gentle liquid soap / 1 tablespoon almond extract / 1 tablespoon glycerin (g et at a pharmacy) / Combine all ingredients by stirring gently. Pour in to a pretty clear / plastic bottle and keep by your bathtub. Enjoy this luxurious mixture / in your next hot bath! Great for dry skin .",
-   "passageHead": "Questions 85-86 refer to the following instructions."
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "They should be dried.",
-    "B": "They should be heated.",
-    "C": "They should be cooled.",
-    "D": "They should be stirred."
-   },
-   "prompt": "What should be done with the ingredients?",
-   "accept": "D",
-   "part": "V",
-   "passage": "Almond & Honey Bubble Bath / 1/2 cup honey / 1/2 cup gentle liquid soap / 1 tablespoon almond extract / 1 tablespoon glycerin (g et at a pharmacy) / Combine all ingredients by stirring gently. Pour in to a pretty clear / plastic bottle and keep by your bathtub. Enjoy this luxurious mixture / in your next hot bath! Great for dry skin .",
-   "passageHead": "Questions 85-86 refer to the following instructions."
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "It is invisible.",
-    "B": "It is necessary for life.",
-    "C": "It contains ice crystals.",
-    "D": "It is made up mostly of colorful rays."
-   },
-   "prompt": "What is said about the air?",
-   "accept": "C",
-   "part": "V",
-   "passage": "Blue Skies / The air around us seems empty. However, it contains gasses / and water vapor along with larger particles, such as ice / crystals, dust, and pollutants. All these, taken together, give / the sky its color. They catch and separate blue light waves / from the sun, but allow the longer red and yellow waves to / pass through the sky. As a result, the sky loo",
-   "passageHead": "Questions 87-88 refer to the following article."
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "Very small bugs",
-    "B": "Red and yellow light waves",
-    "C": "Radio and television signals",
-    "D": "Dust and smoke from volcanos"
-   },
-   "prompt": "What is said to pass through the atmosphere?",
-   "accept": "B",
-   "part": "V",
-   "passage": "Blue Skies / The air around us seems empty. However, it contains gasses / and water vapor along with larger particles, such as ice / crystals, dust, and pollutants. All these, taken together, give / the sky its color. They catch and separate blue light waves / from the sun, but allow the longer red and yellow waves to / pass through the sky. As a result, the sky loo",
-   "passageHead": "Questions 87-88 refer to the following article."
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "In an airport",
-    "B": "In a restaurant",
-    "C": "In a bank",
-    "D": "In a police station"
-   },
-   "prompt": "Where would you most likely find this sign?",
-   "accept": "A",
-   "part": "V",
-   "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
-   "passageHead": "Questions 89-90 refer to the following instructions."
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "Until your visa is completed",
-    "B": "Until you are told you can move",
-    "C": "Until you have your passport",
-    "D": "Until you are told which desk to go to"
-   },
-   "prompt": "How long should you wait behind the yellow line?",
-   "accept": "B",
-   "part": "V",
-   "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
-   "passageHead": "Questions 89-90 refer to the following instructions."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-at-q31-40",
+  "title": "RC Actual Test · Questions 31–40",
+  "subtitle": "10 questions (book Q81–90)",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Toys",
+        "B": "Clothing",
+        "C": "Sports equipment",
+        "D": "Books"
+      },
+      "prompt": "Which of the following items will NOT be on sale?",
+      "accept": "D",
+      "part": "V",
+      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
+      "passageHead": "Questions 81-82 refer to the following advertisement."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A free drink",
+        "B": "A free toy",
+        "C": "A free balloon",
+        "D": "Free food"
+      },
+      "prompt": "What will people receive if they buy something?",
+      "accept": "C",
+      "part": "V",
+      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
+      "passageHead": "Questions 81-82 refer to the following advertisement."
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Her children need help studying math.",
+        "B": "She finds math difficult.",
+        "C": "Her children have an important math exam soon.",
+        "D": "She wants to be a good student."
+      },
+      "prompt": "Why is the woman looking for a math tutor?",
+      "accept": "A",
+      "part": "V",
+      "passage": "WANTED: MATH TUTOR / I'm the mother of two children. I am looking for a math tutor / for them. My children are 9 and 11 years old. They are both / good students, but find math difficult. I would like a math / tutor to teach my children twice a week, Mondays and / Wednesdays, for one hour each time. You should provide / books and all other materials. I, / m willing to pay $20 an hour.",
+      "passageHead": "Questions 83-84 refer to the following advertisement."
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Once a week",
+        "B": "Once every two weeks",
+        "C": "Twice a week",
+        "D": "Twice a month"
+      },
+      "prompt": "How often does the woman want her children to be taught?",
+      "accept": "C",
+      "part": "V",
+      "passage": "WANTED: MATH TUTOR / I'm the mother of two children. I am looking for a math tutor / for them. My children are 9 and 11 years old. They are both / good students, but find math difficult. I would like a math / tutor to teach my children twice a week, Mondays and / Wednesdays, for one hour each time. You should provide / books and all other materials. I, / m willing to pay $20 an hour.",
+      "passageHead": "Questions 83-84 refer to the following advertisement."
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "It has no smell.",
+        "B": "It costs less than soap.",
+        "C": "It keeps skin from drying out.",
+        "D": "It can be found at a pharmacy."
+      },
+      "prompt": "What information is given about glycerin?",
+      "accept": "D",
+      "part": "V",
+      "passage": "Almond & Honey Bubble Bath / 1/2 cup honey / 1/2 cup gentle liquid soap / 1 tablespoon almond extract / 1 tablespoon glycerin (g et at a pharmacy) / Combine all ingredients by stirring gently. Pour in to a pretty clear / plastic bottle and keep by your bathtub. Enjoy this luxurious mixture / in your next hot bath! Great for dry skin .",
+      "passageHead": "Questions 85-86 refer to the following instructions."
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "They should be dried.",
+        "B": "They should be heated.",
+        "C": "They should be cooled.",
+        "D": "They should be stirred."
+      },
+      "prompt": "What should be done with the ingredients?",
+      "accept": "D",
+      "part": "V",
+      "passage": "Almond & Honey Bubble Bath / 1/2 cup honey / 1/2 cup gentle liquid soap / 1 tablespoon almond extract / 1 tablespoon glycerin (g et at a pharmacy) / Combine all ingredients by stirring gently. Pour in to a pretty clear / plastic bottle and keep by your bathtub. Enjoy this luxurious mixture / in your next hot bath! Great for dry skin .",
+      "passageHead": "Questions 85-86 refer to the following instructions."
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "It is invisible.",
+        "B": "It is necessary for life.",
+        "C": "It contains ice crystals.",
+        "D": "It is made up mostly of colorful rays."
+      },
+      "prompt": "What is said about the air?",
+      "accept": "C",
+      "part": "V",
+      "passage": "Blue Skies / The air around us seems empty. However, it contains gasses / and water vapor along with larger particles, such as ice / crystals, dust, and pollutants. All these, taken together, give / the sky its color. They catch and separate blue light waves / from the sun, but allow the longer red and yellow waves to / pass through the sky. As a result, the sky loo",
+      "passageHead": "Questions 87-88 refer to the following article."
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "Very small bugs",
+        "B": "Red and yellow light waves",
+        "C": "Radio and television signals",
+        "D": "Dust and smoke from volcanos"
+      },
+      "prompt": "What is said to pass through the atmosphere?",
+      "accept": "B",
+      "part": "V",
+      "passage": "Blue Skies / The air around us seems empty. However, it contains gasses / and water vapor along with larger particles, such as ice / crystals, dust, and pollutants. All these, taken together, give / the sky its color. They catch and separate blue light waves / from the sun, but allow the longer red and yellow waves to / pass through the sky. As a result, the sky loo",
+      "passageHead": "Questions 87-88 refer to the following article."
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "In an airport",
+        "B": "In a restaurant",
+        "C": "In a bank",
+        "D": "In a police station"
+      },
+      "prompt": "Where would you most likely find this sign?",
+      "accept": "A",
+      "part": "V",
+      "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
+      "passageHead": "Questions 89-90 refer to the following instructions."
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Until your visa is completed",
+        "B": "Until you are told you can move",
+        "C": "Until you have your passport",
+        "D": "Until you are told which desk to go to"
+      },
+      "prompt": "How long should you wait behind the yellow line?",
+      "accept": "B",
+      "part": "V",
+      "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
+      "passageHead": "Questions 89-90 refer to the following instructions."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

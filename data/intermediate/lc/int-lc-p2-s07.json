@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): 1have ______ CDs.",
       "choices": {
         "A": "a couple of",
         "B": "convenient",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "1have ______ CDs."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): 1almost finish the ______.",
       "choices": {
         "A": "a couple of",
         "B": "convenient",
@@ -39,11 +39,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "1almost finish the ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): 1stepped in a ______.",
       "choices": {
         "A": "a couple of",
         "B": "convenient",
@@ -55,11 +55,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "1stepped in a ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): This bag is ______.",
       "choices": {
         "A": "a couple of",
         "B": "convenient",
@@ -71,11 +71,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This bag is ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): 1prefer ______ to fish.",
       "choices": {
         "A": "a couple of",
         "B": "convenient",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "1prefer ______ to fish."
     },
     {
       "id": "q6",

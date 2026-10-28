@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): What we have to do first is to ______ where togo.",
       "choices": {
         "A": "allow",
         "B": "determine",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "What we have to do first is to ______ where togo."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Will he ______ me to try it on?",
       "choices": {
         "A": "allow",
         "B": "determine",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Will he ______ me to try it on?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Which sport did you ______ watching the most?",
       "choices": {
         "A": "allow",
         "B": "determine",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Which sport did you ______ watching the most?"
     },
     {
       "type": "choice",
@@ -117,14 +117,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): I don't know ____.",
+      "prompt": "Warm-Up 2-(a): I don't know ____ — I don ’t know ______.",
       "accept": [
         "what to wear"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I don ’t know ______."
     },
     {
       "type": "text",
@@ -327,25 +327,25 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): correct the wrong word.",
+      "prompt": "Grammar Practice 5-(a): correct the wrong word — I couldn ’the lp cry when Is aw the poor puppy.",
       "accept": [
         "crying"
       ],
       "section": "Grammar Practice",
       "id": "q26",
       "label": "5-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I couldn ’the lp cry when Is aw the poor puppy."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(d): correct the wrong word.",
+      "prompt": "Grammar Practice 5-(d): correct the wrong word — I heard him to read a newspaper loudly.",
       "accept": [
         "reading"
       ],
       "section": "Grammar Practice",
       "id": "q27",
       "label": "5-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I heard him to read a newspaper loudly."
     },
     {
       "type": "text",
@@ -393,47 +393,47 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): correct or complete it.",
+      "prompt": "Grammar Practice 3-(a): correct or complete it — It is wise for you to say like that.",
       "accept": [
         "of"
       ],
       "section": "Grammar Practice",
       "id": "q32",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is wise for you to say like that."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): He has finished do his homework.",
       "accept": [
         "do- doing"
       ],
       "section": "Grammar Practice",
       "id": "q33",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He has finished do his homework."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): The doctor made her to stay at home for the time being.",
       "accept": [
         "to stay stay"
       ],
       "section": "Grammar Practice",
       "id": "q34",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The doctor made her to stay at home for the time being."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): correct or complete it.",
+      "prompt": "Grammar Practice 5-(b): correct or complete it — Don’t forget returning the book in time.",
       "accept": [
         "to return"
       ],
       "section": "Grammar Practice",
       "id": "q35",
       "label": "5-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Don’t forget returning the book in time."
     },
     {
       "type": "text",

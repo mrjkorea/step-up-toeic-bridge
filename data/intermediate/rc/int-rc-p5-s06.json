@@ -1,279 +1,360 @@
 {
- "practiceId": "int-rc-p5-s06",
- "title": "Part V · Section 06",
- "subtitle": "Memos",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "computer",
-    "B": "fix",
-    "C": "guess",
-    "D": "message"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "computer",
-    "B": "fix",
-    "C": "guess",
-    "D": "message"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "computer",
-    "B": "fix",
-    "C": "guess",
-    "D": "message"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "computer",
-    "B": "fix",
-    "C": "guess",
-    "D": "message"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "(d)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "no later than"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "be invited to"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "make a reservation"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "in these days"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "suffer from"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "between classes"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "wash one's hands"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "at all times"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "be welcome to"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is this memo for?",
-   "choices": {
-    "A": "To give John a telephone message",
-    "B": "To give Jane and John a telephone message"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who has written down this memo?",
-   "choices": {
-    "A": "John and Bob",
-    "B": "Bob"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who would read this memo?",
-   "choices": {
-    "A": "Super Computers’ employees",
-    "B": "The events coordinator"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "How often is the barbecue party held?",
-   "choices": {
-    "A": "Every year",
-    "B": "Every 4 months"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "It is broken.",
-    "B": "It has been stolen.",
-    "C": "It needs more memory.",
-    "D": "It has not been delivered yet."
-   },
-   "prompt": "What seems to be wrong with the computer?",
-   "accept": "A",
-   "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "A plumber",
-    "B": "A mailman",
-    "C": "A computer repairman",
-    "D": "A police officer"
-   },
-   "prompt": "What is Newman Jones' job?",
-   "accept": "C",
-   "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "A reminder about the prevention of eye disease",
-    "B": "A reminder about regular health checkup",
-    "C": "A notice for the opening of School Health Care Center",
-    "D": "A lecture on the importance of eyes"
-   },
-   "prompt": "What is the purpose of this memo?",
-   "accept": "A",
-   "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Students can visit the School Health Care",
-    "B": "Students don't have to make any reservation for eye check up.",
-    "C": "Students can skip classes for eye checkup.",
-    "D": "Students should wash their hands in hot water and with soap."
-   },
-   "prompt": "Which of the following is NOT true?",
-   "accept": "C",
-   "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "int-rc-p5-s06",
+  "title": "Part V · Section 06",
+  "subtitle": "Memos",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): I have to ______ my bike. It’s broken.",
+      "choices": {
+        "A": "computer",
+        "B": "fix",
+        "C": "guess",
+        "D": "message"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "I have to ______ my bike. It’s broken."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): Can you ______ what it means?",
+      "choices": {
+        "A": "computer",
+        "B": "fix",
+        "C": "guess",
+        "D": "message"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "Can you ______ what it means?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "computer",
+        "B": "fix",
+        "C": "guess",
+        "D": "message"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): Would you leave a ______?",
+      "choices": {
+        "A": "computer",
+        "B": "fix",
+        "C": "guess",
+        "D": "message"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "stem": "Would you leave a ______?"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 성적표",
+      "accept": [
+        "no later than"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "성적표",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-: type the answer.",
+      "accept": [
+        "be invited to"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 관심 분야",
+      "accept": [
+        "make a reservation"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "관심 분야",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 이료 기록",
+      "accept": [
+        "in these days"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "이료 기록",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "accept": [
+        "suffer from"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "~에 지원하다",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "between classes"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "accept": [
+        "wash one's hands"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "작성하다",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식          -",
+      "accept": [
+        "at all times"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "등록양식          -",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 시행되다",
+      "accept": [
+        "be welcome to"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "시행되다",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What is this memo for?",
+      "choices": {
+        "A": "To give John a telephone message",
+        "B": "To give Jane and John a telephone message"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "To: John / Date: May 7 ______ ^ ______ / Time: 3 :55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by : Bob / 1 ______ What is this memo for? / (a) To give John a telephone message / (b) To give Jane and John a telephone message / 2. Who has written down this memo? / (a) John and Bob / (b) Bob"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who has written down this memo?",
+      "choices": {
+        "A": "John and Bob",
+        "B": "Bob"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "To: John / Date: May 7 ______ ^ ______ / Time: 3 :55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by : Bob / 1 ______ What is this memo for? / (a) To give John a telephone message / (b) To give Jane and John a telephone message / 2. Who has written down this memo? / (a) John and Bob / (b) Bob"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who would read this memo?",
+      "choices": {
+        "A": "Super Computers’ employees",
+        "B": "The events coordinator"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "MmM mS d mMm MmM mMm MmM mMm Mm ______ Mm Mm / SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super / Computers ’ Annual Family Barbecue Party at Mooney ’s / Bay Beach Resort on July 16th. The company has rented / a bus for the event and it will leave the headquarters at / 8:00 a.m. Please make reservations for seats with the / general affairs department no later than July 10th. / See you there."
+    },
+    {
+      "type": "choice",
+      "prompt": "How often is the barbecue party held?",
+      "choices": {
+        "A": "Every year",
+        "B": "Every 4 months"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "MmM mS d mMm MmM mMm MmM mMm Mm ______ Mm Mm / SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super / Computers ’ Annual Family Barbecue Party at Mooney ’s / Bay Beach Resort on July 16th. The company has rented / a bus for the event and it will leave the headquarters at / 8:00 a.m. Please make reservations for seats with the / general affairs department no later than July 10th. / See you there."
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "It is broken.",
+        "B": "It has been stolen.",
+        "C": "It needs more memory.",
+        "D": "It has not been delivered yet."
+      },
+      "prompt": "What seems to be wrong with the computer?",
+      "accept": "A",
+      "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A plumber",
+        "B": "A mailman",
+        "C": "A computer repairman",
+        "D": "A police officer"
+      },
+      "prompt": "What is Newman Jones' job?",
+      "accept": "C",
+      "passage": "Dear Mr. Parker, / I came to fix your computer, / but I guess you are not at home. / Please call me at 011-788-1111 / when you get this message. / With regards, / Newman Jones",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "A reminder about the prevention of eye disease",
+        "B": "A reminder about regular health checkup",
+        "C": "A notice for the opening of School Health Care Center",
+        "D": "A lecture on the importance of eyes"
+      },
+      "prompt": "What is the purpose of this memo?",
+      "accept": "A",
+      "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Students can visit the School Health Care",
+        "B": "Students don't have to make any reservation for eye check up.",
+        "C": "Students can skip classes for eye checkup.",
+        "D": "Students should wash their hands in hot water and with soap."
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "C",
+      "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

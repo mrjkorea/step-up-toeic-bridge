@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): It is very dark down at the ______. You need a lamp.",
       "choices": {
         "A": "basement",
         "B": "garden",
@@ -33,11 +33,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is very dark down at the ______. You need a lamp."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Every morning, my father waters the flowers in the ______.",
       "choices": {
         "A": "basement",
         "B": "garden",
@@ -47,105 +47,95 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q4",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Every morning, my father waters the flowers in the ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): window ______ door ______ gate ______ attic",
       "accept": [
         "attic"
       ],
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "window ______ door ______ gate ______ attic"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): toothpaste toothbrush ______ nightstand ______ washstand",
       "accept": [
         "stand"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "toothpaste toothbrush ______ nightstand ______ washstand"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): pillow ______ blanket ______ tissue ______ mattress",
       "accept": [
         "tissue"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "pillow ______ blanket ______ tissue ______ mattress"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "prompt": "Vocabulary Practice 2-(a): wash ______  ______  ______ brush ______",
       "accept": [
         "wash stand washstand"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "wash ______  ______  ______ brush ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): tooth. ______  tub ______",
       "accept": [
         "toothbrush"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "tooth. ______  tub ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "prompt": "Vocabulary Practice 2-(c): cup ______  ______  ______ board ______",
       "accept": [
         "cupboard: cupboard"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "cup ______  ______  ______ board ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "prompt": "Vocabulary Practice 2-(d): bath ______  ______  ______ stand ______",
       "accept": [
         "bathtub"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "bath ______  ______  ______ stand ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): The steps lead to the ______.",
       "accept": [
         "basement"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The steps lead to the ______."
     },
     {
       "type": "text",
@@ -160,25 +150,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): There is some fruit in the ______.",
       "accept": [
         "refrigerator"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "There is some fruit in the ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "prompt": "Vocabulary Practice 3-(d): The cari sparked in the ______.",
       "accept": [
         "garage"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The cari sparked in the ______."
     },
     {
       "id": "q16",

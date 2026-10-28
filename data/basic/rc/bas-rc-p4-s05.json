@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(a): It ______ three hours to finish the report.",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -22,11 +22,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It ______ three hours to finish the report."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(b): He ______ me a birthday present.",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -39,11 +39,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He ______ me a birthday present."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(c): I ______ new sneakers a few days ago.",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -56,11 +56,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ new sneakers a few days ago."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): There is a stain in the ______",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -73,11 +73,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "There is a stain in the ______"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(b): My ______ is so lovely and cute.",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -90,11 +90,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My ______ is so lovely and cute."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(c): My parents grow vegetables in the ______",
       "choices": {
         "A": "bought",
         "B": "carpet",
@@ -107,172 +107,172 @@
       "section": "Words and Idioms Check-Up",
       "id": "q6",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My parents grow vegetables in the ______"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): This is ______ house. ( I / my / mine )",
       "accept": [
         "my"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This is ______ house. ( I / my / mine )"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): type the answer.",
+      "prompt": "Warm-Up 1-(b): That is ______ book. ( you / your / yours )",
       "accept": [
         "your"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "That is ______ book. ( you / your / yours )"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): type the answer.",
+      "prompt": "Warm-Up 1-(c): ______ shirt is blue. ( He / His / Him )",
       "accept": [
         "His"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ shirt is blue. ( He / His / Him )"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): type the answer.",
+      "prompt": "Warm-Up 2-(a): The actor wants to talk to you.",
       "accept": [
         "He wants to talk to you."
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The actor wants to talk to you."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): Mr. Baker washes his shoes.",
       "accept": [
         "He washes his shoes."
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Mr. Baker washes his shoes."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): type the answer.",
+      "prompt": "Warm-Up 2-(c): Susan is my best friend.",
       "accept": [
         "She is my best friend."
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Susan is my best friend."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): type the answer.",
+      "prompt": "Warm-Up 3-(c): It is your notebook.",
       "accept": [
         "It is your notebook."
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is your notebook."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): type the answer.",
+      "prompt": "Warm-Up 4-(a): I bought a cake. It tasted very good.",
       "accept": [
         "a cake"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I bought a cake. It tasted very good."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): There is a flower in the garden. ]tis purple.",
       "accept": [
         "a flower"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "There is a flower in the garden. ]tis purple."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): type the answer.",
+      "prompt": "Warm-Up 4-(c): She gave me a book. It is interesting.",
       "accept": [
         "a book"
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She gave me a book. It is interesting."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "prompt": "Grammar Practice 1-(a): Who is that boy?",
       "accept": [
         "He"
       ],
       "section": "Grammar Practice",
       "id": "q17",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Who is that boy?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): type the answer.",
+      "prompt": "Grammar Practice 1-(b): What does your mother do?",
       "accept": [
         "She"
       ],
       "section": "Grammar Practice",
       "id": "q18",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "What does your mother do?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): type the answer.",
+      "prompt": "Grammar Practice 1-(c): Do you have a bicycle?",
       "accept": [
         "I"
       ],
       "section": "Grammar Practice",
       "id": "q19",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Do you have a bicycle?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "prompt": "Grammar Practice 2-(a): That pencil is John ’s pencil.",
       "accept": [
         "his"
       ],
       "section": "Grammar Practice",
       "id": "q20",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "That pencil is John ’s pencil."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "prompt": "Grammar Practice 2-(b): This computer is my computer.",
       "accept": [
         "mine"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This computer is my computer."
     },
     {
       "type": "text",
@@ -320,14 +320,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): type the answer.",
+      "prompt": "Grammar Practice 4-(a): This is a flag and those is a carpet.",
       "accept": [
         "those"
       ],
       "section": "Grammar Practice",
       "id": "q26",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This is a flag and those is a carpet."
     },
     {
       "type": "text",
@@ -342,14 +342,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct or complete it.",
+      "prompt": "Grammar Practice 4-(c): correct or complete it — That games are for children.",
       "accept": [
         "Those"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "That games are for children."
     },
     {
       "id": "q29",

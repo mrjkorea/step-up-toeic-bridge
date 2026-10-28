@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): Iwork in the Human Resources ______.",
       "choices": {
         "A": "anniversary",
         "B": "department",
@@ -22,7 +22,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Iwork in the Human Resources ______."
     },
     {
       "type": "choice",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): Do you have anything to ______ in this store?",
       "choices": {
         "A": "anniversary",
         "B": "department",
@@ -86,7 +86,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Do you have anything to ______ in this store?"
     },
     {
       "id": "q6",

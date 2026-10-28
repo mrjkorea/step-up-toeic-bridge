@@ -26,7 +26,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): You look like you 5re in pain. ______ see a doctor?",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -38,11 +38,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "You look like you 5re in pain. ______ see a doctor?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): My English assignment is due today. I ______ it before.",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -54,11 +54,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My English assignment is due today. I ______ it before."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): You ’re coughing a lot. You must’ve ______",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -70,11 +70,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "You ’re coughing a lot. You must’ve ______"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): I have to read all these documents now.",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -86,7 +86,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I have to read all these documents now."
     },
     {
       "id": "q6",

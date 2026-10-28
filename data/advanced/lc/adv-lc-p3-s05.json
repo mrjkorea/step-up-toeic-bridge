@@ -28,7 +28,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Are you ______ this evening?",
       "choices": {
         "A": "available",
         "B": "cloudy",
@@ -42,11 +42,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Are you ______ this evening?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): It’s ______ and windy in New York.",
       "choices": {
         "A": "available",
         "B": "cloudy",
@@ -60,11 +60,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It’s ______ and windy in New York."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Madonna was a ______ singer in the 1980s.",
       "choices": {
         "A": "available",
         "B": "cloudy",
@@ -78,11 +78,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Madonna was a ______ singer in the 1980s."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): It is ______ to park in front of a fire hydrant.",
       "choices": {
         "A": "available",
         "B": "cloudy",
@@ -96,7 +96,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is ______ to park in front of a fire hydrant."
     },
     {
       "type": "choice",

@@ -1,279 +1,371 @@
 {
- "practiceId": "bas-rc-p5-s03",
- "title": "Part V · Section 03",
- "subtitle": "Instructions / info",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dish",
-    "B": "recycled",
-    "C": "resident",
-    "D": "spread"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dish",
-    "B": "recycled",
-    "C": "resident",
-    "D": "spread"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dish",
-    "B": "recycled",
-    "C": "resident",
-    "D": "spread"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dish",
-    "B": "recycled",
-    "C": "resident",
-    "D": "spread"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "Pour in water"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Learn at home"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Clean the screen"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "Until chilled"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "Take 3 tablets"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "After meal"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Recycle"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Mix together"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "Freeze for 3 hours"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What are these instructions for?",
-   "choices": {
-    "A": "For taking medicine",
-    "B": "For making medicine"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is not true?",
-   "choices": {
-    "A": "The medicine is a form of soft gel.",
-    "B": "You should eat three tablets every day."
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What are these instructions for?",
-   "choices": {
-    "A": "For making a milk tea",
-    "B": "For boiling water"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is true?",
-   "choices": {
-    "A": "Add cold water",
-    "B": "Add sugar or honey"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "For cakes",
-    "B": "For main dishes",
-    "C": "For candies",
-    "D": "For pies"
-   },
-   "prompt": "What kind of recipe is this for?",
-   "accept": "D",
-   "passage": "Ice Cream Sundae Pie / Preheat oven to 190 degrees / Mix together chocolate, walnuts, and butter / Bake for 7 minutes / Refrigerate until chilled / Whip together cream and sugar / Spread half of ice cream into crust / Freeze for 2 hours before serving / 1 What kind of recipe is this for? / (A) For cakes / (B) For main dishes / (C) For candies / (D) For pies / 2. How long will it take to finish this ? / (A) 7 minutes / (B) 1 hour / (C) 2 hours / (D) More than 2 hours",
-   "passageHead": "Questions 1-2 refer to the following recipe."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "7 minutes",
-    "B": "1 hour",
-    "C": "2 hours",
-    "D": "More than 2 hours"
-   },
-   "prompt": "How long will it take to finish this?",
-   "accept": "D",
-   "passage": "Ice Cream Sundae Pie / Preheat oven to 190 degrees / Mix together chocolate, walnuts, and butter / Bake for 7 minutes / Refrigerate until chilled / Whip together cream and sugar / Spread half of ice cream into crust / Freeze for 2 hours before serving / 1 What kind of recipe is this for? / (A) For cakes / (B) For main dishes / (C) For candies / (D) For pies / 2. How long will it take to finish this ? / (A) 7 minutes / (B) 1 hour / (C) 2 hours / (D) More than 2 hours",
-   "passageHead": "Questions 1-2 refer to the following recipe."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "In the apartment compound",
-    "B": "In the playground",
-    "C": "In the church",
-    "D": "On the street"
-   },
-   "prompt": "Where can you see these instructions?",
-   "accept": "A",
-   "passage": "Residents! Let's save the earth! / Here is how to recycle! / - Please put bottles /g lasses in the blue bag. / - Please put paper in the grey bag. / - Please put cans in the green bag. / - Please put plastics in the black bag. / Every Tuesday Afternoon 3 - 1 1P.M .",
-   "passageHead": "Questions 3-4 refer to the following instructions."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "In the black bag",
-    "B": "In the green bag",
-    "C": "In the grey bag",
-    "D": "In the blue bag"
-   },
-   "prompt": "In which bag can you put books?",
-   "accept": "C",
-   "passage": "Residents! Let's save the earth! / Here is how to recycle! / - Please put bottles /g lasses in the blue bag. / - Please put paper in the grey bag. / - Please put cans in the green bag. / - Please put plastics in the black bag. / Every Tuesday Afternoon 3 - 1 1P.M .",
-   "passageHead": "Questions 3-4 refer to the following instructions."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s03",
+  "title": "Part V · Section 03",
+  "subtitle": "Instructions / info",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): The glass from bottles can be ______.",
+      "choices": {
+        "A": "dish",
+        "B": "recycled",
+        "C": "resident",
+        "D": "spread"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "The glass from bottles can be ______."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): A peacock ______ his beautiful tail.",
+      "choices": {
+        "A": "dish",
+        "B": "recycled",
+        "C": "resident",
+        "D": "spread"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "A peacock ______ his beautiful tail."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): You are always ______ my house.",
+      "choices": {
+        "A": "dish",
+        "B": "recycled",
+        "C": "resident",
+        "D": "spread"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "You are always ______ my house."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): Help yourself to the",
+      "choices": {
+        "A": "dish",
+        "B": "recycled",
+        "C": "resident",
+        "D": "spread"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "Help yourself to the"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 물을 부으세요",
+      "accept": [
+        "Pour in water"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "물을 부으세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 집에서 배우세요",
+      "accept": [
+        "Learn at home"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "집에서 배우세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 스크린을 청소하세요",
+      "accept": [
+        "Clean the screen"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "스크린을 청소하세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 차가워질 때까지",
+      "accept": [
+        "Until chilled"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "차가워질 때까지",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 알약을 세 알 복용하세요",
+      "accept": [
+        "Take 3 tablets"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "알약을 세 알 복용하세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 식사 후에",
+      "accept": [
+        "After meal"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "stem": "식사 후에",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 재활용하세요",
+      "accept": [
+        "Recycle"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "재활용하세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 함께 섞으세요",
+      "accept": [
+        "Mix together"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "함께 섞으세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9-: type the answer.",
+      "accept": [
+        "Freeze for 3 hours"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "What are these instructions for?",
+      "choices": {
+        "A": "For taking medicine",
+        "B": "For making medicine"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Daily MultiVitamins &C Minerals: / Take 3 tablets daily / Take 1 hour after meal / (a) For taking medicine / (b) For making medicine / 2. Which of the following is not true? / (a) The medicine is a form of soft gel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is not true?",
+      "choices": {
+        "A": "The medicine is a form of soft gel.",
+        "B": "You should eat three tablets every day."
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Daily MultiVitamins &C Minerals: / Take 3 tablets daily / Take 1 hour after meal / (a) For taking medicine / (b) For making medicine / 2. Which of the following is not true? / (a) The medicine is a form of soft gel."
+    },
+    {
+      "type": "choice",
+      "prompt": "What are these instructions for?",
+      "choices": {
+        "A": "For making a milk tea",
+        "B": "For boiling water"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "First put a teaspoon of tea / Pour in hot water / Add a teaspoon of sugar (or honey) / Finally add milk"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is true?",
+      "choices": {
+        "A": "Add cold water",
+        "B": "Add sugar or honey"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "First put a teaspoon of tea / Pour in hot water / Add a teaspoon of sugar (or honey) / Finally add milk"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "For cakes",
+        "B": "For main dishes",
+        "C": "For candies",
+        "D": "For pies"
+      },
+      "prompt": "What kind of recipe is this for?",
+      "accept": "D",
+      "passage": "Ice Cream Sundae Pie / Preheat oven to 190 degrees / Mix together chocolate, walnuts, and butter / Bake for 7 minutes / Refrigerate until chilled / Whip together cream and sugar / Spread half of ice cream into crust / Freeze for 2 hours before serving / 1 What kind of recipe is this for? / (A) For cakes / (B) For main dishes / (C) For candies / (D) For pies / 2. How long will it take to finish this ? / (A) 7 minutes / (B) 1 hour / (C) 2 hours / (D) More than 2 hours",
+      "passageHead": "Questions 1-2 refer to the following recipe."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "7 minutes",
+        "B": "1 hour",
+        "C": "2 hours",
+        "D": "More than 2 hours"
+      },
+      "prompt": "How long will it take to finish this?",
+      "accept": "D",
+      "passage": "Ice Cream Sundae Pie / Preheat oven to 190 degrees / Mix together chocolate, walnuts, and butter / Bake for 7 minutes / Refrigerate until chilled / Whip together cream and sugar / Spread half of ice cream into crust / Freeze for 2 hours before serving / 1 What kind of recipe is this for? / (A) For cakes / (B) For main dishes / (C) For candies / (D) For pies / 2. How long will it take to finish this ? / (A) 7 minutes / (B) 1 hour / (C) 2 hours / (D) More than 2 hours",
+      "passageHead": "Questions 1-2 refer to the following recipe."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "In the apartment compound",
+        "B": "In the playground",
+        "C": "In the church",
+        "D": "On the street"
+      },
+      "prompt": "Where can you see these instructions?",
+      "accept": "A",
+      "passage": "Residents! Let's save the earth! / Here is how to recycle! / - Please put bottles /g lasses in the blue bag. / - Please put paper in the grey bag. / - Please put cans in the green bag. / - Please put plastics in the black bag. / Every Tuesday Afternoon 3 - 1 1P.M .",
+      "passageHead": "Questions 3-4 refer to the following instructions."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "In the black bag",
+        "B": "In the green bag",
+        "C": "In the grey bag",
+        "D": "In the blue bag"
+      },
+      "prompt": "In which bag can you put books?",
+      "accept": "C",
+      "passage": "Residents! Let's save the earth! / Here is how to recycle! / - Please put bottles /g lasses in the blue bag. / - Please put paper in the grey bag. / - Please put cans in the green bag. / - Please put plastics in the black bag. / Every Tuesday Afternoon 3 - 1 1P.M .",
+      "passageHead": "Questions 3-4 refer to the following instructions."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

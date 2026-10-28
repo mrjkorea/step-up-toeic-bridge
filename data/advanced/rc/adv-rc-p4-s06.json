@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): The food which my mother cooks is always",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The food which my mother cooks is always"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): The road is very ______ after it snowed yesterday.",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The road is very ______ after it snowed yesterday."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Please ______ how this machineworks.",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Please ______ how this machineworks."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): I’m sorry. It won ’t ______ again, I promise.",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -65,50 +65,40 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q5",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I’m sorry. It won ’t ______ again, I promise."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): witness ______ observe ______ perceive perfume",
       "accept": [
         "perfume"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "witness ______ observe ______ perceive perfume"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): salty ______ greasy ______ beer ______ ill tasting",
       "accept": [
         "beer"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "salty ______ greasy ______ beer ______ ill tasting"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): clap ______ splash ______ sight ______ crack",
       "accept": [
         "sight"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "clap ______ splash ______ sight ______ crack"
     },
     {
       "type": "text",
@@ -126,91 +116,91 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): taste ______ excited",
       "accept": [
         "taste chocolate"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "taste ______ excited"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "prompt": "Vocabulary Practice 2-(c): smell ______ chocolate",
       "accept": [
         "smell"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "smell ______ chocolate"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "prompt": "Vocabulary Practice 2-(d): feel ______ rock",
       "accept": [
         "feel perfume excited"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "feel ______ rock"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): (smell, bad ) ______",
       "accept": [
         "It smells bad."
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(smell, bad ) ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): (feel, cold ) ______",
       "accept": [
         "It feels cold."
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(feel, cold ) ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "prompt": "Vocabulary Practice 3-(e): (look, dirty ) ______",
       "accept": [
         "It looks dirty."
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(look, dirty ) ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): (taste, bitter) ______",
       "accept": [
         "It tastes bitter."
       ],
       "section": "Vocabulary Practice",
       "id": "q16",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(taste, bitter) ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "prompt": "Vocabulary Practice 3-(d): (sound, noisy ) ______",
       "accept": [
         "It sounds noisy."
       ],
       "section": "Vocabulary Practice",
       "id": "q17",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(sound, noisy ) ______"
     },
     {
       "id": "q18",

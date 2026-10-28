@@ -1,172 +1,172 @@
 {
- "practiceId": "bas-rc-at-q31-40",
- "title": "RC Actual Test · Questions 31–40",
- "subtitle": "10 questions (book Q81–90)",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "$225",
-    "B": "50% less than $500",
-    "C": "$500",
-    "D": "50% more than $225"
-   },
-   "prompt": "How much does the water filter normally cost?",
-   "accept": "C",
-   "part": "V",
-   "passage": "SAVE MORE THAN 50% / This sale is for a limited time only. Our best selling / water filter can be yours for more than 50% less than / the normal price. / The water filter comes in three stylish colors. / It has easy controls and is simple to install. / Comes with a 12-m onth guarantee. / Original Price - $500 / Sale Price - $225 / How much does the water filter normally | 82 . How long will the sale last? / cost? / (A) A long time / (A) $225 | (B) A short time / (B) 50% less than $500 | (C) For 12 months / (C) $500 | (D) More than 12 months / (D) 50% more than $225",
-   "passageHead": "Questions 81-82 refer to the following advertisement."
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "A long time",
-    "B": "A short time",
-    "C": "For 12 months",
-    "D": "More than 12 months"
-   },
-   "prompt": "How long will the sale last?",
-   "accept": "B",
-   "part": "V",
-   "passage": "SAVE MORE THAN 50% / This sale is for a limited time only. Our best selling / water filter can be yours for more than 50% less than / the normal price. / The water filter comes in three stylish colors. / It has easy controls and is simple to install. / Comes with a 12-m onth guarantee. / Original Price - $500 / Sale Price - $225 / How much does the water filter normally | 82 . How long will the sale last? / cost? / (A) A long time / (A) $225 | (B) A short time / (B) 50% less than $500 | (C) For 12 months / (C) $500 | (D) More than 12 months / (D) 50% more than $225",
-   "passageHead": "Questions 81-82 refer to the following advertisement."
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "People using the park",
-    "B": "People looking after the park",
-    "C": "People with pets",
-    "D": "People walking in the park"
-   },
-   "prompt": "Who do you think probably wrote this sign?",
-   "accept": "B",
-   "part": "V",
-   "passage": "NOTICE / DO NOT WALK ON THE GRASS. / This grass is newly planted and is still growing. / Please do not walk on or allow your pets to walk / on the grass. We thank you for your co-operation / in helping us keep the grass and park beautiful / and in good condition.",
-   "passageHead": "Questions 83-84 refer to the following notice."
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Because the park is old",
-    "B": "Because there are too many pets",
-    "C": "Because the grass needs to grow",
-    "D": "Because the park is expensive"
-   },
-   "prompt": "Why are people being asked to co-operate?",
-   "accept": "C",
-   "part": "V",
-   "passage": "NOTICE / DO NOT WALK ON THE GRASS. / This grass is newly planted and is still growing. / Please do not walk on or allow your pets to walk / on the grass. We thank you for your co-operation / in helping us keep the grass and park beautiful / and in good condition.",
-   "passageHead": "Questions 83-84 refer to the following notice."
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "Why computers are popular",
-    "B": "What days people buy a computer",
-    "C": "The time of year people buy computers",
-    "D": "The most popular computers bought"
-   },
-   "prompt": "What does the graph show?",
-   "accept": "C",
-   "part": "V",
-   "passage": "Graph Showing the Number of Computers Sold Each Month / 300 - / 250 -- / 200 - - / Number of / computers | 15Q / sold in / thousands / Iuu / 50 -- / Jan | Feb | Mar | April | May | June | July | Aug | Sept | Oct | Nov | Dec / Month",
-   "passageHead": "Questions 85-86 refer to the following graph."
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "January to March",
-    "B": "October to December",
-    "C": "June to August",
-    "D": "April to June"
-   },
-   "prompt": "When is the most popular time to buy a computer?",
-   "accept": "B",
-   "part": "V",
-   "passage": "Graph Showing the Number of Computers Sold Each Month / 300 - / 250 -- / 200 - - / Number of / computers | 15Q / sold in / thousands / Iuu / 50 -- / Jan | Feb | Mar | April | May | June | July | Aug | Sept | Oct | Nov | Dec / Month",
-   "passageHead": "Questions 85-86 refer to the following graph."
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "There was a snowstorm.",
-    "B": "There weren't enough children.",
-    "C": "There was a broken waterpipe.",
-    "D": "There was a fire."
-   },
-   "prompt": "Why has the school been closed?",
-   "accept": "C",
-   "part": "V",
-   "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
-   "passageHead": "Questions 87-88 refer to the following notice."
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "On May 3rd",
-    "B": "On May 5th",
-    "C": "On May 7th",
-    "D": "On May 10th"
-   },
-   "prompt": "When will the school reopen?",
-   "accept": "D",
-   "part": "V",
-   "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
-   "passageHead": "Questions 87-88 refer to the following notice."
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "To order some cola",
-    "B": "To ask for a free sample",
-    "C": "To congratulate the company",
-    "D": "To complain about the product"
-   },
-   "prompt": "Why did Mrs. Gregory write the letter?",
-   "accept": "D",
-   "part": "V",
-   "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
-   "passageHead": "Questions 89-90 refer to the following letter."
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "It is not flat.",
-    "B": "It is too enjoyable.",
-    "C": "The cans are faulty.",
-    "D": "The case is weak."
-   },
-   "prompt": "What does she suggest about the cola?",
-   "accept": "C",
-   "part": "V",
-   "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
-   "passageHead": "Questions 89-90 refer to the following letter."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-at-q31-40",
+  "title": "RC Actual Test · Questions 31–40",
+  "subtitle": "10 questions (book Q81–90)",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "$225",
+        "B": "50% less than $500",
+        "C": "$500",
+        "D": "50% more than $225"
+      },
+      "prompt": "How much does the water filter normally cost?",
+      "accept": "C",
+      "part": "V",
+      "passage": "SAVE MORE THAN 50% / This sale is for a limited time only. Our best selling / water filter can be yours for more than 50% less than / the normal price. / The water filter comes in three stylish colors. / It has easy controls and is simple to install. / Comes with a 12-m onth guarantee. / Original Price - $500 / Sale Price - $225 / How much does the water filter normally | 82 . How long will the sale last? / cost? / (A) A long time / (A) $225 | (B) A short time / (B) 50% less than $500 | (C) For 12 months / (C) $500 | (D) More than 12 months / (D) 50% more than $225",
+      "passageHead": "Questions 81-82 refer to the following advertisement."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "A long time",
+        "B": "A short time",
+        "C": "For 12 months",
+        "D": "More than 12 months"
+      },
+      "prompt": "How long will the sale last?",
+      "accept": "B",
+      "part": "V",
+      "passage": "SAVE MORE THAN 50% / This sale is for a limited time only. Our best selling / water filter can be yours for more than 50% less than / the normal price. / The water filter comes in three stylish colors. / It has easy controls and is simple to install. / Comes with a 12-m onth guarantee. / Original Price - $500 / Sale Price - $225 / How much does the water filter normally | 82 . How long will the sale last? / cost? / (A) A long time / (A) $225 | (B) A short time / (B) 50% less than $500 | (C) For 12 months / (C) $500 | (D) More than 12 months / (D) 50% more than $225",
+      "passageHead": "Questions 81-82 refer to the following advertisement."
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "People using the park",
+        "B": "People looking after the park",
+        "C": "People with pets",
+        "D": "People walking in the park"
+      },
+      "prompt": "Who do you think probably wrote this sign?",
+      "accept": "B",
+      "part": "V",
+      "passage": "NOTICE / DO NOT WALK ON THE GRASS. / This grass is newly planted and is still growing. / Please do not walk on or allow your pets to walk / on the grass. We thank you for your co-operation / in helping us keep the grass and park beautiful / and in good condition.",
+      "passageHead": "Questions 83-84 refer to the following notice."
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Because the park is old",
+        "B": "Because there are too many pets",
+        "C": "Because the grass needs to grow",
+        "D": "Because the park is expensive"
+      },
+      "prompt": "Why are people being asked to co-operate?",
+      "accept": "C",
+      "part": "V",
+      "passage": "NOTICE / DO NOT WALK ON THE GRASS. / This grass is newly planted and is still growing. / Please do not walk on or allow your pets to walk / on the grass. We thank you for your co-operation / in helping us keep the grass and park beautiful / and in good condition.",
+      "passageHead": "Questions 83-84 refer to the following notice."
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "Why computers are popular",
+        "B": "What days people buy a computer",
+        "C": "The time of year people buy computers",
+        "D": "The most popular computers bought"
+      },
+      "prompt": "What does the graph show?",
+      "accept": "C",
+      "part": "V",
+      "passage": "Graph Showing the Number of Computers Sold Each Month / 300 - / 250 -- / 200 - - / Number of / computers | 15Q / sold in / thousands / Iuu / 50 -- / Jan | Feb | Mar | April | May | June | July | Aug | Sept | Oct | Nov | Dec / Month",
+      "passageHead": "Questions 85-86 refer to the following graph."
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "January to March",
+        "B": "October to December",
+        "C": "June to August",
+        "D": "April to June"
+      },
+      "prompt": "When is the most popular time to buy a computer?",
+      "accept": "B",
+      "part": "V",
+      "passage": "Graph Showing the Number of Computers Sold Each Month / 300 - / 250 -- / 200 - - / Number of / computers | 15Q / sold in / thousands / Iuu / 50 -- / Jan | Feb | Mar | April | May | June | July | Aug | Sept | Oct | Nov | Dec / Month",
+      "passageHead": "Questions 85-86 refer to the following graph."
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "There was a snowstorm.",
+        "B": "There weren't enough children.",
+        "C": "There was a broken waterpipe.",
+        "D": "There was a fire."
+      },
+      "prompt": "Why has the school been closed?",
+      "accept": "C",
+      "part": "V",
+      "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
+      "passageHead": "Questions 87-88 refer to the following notice."
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "On May 3rd",
+        "B": "On May 5th",
+        "C": "On May 7th",
+        "D": "On May 10th"
+      },
+      "prompt": "When will the school reopen?",
+      "accept": "D",
+      "part": "V",
+      "passage": "SCHOOL CLOSED / Man or Park Elementary School will be closed from / Monday, May 3rd to Friday, May 7th because of a / broken waterpipe. Parents needing daycare services / can drop children at the Man or Park Community / Center. The school will reopen next Monday, May / 10th.",
+      "passageHead": "Questions 87-88 refer to the following notice."
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "To order some cola",
+        "B": "To ask for a free sample",
+        "C": "To congratulate the company",
+        "D": "To complain about the product"
+      },
+      "prompt": "Why did Mrs. Gregory write the letter?",
+      "accept": "D",
+      "part": "V",
+      "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
+      "passageHead": "Questions 89-90 refer to the following letter."
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "It is not flat.",
+        "B": "It is too enjoyable.",
+        "C": "The cans are faulty.",
+        "D": "The case is weak."
+      },
+      "prompt": "What does she suggest about the cola?",
+      "accept": "C",
+      "part": "V",
+      "passage": "irftrirrfrffff erf (r ir fr ffff <r ir fff 11 ffirfffrtrirff rr ffiffriririfirir / 16 May / To whom it may concern, / Last week, I purchased a case of your \"M oun tain Spring / C ola\". Surprisingly, each can I opened was flat. I believe / that the can design is faulty. Usually, I have no trouble / with your products, and I enjoy them a great deal. I / would request a refund for the price of the case ($7.99 ). / Sincerely, / Mary Gregory",
+      "passageHead": "Questions 89-90 refer to the following letter."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

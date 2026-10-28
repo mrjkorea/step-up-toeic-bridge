@@ -1,261 +1,364 @@
 {
- "practiceId": "adv-rc-p5-s02",
- "title": "Part V · Section 02",
- "subtitle": "Ads",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "celebrate",
-    "B": "contact",
-    "C": "hurry"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "celebrate",
-    "B": "contact",
-    "C": "hurry"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "celebrate",
-    "B": "contact",
-    "C": "hurry"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "for sale"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "cooking equipment"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "as part of"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "look for"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "call for"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "clean up"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "fill out"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "field trip"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "toll-free"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Why is the person advertising these items?",
-   "choices": {
-    "A": "Because the person needs them for their new house",
-    "B": "Because the person is moving house"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following statements is NOT true?",
-   "choices": {
-    "A": "There is more than one sofa for sale.",
-    "B": "The coffee table is more expensive than the microwave."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What will Uncle Henry’s do on Monday?",
-   "choices": {
-    "A": "Hire new workers",
-    "B": "Give away free ice cream"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is learned about Uncle Henry’s?",
-   "choices": {
-    "A": "It has two stores.",
-    "B": "It sells dinners and desserts."
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "2"
-  },
-  {
-   "id": "q17",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "A hat",
-    "B": "Dinner",
-    "C": "A T-shirt",
-    "D": "Free classes"
-   },
-   "prompt": "What will volunteers receive?",
-   "accept": "C",
-   "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q18",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Call Ann",
-    "B": "Fill out a form",
-    "C": "Go to an office",
-    "D": "Send Ann an e-mail"
-   },
-   "prompt": "What should people interested in volunteering do?",
-   "accept": "A",
-   "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q19",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Science teachers",
-    "B": "Children ages 8-16",
-    "C": "A private company",
-    "D": "The general public"
-   },
-   "prompt": "According to the passage, who was The Science Village created for?",
-   "accept": "B",
-   "passage": "The Science Village / Continue your child's education at The / Science Village. Created for active, smart / children ages 8-16 ,T he Science Village / features a full schedule of fieldtrips, lab / experiments, and fun activities to stimulate / your child's love of science. / For more information, call us to ll- free at / 1-800-647-0161 orvis it our Website at / www.s cie ncevillage.c om.",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  },
-  {
-   "id": "q20",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Movies",
-    "B": "Gardening",
-    "C": "Field trips",
-    "D": "Looking at stars"
-   },
-   "prompt": "Which of the following activities does The Science Village offer?",
-   "accept": "C",
-   "passage": "The Science Village / Continue your child's education at The / Science Village. Created for active, smart / children ages 8-16 ,T he Science Village / features a full schedule of fieldtrips, lab / experiments, and fun activities to stimulate / your child's love of science. / For more information, call us to ll- free at / 1-800-647-0161 orvis it our Website at / www.s cie ncevillage.c om.",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s02",
+  "title": "Part V · Section 02",
+  "subtitle": "Ads",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): Let’s ______ our 10th wedding anniversary tomorrow.",
+      "choices": {
+        "A": "celebrate",
+        "B": "contact",
+        "C": "hurry"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "Let’s ______ our 10th wedding anniversary tomorrow."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): This item maybe sold out soon, so ______!",
+      "choices": {
+        "A": "celebrate",
+        "B": "contact",
+        "C": "hurry"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "This item maybe sold out soon, so ______!"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): Please ______ me as soon as you arrive at the airport.",
+      "choices": {
+        "A": "celebrate",
+        "B": "contact",
+        "C": "hurry"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "Please ______ me as soon as you arrive at the airport."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 판매용인",
+      "accept": [
+        "for sale"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "판매용인",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 조리 기구",
+      "accept": [
+        "cooking equipment"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "조리 기구",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: ~의 일부분으로",
+      "accept": [
+        "as part of"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "~의 일부분으로",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~을 찾다",
+      "accept": [
+        "look for"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "~을 찾다",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 더욱더 많은",
+      "accept": [
+        "call for"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "더욱더 많은",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~에 대해 걱정하다",
+      "accept": [
+        "clean up"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "~에 대해 걱정하다",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "accept": [
+        "fill out"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "작성하다",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 평균적으로",
+      "accept": [
+        "field trip"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "평균적으로",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~로 이루어져 있다",
+      "accept": [
+        "toll-free"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "9",
+      "stem": "~로 이루어져 있다",
+      "wordBank": [
+        "as part of",
+        "call for",
+        "clean up",
+        "cooking equipment",
+        "field trip",
+        "fill out",
+        "for sale",
+        "look for",
+        "toll-free"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Why is the person advertising these items?",
+      "choices": {
+        "A": "Because the person needs them for their new house",
+        "B": "Because the person is moving house"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "1",
+      "passage": "MOVING SALE / Lots of household items for sale: / Lots of pans and cooking equipment for free if / you buy any of the above items. / Sales lasts 1 day only, so hurry. Everything must go."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following statements is NOT true?",
+      "choices": {
+        "A": "There is more than one sofa for sale.",
+        "B": "The coffee table is more expensive than the microwave."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "2",
+      "passage": "MOVING SALE / Lots of household items for sale: / Lots of pans and cooking equipment for free if / you buy any of the above items. / Sales lasts 1 day only, so hurry. Everything must go."
+    },
+    {
+      "type": "choice",
+      "prompt": "What will Uncle Henry’s do on Monday?",
+      "choices": {
+        "A": "Hire new workers",
+        "B": "Give away free ice cream"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "1",
+      "passage": "CELEBRATING THE ICECREAM CONE / As part of the 100th anniversary of the icecream / cone, Uncle Henry’s will offer one free icecream / cone to each customer on Monday. Both local / Uncle Henry’s outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Young ville. / For more information, visit www.uncle henry s.com."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is learned about Uncle Henry’s?",
+      "choices": {
+        "A": "It has two stores.",
+        "B": "It sells dinners and desserts."
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "2",
+      "passage": "CELEBRATING THE ICECREAM CONE / As part of the 100th anniversary of the icecream / cone, Uncle Henry’s will offer one free icecream / cone to each customer on Monday. Both local / Uncle Henry’s outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Young ville. / For more information, visit www.uncle henry s.com."
+    },
+    {
+      "id": "q17",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A hat",
+        "B": "Dinner",
+        "C": "A T-shirt",
+        "D": "Free classes"
+      },
+      "prompt": "What will volunteers receive?",
+      "accept": "C",
+      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q18",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Call Ann",
+        "B": "Fill out a form",
+        "C": "Go to an office",
+        "D": "Send Ann an e-mail"
+      },
+      "prompt": "What should people interested in volunteering do?",
+      "accept": "A",
+      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q19",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Science teachers",
+        "B": "Children ages 8-16",
+        "C": "A private company",
+        "D": "The general public"
+      },
+      "prompt": "According to the passage, who was The Science Village created for?",
+      "accept": "B",
+      "passage": "The Science Village / Continue your child's education at The / Science Village. Created for active, smart / children ages 8-16 ,T he Science Village / features a full schedule of fieldtrips, lab / experiments, and fun activities to stimulate / your child's love of science. / For more information, call us to ll- free at / 1-800-647-0161 orvis it our Website at / www.s cie ncevillage.c om.",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    },
+    {
+      "id": "q20",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Movies",
+        "B": "Gardening",
+        "C": "Field trips",
+        "D": "Looking at stars"
+      },
+      "prompt": "Which of the following activities does The Science Village offer?",
+      "accept": "C",
+      "passage": "The Science Village / Continue your child's education at The / Science Village. Created for active, smart / children ages 8-16 ,T he Science Village / features a full schedule of fieldtrips, lab / experiments, and fun activities to stimulate / your child's love of science. / For more information, call us to ll- free at / 1-800-647-0161 orvis it our Website at / www.s cie ncevillage.c om.",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

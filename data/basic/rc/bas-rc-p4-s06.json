@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(a): My mom ______ cookies.",
       "choices": {
         "A": "baked",
         "B": "drink",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My mom ______ cookies."
     },
     {
       "type": "choice",
@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): I would like to have",
       "choices": {
         "A": "baked",
         "B": "drink",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I would like to have"
     },
     {
       "type": "choice",
@@ -68,91 +68,81 @@
       "blocked": "stem text not yet transcribed from PDF"
     },
     {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q5",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): coffee ______ bread ______ milk",
       "accept": [
         "bread"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "coffee ______ bread ______ milk"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): hamburger ______ spa hett i ______ sandwich",
       "accept": [
         "spaghetti"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "hamburger ______ spa hett i ______ sandwich"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): salt ______ sugar ______ pizza",
       "accept": [
         "pizza"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "salt ______ sugar ______ pizza"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "prompt": "Vocabulary Practice 2-(a): We ______ bread into pieces.",
       "accept": [
         "cut"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "We ______ bread into pieces."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): The bakers ______ bread every morning.",
       "accept": [
         "bake"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The bakers ______ bread every morning."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "prompt": "Vocabulary Practice 2-(c): ______ the egg in hot water.",
       "accept": [
         "Boil"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ the egg in hot water."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): Lemon is ______",
       "accept": [
         "sour"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Lemon is ______"
     },
     {
       "type": "text",
@@ -163,7 +153,8 @@
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "S u g a r i s ______________________ ■ 설탕은 달다.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
@@ -174,7 +165,8 @@
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "P e p p e r i s ______________________ . 후추는 맵다.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "id": "q15",

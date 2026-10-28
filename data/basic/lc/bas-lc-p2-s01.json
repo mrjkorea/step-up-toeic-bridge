@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): Are you at the ______ now?",
       "choices": {
         "A": "library",
         "B": "math"
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Are you at the ______ now?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Does your brother like ______?",
       "choices": {
         "A": "library",
         "B": "math"
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Does your brother like ______?"
     },
     {
       "type": "text",
@@ -495,8 +495,7 @@
       "prompt": "Can I find everything I need in the bookstore?",
       "accept": "A",
       "audioOnly": true,
-      "section": "Test Your Skills",
-      "blocked": "stem text not yet transcribed from PDF"
+      "section": "Test Your Skills"
     },
     {
       "id": "q38",

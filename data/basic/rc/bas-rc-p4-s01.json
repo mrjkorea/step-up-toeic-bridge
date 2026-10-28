@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(a): I ______ TV in the evening.",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -22,11 +22,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ TV in the evening."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(b): They are ______ the house.",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -39,11 +39,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They are ______ the house."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): My favorite subject is ______.",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -56,11 +56,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My favorite subject is ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(b): John is playing ______",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -73,11 +73,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "John is playing ______"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 3-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 3-(a): I ______ at 7:00 this morning.",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -90,11 +90,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ at 7:00 this morning."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 3-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 3-(b): ______, please.",
       "choices": {
         "A": "cleaning",
         "B": "got up",
@@ -107,205 +107,205 @@
       "section": "Words and Idioms Check-Up",
       "id": "q6",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______, please."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): ______ is your bag?",
       "accept": [
         "Where"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ is your bag?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): type the answer.",
+      "prompt": "Warm-Up 1-(b): ______ do you leave?",
       "accept": [
         "When"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ do you leave?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): type the answer.",
+      "prompt": "Warm-Up 1-(c): ______ is your name?",
       "accept": [
         "What"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ is your name?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): type the answer.",
+      "prompt": "Warm-Up 2-(a): She runs fast.",
       "accept": [
         "doesn't"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She runs fast."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): They clean the room.",
       "accept": [
         "don't"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They clean the room."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): type the answer.",
+      "prompt": "Warm-Up 2-(c): John and Jane are diligent.",
       "accept": [
         "aren't"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "John and Jane are diligent."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): type the answer.",
+      "prompt": "Warm-Up 3-(a): ______ stand up.",
       "accept": [
         "Please"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ stand up."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): type the answer.",
+      "prompt": "Warm-Up 3-(b): ______ go there.",
       "accept": [
         "Don't"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ go there."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): type the answer.",
+      "prompt": "Warm-Up 3-(c): ______ quiet.",
       "accept": [
         "Be"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ quiet."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): type the answer.",
+      "prompt": "Warm-Up 4-(a): ______ run fast.",
       "accept": [
         "Let's"
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ run fast."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): Let's ______ our homework.",
       "accept": [
         "do"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Let's ______ our homework."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): type the answer.",
+      "prompt": "Warm-Up 4-(c): Let's ______ basketball.",
       "accept": [
         "play"
       ],
       "section": "Warm-Up",
       "id": "q18",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Let's ______ basketball."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "prompt": "Grammar Practice 1-(a): ______ you a student?",
       "accept": [
         "Are"
       ],
       "section": "Grammar Practice",
       "id": "q19",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ you a student?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): type the answer.",
+      "prompt": "Grammar Practice 1-(b): ______ is your hat?",
       "accept": [
         "Where"
       ],
       "section": "Grammar Practice",
       "id": "q20",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ is your hat?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): type the answer.",
+      "prompt": "Grammar Practice 1-(c): How ______ you goto school?",
       "accept": [
         "do"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "How ______ you goto school?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "prompt": "Grammar Practice 2-(a): I ______ TV in the evening.",
       "accept": [
         "don't watch"
       ],
       "section": "Grammar Practice",
       "id": "q22",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ TV in the evening."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "prompt": "Grammar Practice 2-(b): He ______ his room.",
       "accept": [
         "doesn't clean"
       ],
       "section": "Grammar Practice",
       "id": "q23",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He ______ his room."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "prompt": "Grammar Practice 2-(c): They ______ students.",
       "accept": [
         "are not"
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They ______ students."
     },
     {
       "type": "text",
@@ -349,7 +349,8 @@
       "section": "Grammar Practice",
       "id": "q28",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "자전거를 타자.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
@@ -361,7 +362,8 @@
       "section": "Grammar Practice",
       "id": "q29",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "많이 먹지 말자.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
@@ -373,7 +375,8 @@
       "section": "Grammar Practice",
       "id": "q30",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "야 구 자 .",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "id": "q31",

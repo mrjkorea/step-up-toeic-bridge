@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I ______ this car from a friend of mine.",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ this car from a friend of mine."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): This concert ______ beheld in Japan.",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -39,11 +39,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This concert ______ beheld in Japan."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Could you ______ my note by the lamp?",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -55,11 +55,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Could you ______ my note by the lamp?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Please ______ the bag on the floor.",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -71,11 +71,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Please ______ the bag on the floor."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): I’m ______ this week.",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I’m ______ this week."
     },
     {
       "id": "q6",

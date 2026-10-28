@@ -1,261 +1,364 @@
 {
- "practiceId": "adv-rc-p5-s03",
- "title": "Part V · Section 03",
- "subtitle": "Instructions / info",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "amount",
-    "B": "situation",
-    "C": "violence"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "amount",
-    "B": "situation",
-    "C": "violence"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "amount",
-    "B": "situation",
-    "C": "violence"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "a loaf of bread"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "be prepared for A"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "relate to A"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "in the solar system"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "more and more"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "become concerned about"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "keep A awake"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "on average"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "be made of"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "According to the passage, how is chocolate like bread?",
-   "choices": {
-    "A": "It has many calories.",
-    "B": "It contains a lot of fat."
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does the passage say about chocolate?",
-   "choices": {
-    "A": "It damages teeth.",
-    "B": "It keeps people awake."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is NOT said to be studied in the class?",
-   "choices": {
-    "A": "Geometry",
-    "B": "Advanced Algebra"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is learned about the class?",
-   "choices": {
-    "A": "It will use real-world situations.",
-    "B": "It requires students to use a computer."
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "2"
-  },
-  {
-   "id": "q17",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Its air contains oxygen.",
-    "B": "It has very cold temperatures.",
-    "C": "It is mostly covered with saltwater.",
-    "D": "It is the largest moon in the solar system."
-   },
-   "prompt": "Which of the following facts about Ganymede is NOT mentioned?",
-   "accept": "A",
-   "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
-   "passageHead": "Questions 1-2 refer to the following article."
-  },
-  {
-   "id": "q18",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "It may once have had life.",
-    "B": "It may continue to get colder.",
-    "C": "It may have valuable minerals.",
-    "D": "It may someday be visited by people."
-   },
-   "prompt": "What do scientists believe may be true about Ganymede?",
-   "accept": "A",
-   "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
-   "passageHead": "Questions 1-2 refer to the following article."
-  },
-  {
-   "id": "q19",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To let children watch more television",
-    "B": "To let children watch television for four hours",
-    "C": "To reduce the amount of television children watch",
-    "D": "To reduce the numbers of hours children play"
-   },
-   "prompt": "What are experts warning parents to do?",
-   "accept": "C",
-   "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
-   "passageHead": "Questions 3-4 refer to the following article."
-  },
-  {
-   "id": "q20",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Educational programs",
-    "B": "Violent programs",
-    "C": "Animal programs",
-    "D": "Parenting programs"
-   },
-   "prompt": "What type of programs are experts most concerned about?",
-   "accept": "B",
-   "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
-   "passageHead": "Questions 3-4 refer to the following article."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s03",
+  "title": "Part V · Section 03",
+  "subtitle": "Instructions / info",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "amount",
+        "B": "situation",
+        "C": "violence"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): Children should not be exposed to ______.",
+      "choices": {
+        "A": "amount",
+        "B": "situation",
+        "C": "violence"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "Children should not be exposed to ______."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): The ______ of water you drink everyday is very important to",
+      "choices": {
+        "A": "amount",
+        "B": "situation",
+        "C": "violence"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "The ______ of water you drink everyday is very important to"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 빵 한 덩어리",
+      "accept": [
+        "a loaf of bread"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "빵 한 덩어리",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 다음 번에",
+      "accept": [
+        "be prepared for A"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "다음 번에",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 내가 장담하다",
+      "accept": [
+        "relate to A"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "내가 장담하다",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 태양계에서",
+      "accept": [
+        "in the solar system"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "태양계에서",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 더욱더 많은",
+      "accept": [
+        "more and more"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "더욱더 많은",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~에 대해 걱정하다",
+      "accept": [
+        "become concerned about"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "~에 대해 걱정하다",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 동봉된 이력서",
+      "accept": [
+        "keep A awake"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "동봉된 이력서",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 평균적으로",
+      "accept": [
+        "on average"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "평균적으로",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~로 이루어져 있다",
+      "accept": [
+        "be made of"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "9",
+      "stem": "~로 이루어져 있다",
+      "wordBank": [
+        "a loaf of bread",
+        "be made of",
+        "be prepared for A",
+        "become concerned about",
+        "in the solar system",
+        "keep A awake",
+        "more and more",
+        "on average",
+        "relate to A"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "According to the passage, how is chocolate like bread?",
+      "choices": {
+        "A": "It has many calories.",
+        "B": "It contains a lot of fat."
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "1",
+      "blocked": "passage text not found in PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does the passage say about chocolate?",
+      "choices": {
+        "A": "It damages teeth.",
+        "B": "It keeps people awake."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "2",
+      "blocked": "passage text not found in PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is NOT said to be studied in the class?",
+      "choices": {
+        "A": "Geometry",
+        "B": "Advanced Algebra"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "1",
+      "passage": "Middle School Math Class / Middle School Math provides a brief introduction / to algebra and geometry. / Topics in this course relate to real-world situations / involving mathematical principles. After successful / completion of this course, middle school students / will be prepared for the study of Pre-Algebra. / 1 ______ Which of the following is NOT said to be studied in the class? / (a) Geometry / (b) Advanced Algebra / 2. What is learned about the class? / (a) It will use real-world situations. / (b) It requires students to use a computer."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is learned about the class?",
+      "choices": {
+        "A": "It will use real-world situations.",
+        "B": "It requires students to use a computer."
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "2",
+      "passage": "Middle School Math Class / Middle School Math provides a brief introduction / to algebra and geometry. / Topics in this course relate to real-world situations / involving mathematical principles. After successful / completion of this course, middle school students / will be prepared for the study of Pre-Algebra. / 1 ______ Which of the following is NOT said to be studied in the class? / (a) Geometry / (b) Advanced Algebra / 2. What is learned about the class? / (a) It will use real-world situations. / (b) It requires students to use a computer."
+    },
+    {
+      "id": "q17",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Its air contains oxygen.",
+        "B": "It has very cold temperatures.",
+        "C": "It is mostly covered with saltwater.",
+        "D": "It is the largest moon in the solar system."
+      },
+      "prompt": "Which of the following facts about Ganymede is NOT mentioned?",
+      "accept": "A",
+      "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
+      "passageHead": "Questions 1-2 refer to the following article."
+    },
+    {
+      "id": "q18",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "It may once have had life.",
+        "B": "It may continue to get colder.",
+        "C": "It may have valuable minerals.",
+        "D": "It may someday be visited by people."
+      },
+      "prompt": "What do scientists believe may be true about Ganymede?",
+      "accept": "A",
+      "passage": "JUPITER MOON HOLDS WATER / Ganymede, which orbits Jupiter probably / holds a saltwater ocean beneath its surface. / European researchers say Ganymede's surface / shows signs of cracking and refreezing. / Scientists do not think the ocean holds any life, / because temperatures there are near minus 300 / degrees Fahrenheit. However, organic chemicals / that may be signs of past life are present.",
+      "passageHead": "Questions 1-2 refer to the following article."
+    },
+    {
+      "id": "q19",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To let children watch more television",
+        "B": "To let children watch television for four hours",
+        "C": "To reduce the amount of television children watch",
+        "D": "To reduce the numbers of hours children play"
+      },
+      "prompt": "What are experts warning parents to do?",
+      "accept": "C",
+      "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
+      "passageHead": "Questions 3-4 refer to the following article."
+    },
+    {
+      "id": "q20",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Educational programs",
+        "B": "Violent programs",
+        "C": "Animal programs",
+        "D": "Parenting programs"
+      },
+      "prompt": "What type of programs are experts most concerned about?",
+      "accept": "B",
+      "passage": "television increases. More and more / experts are becoming concerned about / the amount of time children spend in front / of the television . Figures show that children, / on average, spend four hours a day / watching TV. This figure is up 35% from / five years ago. Parents are advised to / strictly control the amount of television / their children watch.",
+      "passageHead": "Questions 3-4 refer to the following article."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

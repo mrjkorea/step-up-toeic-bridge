@@ -1,301 +1,409 @@
 {
- "practiceId": "int-rc-p5-s07",
- "title": "Part V · Section 07",
- "subtitle": "Forms",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "height",
-    "B": "repeat",
-    "C": "signature",
-    "D": "undergo"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "height",
-    "B": "repeat",
-    "C": "signature",
-    "D": "undergo"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "height",
-    "B": "repeat",
-    "C": "signature",
-    "D": "undergo"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "height",
-    "B": "repeat",
-    "C": "signature",
-    "D": "undergo"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "(d)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "report card"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "library card"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "interest area"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "medical history"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "apply for"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "as a result of"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "fill out"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "registration form"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "come into effect"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 10-: type the answer.",
-   "accept": [
-    "as of"
-   ],
-   "section": "Warm-Up",
-   "id": "q14",
-   "label": "10",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 11-: type the answer.",
-   "accept": [
-    "maintenance cost"
-   ],
-   "section": "Warm-Up",
-   "id": "q15",
-   "label": "11",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does this card show?",
-   "choices": {
-    "A": "John’s hobbies",
-    "B": "John’s study result"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is NOT true?",
-   "choices": {
-    "A": "John doesn’t like Korean.",
-    "B": "John’s math score is not good."
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is this form for?",
-   "choices": {
-    "A": "To apply for a library card",
-    "B": "To apply for a high school"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q18",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is NOT requested to fill in?",
-   "choices": {
-    "A": "Student ID number",
-    "B": "Homeroom teacher’s name"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q19",
-   "label": "2"
-  },
-  {
-   "id": "q20",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "At a gym",
-    "B": "At a doctor's surgery",
-    "C": "At a theater",
-    "D": "At a class"
-   },
-   "prompt": "Where would you most likely find this application form?",
-   "accept": "A",
-   "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
-   "passageHead": "Questions 1-2 refer to the following form."
-  },
-  {
-   "id": "q21",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "30 minutes",
-    "B": "One hour",
-    "C": "Twice a year",
-    "D": "Once a year"
-   },
-   "prompt": "How often do people have to attend the introduction training session?",
-   "accept": "D",
-   "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
-   "passageHead": "Questions 1-2 refer to the following form."
-  },
-  {
-   "id": "q22",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To inform people of maintenance work in November",
-    "B": "To inform people of possible delays in the tunnel",
-    "C": "To inform people of the new costs of using the tunnel",
-    "D": "To inform people what vehicles are allowed to use the tunnel"
-   },
-   "prompt": "What is the notice for?",
-   "accept": "C",
-   "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
-   "passageHead": "Questions 3-4 refer to the following form."
-  },
-  {
-   "id": "q23",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Cars and motorbikes",
-    "B": "Motorbikes and commercial buses",
-    "C": "Trucks and minivans",
-    "D": "Minivans and motorbikes"
-   },
-   "prompt": "Which of the vehicles are NOT affected by the price increase?",
-   "accept": "D",
-   "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
-   "passageHead": "Questions 3-4 refer to the following form."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "int-rc-p5-s07",
+  "title": "Part V · Section 07",
+  "subtitle": "Forms",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "height",
+        "B": "repeat",
+        "C": "signature",
+        "D": "undergo"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): The world will ______ many differences in the near future.",
+      "choices": {
+        "A": "height",
+        "B": "repeat",
+        "C": "signature",
+        "D": "undergo"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "The world will ______ many differences in the near future."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "height",
+        "B": "repeat",
+        "C": "signature",
+        "D": "undergo"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (d): What is his ______?",
+      "choices": {
+        "A": "height",
+        "B": "repeat",
+        "C": "signature",
+        "D": "undergo"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "(d)",
+      "stem": "What is his ______?"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 성적표",
+      "accept": [
+        "report card"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "성적표",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2-: type the answer.",
+      "accept": [
+        "library card"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 관심 분야",
+      "accept": [
+        "interest area"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "관심 분야",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 이료 기록",
+      "accept": [
+        "medical history"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "이료 기록",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "accept": [
+        "apply for"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "~에 지원하다",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "as a result of"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "accept": [
+        "fill out"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "작성하다",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식          -",
+      "accept": [
+        "registration form"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "등록양식          -",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 시행되다",
+      "accept": [
+        "come into effect"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "시행되다",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 10: Write the English expression from the word bank that matches this meaning: ~의 일자로",
+      "accept": [
+        "as of"
+      ],
+      "section": "Warm-Up",
+      "id": "q14",
+      "label": "10",
+      "stem": "~의 일자로",
+      "wordBank": [
+        "apply for",
+        "as a result of",
+        "as of",
+        "come into effect",
+        "fill out",
+        "interest area",
+        "library card",
+        "maintenance cost",
+        "medical history",
+        "registration form",
+        "report card"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 11-: type the answer.",
+      "accept": [
+        "maintenance cost"
+      ],
+      "section": "Warm-Up",
+      "id": "q15",
+      "label": "11",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does this card show?",
+      "choices": {
+        "A": "John’s hobbies",
+        "B": "John’s study result"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q16",
+      "label": "1",
+      "passage": "John's Report Card / Subject ______ Grade / KOREAN ______ 98 / ENGLISH ______ 100 / MATH ______ 77 / SCIENCE ______ 86"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is NOT true?",
+      "choices": {
+        "A": "John doesn’t like Korean.",
+        "B": "John’s math score is not good."
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q17",
+      "label": "2",
+      "passage": "John's Report Card / Subject ______ Grade / KOREAN ______ 98 / ENGLISH ______ 100 / MATH ______ 77 / SCIENCE ______ 86"
+    },
+    {
+      "type": "choice",
+      "prompt": "What is this form for?",
+      "choices": {
+        "A": "To apply for a library card",
+        "B": "To apply for a high school"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q18",
+      "label": "1",
+      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher’s name"
+    },
+    {
+      "type": "choice",
+      "prompt": "What is NOT requested to fill in?",
+      "choices": {
+        "A": "Student ID number",
+        "B": "Homeroom teacher’s name"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q19",
+      "label": "2",
+      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher’s name"
+    },
+    {
+      "id": "q20",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "At a gym",
+        "B": "At a doctor's surgery",
+        "C": "At a theater",
+        "D": "At a class"
+      },
+      "prompt": "Where would you most likely find this application form?",
+      "accept": "A",
+      "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
+      "passageHead": "Questions 1-2 refer to the following form."
+    },
+    {
+      "id": "q21",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "30 minutes",
+        "B": "One hour",
+        "C": "Twice a year",
+        "D": "Once a year"
+      },
+      "prompt": "How often do people have to attend the introduction training session?",
+      "accept": "D",
+      "passage": "BEST FITNESS / Please fill out the registration form below. / Name / Age / Weight / Height / Home Address / Telephone No. / Medical History / Note: All members will have to undergo a 30-minute / medical examination and a one-hour introduction / training session with a member of our staff. These / procedures will be repeated annually for your health / and safety.",
+      "passageHead": "Questions 1-2 refer to the following form."
+    },
+    {
+      "id": "q22",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To inform people of maintenance work in November",
+        "B": "To inform people of possible delays in the tunnel",
+        "C": "To inform people of the new costs of using the tunnel",
+        "D": "To inform people what vehicles are allowed to use the tunnel"
+      },
+      "prompt": "What is the notice for?",
+      "accept": "C",
+      "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
+      "passageHead": "Questions 3-4 refer to the following form."
+    },
+    {
+      "id": "q23",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Cars and motorbikes",
+        "B": "Motorbikes and commercial buses",
+        "C": "Trucks and minivans",
+        "D": "Minivans and motorbikes"
+      },
+      "prompt": "Which of the vehicles are NOT affected by the price increase?",
+      "accept": "D",
+      "passage": "TUNNEL NOTICE / As a result of increased maintenance costs, we regret / to announce the following price increases. / Please see below: / Old Price | New Price / Motorbike / Car | $1 | $1.50 / Ca r& Trailer | $1.50 | $2 / Minivan | $4 | $4 / Commercial bus | $5 | $7.50 / Truck | $10 | $15 / Prices will come in to effect as of November 2009.",
+      "passageHead": "Questions 3-4 refer to the following form."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): They are ______ past the tree.",
       "choices": {
         "A": "climbing",
         "B": "leaning on",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They are ______ past the tree."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): They are ______ the lamp.",
       "choices": {
         "A": "climbing",
         "B": "leaning on",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They are ______ the lamp."
     },
     {
       "type": "choice",
@@ -59,7 +59,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): They are ______ the ladder.",
       "choices": {
         "A": "climbing",
         "B": "leaning on",
@@ -71,11 +71,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They are ______ the ladder."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): They are ______ the car.",
       "choices": {
         "A": "climbing",
         "B": "leaning on",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They are ______ the car."
     },
     {
       "id": "q6",

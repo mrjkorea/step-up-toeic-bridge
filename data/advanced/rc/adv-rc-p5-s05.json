@@ -1,250 +1,324 @@
 {
- "practiceId": "adv-rc-p5-s05",
- "title": "Part V · Section 05",
- "subtitle": "Charts",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dangerous",
-    "B": "heavier",
-    "C": "international"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dangerous",
-    "B": "heavier",
-    "C": "international"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "dangerous",
-    "B": "heavier",
-    "C": "international"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "traffic accident"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "late night"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "per hour"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "in a year"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "international news"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "cooking hour"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "children's show"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "how many hours"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "How many hours are the children’s programs?",
-   "choices": {
-    "A": "Two and a half hours",
-    "B": "Three and a half hours"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q12",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "How many times can a person watch the news today?",
-   "choices": {
-    "A": "Four times",
-    "B": "Five times"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which type of weather appears to be the safest to drive on?",
-   "choices": {
-    "A": "Wind",
-    "B": "Sun"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following statements is NOT true?",
-   "choices": {
-    "A": "More accidents occur when it rains than when it is windy.",
-    "B": "Sunny days are the second most dangerous days to drive on."
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "id": "q16",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "January",
-    "B": "April",
-    "C": "July",
-    "D": "October"
-   },
-   "prompt": "In what month was the difference between family cars and sportscars sold the biggest?",
-   "accept": "B",
-   "passage": "The number of family and sports cars sold in a year / family car / sportscar",
-   "passageHead": "Questions 1-2 refer to the following graph."
-  },
-  {
-   "id": "q17",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "February",
-    "B": "May",
-    "C": "July",
-    "D": "December"
-   },
-   "prompt": "In what month were the most cars sold?",
-   "accept": "C",
-   "passage": "The number of family and sports cars sold in a year / family car / sportscar",
-   "passageHead": "Questions 1-2 refer to the following graph."
-  },
-  {
-   "id": "q18",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Running 10 mph",
-    "B": "Bicycling 12 mph",
-    "C": "Swimming 50 yds/min",
-    "D": "Cross-country skiing"
-   },
-   "prompt": "Which of the following activities burns the most calories?",
-   "accept": "A",
-   "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
-   "passageHead": "Questions 3-4 refer to the following chart."
-  },
-  {
-   "id": "q19",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "650",
-    "B": "750",
-    "C": "920",
-    "D": "1,280"
-   },
-   "prompt": "According to the chart, how many calories per hour does jumping rope burn?",
-   "accept": "B",
-   "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
-   "passageHead": "Questions 3-4 refer to the following chart."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s05",
+  "title": "Part V · Section 05",
+  "subtitle": "Charts",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): Is it true that water is ______ than oil?",
+      "choices": {
+        "A": "dangerous",
+        "B": "heavier",
+        "C": "international"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "Is it true that water is ______ than oil?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "dangerous",
+        "B": "heavier",
+        "C": "international"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): In order to fly to New York, you should use the ______ airline.",
+      "choices": {
+        "A": "dangerous",
+        "B": "heavier",
+        "C": "international"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "In order to fly to New York, you should use the ______ airline."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 교통사고",
+      "accept": [
+        "traffic accident"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "교통사고",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 늦은 시간(심야)",
+      "accept": [
+        "late night"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "늦은 시간(심야)",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 매시간",
+      "accept": [
+        "per hour"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "매시간",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4-: type the answer.",
+      "accept": [
+        "in a year"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 국제뉴스",
+      "accept": [
+        "international news"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "국제뉴스",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 요리 시간",
+      "accept": [
+        "cooking hour"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "요리 시간",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 아이들 쇼",
+      "accept": [
+        "children's show"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "아이들 쇼",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 몇 시간 동안",
+      "accept": [
+        "how many hours"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "몇 시간 동안",
+      "wordBank": [
+        "children's show",
+        "cooking hour",
+        "how many hours",
+        "in a year",
+        "international news",
+        "late night",
+        "per hour",
+        "traffic accident"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How many hours are the children’s programs?",
+      "choices": {
+        "A": "Two and a half hours",
+        "B": "Three and a half hours"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q12",
+      "label": "1",
+      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+    },
+    {
+      "type": "choice",
+      "prompt": "How many times can a person watch the news today?",
+      "choices": {
+        "A": "Four times",
+        "B": "Five times"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "2",
+      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which type of weather appears to be the safest to drive on?",
+      "choices": {
+        "A": "Wind",
+        "B": "Sun"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q14",
+      "label": "1",
+      "passage": "Number of Traffic Accidents / on Stanley Street in 2006 / Sun ______ Wind ______ Rain ______ Snow"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following statements is NOT true?",
+      "choices": {
+        "A": "More accidents occur when it rains than when it is windy.",
+        "B": "Sunny days are the second most dangerous days to drive on."
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "2",
+      "passage": "Number of Traffic Accidents / on Stanley Street in 2006 / Sun ______ Wind ______ Rain ______ Snow"
+    },
+    {
+      "id": "q16",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "January",
+        "B": "April",
+        "C": "July",
+        "D": "October"
+      },
+      "prompt": "In what month was the difference between family cars and sportscars sold the biggest?",
+      "accept": "B",
+      "passage": "The number of family and sports cars sold in a year / family car / sportscar",
+      "passageHead": "Questions 1-2 refer to the following graph."
+    },
+    {
+      "id": "q17",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "February",
+        "B": "May",
+        "C": "July",
+        "D": "December"
+      },
+      "prompt": "In what month were the most cars sold?",
+      "accept": "C",
+      "passage": "The number of family and sports cars sold in a year / family car / sportscar",
+      "passageHead": "Questions 1-2 refer to the following graph."
+    },
+    {
+      "id": "q18",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Running 10 mph",
+        "B": "Bicycling 12 mph",
+        "C": "Swimming 50 yds/min",
+        "D": "Cross-country skiing"
+      },
+      "prompt": "Which of the following activities burns the most calories?",
+      "accept": "A",
+      "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
+      "passageHead": "Questions 3-4 refer to the following chart."
+    },
+    {
+      "id": "q19",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "650",
+        "B": "750",
+        "C": "920",
+        "D": "1,280"
+      },
+      "prompt": "According to the chart, how many calories per hour does jumping rope burn?",
+      "accept": "B",
+      "passage": "HOW MUCH ENERGY DO YOU USE? / The chart below shows the average calories spent per / hour by an adult doing each activity. A lighter person / burns fewer calories, and a heavier person burns more. / ACTIVITY | CALORIES BURNED / Bicycling 6 mph | 240 cals/hr / Bicycling 12 mph | 410 cals/hr / Cross - country skiing | 700 cals/hr / Jogging 5 mph | 740 cals/hr / Jogging 7 mph | 920 cals/hr / Jumping Rope | 750 cals/hr / Running in Place | 650 cals / hr / Running 10 mph | 1,280 cals/hr / Swimming 25 yds / min | 275 cals / hr / Swimming 50 yds / min | 500 cals / hr / Walking 2 mph | 240 cals / hr / Walking 3 mph | 320 cals / hr / Walking 4 mph | 440 cals / hr",
+      "passageHead": "Questions 3-4 refer to the following chart."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

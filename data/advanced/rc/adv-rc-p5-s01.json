@@ -1,272 +1,384 @@
 {
- "practiceId": "adv-rc-p5-s01",
- "title": "Part V · Section 01",
- "subtitle": "Notices",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "passengers",
-    "B": "possible",
-    "C": "water damage"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "passengers",
-    "B": "possible",
-    "C": "water damage"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "passengers",
-    "B": "possible",
-    "C": "water damage"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "at all times"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "be allowed to"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "no exceptions"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "on display"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "be designed to"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "for repairs"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "be advised to"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "apologize for"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "get colder"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 10-: type the answer.",
-   "accept": [
-    "because of"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "10",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What can visitors not do?",
-   "choices": {
-    "A": "Look at the equipment on display",
-    "B": "Take photographs"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who is allowed to carry video cameras on site?",
-   "choices": {
-    "A": "Guides",
-    "B": "Nobody"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is true about the Learning Center?",
-   "choices": {
-    "A": "It is open on weekends.",
-    "B": "It opens at 2:30 every weekday."
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What can students study at the Learning Center?",
-   "choices": {
-    "A": "Writing",
-    "B": "Foreign languages"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Wait patiently at the station",
-    "B": "Go to Brook Street Station",
-    "C": "Use their own cars",
-    "D": "Use another transportation"
-   },
-   "prompt": "What should people who need to catch a train do?",
-   "accept": "B",
-   "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
-   "passageHead": "Questions 1-2 refer to the following notice."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "The station is closer.",
-    "B": "The station is closed between Tuesday and Friday.",
-    "C": "The storm will come.",
-    "D": "The fare is cheaper."
-   },
-   "prompt": "Why does the notice tell people to go to another station?",
-   "accept": "B",
-   "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
-   "passageHead": "Questions 1-2 refer to the following notice."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "Two",
-    "B": "Three",
-    "C": "Four",
-    "D": "Five"
-   },
-   "prompt": "How many days is rain predicted for the morning?",
-   "accept": "A",
-   "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
-   "passageHead": "Questions 3-4 refer to the following notice."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Monday and Tuesday",
-    "B": "Monday and Thursday",
-    "C": "Wednesday and Friday",
-    "D": "Thursday and Friday"
-   },
-   "prompt": "Which two days have similar weather?",
-   "accept": "B",
-   "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
-   "passageHead": "Questions 3-4 refer to the following notice."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s01",
+  "title": "Part V · Section 01",
+  "subtitle": "Notices",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): Is it ______ for you to come see me right now?",
+      "choices": {
+        "A": "passengers",
+        "B": "possible",
+        "C": "water damage"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "Is it ______ for you to come see me right now?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): All ______ are required to follow the in st n jct ion given",
+      "choices": {
+        "A": "passengers",
+        "B": "possible",
+        "C": "water damage"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "stem": "All ______ are required to follow the in st n jct ion given"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): Many people who are living in that area are suffering from the",
+      "choices": {
+        "A": "passengers",
+        "B": "possible",
+        "C": "water damage"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "Many people who are living in that area are suffering from the"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 판매용인",
+      "accept": [
+        "at all times"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "판매용인",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~하도록 허락되다",
+      "accept": [
+        "be allowed to"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "~하도록 허락되다",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 예외 없음",
+      "accept": [
+        "no exceptions"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "예외 없음",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 전시된",
+      "accept": [
+        "on display"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "전시된",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5-: type the answer.",
+      "accept": [
+        "be designed to"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 수리를 위해",
+      "accept": [
+        "for repairs"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "수리를 위해",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: ~하도록 권고받다",
+      "accept": [
+        "be advised to"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "~하도록 권고받다",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~에 대해 사과하다",
+      "accept": [
+        "apologize for"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "~에 대해 사과하다",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 더 추워지다",
+      "accept": [
+        "get colder"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "9",
+      "stem": "더 추워지다",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 10: Write the English expression from the word bank that matches this meaning: ~때문에",
+      "accept": [
+        "because of"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "10",
+      "stem": "~때문에",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What can visitors not do?",
+      "choices": {
+        "A": "Look at the equipment on display",
+        "B": "Take photographs"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "WARNING / Please follow the instructions below: / in at the front gate. / site. No exceptions. / equipment on display."
+    },
+    {
+      "type": "choice",
+      "prompt": "Who is allowed to carry video cameras on site?",
+      "choices": {
+        "A": "Guides",
+        "B": "Nobody"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "WARNING / Please follow the instructions below: / in at the front gate. / site. No exceptions. / equipment on display."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is true about the Learning Center?",
+      "choices": {
+        "A": "It is open on weekends.",
+        "B": "It opens at 2:30 every weekday."
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "Learning Center / Room : 206A / Hours: Monday - Thursday : 2:30 - 4:30 / Friday : 2:30 - 5:00 / i ______ The center offers tutorial programs designed to / school writing tutors to provide one -to -one / instruction for students who need extra help."
+    },
+    {
+      "type": "choice",
+      "prompt": "What can students study at the Learning Center?",
+      "choices": {
+        "A": "Writing",
+        "B": "Foreign languages"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "Learning Center / Room : 206A / Hours: Monday - Thursday : 2:30 - 4:30 / Friday : 2:30 - 5:00 / i ______ The center offers tutorial programs designed to / school writing tutors to provide one -to -one / instruction for students who need extra help."
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Wait patiently at the station",
+        "B": "Go to Brook Street Station",
+        "C": "Use their own cars",
+        "D": "Use another transportation"
+      },
+      "prompt": "What should people who need to catch a train do?",
+      "accept": "B",
+      "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+      "passageHead": "Questions 1-2 refer to the following notice."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "The station is closer.",
+        "B": "The station is closed between Tuesday and Friday.",
+        "C": "The storm will come.",
+        "D": "The fare is cheaper."
+      },
+      "prompt": "Why does the notice tell people to go to another station?",
+      "accept": "B",
+      "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+      "passageHead": "Questions 1-2 refer to the following notice."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "prompt": "How many days is rain predicted for the morning?",
+      "accept": "A",
+      "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
+      "passageHead": "Questions 3-4 refer to the following notice."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Monday and Tuesday",
+        "B": "Monday and Thursday",
+        "C": "Wednesday and Friday",
+        "D": "Thursday and Friday"
+      },
+      "prompt": "Which two days have similar weather?",
+      "accept": "B",
+      "passage": "Below is the local weather forecast for the next / 5 days. / Monday :Rain in the morning, dry in the / afternoon. / jmTuesday:Starts warm , but will get colder in the / afternoon. / Wednesday:Sunny and warm all day. / Thursday :Light rain in morning, becoming dry / later in the afternoon. / Friday :Possible snow with strong winds all day. / Heavy snow is predicted for the whole of the / weekend.",
+      "passageHead": "Questions 3-4 refer to the following notice."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }
