@@ -224,6 +224,41 @@
     return s;
   }
 
+  function isContentDebug() {
+    var h = root.location.hash || "";
+    var q = root.location.search || "";
+    return /(?:^|[?&])debug=1(?:&|$)/.test(q) || h.indexOf("debug=1") >= 0;
+  }
+
+  function isBlockedItem(item) {
+    return !!(item && (item.blocked === true || item.blocked === "true"));
+  }
+
+  function isPlayableItem(item) {
+    if (!item) return false;
+    if (isBlockedItem(item)) return isContentDebug();
+    return true;
+  }
+
+  function isForbiddenMediaRef(ref) {
+    if (!ref) return false;
+    var s = String(ref).trim();
+    if (!s) return false;
+    if (/page-/i.test(s) || /rc-pages/i.test(s)) return true;
+    if (/bookPages/i.test(s)) return true;
+    return false;
+  }
+
+  function isAllowedStudentPhoto(ref) {
+    if (!ref || isForbiddenMediaRef(ref)) return false;
+    var s = normalizePhotoRef(String(ref).trim());
+    if (!s || /^https?:\/\//i.test(s)) return false;
+    if (/page-/i.test(s) || /rc-pages/i.test(s)) return false;
+    if (/^[^/]+\/at\/q\d+\.png$/i.test(s)) return true;
+    if (/^[^/]+\/p1-s\d\d\/q0[1-6]\.png$/i.test(s)) return true;
+    return false;
+  }
+
   function resolvePhotoUrl(ref) {
     if (!ref) return "";
     var s = normalizePhotoRef(String(ref).trim());
@@ -268,6 +303,7 @@
   }
 
   function appendPhotoBlock(card, ref, altText) {
+    if (!isAllowedStudentPhoto(ref)) return;
     var url = resolvePhotoUrl(ref);
     if (!url) return;
     var photoWrap = el("div", "q-photo");
@@ -280,29 +316,21 @@
   }
 
   function appendPassageBlock(card, item, practice, passageShown) {
-    var imgRef = passageImageRef(item, practice);
     var head = item.passageHead ? String(item.passageHead) : "";
-    var bodyKey = imgRef
-      ? "img:" + imgRef
-      : item.passage
-        ? "txt:" + item.passage
-        : item.passageNote
-          ? "note:" + item.passageNote
-          : "";
+    var bodyKey = item.passage ? "txt:" + item.passage : "";
     var passageKey = (head ? "h:" + head + "|" : "") + bodyKey;
     if (passageKey && passageShown[passageKey]) return;
     if (head) card.appendChild(el("p", "q-passage-head", head));
-    if (imgRef) {
-      appendPhotoBlock(card, imgRef, "Reading passage page");
-      if (passageKey) passageShown[passageKey] = true;
-      return;
-    }
     if (item.passage) {
       card.appendChild(el("div", "q-passage", item.passage));
-    } else if (item.passageNote) {
-      card.appendChild(el("p", "q-passage-note", item.passageNote));
     }
     if (passageKey) passageShown[passageKey] = true;
+  }
+
+  function formatItemLabel(item) {
+    if (item.label != null && String(item.label).trim() !== "") return String(item.label);
+    if (item.id) return String(item.id);
+    return "";
   }
 
   function appendPrompt(card, item) {
@@ -352,10 +380,7 @@
   }
 
   function appendItemPagePhoto(card, item, skipPhotoField) {
-    var pageRef = itemPageImageRef(item);
-    if (pageRef && (!skipPhotoField || pageRef !== item.photo)) {
-      appendPhotoBlock(card, pageRef, "Picture page for this question");
-    }
+    return;
   }
 
   function itemType(item) {
@@ -384,8 +409,7 @@
 
   function renderChoiceItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card");
-    var label = el("div", "q-label", "Q" + (item.label || item.id));
-    card.appendChild(label);
+    card.appendChild(el("div", "q-label", formatItemLabel(item)));
     appendPassageBlock(card, item, practice, passageShown);
     appendItemPagePhoto(card, item, true);
     if (item.photo) {
@@ -424,11 +448,11 @@
 
   function renderTextItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card q-card--text");
-    card.appendChild(el("div", "q-label", "Q" + (item.label || item.id)));
+    card.appendChild(el("div", "q-label", formatItemLabel(item)));
     appendPassageBlock(card, item, practice, passageShown);
     appendItemPagePhoto(card, item, true);
     if (item.photo) {
-      appendPhotoBlock(card, item.photo, "Picture for question " + (item.label || item.id));
+      appendPhotoBlock(card, item.photo, "Picture for question " + formatItemLabel(item));
     }
     appendPrompt(card, item);
     appendWordBank(card, item);
@@ -511,7 +535,7 @@
 
   function renderMatchItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card q-card--match");
-    card.appendChild(el("div", "q-label", "Q" + (item.label || item.id)));
+    card.appendChild(el("div", "q-label", formatItemLabel(item)));
     appendPassageBlock(card, item, practice, passageShown);
     var pageRef = itemPageImageRef(item);
     if (pageRef) {
@@ -625,19 +649,24 @@
             }
           }
 
-          if (practice.pageImage) {
-            var pagePanel = el("div", "photo-panel");
-            appendPhotoBlock(pagePanel, practice.pageImage, "Practice picture page");
-            app.appendChild(pagePanel);
-          }
-
           var form = el("form", "practice-form");
           form.addEventListener("submit", function (e) {
             e.preventDefault();
           });
 
           var responses = {};
-          var items = practice.items || [];
+          var items = (practice.items || []).filter(isPlayableItem);
+          var blockedHidden = (practice.items || []).length - items.length;
+          if (blockedHidden > 0 && !isContentDebug()) {
+            app.appendChild(
+              el(
+                "p",
+                "practice-note",
+                blockedHidden +
+                  " question(s) from this section are being rewritten and are hidden until the next content update."
+              )
+            );
+          }
           if (!items.length && practice.stub) {
             form.appendChild(
               el(

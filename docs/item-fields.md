@@ -9,7 +9,7 @@ Content packs import into `data/<level>/<lc|rc>/<practiceId>.json`. The quiz she
 | `practiceId`, `title`, `level`, `skill`, `items`, `stub` | Required metadata |
 | `audioRef` | LC section audio via `audio/manifest.json` |
 | `photoDir` | Folder under `assets/photos/` for this practice (e.g. `basic/p1-s01`) |
-| `pageImage` | **Part I** (or shared) full book page (`a`–`j` labels) shown once above all items |
+| `pageImage` | **Banned** for full workbook pages. Only tight Part I picture crops (`q01`–`q06` in `p1-sNN`, or `at/qNN`) |
 | `introEn` | Short English intro above the form |
 
 ## Shared item fields
@@ -22,27 +22,23 @@ Content packs import into `data/<level>/<lc|rc>/<practiceId>.json`. The quiz she
 | `accept` | Correct answer: letter for choice/tf, string or string[] for text/fill/self-check |
 | `displayOnly` | Instruction / warm-up card — not scored |
 | `scored` | Set `false` to show UI but exclude from score (e.g. optional drill) |
-| `photo` | Image under `assets/photos/<path>` (Warm-Up, TYS single picture, etc.) |
-| `pageImage` | Per-item full page above the question (Part I letter grid, match page) |
+| `blocked` | When `true`, item is hidden from the student quiz until content pack stems land (`#debug=1` shows them locally). Not scored. |
+| `photo` | Allowed only for LC Actual Test (`at/qNN.png`) and Part I Test Your Skills crops (`p1-sNN/q01`–`q06.png`). No `page-NNN` scans. |
+| `pageImage` | **Banned** (full book pages). Use written `prompt` / `passage` text instead. |
 | `photos` | String or array — first entry used as `pageImage` |
-| `passage` | RC passage text (fallback when no page image) |
+| `passage` | RC passage text (required for reading items; no page scan) |
 | `passageHead` | e.g. “Questions 1–2 refer to the following notice.” (deduped per block) |
-| `passageNote` | Shown when there is no `passage` image/text yet (OCR placeholder hint) |
-| `passagePage` | Book page id → `assets/photos/<level>/rc/<page>.png` or `photoDir/<page>.png` |
-| `passageImage` | Explicit passage/chart image path under `assets/photos/` |
+| `passagePage` | **Banned** — do not reference book page scans |
+| `passageImage` | **Banned** — use `passage` text (or a tight figure crop path if added later) |
 | `section` | In-practice banner label (e.g. Warm-Up, Words & Idioms Check-Up) |
 | `wordBank` | Optional chips for `fill` / `text` (tap to insert into the input) |
 | `audioClip` / `clip` | Short clip under `audio/` (self-check, repeat) |
 
-### RC passage images
+### RC passages
 
-Prefer a page scan over OCR `passage` when available:
+Use **`passage`** (and optional `passageHead`) only. Full workbook page images are not shown to students.
 
-1. `passageImage`: `basic/rc/p4-s02-page12.png`
-2. `passagePage`: `12` → `assets/photos/basic/rc/12.png`
-3. With `photoDir`: `intermediate/rc-p5-s01` + `passagePage` `chart-a` → `assets/photos/intermediate/rc-p5-s01/chart-a.png`
-
-Duplicate passage blocks on consecutive items are collapsed when the same image or text repeats.
+Run `python3 scripts/check_practice_data.py` before publish.
 
 ## Item `type` values
 
