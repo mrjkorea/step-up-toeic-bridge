@@ -238,7 +238,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Grammar Practice 2: Grammar Practice 2: choose the answer.",
+      "prompt": "Grammar Practice 2: Choose the sentence whose blank takes a different preposition — (a) We went on a picnic ______ a cloudy day. (b) My grandfather passed away ______ that night. (c) He was born ______ the morning of July 4. (d) ______ the past, it was used as a weapon.",
       "choices": {
         "A": "(a)",
         "B": "(b)",
@@ -248,8 +248,8 @@
       "accept": "D",
       "section": "Grammar Practice",
       "id": "q21",
-      "label": "5",
-      "blocked": "stem text not yet transcribed from PDF"
+      "label": "2",
+      "stem": "(a) We went on a picnic ______ a cloudy day. (b) My grandfather passed away ______ that night. (c) He was born ______ the morning of July 4. (d) ______ the past, it was used as a weapon."
     },
     {
       "type": "text",

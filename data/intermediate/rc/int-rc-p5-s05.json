@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): What's your ______ music?",
       "choices": {
         "A": "expensive",
         "B": "favorite",
@@ -35,7 +35,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "What's your ______ music?"
     },
     {
       "type": "choice",
@@ -69,58 +69,93 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 정가",
       "accept": [
         "regular price"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "정가",
+      "wordBank": [
+        "at college",
+        "extra large",
+        "regular price",
+        "spare time",
+        "store hours"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-: type the answer.",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 여가 시간",
       "accept": [
         "spare time"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "여가 시간",
+      "wordBank": [
+        "at college",
+        "extra large",
+        "regular price",
+        "spare time",
+        "store hours"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-: type the answer.",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 대학에서",
       "accept": [
         "at college"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "3",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "대학에서",
+      "wordBank": [
+        "at college",
+        "extra large",
+        "regular price",
+        "spare time",
+        "store hours"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-: type the answer.",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 매우 큰",
       "accept": [
         "extra large"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "4",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "매우 큰",
+      "wordBank": [
+        "at college",
+        "extra large",
+        "regular price",
+        "spare time",
+        "store hours"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5-: type the answer.",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 상점 영업 시간",
       "accept": [
         "store hours"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "5",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "상점 영업 시간",
+      "wordBank": [
+        "at college",
+        "extra large",
+        "regular price",
+        "spare time",
+        "store hours"
+      ]
     },
     {
       "type": "choice",

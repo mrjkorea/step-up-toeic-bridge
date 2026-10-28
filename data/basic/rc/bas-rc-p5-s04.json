@@ -69,14 +69,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 6월 16일에",
       "accept": [
         "On June 16"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "6월 16일에",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
     },
     {
       "type": "text",
@@ -168,14 +179,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 다음 일요일에",
       "accept": [
         "Next Sunday"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "다음 일요일에",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
     },
     {
       "type": "text",

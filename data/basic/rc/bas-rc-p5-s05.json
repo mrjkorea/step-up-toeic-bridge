@@ -69,14 +69,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-: type the answer.",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 할인",
       "accept": [
         "DC"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "할인",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
     },
     {
       "type": "text",
@@ -168,14 +179,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 제인의 스케줄",
       "accept": [
         "Jane's schedule"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "제인의 스케줄",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
     },
     {
       "type": "text",

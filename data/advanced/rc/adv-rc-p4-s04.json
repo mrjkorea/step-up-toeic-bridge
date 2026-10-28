@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): In order to ______, I had to stay up late for several nights.",
       "choices": {
         "A": "fail to",
         "B": "have an appointment",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "In order to ______, I had to stay up late for several nights."
     },
     {
       "type": "choice",
@@ -366,15 +366,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): Rewrite the sentence.",
+      "prompt": "Grammar Practice 5-(a): Translate into English. 교실은 너무 습하고 추웠다.",
       "accept": [
-        "Because of the heavy snow, we had to stay at home."
+        "The classroom was very wet and cold."
       ],
       "section": "Grammar Practice",
       "id": "q34",
       "label": "5-(a)",
-      "candidateStem": "교실은 너무 습하고 추웠다.",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "candidateStem": "교실은 너무 습하고 추웠다."
     },
     {
       "type": "text",

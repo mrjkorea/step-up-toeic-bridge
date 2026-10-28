@@ -43,7 +43,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Are you going to ______ your house again?",
       "choices": {
         "A": "arrive at",
         "B": "attend",
@@ -55,11 +55,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Are you going to ______ your house again?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): I will ______ my dogs in my grandma's house when I'm on vacation.",
       "choices": {
         "A": "arrive at",
         "B": "attend",
@@ -71,11 +71,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I will ______ my dogs in my grandma's house when I'm on vacation."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): When you finish the work, let's ______.",
       "choices": {
         "A": "arrive at",
         "B": "attend",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "When you finish the work, let's ______."
     },
     {
       "id": "q6",

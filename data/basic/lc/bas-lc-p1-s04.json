@@ -140,7 +140,8 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s04/wu1.jpg"
     },
     {
       "id": "q11",
@@ -153,11 +154,12 @@
       "prompt": "Choose the statement you hear that best matches the picture.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Warm-Up"
+      "section": "Warm-Up",
+      "photo": "basic/p1-s04/wu2.jpg"
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 1: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 1: \"The woman is selling fruits.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -173,11 +175,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q12",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "The woman is selling fruits."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 2: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 2: \"The man is buying strawberries.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -193,11 +197,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q13",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "The man is buying strawberries."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 3: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 3: \"The woman is buying watermelons.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -213,11 +219,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q14",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "The woman is buying watermelons."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 4: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 4: \"There is a basket full of bananas.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -233,11 +241,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q15",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "There is a basket full of bananas."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 5: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 5: \"There is a basket full of pears.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -253,11 +263,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q16",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "There is a basket full of pears."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 6: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 6: \"The baskets are full of fruits.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -273,11 +285,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q17",
-      "label": "6"
+      "label": "6",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "The baskets are full of fruits."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 7: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 7: \"There is a basket full of apples.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -293,11 +307,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q18",
-      "label": "7"
+      "label": "7",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "There is a basket full of apples."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 8: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 8: \"The basket for grapes is empty.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -313,11 +329,13 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q19",
-      "label": "8"
+      "label": "8",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "The basket for grapes is empty."
     },
     {
       "type": "choice",
-      "prompt": "Listening Practice 1 — statement 9: listen and choose the letter of the matching picture.",
+      "prompt": "Listening Practice 1 9: \"Apples are one dollar each.\" — listen and choose the letter of the matching picture.",
       "choices": {
         "A": "a",
         "B": "b",
@@ -333,7 +351,9 @@
       "audioOnly": true,
       "section": "Listening Practice 1",
       "id": "q20",
-      "label": "9"
+      "label": "9",
+      "photo": "basic/p1-s04/lp1.jpg",
+      "stem": "Apples are one dollar each."
     },
     {
       "type": "choice",
@@ -352,7 +372,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q21",
-      "label": "1"
+      "label": "1",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -371,7 +392,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q22",
-      "label": "2"
+      "label": "2",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -390,7 +412,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q23",
-      "label": "3"
+      "label": "3",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -409,7 +432,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q24",
-      "label": "4"
+      "label": "4",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -428,7 +452,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q25",
-      "label": "5"
+      "label": "5",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -447,7 +472,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q26",
-      "label": "6"
+      "label": "6",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -466,7 +492,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q27",
-      "label": "7"
+      "label": "7",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "type": "choice",
@@ -485,7 +512,8 @@
       "audioOnly": true,
       "section": "Listening Practice 2",
       "id": "q28",
-      "label": "8"
+      "label": "8",
+      "photo": "basic/p1-s04/lp2.jpg"
     },
     {
       "id": "q29",

@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): If you ______, hold your breath for some time.",
       "choices": {
         "A": "cough",
         "B": "hiccup",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "If you ______, hold your breath for some time."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Be careful not to ______ gum.",
       "choices": {
         "A": "cough",
         "B": "hiccup",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Be careful not to ______ gum."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): When you ______, drink some hot tea or water.",
       "choices": {
         "A": "cough",
         "B": "hiccup",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "When you ______, drink some hot tea or water."
     },
     {
       "type": "text",

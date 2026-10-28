@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): All ______ are required to follow the in st n jct ion given",
+      "prompt": "Words and Idioms Check-Up (b): All ______ are required to follow the instruction given",
       "choices": {
         "A": "passengers",
         "B": "possible",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "All ______ are required to follow the in st n jct ion given"
+      "stem": "All ______ are required to follow the instruction given"
     },
     {
       "type": "choice",
@@ -143,14 +143,26 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5-: type the answer.",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~하도록 고안되다",
       "accept": [
         "be designed to"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "5",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~하도록 고안되다",
+      "wordBank": [
+        "apologize for",
+        "at all times",
+        "be advised to",
+        "be allowed to",
+        "be designed to",
+        "because of",
+        "for repairs",
+        "get colder",
+        "no exceptions",
+        "on display"
+      ]
     },
     {
       "type": "text",

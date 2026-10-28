@@ -128,69 +128,69 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): Following the example (teach → teacher), write the person word — play — ______",
       "accept": [
         "player"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "play — ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): Following the example (teach → teacher), write the person word — report — ______",
       "accept": [
         "reporter"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "report — ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): Following the example (teach → teacher), write the person word — drive — ______",
       "accept": [
         "driver"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "drive — ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): type the answer.",
+      "prompt": "Vocabulary Practice 3-(d): Following the example (teach → teacher), write the person word — golf — ______",
       "accept": [
         "golfer"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "golf — ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(e): type the answer.",
+      "prompt": "Vocabulary Practice 3-(e): Following the example (teach → teacher), write the person word — paint — ______",
       "accept": [
         "painter"
       ],
       "section": "Vocabulary Practice",
       "id": "q16",
       "label": "3-(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "paint — ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(f): type the answer.",
+      "prompt": "Vocabulary Practice 3-(f): Following the example (teach → teacher), write the person word — sing — ______",
       "accept": [
         "singer"
       ],
       "section": "Vocabulary Practice",
       "id": "q17",
       "label": "3-(f)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "sing — ______"
     },
     {
       "id": "q18",

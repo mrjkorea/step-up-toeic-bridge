@@ -245,14 +245,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9-: type the answer.",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 3시간 동안 얼리세요",
       "accept": [
         "Freeze for 3 hours"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "9",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "3시간 동안 얼리세요",
+      "wordBank": [
+        "After meal",
+        "Clean the screen",
+        "Freeze for 3 hours",
+        "Learn at home",
+        "Mix together",
+        "Pour in water",
+        "Recycle",
+        "Take 3 tablets",
+        "Until chilled"
+      ]
     },
     {
       "type": "choice",

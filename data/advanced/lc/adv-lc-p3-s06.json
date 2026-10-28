@@ -26,7 +26,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): John is planning a celebration for our wedding ______.",
       "choices": {
         "A": "anniversary",
         "B": "department",
@@ -38,11 +38,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "John is planning a celebration for our wedding ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Bus fare is discounted 50 percent for ______.",
       "choices": {
         "A": "anniversary",
         "B": "department",
@@ -54,11 +54,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Bus fare is discounted 50 percent for ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Children go to ______ school after kindergarten.",
       "choices": {
         "A": "anniversary",
         "B": "department",
@@ -70,7 +70,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Children go to ______ school after kindergarten."
     },
     {
       "type": "choice",

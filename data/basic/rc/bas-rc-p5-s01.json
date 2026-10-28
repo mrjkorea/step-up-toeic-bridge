@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): We're ______. (영업 끝났어요.)",
       "choices": {
         "A": "closed",
         "B": "floor",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "We're ______. (영업 끝났어요.)"
     },
     {
       "type": "choice",
@@ -302,7 +302,7 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "1",
-      "passage": "School library is closed. / From 23 rd December to 2nd January / Christmas holidays!"
+      "passage": "School library is closed. / From 23rd December to 2nd January / Christmas holidays!"
     },
     {
       "type": "choice",
@@ -315,7 +315,7 @@
       "section": "Reading Practice 2",
       "id": "q17",
       "label": "2",
-      "passage": "School library is closed. / From 23 rd December to 2nd January / Christmas holidays!"
+      "passage": "School library is closed. / From 23rd December to 2nd January / Christmas holidays!"
     },
     {
       "id": "q18",

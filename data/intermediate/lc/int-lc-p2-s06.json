@@ -59,7 +59,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): I ______! (나 다했어!)",
       "choices": {
         "A": "am done",
         "B": "borrowed",
@@ -71,7 +71,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______! (나 다했어!)"
     },
     {
       "type": "choice",

@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it.",
+      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as 'touch - word' — touch — ? (choose from: perfume, excited, chocolate, rock)",
       "accept": [
         "touch - rock",
         "touch, rock",
@@ -112,7 +112,7 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "touch — ? (choose from: perfume, excited, chocolate, rock)"
     },
     {
       "type": "text",

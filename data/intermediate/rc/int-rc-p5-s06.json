@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): I usually do my homework with the help of ______.",
       "choices": {
         "A": "computer",
         "B": "fix",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I usually do my homework with the help of ______."
     },
     {
       "type": "choice",
@@ -91,14 +91,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-: type the answer.",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
       "accept": [
         "be invited to"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "~에 초대되다",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
     },
     {
       "type": "text",
@@ -168,14 +179,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6-: type the answer.",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 수업 사이에",
       "accept": [
         "between classes"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "6",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "수업 사이에",
+      "wordBank": [
+        "at all times",
+        "be invited to",
+        "be welcome to",
+        "between classes",
+        "in these days",
+        "make a reservation",
+        "no later than",
+        "suffer from",
+        "wash one's hands"
+      ]
     },
     {
       "type": "text",

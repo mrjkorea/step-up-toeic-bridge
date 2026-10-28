@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(b): Don't ______ soda too much. (탄산 음료를 너무 많이 마시지 마.)",
       "choices": {
         "A": "baked",
         "B": "drink",
@@ -35,7 +35,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Don't ______ soda too much. (탄산 음료를 너무 많이 마시지 마.)"
     },
     {
       "type": "choice",
@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(b): Today's lunch menu is ______. (오늘 점심 메뉴는 스파게티야.)",
       "choices": {
         "A": "baked",
         "B": "drink",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Today's lunch menu is ______. (오늘 점심 메뉴는 스파게티야.)"
     },
     {
       "type": "text",
@@ -146,27 +146,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank using the Korean — Sugar is ______. (설탕은 달다.)",
       "accept": [
         "sweet"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "candidateStem": "S u g a r i s ______________________ ■ 설탕은 달다.",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "Sugar is ______. (설탕은 달다.)"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank using the Korean — Pepper is ______. (후추는 맵다.)",
       "accept": [
         "hot"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "candidateStem": "P e p p e r i s ______________________ . 후추는 맵다.",
-      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
+      "stem": "Pepper is ______. (후추는 맵다.)"
     },
     {
       "id": "q15",

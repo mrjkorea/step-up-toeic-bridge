@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ making a doll.",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -22,7 +22,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I'm ______ making a doll."
     },
     {
       "type": "choice",

@@ -27,7 +27,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Can you deliver the parcel ______?",
       "choices": {
         "A": "as soon as possible",
         "B": "look forward to",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Can you deliver the parcel ______?"
     },
     {
       "type": "choice",
@@ -75,7 +75,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): Do you know how to fix the ______?",
       "choices": {
         "A": "as soon as possible",
         "B": "look forward to",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Do you know how to fix the ______?"
     },
     {
       "id": "q6",

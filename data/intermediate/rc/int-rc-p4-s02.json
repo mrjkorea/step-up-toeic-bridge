@@ -69,7 +69,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Warm-Up 1: Warm-Up 1: choose the answer.",
+      "prompt": "Warm-Up 1: Choose the grammatically correct sentence — (a) John must goes to church tonight. (b) Bob cans speak French very well. (c) Do I must do my homework now? (d) They will come back in two days.",
       "choices": {
         "A": "(a)",
         "B": "(b)",
@@ -80,7 +80,7 @@
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "(a) John must goes to church tonight. (b) Bob cans speak French very well. (c) Do I must do my homework now? (d) They will come back in two days."
     },
     {
       "type": "text",
@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): rewrite the sentence.",
+      "prompt": "Warm-Up 2-(d): Rewrite the sentence as a negative — Sam will go to see his aunt tomorrow. → negative",
       "accept": [
         "Sam will not go to see his aunt tomorrow.",
         "Sam won't go to see his aunt tomorrow."
@@ -105,7 +105,7 @@
       "section": "Warm-Up",
       "id": "q7",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Sam will go to see his aunt tomorrow. → negative"
     },
     {
       "type": "display",
@@ -313,7 +313,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Grammar Practice 4: Grammar Practice 4: choose the answer.",
+      "prompt": "Grammar Practice 4: Choose the pair whose two sentences have different meanings — (a) You don't have to drink it if you are full. = You must not drink it if you are full. (b) She is not able to count numbers in English. = She can't count numbers in English. (c) We are going to play soccer this afternoon. = We will play soccer this afternoon.",
       "choices": {
         "A": "(a)",
         "B": "(b)",
@@ -323,8 +323,8 @@
       "accept": "A",
       "section": "Grammar Practice",
       "id": "q27",
-      "label": "10",
-      "blocked": "stem text not yet transcribed from PDF"
+      "label": "4",
+      "stem": "(a) You don't have to drink it if you are full. = You must not drink it if you are full. (b) She is not able to count numbers in English. = She can't count numbers in English. (c) We are going to play soccer this afternoon. = We will play soccer this afternoon."
     },
     {
       "id": "q28",
