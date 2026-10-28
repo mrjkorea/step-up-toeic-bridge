@@ -69,199 +69,199 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 수속하다",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 돌아오다",
       "accept": [
         "Get back"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "stem": "수속하다",
+      "stem": "돌아오다",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 출발 시간",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 수업에 지각하다",
       "accept": [
         "Late for class"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "2",
-      "stem": "출발 시간",
+      "stem": "수업에 지각하다",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 항공편 번호",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 부재 중에",
       "accept": [
         "While you were out"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "3",
-      "stem": "항공편 번호",
+      "stem": "부재 중에",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 신청 카드",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 해야 할 일",
       "accept": [
         "To do list"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "4",
-      "stem": "신청 카드",
+      "stem": "해야 할 일",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 만기 일자",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 잠시 들르다",
       "accept": [
-        "Drop b"
+        "Drop by"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "5",
-      "stem": "만기 일자",
+      "stem": "잠시 들르다",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 무료 입장",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 나중에 보자",
       "accept": [
         "See you later"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "6",
-      "stem": "무료 입장",
+      "stem": "나중에 보자",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 테이블 번호",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 수업 후에",
       "accept": [
         "After class"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "7",
-      "stem": "테이블 번호",
+      "stem": "수업 후에",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 학생증",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 다시 전화할게",
       "accept": [
-        "Will call agai"
+        "Will call again"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "8",
-      "stem": "학생증",
+      "stem": "다시 전화할게",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 교사 지도서",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 이메일을 쓰다",
       "accept": [
         "Write an e-mail"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "9",
-      "stem": "교사 지도서",
+      "stem": "이메일을 쓰다",
       "wordBank": [
         "After class",
-        "Drop b",
+        "Drop by",
         "Get back",
         "Late for class",
         "See you later",
         "To do list",
         "While you were out",
-        "Will call agai",
+        "Will call again",
         "Write an e-mail"
       ]
     },

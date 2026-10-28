@@ -37,7 +37,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): Many people who are living in that area are suffering from the",
+      "prompt": "Words and Idioms Check-Up (c): Many people who are living in that area are suffering from the ______",
       "choices": {
         "A": "passengers",
         "B": "possible",
@@ -47,18 +47,18 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "stem": "Many people who are living in that area are suffering from the"
+      "stem": "Many people who are living in that area are suffering from the ______"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 판매용인",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 항상",
       "accept": [
         "at all times"
       ],
       "section": "Warm-Up",
       "id": "q4",
       "label": "1",
-      "stem": "판매용인",
+      "stem": "항상",
       "wordBank": [
         "apologize for",
         "at all times",

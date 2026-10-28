@@ -195,14 +195,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 재활용하세요",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 자정(12시)까지",
       "accept": [
         "Until midnight"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "7",
-      "stem": "재활용하세요",
+      "stem": "자정(12시)까지",
       "wordBank": [
         "From Monday to Wednesday",
         "Garage sale",

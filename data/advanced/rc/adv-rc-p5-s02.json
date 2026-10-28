@@ -139,14 +139,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 더욱더 많은",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 요청하다",
       "accept": [
         "call for"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "5",
-      "stem": "더욱더 많은",
+      "stem": "~을 요청하다",
       "wordBank": [
         "as part of",
         "call for",
@@ -161,14 +161,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~에 대해 걱정하다",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~을 치우다",
       "accept": [
         "clean up"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "6",
-      "stem": "~에 대해 걱정하다",
+      "stem": "~을 치우다",
       "wordBank": [
         "as part of",
         "call for",
@@ -205,14 +205,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 평균적으로",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 현장 학습",
       "accept": [
         "field trip"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "8",
-      "stem": "평균적으로",
+      "stem": "현장 학습",
       "wordBank": [
         "as part of",
         "call for",
@@ -227,14 +227,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~로 이루어져 있다",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 수신자 부담의[무료의]",
       "accept": [
         "toll-free"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "9",
-      "stem": "~로 이루어져 있다",
+      "stem": "수신자 부담의[무료의]",
       "wordBank": [
         "as part of",
         "call for",

@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): Tomorrow is their 40th wedding",
+      "prompt": "Words and Idioms Check-Up (b): Tomorrow is their 40th wedding ______",
       "choices": {
         "A": "anniversary",
         "B": "enjoy",
@@ -35,7 +35,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "Tomorrow is their 40th wedding"
+      "stem": "Tomorrow is their 40th wedding ______"
     },
     {
       "type": "choice",

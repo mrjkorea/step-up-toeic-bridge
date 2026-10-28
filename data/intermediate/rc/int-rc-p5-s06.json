@@ -69,14 +69,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 성적표",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 늦어도 ~까지",
       "accept": [
         "no later than"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1",
-      "stem": "성적표",
+      "stem": "늦어도 ~까지",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -113,14 +113,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 관심 분야",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 예약하다",
       "accept": [
         "make a reservation"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "3",
-      "stem": "관심 분야",
+      "stem": "예약하다",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -135,14 +135,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 이료 기록",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 요즘에",
       "accept": [
         "in these days"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "4",
-      "stem": "이료 기록",
+      "stem": "요즘에",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -157,14 +157,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 앓다",
       "accept": [
         "suffer from"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "5",
-      "stem": "~에 지원하다",
+      "stem": "~을 앓다",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -201,14 +201,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 손을 씻다",
       "accept": [
         "wash one's hands"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "7",
-      "stem": "작성하다",
+      "stem": "손을 씻다",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -223,14 +223,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식          -",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 항상",
       "accept": [
         "at all times"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "8",
-      "stem": "등록양식          -",
+      "stem": "항상",
       "wordBank": [
         "at all times",
         "be invited to",
@@ -245,14 +245,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 시행되다",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하는 것을 환영하다",
       "accept": [
         "be welcome to"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "9",
-      "stem": "시행되다",
+      "stem": "~하는 것을 환영하다",
       "wordBank": [
         "at all times",
         "be invited to",

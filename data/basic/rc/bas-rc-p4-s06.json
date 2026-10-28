@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): I would like to have",
+      "prompt": "Words and Idioms Check-Up 2-(a): I would like to have ______",
       "choices": {
         "A": "baked",
         "B": "drink",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "stem": "I would like to have"
+      "stem": "I would like to have ______"
     },
     {
       "type": "choice",

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): The food which my mother cooks is always",
+      "prompt": "Words and Idioms Check-Up (a): The food which my mother cooks is always ______",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "The food which my mother cooks is always"
+      "stem": "The food which my mother cooks is always ______"
     },
     {
       "type": "choice",

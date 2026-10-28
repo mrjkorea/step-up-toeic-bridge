@@ -73,14 +73,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~ 을 찾다",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~을 찾다",
       "accept": [
         "search for"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "2",
-      "stem": "~ 을 찾다",
+      "stem": "~을 찾다",
       "wordBank": [
         "abundant knowledge",
         "all the time",

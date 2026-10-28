@@ -31,14 +31,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 집에서",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 서명[신청]하다",
       "accept": [
         "sign up"
       ],
       "section": "Warm-Up",
       "id": "q2",
       "label": "2",
-      "stem": "집에서",
+      "stem": "서명[신청]하다",
       "wordBank": [
         "as long as",
         "at one time",
@@ -53,14 +53,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 학원에서",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 특별 가격",
       "accept": [
         "special price"
       ],
       "section": "Warm-Up",
       "id": "q3",
       "label": "3",
-      "stem": "학원에서",
+      "stem": "특별 가격",
       "wordBank": [
         "as long as",
         "at one time",
@@ -75,14 +75,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 컴퓨터를 통해서",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 무료 배송",
       "accept": [
         "free shipping"
       ],
       "section": "Warm-Up",
       "id": "q4",
       "label": "4",
-      "stem": "컴퓨터를 통해서",
+      "stem": "무료 배송",
       "wordBank": [
         "as long as",
         "at one time",
@@ -97,14 +97,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 사용 설명",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 영업일",
       "accept": [
         "business day"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "5",
-      "stem": "사용 설명",
+      "stem": "영업일",
       "wordBank": [
         "as long as",
         "at one time",
@@ -163,14 +163,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~하도록 요청받다",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 한 번에",
       "accept": [
         "at one time"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "8",
-      "stem": "~하도록 요청받다",
+      "stem": "한 번에",
       "wordBank": [
         "as long as",
         "at one time",

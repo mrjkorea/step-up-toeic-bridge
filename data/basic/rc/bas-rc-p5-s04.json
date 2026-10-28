@@ -91,14 +91,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 일기예보",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 클럽에 온 것을 환영해",
       "accept": [
         "Welcome to our club"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "2",
-      "stem": "일기예보",
+      "stem": "클럽에 온 것을 환영해",
       "wordBank": [
         "ASAP",
         "Call me",
@@ -113,14 +113,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 물품의 숫자",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 파티를 열다",
       "accept": [
         "Have a party"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "3",
-      "stem": "물품의 숫자",
+      "stem": "파티를 열다",
       "wordBank": [
         "ASAP",
         "Call me",
@@ -135,14 +135,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 말하기 대회",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 비키에게",
       "accept": [
         "Dear Vicky"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "4",
-      "stem": "말하기 대회",
+      "stem": "비키에게",
       "wordBank": [
         "ASAP",
         "Call me",
@@ -201,14 +201,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 학생의 숫자",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 주간 미팅",
       "accept": [
         "Weekly meeting"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "7",
-      "stem": "학생의 숫자",
+      "stem": "주간 미팅",
       "wordBank": [
         "ASAP",
         "Call me",
@@ -223,14 +223,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 교실 게시판",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 와서 축하해",
       "accept": [
         "Come and celebrate"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "8",
-      "stem": "교실 게시판",
+      "stem": "와서 축하해",
       "wordBank": [
         "ASAP",
         "Call me",
@@ -245,14 +245,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 원래 가격",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 나에게 연락해",
       "accept": [
         "Call me"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "9",
-      "stem": "원래 가격",
+      "stem": "나에게 연락해",
       "wordBank": [
         "ASAP",
         "Call me",

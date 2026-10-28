@@ -141,14 +141,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 이료 기록",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 의료 기록",
       "accept": [
         "medical history"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "4",
-      "stem": "이료 기록",
+      "stem": "의료 기록",
       "wordBank": [
         "apply for",
         "as a result of",
@@ -237,14 +237,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식          -",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식",
       "accept": [
         "registration form"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "8",
-      "stem": "등록양식          -",
+      "stem": "등록양식",
       "wordBank": [
         "apply for",
         "as a result of",

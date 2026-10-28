@@ -201,7 +201,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Grammar Practice 1: Choose the set of participles that fits blanks (a)-(d).",
+      "prompt": "Grammar Practice 1: Choose the set of participles that fits blanks (a)-(d).\n(a) It's ______ to listen to a fairy tale.\n(b) We are all ______ in old historical sites.\n(c) Isn't it ______ to meet him there?\n(d) I was really ______ to see him walking toward me.",
       "choices": {
         "A": "(1) interesting - interested - surprising - surprised",
         "B": "(2) interested - interesting - surprising - surprised",
@@ -211,7 +211,8 @@
       "accept": "A",
       "section": "Grammar Practice",
       "id": "q17",
-      "label": "1"
+      "label": "1",
+      "stem": "(a) It's ______ to listen to a fairy tale.\n(b) We are all ______ in old historical sites.\n(c) Isn't it ______ to meet him there?\n(d) I was really ______ to see him walking toward me."
     },
     {
       "type": "choice",
