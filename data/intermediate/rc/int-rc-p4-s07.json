@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I cut my finger and it’s ______ now.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -19,11 +19,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I cut my finger and it’s ______ now."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): I have a ______ nose. I think Iam coming down with a cold.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -33,11 +33,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I have a ______ nose. I think Iam coming down with a cold."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): I have a ______ neck. I think I overworked last night.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -47,127 +47,117 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q4",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I have a ______ neck. I think I overworked last night."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): bleeding ______ swollen ______ burnt ______ needle",
       "accept": [
         "needle"
       ],
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "bleeding ______ swollen ______ burnt ______ needle"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): headache ______ medicine ______ backache ______ toothache",
       "accept": [
         "medicine"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "headache ______ medicine ______ backache ______ toothache"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): cut ______ bleed ______ overwork ______ sneeze",
       "accept": [
         "overwork"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "cut ______ bleed ______ overwork ______ sneeze"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "prompt": "Vocabulary Practice 2-(a): take ______  ______  consciousness",
       "accept": [
         "take"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "take ______  ______  consciousness"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): lose ______  ______  an operation",
       "accept": [
         "lose one's temperature: XCH consciousness:"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "lose ______  ______  an operation"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "prompt": "Vocabulary Practice 2-(c): comedown  ______  one ’s temperature ______",
       "accept": [
         "come down with"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "comedown  ______  one ’s temperature ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): type the answer.",
+      "prompt": "Vocabulary Practice 2-(d): have ______  ______  with ______",
       "accept": [
         "have an operation:"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "have ______  ______  with ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): My tooth hurts. I have a ______.",
       "accept": [
         "toothache"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My tooth hurts. I have a ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): My head hurts. I have a ______",
       "accept": [
         "headache"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My head hurts. I have a ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): I can ’t sleep. I have ______.",
       "accept": [
         "insomnia"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I can ’t sleep. I have ______."
     },
     {
       "id": "q15",

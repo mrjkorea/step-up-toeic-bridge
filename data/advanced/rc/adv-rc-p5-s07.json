@@ -1,261 +1,364 @@
 {
- "practiceId": "adv-rc-p5-s07",
- "title": "Part V · Section 07",
- "subtitle": "Forms",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "agree",
-    "B": "contact",
-    "C": "process"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "agree",
-    "B": "contact",
-    "C": "process"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "agree",
-    "B": "contact",
-    "C": "process"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "expiry date"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "search for"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "library card"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "all the time"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "subject matter"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "overall rating"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "abundant knowledge"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "company size"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "as soon as"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following activities is scheduled?",
-   "choices": {
-    "A": "A test",
-    "B": "A class trip"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does Jenny need?",
-   "choices": {
-    "A": "Friday’s lab results",
-    "B": "Notes from history class"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is the purpose of this form?",
-   "choices": {
-    "A": "To apply for a library card",
-    "B": "To search for a staff"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which of the following is not asked to fill in by the applicant?",
-   "choices": {
-    "A": "Information about the applicant",
-    "B": "The expiry date of card being issued"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "2"
-  },
-  {
-   "id": "q17",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Pay for the membership",
-    "B": "Write comments",
-    "C": "Create a login password",
-    "D": "Send it by e-mail"
-   },
-   "prompt": "What should the applicant do after completing the form?",
-   "accept": "D",
-   "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
-   "passageHead": "Questions 1-2 refer to the following form."
-  },
-  {
-   "id": "q18",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Manager",
-    "B": "Applicant",
-    "C": "Employee",
-    "D": "Employer"
-   },
-   "prompt": "Who will receive the completed form?",
-   "accept": "A",
-   "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
-   "passageHead": "Questions 1-2 refer to the following form."
-  },
-  {
-   "id": "q19",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To evaluate the student's grade",
-    "B": "To evaluate the lecturer's performance",
-    "C": "To suggest some ideas about the class",
-    "D": "To explain class regulations"
-   },
-   "prompt": "What is the purpose of this form?",
-   "accept": "B",
-   "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
-   "passageHead": "Questions 3-4 refer to the following form."
-  },
-  {
-   "id": "q20",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Dr. Douglas taught in this class.",
-    "B": "It is designed to receive feedback from class students.",
-    "C": "The subject of this class was on e-learning.",
-    "D": "The class began in fall semester last year."
-   },
-   "prompt": "Which of the following is NOT true?",
-   "accept": "D",
-   "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
-   "passageHead": "Questions 3-4 refer to the following form."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s07",
+  "title": "Part V · Section 07",
+  "subtitle": "Forms",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): You should ______ the manager if you want to get more",
+      "choices": {
+        "A": "agree",
+        "B": "contact",
+        "C": "process"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "You should ______ the manager if you want to get more"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "agree",
+        "B": "contact",
+        "C": "process"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): I can ’t ______ to follow the rules anymore.",
+      "choices": {
+        "A": "agree",
+        "B": "contact",
+        "C": "process"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "stem": "I can ’t ______ to follow the rules anymore."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 만료 일자",
+      "accept": [
+        "expiry date"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "만료 일자",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~ 을 찾다",
+      "accept": [
+        "search for"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "~ 을 찾다",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 도서관 카드",
+      "accept": [
+        "library card"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "도서관 카드",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 항상",
+      "accept": [
+        "all the time"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "항상",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 주제",
+      "accept": [
+        "subject matter"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "주제",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 전반적인 평가",
+      "accept": [
+        "overall rating"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "전반적인 평가",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 풍부한 지식",
+      "accept": [
+        "abundant knowledge"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "풍부한 지식",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 회사 규모",
+      "accept": [
+        "company size"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "회사 규모",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하자마자",
+      "accept": [
+        "as soon as"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "9",
+      "stem": "~하자마자",
+      "wordBank": [
+        "abundant knowledge",
+        "all the time",
+        "as soon as",
+        "company size",
+        "expiry date",
+        "library card",
+        "overall rating",
+        "search for",
+        "subject matter"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following activities is scheduled?",
+      "choices": {
+        "A": "A test",
+        "B": "A class trip"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "1",
+      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! / ^ 12:00 ______ Lunch with Jenny. Bring history / notes from last week. / ^ ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club / ^ ______ 5:00 ______ Piano lesson / s house"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jenny need?",
+      "choices": {
+        "A": "Friday’s lab results",
+        "B": "Notes from history class"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "2",
+      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! / ^ 12:00 ______ Lunch with Jenny. Bring history / notes from last week. / ^ ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club / ^ ______ 5:00 ______ Piano lesson / s house"
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the purpose of this form?",
+      "choices": {
+        "A": "To apply for a library card",
+        "B": "To search for a staff"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "1",
+      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thankyou. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which of the following is not asked to fill in by the applicant?",
+      "choices": {
+        "A": "Information about the applicant",
+        "B": "The expiry date of card being issued"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "2",
+      "passage": "FAST BOOK Library Access Card / Application Form / Please complete in BLOCK CAPITALS. Thankyou. / Surname /Family name ______ : ______ / First Name ( s ) ______ / Department / Grade ______ / Type of user (staff, researcher or major ) ______ / I agree to keep the rules and regulations of all the / libraries I apply for and /or use. / Signature ______ Date ______ / Authorization : to be completed by library staff / Library staff name ______ / Library staff signature ______ Date ______ / FAST BOOK Library Access card expiry date"
+    },
+    {
+      "id": "q17",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Pay for the membership",
+        "B": "Write comments",
+        "C": "Create a login password",
+        "D": "Send it by e-mail"
+      },
+      "prompt": "What should the applicant do after completing the form?",
+      "accept": "D",
+      "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
+      "passageHead": "Questions 1-2 refer to the following form."
+    },
+    {
+      "id": "q18",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Manager",
+        "B": "Applicant",
+        "C": "Employee",
+        "D": "Employer"
+      },
+      "prompt": "Who will receive the completed form?",
+      "accept": "A",
+      "passage": "Free Trial Request Form / In order to process your request for a free-30-day trial of the / Customer Feedback Center, please complete the form below. / Our Manager will contact you upon receiving your completed / form. We promise to provide the best all the time. / Step 1",
+      "passageHead": "Questions 1-2 refer to the following form."
+    },
+    {
+      "id": "q19",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To evaluate the student's grade",
+        "B": "To evaluate the lecturer's performance",
+        "C": "To suggest some ideas about the class",
+        "D": "To explain class regulations"
+      },
+      "prompt": "What is the purpose of this form?",
+      "accept": "B",
+      "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
+      "passageHead": "Questions 3-4 refer to the following form."
+    },
+    {
+      "id": "q20",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Dr. Douglas taught in this class.",
+        "B": "It is designed to receive feedback from class students.",
+        "C": "The subject of this class was on e-learning.",
+        "D": "The class began in fall semester last year."
+      },
+      "prompt": "Which of the following is NOT true?",
+      "accept": "D",
+      "passage": "St. Peter College Student's Evaluation / Class: Perception of e-learning / Lecturer : Dr. Brown B. Douglas / Semester: Spring, 2007 / Instructor Performance / MarkeachquestionwithVmark. / 1. Abundant knowledge of the subject matter / Poor | Fair | Good | Excellent / 2. Ability in explain ing subject matter / Poor | Fair | Good | Excellent",
+      "passageHead": "Questions 3-4 refer to the following form."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

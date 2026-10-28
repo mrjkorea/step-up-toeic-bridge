@@ -259,6 +259,7 @@
     if (/page-/i.test(s) || /rc-pages/i.test(s)) return false;
     if (/^[^/]+\/at\/q\d+\.png$/i.test(s)) return true;
     if (/^[^/]+\/p1-s\d\d\/q0[1-6]\.png$/i.test(s)) return true;
+    if (/^[^/]+\/p1-s\d\d\/(wu1|wu2|lp1|lp2)\.jpe?g$/i.test(s)) return true;
     return false;
   }
 

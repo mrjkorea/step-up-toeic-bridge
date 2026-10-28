@@ -22,7 +22,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): A : It’stood ark inside. Could you please ______ the light?",
       "choices": {
         "A": "pick up",
         "B": "turn on"
@@ -31,183 +31,183 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "A : It’stood ark inside. Could you please ______ the light?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): correct the wrong word.",
+      "prompt": "Warm-Up 3-(a): correct the wrong word — He works very hardly.",
       "accept": [
         "hard"
       ],
       "section": "Warm-Up",
       "id": "q3",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He works very hardly."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Correct the wrong word.",
+      "prompt": "Warm-Up 3-(c): Correct the wrong word — This watch is very expensively.",
       "accept": [
         "expensive"
       ],
       "section": "Warm-Up",
       "id": "q4",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This watch is very expensively."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): correct the wrong word.",
+      "prompt": "Warm-Up 3-(d): correct the wrong word — Tomis often lately for school.",
       "accept": [
         "late"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Tomis often lately for school."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): I will study very hard.",
       "accept": [
         "I will study very hard."
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I will study very hard."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): type the answer.",
+      "prompt": "Warm-Up 1-(b): The math exam was very difficult.",
       "accept": [
         "The math exam was very difficult."
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The math exam was very difficult."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): type the answer.",
+      "prompt": "Warm-Up 1-(c): Happily, he passed the exam.",
       "accept": [
         "Happily, he passed the exam."
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Happily, he passed the exam."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): type the answer.",
+      "prompt": "Warm-Up 1-(d): She ran out of the room very quickly.",
       "accept": [
         "She ran out of the room very quickly."
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "1-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She ran out of the room very quickly."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): type the answer.",
+      "prompt": "Warm-Up 2-(a): I visited his house (exact / exactly) at 5 p.m.",
       "accept": [
         "exactly"
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I visited his house (exact / exactly) at 5 p.m."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): She looks very (beautiful / beautifully) in her dress.",
       "accept": [
         "beautiful"
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She looks very (beautiful / beautifully) in her dress."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): type the answer.",
+      "prompt": "Warm-Up 2-(c): Your question is very (easy / easily).",
       "accept": [
         "easy"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Your question is very (easy / easily)."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): type the answer.",
+      "prompt": "Warm-Up 2-(d): All the boys can play tennis (good / well).",
       "accept": [
         "well"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "All the boys can play tennis (good / well)."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): correct or complete it.",
+      "prompt": "Warm-Up 3-(b): correct or complete it — She runs very fast ly.",
       "accept": [
         "fast"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She runs very fast ly."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): type the answer.",
+      "prompt": "Warm-Up 4-(a): He is sad. (always)",
       "accept": [
         "He is always sad."
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He is sad. (always)"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): He watches TV after dinner, (sometimes)",
       "accept": [
         "He sometimes watches TV after dinner."
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He watches TV after dinner, (sometimes)"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): type the answer.",
+      "prompt": "Warm-Up 4-(c): He can read an English newspaper, (hardly)",
       "accept": [
         "He can hardly read an English newspaper."
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He can read an English newspaper, (hardly)"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): type the answer.",
+      "prompt": "Warm-Up 4-(d): He rides a bike to the mart, (often)",
       "accept": [
         "He often rides a bike to the mart."
       ],
       "section": "Warm-Up",
       "id": "q18",
       "label": "4-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He rides a bike to the mart, (often)"
     },
     {
       "type": "text",
@@ -218,7 +218,8 @@
       "section": "Grammar Practice",
       "id": "q19",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "나는 다음 주 수요일에 친구들과 그 영화관에 갈 것이다.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
@@ -232,14 +233,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): type the answer.",
+      "prompt": "Grammar Practice 1-(a): fast ______ — ______",
       "accept": [
         "fast"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "fast ______ — ______"
     },
     {
       "type": "text",
@@ -254,36 +255,36 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): type the answer.",
+      "prompt": "Grammar Practice 1-(c): happy — ______",
       "accept": [
         "happily"
       ],
       "section": "Grammar Practice",
       "id": "q23",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "happy — ______"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): type the answer.",
+      "prompt": "Grammar Practice 1-(d): sad ______ — ______",
       "accept": [
         "sadly"
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "1-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "sad ______ — ______"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(e): type the answer.",
+      "prompt": "Grammar Practice 1-(e): quick — ______",
       "accept": [
         "quickly"
       ],
       "section": "Grammar Practice",
       "id": "q25",
       "label": "1-(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "quick — ______"
     },
     {
       "type": "text",
@@ -320,47 +321,47 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): type the answer.",
+      "prompt": "Grammar Practice 2-(a): He sings very well.",
       "accept": [
         "He is a good singer."
       ],
       "section": "Grammar Practice",
       "id": "q29",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He sings very well."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): type the answer.",
+      "prompt": "Grammar Practice 2-(b): She runs very fast.",
       "accept": [
         "She is a fast runner."
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She runs very fast."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): type the answer.",
+      "prompt": "Grammar Practice 2-(c): The girl plays beautifully.",
       "accept": [
         "The girl is a beautiful player."
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The girl plays beautifully."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): type the answer.",
+      "prompt": "Grammar Practice 2-(d): He drives carefully.",
       "accept": [
         "He is a careful driver."
       ],
       "section": "Grammar Practice",
       "id": "q32",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He drives carefully."
     },
     {
       "type": "text",
@@ -371,7 +372,8 @@
       "section": "Grammar Practice",
       "id": "q33",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "이 컴퓨터는 나에게는 너무 비싸다.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "id": "q34",

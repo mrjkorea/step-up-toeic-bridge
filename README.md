@@ -61,6 +61,7 @@ Students only see **tight picture crops**, not workbook page scans:
 
 - LC Actual Test: `assets/photos/<level>/at/q01.png` … `q15.png`
 - Part I Test Your Skills: `assets/photos/<level>/p1-sNN/q01.png` … `q06.png`
+- Part I section picture grids (when present): `p1-sNN/wu1.jpg`, `wu2.jpg`, `lp1.jpg`, `lp2.jpg` — tight crops only, never `page-NNN`
 
 Full book pages (`page-NNN.jpg`, `bookPages`, `pageImage`, `passageImage`, `passagePage`) are **forbidden** in the student UI and in publish checks. RC reading uses `passage` text in JSON.
 

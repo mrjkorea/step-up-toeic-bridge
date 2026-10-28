@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): If you want to ______ in life, do your best all the time.",
       "choices": {
         "A": "carry",
         "B": "do the dishes",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "If you want to ______ in life, do your best all the time."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): He must always ______ the old black bag with him.",
       "choices": {
         "A": "carry",
         "B": "do the dishes",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He must always ______ the old black bag with him."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Can you speak any ______ languages?",
       "choices": {
         "A": "carry",
         "B": "do the dishes",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Can you speak any ______ languages?"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Do you ______ after meal?",
       "choices": {
         "A": "carry",
         "B": "do the dishes",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Do you ______ after meal?"
     },
     {
       "type": "choice",
@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): rewrite the sentence as shown in the book.",
+      "prompt": "Warm-Up 2-(c): rewrite the sentence — Jane can speak Korean.",
       "accept": [
         "Jane cannot speak Korea.",
         "Jane can not speak Korea.",
@@ -93,11 +93,11 @@
       "section": "Warm-Up",
       "id": "q6",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Jane can speak Korean."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): rewrite the sentence as shown in the book.",
+      "prompt": "Warm-Up 2-(d): rewrite the sentence.",
       "accept": [
         "Sam will not go to see his aunt tomorrow.",
         "Sam won't go to see his aunt tomorrow."
@@ -111,11 +111,11 @@
       "type": "display",
       "displayOnly": true,
       "scored": false,
-      "prompt": "Warm-Up 3-(a): Can you solve the problem? Translate into Korean. Not scored.",
+      "prompt": "Warm-Up 3-(a): Can you solve the problem? Translate into Korean. Not scored — Can you solve the problem?",
       "section": "Warm-Up",
       "id": "q8",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Can you solve the problem?"
     },
     {
       "type": "display",
@@ -146,80 +146,80 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): type the answer.",
+      "prompt": "Warm-Up 2-(a): Gary can read Japanese novels.",
       "accept": [
         "Can Gary read Japanese novels?"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Gary can read Japanese novels."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): Candy will use my comp",
       "accept": [
         "Will Candy use my computer tomorrow?"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Candy will use my comp"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): type the answer.",
+      "prompt": "Warm-Up 4-(a): He teaches me.",
       "accept": [
         "He will teach me."
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He teaches me."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): type the answer.",
+      "prompt": "Warm-Up 4-(b): We will meet him at the mart early in the morning.",
       "accept": [
         "We will not meet him at the mart early in the morning."
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "4-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "We will meet him at the mart early in the morning."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): type the answer.",
+      "prompt": "Warm-Up 4-(c): You are in a hurry.",
       "accept": [
         "Will you be in a hurry?"
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "You are in a hurry."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): type the answer.",
+      "prompt": "Warm-Up 4-(d): She will bring her younger sister here.",
       "accept": [
         "Will she bring her younger sister here?"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She will bring her younger sister here."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(a): Correct the wrong part — He wills come here to meet her.",
       "accept": [
         "will"
       ],
       "section": "Grammar Practice",
       "id": "q18",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He wills come here to meet her."
     },
     {
       "type": "text",

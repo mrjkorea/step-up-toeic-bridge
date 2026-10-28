@@ -1,279 +1,360 @@
 {
- "practiceId": "bas-rc-p5-s04",
- "title": "Part V · Section 04",
- "subtitle": "Letters & email",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "asking for",
-    "B": "canceled",
-    "C": "inform",
-    "D": "welcome"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "asking for",
-    "B": "canceled",
-    "C": "inform",
-    "D": "welcome"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "asking for",
-    "B": "canceled",
-    "C": "inform",
-    "D": "welcome"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "asking for",
-    "B": "canceled",
-    "C": "inform",
-    "D": "welcome"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "On June 16"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Welcome to our club"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Have a party"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "Dear Vicky"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "ASAP"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "Next Sunday"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Weekly meeting"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Come and celebrate"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "Call me"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "For what was this letter written?",
-   "choices": {
-    "A": "To inform a meeting",
-    "B": "To cancel a meeting"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who will read this letter?",
-   "choices": {
-    "A": "Gary",
-    "B": "John"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is the purpose of this e-mail?",
-   "choices": {
-    "A": "To ask for help",
-    "B": "To give help"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "When does Kali want John to call?",
-   "choices": {
-    "A": "As soon as possible",
-    "B": "When he finishes with his homework"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "A letter of invitation",
-    "B": "A letter of thanks",
-    "C": "A letter of complaint",
-    "D": "A letter of application"
-   },
-   "prompt": "What kind of letter is this?",
-   "accept": "A",
-   "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
-   "passageHead": "Questions 1-2 refer to the following letter."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Bob's birthday",
-    "B": "Jack's birthday",
-    "C": "Bob's housewarming party",
-    "D": "Jack's housewarming party"
-   },
-   "prompt": "For what event is this letter written?",
-   "accept": "A",
-   "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
-   "passageHead": "Questions 1-2 refer to the following letter."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To order a blouse",
-    "B": "To thank an on-line customer",
-    "C": "To check the customer's address",
-    "D": "To refund"
-   },
-   "prompt": "What is the purpose of this email?",
-   "accept": "B",
-   "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
-   "passageHead": "Questions 3-4 refer to the following e-mail."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "By the end of this year",
-    "B": "By the end of this week",
-    "C": "By the end of this month",
-    "D": "By the end of the day"
-   },
-   "prompt": "When does Ms. Kim receive the item?",
-   "accept": "B",
-   "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
-   "passageHead": "Questions 3-4 refer to the following e-mail."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s04",
+  "title": "Part V · Section 04",
+  "subtitle": "Letters & email",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): What’s the weather ______ for Monday?",
+      "choices": {
+        "A": "asking for",
+        "B": "canceled",
+        "C": "inform",
+        "D": "welcome"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "What’s the weather ______ for Monday?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): She won the singing ______.",
+      "choices": {
+        "A": "asking for",
+        "B": "canceled",
+        "C": "inform",
+        "D": "welcome"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "She won the singing ______."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): You are always ______ my house.",
+      "choices": {
+        "A": "asking for",
+        "B": "canceled",
+        "C": "inform",
+        "D": "welcome"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "You are always ______ my house."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): They are ______ some water.",
+      "choices": {
+        "A": "asking for",
+        "B": "canceled",
+        "C": "inform",
+        "D": "welcome"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "They are ______ some water."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-: type the answer.",
+      "accept": [
+        "On June 16"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 일기예보",
+      "accept": [
+        "Welcome to our club"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "일기예보",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 물품의 숫자",
+      "accept": [
+        "Have a party"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "물품의 숫자",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 말하기 대회",
+      "accept": [
+        "Dear Vicky"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "말하기 대회",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 가능한 빨리",
+      "accept": [
+        "ASAP"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "가능한 빨리",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "Next Sunday"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 학생의 숫자",
+      "accept": [
+        "Weekly meeting"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "학생의 숫자",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 교실 게시판",
+      "accept": [
+        "Come and celebrate"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "교실 게시판",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 원래 가격",
+      "accept": [
+        "Call me"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "원래 가격",
+      "wordBank": [
+        "ASAP",
+        "Call me",
+        "Come and celebrate",
+        "Dear Vicky",
+        "Have a party",
+        "Next Sunday",
+        "On June 16",
+        "Weekly meeting",
+        "Welcome to our club"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "For what was this letter written?",
+      "choices": {
+        "A": "To inform a meeting",
+        "B": "To cancel a meeting"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Welcome to our FFF CLUB! / Make sura you be a tour cl / 5ince rely, / Gary ______......................................................... / FFF Club"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who will read this letter?",
+      "choices": {
+        "A": "Gary",
+        "B": "John"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Welcome to our FFF CLUB! / Make sura you be a tour cl / 5ince rely, / Gary ______......................................................... / FFF Club"
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the purpose of this e-mail?",
+      "choices": {
+        "A": "To ask for help",
+        "B": "To give help"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can’t finish it myself. / Please call me ASAP. / Thanks. / Kali"
+    },
+    {
+      "type": "choice",
+      "prompt": "When does Kali want John to call?",
+      "choices": {
+        "A": "As soon as possible",
+        "B": "When he finishes with his homework"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can’t finish it myself. / Please call me ASAP. / Thanks. / Kali"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "A letter of invitation",
+        "B": "A letter of thanks",
+        "C": "A letter of complaint",
+        "D": "A letter of application"
+      },
+      "prompt": "What kind of letter is this?",
+      "accept": "A",
+      "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
+      "passageHead": "Questions 1-2 refer to the following letter."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Bob's birthday",
+        "B": "Jack's birthday",
+        "C": "Bob's housewarming party",
+        "D": "Jack's housewarming party"
+      },
+      "prompt": "For what event is this letter written?",
+      "accept": "A",
+      "passage": "Dear Jack, / My birthday is conning soon! / I would like you to come and celebrate it! / Its on May 1st. / I will have a party in my house. / Hope to see you there at 7 p.m. / Thanks. / Bob / 1 What kind of letter is this ? / (A) A letter of invitation / (B) A letter of thanks / (C) A letter of complaint / (D) A letter of application / 2. For what event is this letter written? / (A) Bob's birthday / (B) Jack's birthday / (C) Bob's housewarming party / (D) Jack's housewarming party",
+      "passageHead": "Questions 1-2 refer to the following letter."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To order a blouse",
+        "B": "To thank an on-line customer",
+        "C": "To check the customer's address",
+        "D": "To refund"
+      },
+      "prompt": "What is the purpose of this email?",
+      "accept": "B",
+      "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
+      "passageHead": "Questions 3-4 refer to the following e-mail."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "By the end of this year",
+        "B": "By the end of this week",
+        "C": "By the end of this month",
+        "D": "By the end of the day"
+      },
+      "prompt": "When does Ms. Kim receive the item?",
+      "accept": "B",
+      "passage": "Vincent Perry <v.perry@ ihs.com > / Margaret Kim < m argaret@ home.com > / Thank you for your order / May 4 / Dear Ms. Kim / Thank you for using our Internet Home Shopping. / We will deliver your order item, am id-size blouse, / right away. You will surely receive it by the end of / this week, 17th. / Again thankyouverymuch. / Sincerely, / Vincent / Sales Manager",
+      "passageHead": "Questions 3-4 refer to the following e-mail."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

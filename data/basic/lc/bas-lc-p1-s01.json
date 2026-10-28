@@ -135,7 +135,7 @@
       "accept": "A",
       "audioOnly": true,
       "section": "Warm-Up",
-      "blocked": "needs Warm-Up picture crop (only page scan exists)"
+      "photo": "basic/p1-s01/wu1.jpg"
     },
     {
       "id": "q12",
@@ -149,7 +149,7 @@
       "accept": "A",
       "audioOnly": true,
       "section": "Warm-Up",
-      "blocked": "needs Warm-Up picture crop (only page scan exists)"
+      "photo": "basic/p1-s01/wu2.jpg"
     },
     {
       "type": "choice",
@@ -172,7 +172,7 @@
       "id": "q13",
       "label": "1",
       "stem": "The boy is drinking water.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -195,7 +195,7 @@
       "id": "q14",
       "label": "2",
       "stem": "The girl is eating a sandwich.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -218,7 +218,7 @@
       "id": "q15",
       "label": "3",
       "stem": "The boy is swimming.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -241,7 +241,7 @@
       "id": "q16",
       "label": "4",
       "stem": "The boy is fishing.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -264,7 +264,7 @@
       "id": "q17",
       "label": "5",
       "stem": "The girl is hopping.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -287,7 +287,7 @@
       "id": "q18",
       "label": "6",
       "stem": "The girl is bicycling.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -310,7 +310,7 @@
       "id": "q19",
       "label": "7",
       "stem": "The boy is flying a kite.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -333,7 +333,7 @@
       "id": "q20",
       "label": "8",
       "stem": "The boy is reading a book.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -356,7 +356,7 @@
       "id": "q21",
       "label": "9",
       "stem": "The boy is throwing a ball.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -379,7 +379,7 @@
       "id": "q22",
       "label": "10",
       "stem": "The boy is running.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp1.jpg"
     },
     {
       "type": "choice",
@@ -398,7 +398,7 @@
       "id": "q23",
       "label": "1",
       "stem": "The man is standing in front of the board.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -417,7 +417,7 @@
       "id": "q24",
       "label": "2",
       "stem": "The girl is wearing a skirt.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -436,7 +436,7 @@
       "id": "q25",
       "label": "3",
       "stem": "The girl is sitting on the chair.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -455,7 +455,7 @@
       "id": "q26",
       "label": "4",
       "stem": "The girl is wearing glasses.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -474,7 +474,7 @@
       "id": "q27",
       "label": "5",
       "stem": "The boy is holding a book.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "type": "choice",
@@ -493,7 +493,7 @@
       "id": "q28",
       "label": "6",
       "stem": "The boy is sleeping at the desk.",
-      "blocked": "needs illustration crop (letters a–j refer to page art)"
+      "photo": "basic/p1-s01/lp2.jpg"
     },
     {
       "id": "q29",

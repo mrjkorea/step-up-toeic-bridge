@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): The ______ is bad today.",
       "choices": {
         "A": "finish",
         "B": "traffic"
@@ -19,11 +19,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The ______ is bad today."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): This ______ is fresh.",
       "choices": {
         "A": "finish",
         "B": "traffic"
@@ -32,7 +32,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "This ______ is fresh."
     },
     {
       "id": "q3",

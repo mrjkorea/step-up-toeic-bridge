@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1: I sent flowers Mary for ______.",
       "choices": {
         "A": "a special sale",
         "B": "her birthday",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I sent flowers Mary for ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2: Running shoes are on ______ today.",
       "choices": {
         "A": "a special sale",
         "B": "her birthday",
@@ -34,7 +34,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Running shoes are on ______ today."
     },
     {
       "type": "choice",
@@ -435,8 +435,7 @@
       },
       "prompt": "What is happening in the bookstore today?",
       "accept": "C",
-      "section": "Test Your Skills",
-      "blocked": "stem text not yet transcribed from PDF"
+      "section": "Test Your Skills"
     },
     {
       "id": "q34",

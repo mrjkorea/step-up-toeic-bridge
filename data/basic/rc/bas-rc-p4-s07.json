@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(b): I usually study at the school ______",
       "choices": {
         "A": "auditorium",
         "B": "borrow",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I usually study at the school ______"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): She didn ’t ______ the book from me.",
       "choices": {
         "A": "auditorium",
         "B": "borrow",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She didn ’t ______ the book from me."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(b): I have something to ______.",
       "choices": {
         "A": "auditorium",
         "B": "borrow",
@@ -65,72 +65,62 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q5",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I have something to ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): chair ______ desk ______ nurse ’s office",
       "accept": [
         "nurse's office"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "chair ______ desk ______ nurse ’s office"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): auditorium ______ librarian ______ lang",
       "accept": [
         "librarian"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "auditorium ______ librarian ______ lang"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): dictionary ______ encyclopedia ______ cafeteria",
       "accept": [
         "cafeteria"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "dictionary ______ encyclopedia ______ cafeteria"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "prompt": "Vocabulary Practice 2-(a): If you have any questions, please ______ me.",
       "accept": [
         "ask"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "If you have any questions, please ______ me."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): Students are ______ the classroom.",
       "accept": [
         "cleaning"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Students are ______ the classroom."
     },
     {
       "type": "text",
@@ -145,18 +135,18 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): Can I ______ your pen? I didn ’t bring mine.",
       "accept": [
         "borrow"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Can I ______ your pen? I didn ’t bring mine."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): It’s important. Please ______ it ______.",
       "accept": [
         "take",
         "down"
@@ -164,11 +154,11 @@
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It’s important. Please ______ it ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): type the answer.",
+      "prompt": "Vocabulary Practice 3-(c): Let’s get started. ______ your books.",
       "accept": [
         "Take",
         "out"
@@ -176,7 +166,7 @@
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Let’s get started. ______ your books."
     },
     {
       "id": "q15",

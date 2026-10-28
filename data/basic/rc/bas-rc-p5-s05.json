@@ -1,279 +1,360 @@
 {
- "practiceId": "bas-rc-p5-s05",
- "title": "Part V · Section 05",
- "subtitle": "Charts",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "care",
-    "B": "contest",
-    "C": "forecast",
-    "D": "show"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "care",
-    "B": "contest",
-    "C": "forecast",
-    "D": "show"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "care",
-    "B": "contest",
-    "C": "forecast",
-    "D": "show"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "care",
-    "B": "contest",
-    "C": "forecast",
-    "D": "show"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "DC"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Weather forecast"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Number of item"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "Speech contest"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "Favorite subject"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "Jane's schedule"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Number of students"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Classroom board"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "Original price"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who keeps this kind of table?",
-   "choices": {
-    "A": "Clothing store manager",
-    "B": "Restaurant manager"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Which item has been sold out most throughout the year?",
-   "choices": {
-    "A": "Jacket",
-    "B": "Coat"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does this chart show?",
-   "choices": {
-    "A": "Favorite subjects and number of students",
-    "B": "Favorite hobbies and number of subjects"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "How many students are there in Mary’s class?",
-   "choices": {
-    "A": "30",
-    "B": "31"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "In a planner",
-    "B": "In a book",
-    "C": "On a classroom board",
-    "D": "On a website"
-   },
-   "prompt": "Where can you see this table?",
-   "accept": "A",
-   "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
-   "passageHead": "Questions 1-2 refer to the following table."
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "He is a police officer.",
-    "B": "He is a student.",
-    "C": "He is a businessman.",
-    "D": "He is a singer."
-   },
-   "prompt": "What does Henry do?",
-   "accept": "B",
-   "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
-   "passageHead": "Questions 1-2 refer to the following table."
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "For a picnic",
-    "B": "For a camp",
-    "C": "For a visit",
-    "D": "For a research"
-   },
-   "prompt": "Why do they plan to go to the Every Land?",
-   "accept": "A",
-   "passage": "Survey: Let's go to the Every Land for School Picnic!",
-   "passageHead": "Questions 3-4 refer to the following chart."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "5% of the students like the idea.",
-    "B": "15% of the students like the idea.",
-    "C": "20% of the students like the idea.",
-    "D": "80% of the students like the idea."
-   },
-   "prompt": "Which of the following is true?",
-   "accept": "D",
-   "passage": "Survey: Let's go to the Every Land for School Picnic!",
-   "passageHead": "Questions 3-4 refer to the following chart."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s05",
+  "title": "Part V · Section 05",
+  "subtitle": "Charts",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): What’s the weather ______ for Monday?",
+      "choices": {
+        "A": "care",
+        "B": "contest",
+        "C": "forecast",
+        "D": "show"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "What’s the weather ______ for Monday?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): She won the singing ______.",
+      "choices": {
+        "A": "care",
+        "B": "contest",
+        "C": "forecast",
+        "D": "show"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "She won the singing ______."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): Please ______ me your ticket.",
+      "choices": {
+        "A": "care",
+        "B": "contest",
+        "C": "forecast",
+        "D": "show"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "Please ______ me your ticket."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): I don ’t ______ what she said.",
+      "choices": {
+        "A": "care",
+        "B": "contest",
+        "C": "forecast",
+        "D": "show"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "I don ’t ______ what she said."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1-: type the answer.",
+      "accept": [
+        "DC"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 일기예보",
+      "accept": [
+        "Weather forecast"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "일기예보",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 물품의 숫자",
+      "accept": [
+        "Number of item"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "물품의 숫자",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 말하기 대회",
+      "accept": [
+        "Speech contest"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "말하기 대회",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 좋아하는 과목",
+      "accept": [
+        "Favorite subject"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "좋아하는 과목",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6-: type the answer.",
+      "accept": [
+        "Jane's schedule"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 학생의 숫자",
+      "accept": [
+        "Number of students"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "학생의 숫자",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 교실 게시판",
+      "accept": [
+        "Classroom board"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "교실 게시판",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 원래 가격",
+      "accept": [
+        "Original price"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "원래 가격",
+      "wordBank": [
+        "Classroom board",
+        "DC",
+        "Favorite subject",
+        "Jane's schedule",
+        "Number of item",
+        "Number of students",
+        "Original price",
+        "Speech contest",
+        "Weather forecast"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Who keeps this kind of table?",
+      "choices": {
+        "A": "Clothing store manager",
+        "B": "Restaurant manager"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Number of CLOTHING ITEMS Sold Out / ^ \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which item has been sold out most throughout the year?",
+      "choices": {
+        "A": "Jacket",
+        "B": "Coat"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Number of CLOTHING ITEMS Sold Out / ^ \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does this chart show?",
+      "choices": {
+        "A": "Favorite subjects and number of students",
+        "B": "Favorite hobbies and number of subjects"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "Mary^s Class — / Favorite Subject List / Subject / Music / Math / Science"
+    },
+    {
+      "type": "choice",
+      "prompt": "How many students are there in Mary’s class?",
+      "choices": {
+        "A": "30",
+        "B": "31"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "Mary^s Class — / Favorite Subject List / Subject / Music / Math / Science"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "In a planner",
+        "B": "In a book",
+        "C": "On a classroom board",
+        "D": "On a website"
+      },
+      "prompt": "Where can you see this table?",
+      "accept": "A",
+      "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
+      "passageHead": "Questions 1-2 refer to the following table."
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "He is a police officer.",
+        "B": "He is a student.",
+        "C": "He is a businessman.",
+        "D": "He is a singer."
+      },
+      "prompt": "What does Henry do?",
+      "accept": "B",
+      "passage": "Hen r/s Schedule / May, 2009 / Sun | Mon | Tue | Wed | Thu | Fri | Sat / Family | Museum | Classroom / Meeting | Visiting | Meeting / 10 | 11 | 12 | 13 | 14 | 15 | 16 / Speech / Contest | Shopping / 17 | 18 | 19 | 20 | 21 | 22 | 23 / Math / Quiz / 24 | 25 | 26 | 27 | 28 | 29 | 30 / Birthday | Election | Visiting / Party | Pay | Uncle's",
+      "passageHead": "Questions 1-2 refer to the following table."
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "For a picnic",
+        "B": "For a camp",
+        "C": "For a visit",
+        "D": "For a research"
+      },
+      "prompt": "Why do they plan to go to the Every Land?",
+      "accept": "A",
+      "passage": "Survey: Let's go to the Every Land for School Picnic!",
+      "passageHead": "Questions 3-4 refer to the following chart."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "5% of the students like the idea.",
+        "B": "15% of the students like the idea.",
+        "C": "20% of the students like the idea.",
+        "D": "80% of the students like the idea."
+      },
+      "prompt": "Which of the following is true?",
+      "accept": "D",
+      "passage": "Survey: Let's go to the Every Land for School Picnic!",
+      "passageHead": "Questions 3-4 refer to the following chart."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

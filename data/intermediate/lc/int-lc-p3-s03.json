@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1: I will ______ at 5 p.m.",
       "choices": {
         "A": "a long distance",
         "B": "go skating",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I will ______ at 5 p.m."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2: I’m going to ______ in this winter.",
       "choices": {
         "A": "a long distance",
         "B": "go skating",
@@ -34,11 +34,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I’m going to ______ in this winter."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 3-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 3: It’s my first time to drive for such ______.",
       "choices": {
         "A": "a long distance",
         "B": "go skating",
@@ -48,7 +48,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "3",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It’s my first time to drive for such ______."
     },
     {
       "id": "q4",

@@ -1,172 +1,172 @@
 {
- "practiceId": "int-rc-at-q41-50",
- "title": "RC Actual Test · Questions 41–50",
- "subtitle": "10 questions (book Q91–100)",
- "level": "intermediate",
- "skill": "rc",
- "stub": false,
- "introEn": "Reading Actual Test — choose the best answer for each question.",
- "items": [
-  {
-   "id": "q1",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "2:00 p.m.",
-    "B": "3:00 p.m.",
-    "C": "4:00 p.m.",
-    "D": "5:30 p.m."
-   },
-   "prompt": "When does the museum close on Saturdays?",
-   "accept": "C",
-   "part": "V",
-   "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
-   "passageHead": "Questions 91-92 refer to the following form."
-  },
-  {
-   "id": "q2",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Free",
-    "B": "$3",
-    "C": "$7",
-    "D": "$10"
-   },
-   "prompt": "How much is admission fee for teens over 15?",
-   "accept": "B",
-   "part": "V",
-   "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
-   "passageHead": "Questions 91-92 refer to the following form."
-  },
-  {
-   "id": "q3",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "It is in its tenth year.",
-    "B": "It is expected to begin at noon.",
-    "C": "It will take place in a restaurant.",
-    "D": "It will include musical entertainment."
-   },
-   "prompt": "What is true about the fundraiser?",
-   "accept": "B",
-   "part": "V",
-   "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
-   "passageHead": "Questions 93-94 refer to the following article."
-  },
-  {
-   "id": "q4",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "After-school programs",
-    "B": "School sports uniforms",
-    "C": "Library services and support",
-    "D": "High school graduation activities"
-   },
-   "prompt": "What will the money from the fundraiser be used for?",
-   "accept": "D",
-   "part": "V",
-   "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
-   "passageHead": "Questions 93-94 refer to the following article."
-  },
-  {
-   "id": "q5",
-   "label": "5",
-   "type": "choice",
-   "choices": {
-    "A": "An apartment",
-    "B": "A house",
-    "C": "A shopping mall",
-    "D": "A school"
-   },
-   "prompt": "What is being advertised?",
-   "accept": "B",
-   "part": "V",
-   "passage": "2 Bedroom House for Rent / Located in the Britannia area, this townhouse is perfect / for a growing family. Located close to parks, schools, / public transportation, and shopping. The townhouse / features two bathrooms, a large living room, and a / two-car garage. Includes a washing machine, dryer, / oven, and fridge. $1,200 per month. Electricity and / water are extra. For more information, call James at / 339-2911.",
-   "passageHead": "Questions 95-96 refer to the following advertisement."
-  },
-  {
-   "id": "q6",
-   "label": "6",
-   "type": "choice",
-   "choices": {
-    "A": "A washing machine",
-    "B": "A dryer",
-    "C": "A fridge",
-    "D": "A pool"
-   },
-   "prompt": "What is NOT included in the house?",
-   "accept": "D",
-   "part": "V",
-   "passage": "2 Bedroom House for Rent / Located in the Britannia area, this townhouse is perfect / for a growing family. Located close to parks, schools, / public transportation, and shopping. The townhouse / features two bathrooms, a large living room, and a / two-car garage. Includes a washing machine, dryer, / oven, and fridge. $1,200 per month. Electricity and / water are extra. For more information, call James at / 339-2911.",
-   "passageHead": "Questions 95-96 refer to the following advertisement."
-  },
-  {
-   "id": "q7",
-   "label": "7",
-   "type": "choice",
-   "choices": {
-    "A": "Once",
-    "B": "Twice",
-    "C": "Three times",
-    "D": "Four times"
-   },
-   "prompt": "How many times can a person watch the news?",
-   "accept": "D",
-   "part": "V",
-   "passage": "8:00-9:00 | Morning news | 6:00-6:30 | Early-evening news / 9:00-11:00 | Cartoon time | 6:30-7:30 | Magic show / 11:00-12:00 | Cooking program | 7:30-10:00 | Movie: The Famous / 12:00-1:30 | Lunch-time news | 10:00-10:30 Gardening program / 1:30-3:00 | Quiz show | 10:30-11:00 | Late-night news / 3:00-4:00 | English learning program | 11:00-12:00 | Live baseball game / 4:00-6:00 | Children's programs | 12:00-02:00 | Late-night movie",
-   "passageHead": "Questions 97-98 refer to the following chart."
-  },
-  {
-   "id": "q8",
-   "label": "8",
-   "type": "choice",
-   "choices": {
-    "A": "There is an educational program.",
-    "B": "There is a sports game.",
-    "C": "There is one movie program.",
-    "D": "There is a cartoon program."
-   },
-   "prompt": "Which of the following statements is NOT true?",
-   "accept": "C",
-   "part": "V",
-   "passage": "8:00-9:00 | Morning news | 6:00-6:30 | Early-evening news / 9:00-11:00 | Cartoon time | 6:30-7:30 | Magic show / 11:00-12:00 | Cooking program | 7:30-10:00 | Movie: The Famous / 12:00-1:30 | Lunch-time news | 10:00-10:30 Gardening program / 1:30-3:00 | Quiz show | 10:30-11:00 | Late-night news / 3:00-4:00 | English learning program | 11:00-12:00 | Live baseball game / 4:00-6:00 | Children's programs | 12:00-02:00 | Late-night movie",
-   "passageHead": "Questions 97-98 refer to the following chart."
-  },
-  {
-   "id": "q9",
-   "label": "9",
-   "type": "choice",
-   "choices": {
-    "A": "Soap operas",
-    "B": "Nature programs",
-    "C": "Comedy programs",
-    "D": "Sports programs"
-   },
-   "prompt": "What program attracts the least number of viewers?",
-   "accept": "B",
-   "part": "V",
-   "passage": "Chart to Show the Four Most Popular Television / Programs / Nature (10%) / Comedy (40%) / Sports (35%) / Soap Operas (15%)",
-   "passageHead": "Questions 99-100 refer to the following chart."
-  },
-  {
-   "id": "q10",
-   "label": "10",
-   "type": "choice",
-   "choices": {
-    "A": "Soap operas are more popular than nature programs.",
-    "B": "Sports programs are more popular than comedy programs.",
-    "C": "Comedy programs are less popular than soap operas.",
-    "D": "Sports programs are more popular than soap operas."
-   },
-   "prompt": "Which of the following statements is NOT true?",
-   "accept": "C",
-   "part": "V",
-   "passage": "Chart to Show the Four Most Popular Television / Programs / Nature (10%) / Comedy (40%) / Sports (35%) / Soap Operas (15%)",
-   "passageHead": "Questions 99-100 refer to the following chart."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "int-rc-at-q41-50",
+  "title": "RC Actual Test · Questions 41–50",
+  "subtitle": "10 questions (book Q91–100)",
+  "level": "intermediate",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Reading Actual Test — choose the best answer for each question.",
+  "items": [
+    {
+      "id": "q1",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "2:00 p.m.",
+        "B": "3:00 p.m.",
+        "C": "4:00 p.m.",
+        "D": "5:30 p.m."
+      },
+      "prompt": "When does the museum close on Saturdays?",
+      "accept": "C",
+      "part": "V",
+      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
+      "passageHead": "Questions 91-92 refer to the following form."
+    },
+    {
+      "id": "q2",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Free",
+        "B": "$3",
+        "C": "$7",
+        "D": "$10"
+      },
+      "prompt": "How much is admission fee for teens over 15?",
+      "accept": "B",
+      "part": "V",
+      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
+      "passageHead": "Questions 91-92 refer to the following form."
+    },
+    {
+      "id": "q3",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "It is in its tenth year.",
+        "B": "It is expected to begin at noon.",
+        "C": "It will take place in a restaurant.",
+        "D": "It will include musical entertainment."
+      },
+      "prompt": "What is true about the fundraiser?",
+      "accept": "B",
+      "part": "V",
+      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
+      "passageHead": "Questions 93-94 refer to the following article."
+    },
+    {
+      "id": "q4",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "After-school programs",
+        "B": "School sports uniforms",
+        "C": "Library services and support",
+        "D": "High school graduation activities"
+      },
+      "prompt": "What will the money from the fundraiser be used for?",
+      "accept": "D",
+      "part": "V",
+      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
+      "passageHead": "Questions 93-94 refer to the following article."
+    },
+    {
+      "id": "q5",
+      "label": "5",
+      "type": "choice",
+      "choices": {
+        "A": "An apartment",
+        "B": "A house",
+        "C": "A shopping mall",
+        "D": "A school"
+      },
+      "prompt": "What is being advertised?",
+      "accept": "B",
+      "part": "V",
+      "passage": "2 Bedroom House for Rent / Located in the Britannia area, this townhouse is perfect / for a growing family. Located close to parks, schools, / public transportation, and shopping. The townhouse / features two bathrooms, a large living room, and a / two-car garage. Includes a washing machine, dryer, / oven, and fridge. $1,200 per month. Electricity and / water are extra. For more information, call James at / 339-2911.",
+      "passageHead": "Questions 95-96 refer to the following advertisement."
+    },
+    {
+      "id": "q6",
+      "label": "6",
+      "type": "choice",
+      "choices": {
+        "A": "A washing machine",
+        "B": "A dryer",
+        "C": "A fridge",
+        "D": "A pool"
+      },
+      "prompt": "What is NOT included in the house?",
+      "accept": "D",
+      "part": "V",
+      "passage": "2 Bedroom House for Rent / Located in the Britannia area, this townhouse is perfect / for a growing family. Located close to parks, schools, / public transportation, and shopping. The townhouse / features two bathrooms, a large living room, and a / two-car garage. Includes a washing machine, dryer, / oven, and fridge. $1,200 per month. Electricity and / water are extra. For more information, call James at / 339-2911.",
+      "passageHead": "Questions 95-96 refer to the following advertisement."
+    },
+    {
+      "id": "q7",
+      "label": "7",
+      "type": "choice",
+      "choices": {
+        "A": "Once",
+        "B": "Twice",
+        "C": "Three times",
+        "D": "Four times"
+      },
+      "prompt": "How many times can a person watch the news?",
+      "accept": "D",
+      "part": "V",
+      "passage": "8:00-9:00 | Morning news | 6:00-6:30 | Early-evening news / 9:00-11:00 | Cartoon time | 6:30-7:30 | Magic show / 11:00-12:00 | Cooking program | 7:30-10:00 | Movie: The Famous / 12:00-1:30 | Lunch-time news | 10:00-10:30 Gardening program / 1:30-3:00 | Quiz show | 10:30-11:00 | Late-night news / 3:00-4:00 | English learning program | 11:00-12:00 | Live baseball game / 4:00-6:00 | Children's programs | 12:00-02:00 | Late-night movie",
+      "passageHead": "Questions 97-98 refer to the following chart."
+    },
+    {
+      "id": "q8",
+      "label": "8",
+      "type": "choice",
+      "choices": {
+        "A": "There is an educational program.",
+        "B": "There is a sports game.",
+        "C": "There is one movie program.",
+        "D": "There is a cartoon program."
+      },
+      "prompt": "Which of the following statements is NOT true?",
+      "accept": "C",
+      "part": "V",
+      "passage": "8:00-9:00 | Morning news | 6:00-6:30 | Early-evening news / 9:00-11:00 | Cartoon time | 6:30-7:30 | Magic show / 11:00-12:00 | Cooking program | 7:30-10:00 | Movie: The Famous / 12:00-1:30 | Lunch-time news | 10:00-10:30 Gardening program / 1:30-3:00 | Quiz show | 10:30-11:00 | Late-night news / 3:00-4:00 | English learning program | 11:00-12:00 | Live baseball game / 4:00-6:00 | Children's programs | 12:00-02:00 | Late-night movie",
+      "passageHead": "Questions 97-98 refer to the following chart."
+    },
+    {
+      "id": "q9",
+      "label": "9",
+      "type": "choice",
+      "choices": {
+        "A": "Soap operas",
+        "B": "Nature programs",
+        "C": "Comedy programs",
+        "D": "Sports programs"
+      },
+      "prompt": "What program attracts the least number of viewers?",
+      "accept": "B",
+      "part": "V",
+      "passage": "Chart to Show the Four Most Popular Television / Programs / Nature (10%) / Comedy (40%) / Sports (35%) / Soap Operas (15%)",
+      "passageHead": "Questions 99-100 refer to the following chart."
+    },
+    {
+      "id": "q10",
+      "label": "10",
+      "type": "choice",
+      "choices": {
+        "A": "Soap operas are more popular than nature programs.",
+        "B": "Sports programs are more popular than comedy programs.",
+        "C": "Comedy programs are less popular than soap operas.",
+        "D": "Sports programs are more popular than soap operas."
+      },
+      "prompt": "Which of the following statements is NOT true?",
+      "accept": "C",
+      "part": "V",
+      "passage": "Chart to Show the Four Most Popular Television / Programs / Nature (10%) / Comedy (40%) / Sports (35%) / Soap Operas (15%)",
+      "passageHead": "Questions 99-100 refer to the following chart."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

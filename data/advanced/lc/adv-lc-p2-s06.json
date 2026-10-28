@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): We need to hear the _ ______ before we leave.",
       "choices": {
         "A": "as soon as possible",
         "B": "look forward to",
@@ -23,7 +23,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "We need to hear the _ ______ before we leave."
     },
     {
       "type": "choice",
@@ -43,7 +43,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): I was ______ with my friend for an hour.",
       "choices": {
         "A": "as soon as possible",
         "B": "look forward to",
@@ -55,11 +55,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I was ______ with my friend for an hour."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): I ______ seeing you again.",
       "choices": {
         "A": "as soon as possible",
         "B": "look forward to",
@@ -71,7 +71,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I ______ seeing you again."
     },
     {
       "type": "choice",

@@ -1,268 +1,352 @@
 {
- "practiceId": "bas-rc-p5-s02",
- "title": "Part V · Section 02",
- "subtitle": "Ads",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "are interested in",
-    "B": "Chefs",
-    "C": "on sale",
-    "D": "seafood"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "are interested in",
-    "B": "Chefs",
-    "C": "on sale",
-    "D": "seafood"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "are interested in",
-    "B": "Chefs",
-    "C": "on sale",
-    "D": "seafood"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "are interested in",
-    "B": "Chefs",
-    "C": "on sale",
-    "D": "seafood"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "Special dishes"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Garage sale"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Wanted"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "On sale"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "From Monday to Wednesday"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "If interested"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Until midnight"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "We are moving"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is this advertisement for?",
-   "choices": {
-    "A": "To find a job",
-    "B": "To find a chef"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who will call the manager?",
-   "choices": {
-    "A": "The person who is interested in the job",
-    "B": "The person who can work only weekends"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Where can you see this advertisement?",
-   "choices": {
-    "A": "In a restaurant",
-    "B": "In a coffee shop"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "When can we get these special dishes?",
-   "choices": {
-    "A": "In the morning",
-    "B": "In the evening for the weekend"
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "2"
-  },
-  {
-   "id": "q17",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "Seafood",
-    "B": "Fruit",
-    "C": "Toy",
-    "D": "Book"
-   },
-   "prompt": "What is being advertised?",
-   "accept": "B",
-   "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q18",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "In a house",
-    "B": "In a supermarket",
-    "C": "In a factory",
-    "D": "In a seafood market"
-   },
-   "prompt": "Where can you see this advertisement?",
-   "accept": "B",
-   "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
-   "passageHead": "Questions 1-2 refer to the following advertisement."
-  },
-  {
-   "id": "q19",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "To invite to a party",
-    "B": "To tell about a sale",
-    "C": "To tell about a family event",
-    "D": "To clean the house"
-   },
-   "prompt": "What is this advertisement for?",
-   "accept": "B",
-   "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  },
-  {
-   "id": "q20",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "3 p.m",
-    "B": "4 p.m",
-    "C": "5 p.m",
-    "D": "6 p.m"
-   },
-   "prompt": "When does the sale start for the weekend?",
-   "accept": "A",
-   "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
-   "passageHead": "Questions 3-4 refer to the following advertisement."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s02",
+  "title": "Part V · Section 02",
+  "subtitle": "Ads",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): Today ’s special menu is a ______ salad.",
+      "choices": {
+        "A": "are interested in",
+        "B": "Chefs",
+        "C": "on sale",
+        "D": "seafood"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "Today ’s special menu is a ______ salad."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): ______ from around the world will attend the food festival.",
+      "choices": {
+        "A": "are interested in",
+        "B": "Chefs",
+        "C": "on sale",
+        "D": "seafood"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "______ from around the world will attend the food festival."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): If you ______ the position, contact meat 555 -1212.",
+      "choices": {
+        "A": "are interested in",
+        "B": "Chefs",
+        "C": "on sale",
+        "D": "seafood"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "stem": "If you ______ the position, contact meat 555 -1212."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): I bought this shirt ______",
+      "choices": {
+        "A": "are interested in",
+        "B": "Chefs",
+        "C": "on sale",
+        "D": "seafood"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "I bought this shirt ______"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 특별 요리",
+      "accept": [
+        "Special dishes"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "특별 요리",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 중고 가정용품 염가 판매",
+      "accept": [
+        "Garage sale"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "중고 가정용품 염가 판매",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 구인",
+      "accept": [
+        "Wanted"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "구인",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 세일 중입니다",
+      "accept": [
+        "On sale"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "세일 중입니다",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 월요일부터 수요일까지",
+      "accept": [
+        "From Monday to Wednesday"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "월요일부터 수요일까지",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 관심이 있다면",
+      "accept": [
+        "If interested"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "stem": "관심이 있다면",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 재활용하세요",
+      "accept": [
+        "Until midnight"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "재활용하세요",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 우리 이사가요",
+      "accept": [
+        "We are moving"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "우리 이사가요",
+      "wordBank": [
+        "From Monday to Wednesday",
+        "Garage sale",
+        "If interested",
+        "On sale",
+        "Special dishes",
+        "Until midnight",
+        "Wanted",
+        "We are moving"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What is this advertisement for?",
+      "choices": {
+        "A": "To find a job",
+        "B": "To find a chef"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "1",
+      "passage": "Wanted ______............ / Reliable Chef ______.................................. / To Work Evenings / From Tuesday to Sunday / If interested, / contact Manager at 5 5 5 -1 2 3 4."
+    },
+    {
+      "type": "choice",
+      "prompt": "Who will call the manager?",
+      "choices": {
+        "A": "The person who is interested in the job",
+        "B": "The person who can work only weekends"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "2",
+      "passage": "Wanted ______............ / Reliable Chef ______.................................. / To Work Evenings / From Tuesday to Sunday / If interested, / contact Manager at 5 5 5 -1 2 3 4."
+    },
+    {
+      "type": "choice",
+      "prompt": "Where can you see this advertisement?",
+      "choices": {
+        "A": "In a restaurant",
+        "B": "In a coffee shop"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "1",
+      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______ ^ / Shrimp Pasta / Smoky Mountain Chicken"
+    },
+    {
+      "type": "choice",
+      "prompt": "When can we get these special dishes?",
+      "choices": {
+        "A": "In the morning",
+        "B": "In the evening for the weekend"
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "2",
+      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______ ^ / Shrimp Pasta / Smoky Mountain Chicken"
+    },
+    {
+      "id": "q17",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "Seafood",
+        "B": "Fruit",
+        "C": "Toy",
+        "D": "Book"
+      },
+      "prompt": "What is being advertised?",
+      "accept": "B",
+      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q18",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "In a house",
+        "B": "In a supermarket",
+        "C": "In a factory",
+        "D": "In a seafood market"
+      },
+      "prompt": "Where can you see this advertisement?",
+      "accept": "B",
+      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+      "passageHead": "Questions 1-2 refer to the following advertisement."
+    },
+    {
+      "id": "q19",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "To invite to a party",
+        "B": "To tell about a sale",
+        "C": "To tell about a family event",
+        "D": "To clean the house"
+      },
+      "prompt": "What is this advertisement for?",
+      "accept": "B",
+      "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    },
+    {
+      "id": "q20",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "3 p.m",
+        "B": "4 p.m",
+        "C": "5 p.m",
+        "D": "6 p.m"
+      },
+      "prompt": "When does the sale start for the weekend?",
+      "accept": "A",
+      "passage": "Garage Sale / We are moving next Mon! / Come and get everything you need! / CHEAP & STILL USEFUL / Thur and Fri 5-7 p.m. / Sat and Sun 3-5 p.m. / At John's house",
+      "passageHead": "Questions 3-4 refer to the following advertisement."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

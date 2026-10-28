@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(a): My brother loves ______.",
       "choices": {
         "A": "comic books",
         "B": "enjoyed",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My brother loves ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1-(b): Jane enjoys writing ______.",
       "choices": {
         "A": "comic books",
         "B": "enjoyed",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Jane enjoys writing ______."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(a): We all ______ the summer holiday.",
       "choices": {
         "A": "comic books",
         "B": "enjoyed",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "We all ______ the summer holiday."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2-(b): ______ your heart.",
       "choices": {
         "A": "comic books",
         "B": "enjoyed",
@@ -65,105 +65,95 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
-    },
-    {
-      "type": "display",
-      "displayOnly": true,
-      "scored": false,
-      "prompt": "Warm-Up vocabulary: Study the vocabulary table on the book page (Korean meaning - English word). Not scored.",
-      "section": "Warm-Up",
-      "id": "q5",
-      "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ your heart."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): type the answer.",
+      "prompt": "Vocabulary Practice 1-(a): poem ______ baseball ______ volleyball",
       "accept": [
         "poem"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "poem ______ baseball ______ volleyball"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): type the answer.",
+      "prompt": "Vocabulary Practice 1-(b): movie ______ fishing ______ traveling",
       "accept": [
         "movie"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "movie ______ fishing ______ traveling"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): type the answer.",
+      "prompt": "Vocabulary Practice 1-(c): jogging ______ aerobics ______ painting",
       "accept": [
         "painting"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "jogging ______ aerobics ______ painting"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): type the answer.",
+      "prompt": "Vocabulary Practice 2-(a): Jane is ______ tennis from Mr. Dean.",
       "accept": [
         "learning"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Jane is ______ tennis from Mr. Dean."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): type the answer.",
+      "prompt": "Vocabulary Practice 2-(b): Paul is ______ a magazine.",
       "accept": [
         "reading"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Paul is ______ a magazine."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): type the answer.",
+      "prompt": "Vocabulary Practice 2-(c): Laura likes ______.",
       "accept": [
         "skiing"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Laura likes ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): type the answer.",
+      "prompt": "Vocabulary Practice 3-(a): She is ______ to music now.",
       "accept": [
         "listening"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She is ______ to music now."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): type the answer.",
+      "prompt": "Vocabulary Practice 3-(b): They love ______ movies.",
       "accept": [
         "watching"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "They love ______ movies."
     },
     {
       "type": "text",

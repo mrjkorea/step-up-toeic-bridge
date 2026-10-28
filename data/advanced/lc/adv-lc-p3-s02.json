@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): I need an outlet to ______ my computer.",
       "choices": {
         "A": "apologize",
         "B": "borrow",
@@ -22,11 +22,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I need an outlet to ______ my computer."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Is pilled water on her suit. I have to ______ to her.",
       "choices": {
         "A": "apologize",
         "B": "borrow",
@@ -38,7 +38,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Is pilled water on her suit. I have to ______ to her."
     },
     {
       "type": "choice",
@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): Helen got an Font he math exam. I want to ______ _",
       "choices": {
         "A": "apologize",
         "B": "borrow",
@@ -70,11 +70,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Helen got an Font he math exam. I want to ______ _"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (e): I didn't bring any pens. Can I ______ one, please?",
       "choices": {
         "A": "apologize",
         "B": "borrow",
@@ -86,7 +86,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I didn't bring any pens. Can I ______ one, please?"
     },
     {
       "id": "q6",

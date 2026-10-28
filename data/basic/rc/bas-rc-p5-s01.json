@@ -1,279 +1,382 @@
 {
- "practiceId": "bas-rc-p5-s01",
- "title": "Part V · Section 01",
- "subtitle": "Notices",
- "level": "basic",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "closed",
-    "B": "floor",
-    "C": "parking lot",
-    "D": "quiet"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "1-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 1-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "closed",
-    "B": "floor",
-    "C": "parking lot",
-    "D": "quiet"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "1-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "closed",
-    "B": "floor",
-    "C": "parking lot",
-    "D": "quiet"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "2-(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up 2-(b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "closed",
-    "B": "floor",
-    "C": "parking lot",
-    "D": "quiet"
-   },
-   "accept": "D",
-   "section": "Words and Idioms Check-Up",
-   "id": "q4",
-   "label": "2-(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "Watch out"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "Speed limit"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "Cars only"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "School library"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "School zone"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "Wet floor"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "Christmas holidays"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "Parking"
-   ],
-   "section": "Warm-Up",
-   "id": "q12",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 9-: type the answer.",
-   "accept": [
-    "No bicycles"
-   ],
-   "section": "Warm-Up",
-   "id": "q13",
-   "label": "9",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What does the sign tell people?",
-   "choices": {
-    "A": "To be quiet",
-    "B": "To be careful"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Who is this sign for?",
-   "choices": {
-    "A": "The people who come inside",
-    "B": "The people who clean the floor"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "Where can you see this sign?",
-   "choices": {
-    "A": "At a school",
-    "B": "At a hotel"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q16",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "Why is the library closed?",
-   "choices": {
-    "A": "Because of holidays",
-    "B": "Because of bad weather"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q17",
-   "label": "2"
-  },
-  {
-   "id": "q18",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "In the hotel lobby",
-    "B": "In the living room",
-    "C": "In the parking lot",
-    "D": "In the office"
-   },
-   "prompt": "Where can you see this sign?",
-   "accept": "C",
-   "passage": "No cars! / Parking for bicycles / and motorcycles only!",
-   "passageHead": "Questions 1-2 refer to the following notice"
-  },
-  {
-   "id": "q19",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Taxi drivers",
-    "B": "Bicycle riders",
-    "C": "Car drivers",
-    "D": "Bus drivers"
-   },
-   "prompt": "Who can use this parking space?",
-   "accept": "B",
-   "passage": "No cars! / Parking for bicycles / and motorcycles only!",
-   "passageHead": "Questions 1-2 refer to the following notice"
-  },
-  {
-   "id": "q20",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "5 miles",
-    "B": "10 miles",
-    "C": "15 miles",
-    "D": "20 miles"
-   },
-   "prompt": "How far is it from here to Green Farm?",
-   "accept": "A",
-   "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
-   "passageHead": "Questions 3-4 refer to the following notice."
-  },
-  {
-   "id": "q21",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "On the road",
-    "B": "In the library",
-    "C": "In the hospital",
-    "D": "In the bus"
-   },
-   "prompt": "Where can you see this sign?",
-   "accept": "A",
-   "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
-   "passageHead": "Questions 3-4 refer to the following notice."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "bas-rc-p5-s01",
+  "title": "Part V · Section 01",
+  "subtitle": "Notices",
+  "level": "basic",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(a): Today ’s special menu is a ______ salad.",
+      "choices": {
+        "A": "closed",
+        "B": "floor",
+        "C": "parking lot",
+        "D": "quiet"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "1-(a)",
+      "stem": "Today ’s special menu is a ______ salad."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 1-(b): ______ from around the world will attend the food festival.",
+      "choices": {
+        "A": "closed",
+        "B": "floor",
+        "C": "parking lot",
+        "D": "quiet"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "1-(b)",
+      "stem": "______ from around the world will attend the food festival."
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(a): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "closed",
+        "B": "floor",
+        "C": "parking lot",
+        "D": "quiet"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "2-(a)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up 2-(b): Library is ______.",
+      "choices": {
+        "A": "closed",
+        "B": "floor",
+        "C": "parking lot",
+        "D": "quiet"
+      },
+      "accept": "D",
+      "section": "Words and Idioms Check-Up",
+      "id": "q4",
+      "label": "2-(b)",
+      "stem": "Library is ______."
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 조심해",
+      "accept": [
+        "Watch out"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "1",
+      "stem": "조심해",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 제한 속도",
+      "accept": [
+        "Speed limit"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "2",
+      "stem": "제한 속도",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 자동차 전용",
+      "accept": [
+        "Cars only"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "3",
+      "stem": "자동차 전용",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 학교 도서관",
+      "accept": [
+        "School library"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "4",
+      "stem": "학교 도서관",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 어린이 보호 구역",
+      "accept": [
+        "School zone"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "5",
+      "stem": "어린이 보호 구역",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 젖은 바닥",
+      "accept": [
+        "Wet floor"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "6",
+      "stem": "젖은 바닥",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 크리스마스 연휴",
+      "accept": [
+        "Christmas holidays"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "7",
+      "stem": "크리스마스 연휴",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 주차",
+      "accept": [
+        "Parking"
+      ],
+      "section": "Warm-Up",
+      "id": "q12",
+      "label": "8",
+      "stem": "주차",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 자전거 금지",
+      "accept": [
+        "No bicycles"
+      ],
+      "section": "Warm-Up",
+      "id": "q13",
+      "label": "9",
+      "stem": "자전거 금지",
+      "wordBank": [
+        "Cars only",
+        "Christmas holidays",
+        "No bicycles",
+        "Parking",
+        "School library",
+        "School zone",
+        "Speed limit",
+        "Watch out",
+        "Wet floor"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What does the sign tell people?",
+      "choices": {
+        "A": "To be quiet",
+        "B": "To be careful"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q14",
+      "label": "1",
+      "passage": "Customers, / Watch Your Step! / Wet Floor"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who is this sign for?",
+      "choices": {
+        "A": "The people who come inside",
+        "B": "The people who clean the floor"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q15",
+      "label": "2",
+      "passage": "Customers, / Watch Your Step! / Wet Floor"
+    },
+    {
+      "type": "choice",
+      "prompt": "Where can you see this sign?",
+      "choices": {
+        "A": "At a school",
+        "B": "At a hotel"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q16",
+      "label": "1",
+      "passage": "School library is closed. / From 23 rd December to 2nd January / Christmas holidays!"
+    },
+    {
+      "type": "choice",
+      "prompt": "Why is the library closed?",
+      "choices": {
+        "A": "Because of holidays",
+        "B": "Because of bad weather"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q17",
+      "label": "2",
+      "passage": "School library is closed. / From 23 rd December to 2nd January / Christmas holidays!"
+    },
+    {
+      "id": "q18",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "In the hotel lobby",
+        "B": "In the living room",
+        "C": "In the parking lot",
+        "D": "In the office"
+      },
+      "prompt": "Where can you see this sign?",
+      "accept": "C",
+      "passage": "No cars! / Parking for bicycles / and motorcycles only!",
+      "passageHead": "Questions 1-2 refer to the following notice"
+    },
+    {
+      "id": "q19",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Taxi drivers",
+        "B": "Bicycle riders",
+        "C": "Car drivers",
+        "D": "Bus drivers"
+      },
+      "prompt": "Who can use this parking space?",
+      "accept": "B",
+      "passage": "No cars! / Parking for bicycles / and motorcycles only!",
+      "passageHead": "Questions 1-2 refer to the following notice"
+    },
+    {
+      "id": "q20",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "5 miles",
+        "B": "10 miles",
+        "C": "15 miles",
+        "D": "20 miles"
+      },
+      "prompt": "How far is it from here to Green Farm?",
+      "accept": "A",
+      "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
+      "passageHead": "Questions 3-4 refer to the following notice."
+    },
+    {
+      "id": "q21",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "On the road",
+        "B": "In the library",
+        "C": "In the hospital",
+        "D": "In the bus"
+      },
+      "prompt": "Where can you see this sign?",
+      "accept": "A",
+      "passage": "Blue Lake 10 miles / Green Farm 5 miles / Peace Mountain 20 miles",
+      "passageHead": "Questions 3-4 refer to the following notice."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }

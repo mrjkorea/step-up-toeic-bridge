@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): Iam ______ your grade but you should still work",
       "choices": {
         "A": "Before long",
         "B": "get hurt",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Iam ______ your grade but you should still work"
     },
     {
       "type": "choice",
@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Be careful not to ______ while you are working there.",
       "choices": {
         "A": "Before long",
         "B": "get hurt",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Be careful not to ______ while you are working there."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): ______ citizens rushed to the city hall.",
       "choices": {
         "A": "Before long",
         "B": "get hurt",
@@ -65,139 +65,139 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ citizens rushed to the city hall."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): type the answer.",
+      "prompt": "Warm-Up 1-(a): The man was ______ at the door, (stand )",
       "accept": [
         "standing"
       ],
       "section": "Warm-Up",
       "id": "q5",
       "label": "1-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The man was ______ at the door, (stand )"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): type the answer.",
+      "prompt": "Warm-Up 1-(b): The dog got, ______ on the road, (kill)",
       "accept": [
         "killed"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "1-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The dog got, ______ on the road, (kill)"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): type the answer.",
+      "prompt": "Warm-Up 1-(c): I found the vase ______. (break )",
       "accept": [
         "broken"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I found the vase ______. (break )"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): type the answer.",
+      "prompt": "Warm-Up 1-(d): I was very ______ because the game was very",
       "accept": [
         "excited"
       ],
       "section": "Warm-Up",
       "id": "q8",
       "label": "1-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I was very ______ because the game was very"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): type the answer.",
+      "prompt": "Warm-Up 2-(a): Tom wrote the letter.",
       "accept": [
         "The letter was written by Tom."
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "2-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Tom wrote the letter."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): type the answer.",
+      "prompt": "Warm-Up 2-(b): The man will save the bird.",
       "accept": [
         "The bird will be saved by the man."
       ],
       "section": "Warm-Up",
       "id": "q10",
       "label": "2-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The man will save the bird."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): type the answer.",
+      "prompt": "Warm-Up 2-(c): He has read the book several times.",
       "accept": [
         "The book has been read several times by him."
       ],
       "section": "Warm-Up",
       "id": "q11",
       "label": "2-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "He has read the book several times."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): type the answer.",
+      "prompt": "Warm-Up 2-(d): The woman is serving the people.",
       "accept": [
         "The people are being served by the woman."
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The woman is serving the people."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): type the answer.",
+      "prompt": "Warm-Up 3-(a): English is spoken by my friends in class.",
       "accept": [
         "My friends speak English in class."
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "English is spoken by my friends in class."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): type the answer.",
+      "prompt": "Warm-Up 3-(b): She has been supported by him.",
       "accept": [
         "He has supported her."
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She has been supported by him."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): type the answer.",
+      "prompt": "Warm-Up 3-(c): The result was announced by him.",
       "accept": [
         "He announced the result."
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The result was announced by him."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): type the answer.",
+      "prompt": "Warm-Up 3-(d): Iam called Mr. Kim by them.",
       "accept": [
         "They called me Mr. Kim."
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Iam called Mr. Kim by them."
     },
     {
       "type": "choice",
@@ -246,62 +246,63 @@
       "section": "Grammar Practice",
       "id": "q20",
       "label": "4",
-      "blocked": "stem text not yet transcribed from PDF"
+      "candidateStem": "아래 문장을 수동태로 바꾸어 보세요.",
+      "blocked": "Korean-prompt writing item; candidateStem auto-extracted, needs human check (some mismatched)"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): type the answer.",
+      "prompt": "Grammar Practice 3-(a): When I walked on the street, I encountered him.",
       "accept": [
         "When walking on the street, I encountered him."
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "3-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "When I walked on the street, I encountered him."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): type the answer.",
+      "prompt": "Grammar Practice 3-(b): Though I feel sleepy, I must not goto bed.",
       "accept": [
         "Though feeling sleepy, I must not go to bed."
       ],
       "section": "Grammar Practice",
       "id": "q22",
       "label": "3-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Though I feel sleepy, I must not goto bed."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): type the answer.",
+      "prompt": "Grammar Practice 3-(c): As she does the dishes, she sings pop songs.",
       "accept": [
         "Doing the dishes, she sings pop songs."
       ],
       "section": "Grammar Practice",
       "id": "q23",
       "label": "3-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "As she does the dishes, she sings pop songs."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): type the answer.",
+      "prompt": "Grammar Practice 3-(d): As it was made in Japan, it is expensive.",
       "accept": [
         "Made in Japan, it is expensive."
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "3-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "As it was made in Japan, it is expensive."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): type the answer.",
+      "prompt": "Grammar Practice 4-(a): My boss made me clean his office.",
       "accept": [
         "I was made to clean his office by my boss."
       ],
       "section": "Grammar Practice",
       "id": "q25",
       "label": "4-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "My boss made me clean his office."
     },
     {
       "type": "text",
@@ -316,69 +317,69 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): type the answer.",
+      "prompt": "Grammar Practice 4-(c): She caught sight of the sunrise.",
       "accept": [
         "The sunrise was caught sight of by her."
       ],
       "section": "Grammar Practice",
       "id": "q27",
       "label": "4-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She caught sight of the sunrise."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(d): type the answer.",
+      "prompt": "Grammar Practice 4-(d): Is aw my grandfather playing basketball at dawn.",
       "accept": [
         "My grandfather was seen to play"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "4-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Is aw my grandfather playing basketball at dawn."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): type the answer.",
+      "prompt": "Grammar Practice 5-(a): I turned off the radio.",
       "accept": [
         "The radio was turned off by me."
       ],
       "section": "Grammar Practice",
       "id": "q29",
       "label": "5-(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I turned off the radio."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): type the answer.",
+      "prompt": "Grammar Practice 5-(b): Who made it?",
       "accept": [
         "By whom was it made?"
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "5-(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Who made it?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): type the answer.",
+      "prompt": "Grammar Practice 5-(c): The man is repairing the chairs.",
       "accept": [
         "The chairs are being repaired by the man."
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "5-(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "The man is repairing the chairs."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(d): type the answer.",
+      "prompt": "Grammar Practice 5-(d): She made him pick it",
       "accept": [
         "He was made to pick it up."
       ],
       "section": "Grammar Practice",
       "id": "q32",
       "label": "5-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "She made him pick it"
     },
     {
       "id": "q33",

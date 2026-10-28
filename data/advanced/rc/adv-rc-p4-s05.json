@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (a): Please ______ my bag while I get the ticket.",
       "choices": {
         "A": "fill out",
         "B": "keep an eye on",
@@ -20,11 +20,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Please ______ my bag while I get the ticket."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (b): Please ______ the problem one more time.",
       "choices": {
         "A": "fill out",
         "B": "keep an eye on",
@@ -35,11 +35,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Please ______ the problem one more time."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (c): Please ______ this form now.",
       "choices": {
         "A": "fill out",
         "B": "keep an eye on",
@@ -50,11 +50,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Please ______ this form now."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up (d): It is forbidden to ______ during the show.",
       "choices": {
         "A": "fill out",
         "B": "keep an eye on",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "It is forbidden to ______ during the show."
     },
     {
       "type": "choice",
@@ -147,14 +147,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): I was born ____.",
+      "prompt": "Warm-Up 2-(d): I was born ____ — I was born ______ June.",
       "accept": [
         "in"
       ],
       "section": "Warm-Up",
       "id": "q12",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "I was born ______ June."
     },
     {
       "type": "text",
@@ -253,14 +253,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Grammar Practice 2: type the word for (d).",
+      "prompt": "Grammar Practice 2-(d): Grammar Practice 2: type the word for (d) — ______ the past, it was used as a weapon.",
       "accept": [
         "In"
       ],
       "section": "Grammar Practice",
       "id": "q22",
       "label": "2-(d)",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "______ the past, it was used as a weapon."
     },
     {
       "type": "choice",

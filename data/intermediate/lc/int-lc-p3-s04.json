@@ -10,7 +10,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 1: You are not permitted to ______ in this area.",
       "choices": {
         "A": "camp",
         "B": "is not allowed"
@@ -19,11 +19,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "You are not permitted to ______ in this area."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-: choose the word or phrase that completes the sentence.",
+      "prompt": "Words and Idioms Check-Up 2: Food ______ in the building.",
       "choices": {
         "A": "camp",
         "B": "is not allowed"
@@ -32,7 +32,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "2",
-      "blocked": "stem text not yet transcribed from PDF"
+      "stem": "Food ______ in the building."
     },
     {
       "id": "q3",

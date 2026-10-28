@@ -1,250 +1,334 @@
 {
- "practiceId": "adv-rc-p5-s06",
- "title": "Part V · Section 06",
- "subtitle": "Memos",
- "level": "advanced",
- "skill": "rc",
- "stub": false,
- "introEn": "Read the passage and choose the best answer.",
- "items": [
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (a): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "bring",
-    "B": "cancel",
-    "C": "reach"
-   },
-   "accept": "C",
-   "section": "Words and Idioms Check-Up",
-   "id": "q1",
-   "label": "(a)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "bring",
-    "B": "cancel",
-    "C": "reach"
-   },
-   "accept": "B",
-   "section": "Words and Idioms Check-Up",
-   "id": "q2",
-   "label": "(b)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
-   "choices": {
-    "A": "bring",
-    "B": "cancel",
-    "C": "reach"
-   },
-   "accept": "A",
-   "section": "Words and Idioms Check-Up",
-   "id": "q3",
-   "label": "(c)",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 1-: type the answer.",
-   "accept": [
-    "application form"
-   ],
-   "section": "Warm-Up",
-   "id": "q4",
-   "label": "1",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 2-: type the answer.",
-   "accept": [
-    "if interested"
-   ],
-   "section": "Warm-Up",
-   "id": "q5",
-   "label": "2",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 3-: type the answer.",
-   "accept": [
-    "ask for"
-   ],
-   "section": "Warm-Up",
-   "id": "q6",
-   "label": "3",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 4-: type the answer.",
-   "accept": [
-    "make sure"
-   ],
-   "section": "Warm-Up",
-   "id": "q7",
-   "label": "4",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 5-: type the answer.",
-   "accept": [
-    "no longer"
-   ],
-   "section": "Warm-Up",
-   "id": "q8",
-   "label": "5",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 6-: type the answer.",
-   "accept": [
-    "company dinner"
-   ],
-   "section": "Warm-Up",
-   "id": "q9",
-   "label": "6",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 7-: type the answer.",
-   "accept": [
-    "be expected to"
-   ],
-   "section": "Warm-Up",
-   "id": "q10",
-   "label": "7",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "text",
-   "prompt": "Warm-Up 8-: type the answer.",
-   "accept": [
-    "accounts department"
-   ],
-   "section": "Warm-Up",
-   "id": "q11",
-   "label": "8",
-   "blocked": "stem text not yet transcribed from PDF"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is the reason for the memo?",
-   "choices": {
-    "A": "To tell staff that the accounts department will be closed on Friday",
-    "B": "To tell staff that a job is available in the accounts department"
-   },
-   "accept": "B",
-   "section": "Reading Practice 1",
-   "id": "q12",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What should people do to apply?",
-   "choices": {
-    "A": "Give the accounts department a completed application form",
-    "B": "Get experience working in an accounts department"
-   },
-   "accept": "A",
-   "section": "Reading Practice 1",
-   "id": "q13",
-   "label": "2"
-  },
-  {
-   "type": "choice",
-   "prompt": "What are students asked to write about?",
-   "choices": {
-    "A": "A famous person",
-    "B": "A member of their family"
-   },
-   "accept": "A",
-   "section": "Reading Practice 2",
-   "id": "q14",
-   "label": "1"
-  },
-  {
-   "type": "choice",
-   "prompt": "What is learned about the assignment?",
-   "choices": {
-    "A": "It must include pictures.",
-    "B": "It is due on February 6."
-   },
-   "accept": "B",
-   "section": "Reading Practice 2",
-   "id": "q15",
-   "label": "2"
-  },
-  {
-   "id": "q16",
-   "label": "1",
-   "type": "choice",
-   "choices": {
-    "A": "The salesperson",
-    "B": "The restaurant owner",
-    "C": "Sarah",
-    "D": "Tim"
-   },
-   "prompt": "Who wrote this memo?",
-   "accept": "D",
-   "passage": "",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q17",
-   "label": "2",
-   "type": "choice",
-   "choices": {
-    "A": "Every Friday",
-    "B": "Every week",
-    "C": "Every month",
-    "D": "Every Christmas"
-   },
-   "prompt": "How often do they have a company dinner?",
-   "accept": "C",
-   "passage": "",
-   "passageHead": "Questions 1-2 refer to the following memo."
-  },
-  {
-   "id": "q18",
-   "label": "3",
-   "type": "choice",
-   "choices": {
-    "A": "In their garage",
-    "B": "Near the main office",
-    "C": "Away from the building",
-    "D": "In front of their apartment"
-   },
-   "prompt": "Where are residents asked to park?",
-   "accept": "D",
-   "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  },
-  {
-   "id": "q19",
-   "label": "4",
-   "type": "choice",
-   "choices": {
-    "A": "Speeding in the parking lot",
-    "B": "Washing their cars on the street",
-    "C": "Letting guests park in reserved spaces",
-    "D": "Parking in front of their neighbor's apartment"
-   },
-   "prompt": "What should residents NOT do?",
-   "accept": "D",
-   "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
-   "passageHead": "Questions 3-4 refer to the following memo."
-  }
- ],
- "contentVersion": "v4-finishpack-2026-10-28"
+  "practiceId": "adv-rc-p5-s06",
+  "title": "Part V · Section 06",
+  "subtitle": "Memos",
+  "level": "advanced",
+  "skill": "rc",
+  "stub": false,
+  "introEn": "Read the passage and choose the best answer.",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (a): How can I ______ you later on?",
+      "choices": {
+        "A": "bring",
+        "B": "cancel",
+        "C": "reach"
+      },
+      "accept": "C",
+      "section": "Words and Idioms Check-Up",
+      "id": "q1",
+      "label": "(a)",
+      "stem": "How can I ______ you later on?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (b): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bring",
+        "B": "cancel",
+        "C": "reach"
+      },
+      "accept": "B",
+      "section": "Words and Idioms Check-Up",
+      "id": "q2",
+      "label": "(b)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "choice",
+      "prompt": "Words and Idioms Check-Up (c): choose the word or phrase that completes the sentence.",
+      "choices": {
+        "A": "bring",
+        "B": "cancel",
+        "C": "reach"
+      },
+      "accept": "A",
+      "section": "Words and Idioms Check-Up",
+      "id": "q3",
+      "label": "(c)",
+      "blocked": "stem text not yet transcribed from PDF"
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 만료 일자",
+      "accept": [
+        "application form"
+      ],
+      "section": "Warm-Up",
+      "id": "q4",
+      "label": "1",
+      "stem": "만료 일자",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~ 을 찾다",
+      "accept": [
+        "if interested"
+      ],
+      "section": "Warm-Up",
+      "id": "q5",
+      "label": "2",
+      "stem": "~ 을 찾다",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 도서관 카드",
+      "accept": [
+        "ask for"
+      ],
+      "section": "Warm-Up",
+      "id": "q6",
+      "label": "3",
+      "stem": "도서관 카드",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 항상",
+      "accept": [
+        "make sure"
+      ],
+      "section": "Warm-Up",
+      "id": "q7",
+      "label": "4",
+      "stem": "항상",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 주제",
+      "accept": [
+        "no longer"
+      ],
+      "section": "Warm-Up",
+      "id": "q8",
+      "label": "5",
+      "stem": "주제",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 전반적인 평가",
+      "accept": [
+        "company dinner"
+      ],
+      "section": "Warm-Up",
+      "id": "q9",
+      "label": "6",
+      "stem": "전반적인 평가",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 풍부한 지식",
+      "accept": [
+        "be expected to"
+      ],
+      "section": "Warm-Up",
+      "id": "q10",
+      "label": "7",
+      "stem": "풍부한 지식",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "text",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 경리부",
+      "accept": [
+        "accounts department"
+      ],
+      "section": "Warm-Up",
+      "id": "q11",
+      "label": "8",
+      "stem": "경리부",
+      "wordBank": [
+        "accounts department",
+        "application form",
+        "ask for",
+        "be expected to",
+        "company dinner",
+        "if interested",
+        "make sure",
+        "no longer"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "What is the reason for the memo?",
+      "choices": {
+        "A": "To tell staff that the accounts department will be closed on Friday",
+        "B": "To tell staff that a job is available in the accounts department"
+      },
+      "accept": "B",
+      "section": "Reading Practice 1",
+      "id": "q12",
+      "label": "1",
+      "passage": "MEMO / TITLE : Looking for a trainee accountant / TO : All members of staff. / The accounts department is currently looking for / a trainee accountant. No experience is required, / as all training will be given. If interested, please / telephone the accounts department and ask for an / application form. / All applicants must complete the application form / and give it to the supervisor of the accounts / department before Friday, September 24."
+    },
+    {
+      "type": "choice",
+      "prompt": "What should people do to apply?",
+      "choices": {
+        "A": "Give the accounts department a completed application form",
+        "B": "Get experience working in an accounts department"
+      },
+      "accept": "A",
+      "section": "Reading Practice 1",
+      "id": "q13",
+      "label": "2",
+      "passage": "MEMO / TITLE : Looking for a trainee accountant / TO : All members of staff. / The accounts department is currently looking for / a trainee accountant. No experience is required, / as all training will be given. If interested, please / telephone the accounts department and ask for an / application form. / All applicants must complete the application form / and give it to the supervisor of the accounts / department before Friday, September 24."
+    },
+    {
+      "type": "choice",
+      "prompt": "What are students asked to write about?",
+      "choices": {
+        "A": "A famous person",
+        "B": "A member of their family"
+      },
+      "accept": "A",
+      "section": "Reading Practice 2",
+      "id": "q14",
+      "label": "1",
+      "passage": "ASSIGNMENT / Choose a famous 2 0 th -century person to write a biography / about. Find and write facts about that person. / Birth (date and place) / Personal facts (parents, family, children ) / Accomplishments (achievements, books written ) / Date of death ( if no longer living ) / This assignment is to be handed in by February 6."
+    },
+    {
+      "type": "choice",
+      "prompt": "What is learned about the assignment?",
+      "choices": {
+        "A": "It must include pictures.",
+        "B": "It is due on February 6."
+      },
+      "accept": "B",
+      "section": "Reading Practice 2",
+      "id": "q15",
+      "label": "2",
+      "passage": "ASSIGNMENT / Choose a famous 2 0 th -century person to write a biography / about. Find and write facts about that person. / Birth (date and place) / Personal facts (parents, family, children ) / Accomplishments (achievements, books written ) / Date of death ( if no longer living ) / This assignment is to be handed in by February 6."
+    },
+    {
+      "id": "q16",
+      "label": "1",
+      "type": "choice",
+      "choices": {
+        "A": "The salesperson",
+        "B": "The restaurant owner",
+        "C": "Sarah",
+        "D": "Tim"
+      },
+      "prompt": "Who wrote this memo?",
+      "accept": "D",
+      "passage": "",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q17",
+      "label": "2",
+      "type": "choice",
+      "choices": {
+        "A": "Every Friday",
+        "B": "Every week",
+        "C": "Every month",
+        "D": "Every Christmas"
+      },
+      "prompt": "How often do they have a company dinner?",
+      "accept": "C",
+      "passage": "",
+      "passageHead": "Questions 1-2 refer to the following memo."
+    },
+    {
+      "id": "q18",
+      "label": "3",
+      "type": "choice",
+      "choices": {
+        "A": "In their garage",
+        "B": "Near the main office",
+        "C": "Away from the building",
+        "D": "In front of their apartment"
+      },
+      "prompt": "Where are residents asked to park?",
+      "accept": "D",
+      "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    },
+    {
+      "id": "q19",
+      "label": "4",
+      "type": "choice",
+      "choices": {
+        "A": "Speeding in the parking lot",
+        "B": "Washing their cars on the street",
+        "C": "Letting guests park in reserved spaces",
+        "D": "Parking in front of their neighbor's apartment"
+      },
+      "prompt": "What should residents NOT do?",
+      "accept": "D",
+      "passage": "PARKING ETIQUETTE / Each | resident is expected to | park directly in / front of his or her apartment so all residents can / have regular,c on veni ent parking. If you | have / more than one vehicle, make sure you are not / in conve nien cing | your neighbor. | Please avoid / parking extra vehicles right in front of someone / else, / s apartment.",
+      "passageHead": "Questions 3-4 refer to the following memo."
+    }
+  ],
+  "contentVersion": "v4-finishpack-2026-10-28"
 }
