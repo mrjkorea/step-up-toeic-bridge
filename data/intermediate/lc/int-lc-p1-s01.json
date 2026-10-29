@@ -94,9 +94,9 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The boy has one foot on the ball.",
+        "B": "The boy has one foot on the rock.",
+        "C": "The boy has one foot on the bag."
       },
       "prompt": "Warm-Up 1: Choose the statement you hear that best matches the picture.",
       "accept": "A",
@@ -109,9 +109,9 @@
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The child is buying a drink.",
+        "B": "The child is having a drink.",
+        "C": "The child is making a drink."
       },
       "prompt": "Warm-Up 2: Choose the statement you hear that best matches the picture.",
       "accept": "B",

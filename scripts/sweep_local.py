@@ -98,17 +98,28 @@ for t in cat["tracks"]:
                 if any(not v for v in vals):
                     add(fails, b, pid, it, "empty-choice", json.dumps(ch, ensure_ascii=False))
                 if vals and all(CAP.match(v) for v in vals):
-                    add(
-                        fails,
-                        b,
-                        pid,
-                        it,
-                        "bare-(A)(B)(C)-choices-no-english",
-                        (pr + " " + st).strip()
-                        + " | "
-                        + json.dumps(ch, ensure_ascii=False)
-                        + (" [photo]" if it.get("photo") else ""),
-                    )
+                    if it.get("photo"):
+                        add(
+                            warns,
+                            b,
+                            pid,
+                            it,
+                            "bare-(A)(B)(C)-with-photo (listen-only labels; photo carries cues)",
+                            (pr + " " + st).strip()
+                            + " | "
+                            + json.dumps(ch, ensure_ascii=False),
+                        )
+                    else:
+                        add(
+                            fails,
+                            b,
+                            pid,
+                            it,
+                            "bare-(A)(B)(C)-choices-no-english",
+                            (pr + " " + st).strip()
+                            + " | "
+                            + json.dumps(ch, ensure_ascii=False),
+                        )
                 elif vals and all(LET.match(v) for v in vals):
                     if it.get("photo"):
                         add(

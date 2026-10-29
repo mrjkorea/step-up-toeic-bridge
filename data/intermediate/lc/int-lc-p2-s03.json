@@ -450,48 +450,48 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "At the Chinese restaurant",
-        "B": "I got this from my grandpa.",
-        "C": "I was in the park."
+        "A": "Next to the table.",
+        "B": "I lost my bag.",
+        "C": "My mother bought it for me."
       },
       "prompt": "Check-Up 1: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Where did you put your bag?"
     },
     {
       "id": "q33",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "I got this from my grandpa.",
-        "B": "I was in the park.",
-        "C": "It was held in the café?"
+        "A": "At the mall.",
+        "B": "At 4 o'clock.",
+        "C": "She is my teacher."
       },
       "prompt": "Check-Up 2: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Where are you going to meet Sue?"
     },
     {
       "id": "q34",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "I was in the park.",
-        "B": "It was held in the café?",
-        "C": "To the house with a red roof."
+        "A": "I went skiing with my family.",
+        "B": "I am going to go to my friend's house.",
+        "C": "I have not decided yet."
       },
       "prompt": "Check-Up 3: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Where did you go for your winter vacation?"
     },
     {
       "id": "q35",

@@ -259,68 +259,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Twenty-five dollars.",
+        "B": "The T-shirts will.",
+        "C": "At eight o'clock."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Which of these products do you think will sell the best?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I was sick yesterday.",
+        "B": "It closes at 9 p.m.",
+        "C": "Keep walking straight."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Which way is it to the hospital?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I did.",
+        "B": "The Franklin report.",
+        "C": "I haven't yet."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Which report do you have to finish today?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "We really need a cheaper one.",
+        "B": "We still don't know yet.",
+        "C": "We live in a two-bedroom apartment."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Which one of the apartments did you decide to buy?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",

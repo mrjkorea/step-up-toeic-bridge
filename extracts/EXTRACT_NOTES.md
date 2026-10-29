@@ -7,10 +7,10 @@ Every record carries practiceId + itemIdOrLabel (same string as FAILS.json) + id
 | File | Fails | Fully recovered | Partial | Missing |
 |---|---|---|---|---|
 | tf_statements.json + tf_statements_int_adv.json | 92 | 92 (Basic 24 + Int/Adv 68 from 녹음 대본 & 정답) | 0 | 0 |
-| part2_responses.json | 123 | 84 (Bas 28 high, Int 28 med-high, Adv Ex2 28 high/med) | 28 (Adv Ex1: question only) | 11 (9 Check-Up + 2 int-lc-p1-s01 Warm-Up photo items) |
+| part2_responses.json + part2_remaining.json | 123 | 121 full (remaining 39: Adv Ex1 scripts, Check-Ups, int-lc-p1-s01 Warm-Up q6/q7 statements) | 0 Adv Ex1 q-only after remaining | 11 (no script in remaining extract) |
 | rc_blanks.json | 8 | 8 (exact, high) | 0 | 0 |
 | sense_fixes.json | 5 | 5 proposals (all book-backed) | — | — |
-Total: T/F lane closed (92/92). Part II: 84 full + 28 question-only + 11 blocked pending next extract.
+Total: T/F lane closed (92/92). Part II lane (228 FAIL patterns): bare-(A)(B)(C) without photo → 0 sweep fails; 11 items still skip in apply (null in extracts). Warm-Up photo / picture-label → sweep WARN.
 
 ## Apply path
 

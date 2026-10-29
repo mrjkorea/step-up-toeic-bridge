@@ -284,68 +284,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's a 20-hour flight.",
+        "B": "Yes, it is.",
+        "C": "Yes, last year."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Has George ever been to Australia?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I'm late.",
+        "B": "I got an A.",
+        "C": "No, I haven't."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Haven't you finished your science fair project yet?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, it would help us save money.",
+        "B": "No, I have to stay at home this weekend.",
+        "C": "Yes, I had a great time last weekend."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Wouldn't it be better to stay at home this weekend?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, it gets quite busy on weekends.",
+        "B": "Yes, I read the books.",
+        "C": "You've dialed the wrong number."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Should we call the restaurant and book a table?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",

@@ -122,43 +122,65 @@ def listen_prompt_for_item(it: dict, rec: dict | None = None) -> str:
     return f"Listening Practice {label}): Listen and choose the best response."
 
 
+def apply_part2_item(it: dict, rec: dict) -> str:
+    """Returns: full | qonly | warmup | skip"""
+    q = rec.get("question")
+    ch = rec.get("choices")
+    if q and ch:
+        it["prompt"] = listen_prompt_for_item(it, rec)
+        it["stem"] = q
+        it["choices"] = ch
+        it["hideChoicesUntilAnswered"] = True
+        it.pop("hideQuestionUntilAnswered", None)
+        return "full"
+    if q and not ch:
+        it["prompt"] = listen_prompt_for_item(it, rec)
+        it["stem"] = q
+        it["choices"] = {"A": "(A)", "B": "(B)", "C": "(C)"}
+        it["hideChoicesUntilAnswered"] = True
+        it["hideQuestionUntilAnswered"] = True
+        return "qonly"
+    if ch and not q:
+        it["choices"] = ch
+        it.pop("stem", None)
+        it.pop("hideQuestionUntilAnswered", None)
+        it.pop("hideChoicesUntilAnswered", None)
+        return "warmup"
+    return "skip"
+
+
 def apply_part2():
-    n_full = n_qonly = n_skip = 0
     touched = set()
-    for rec in json.loads((EX / "part2_responses.json").read_text(encoding="utf-8")):
-        path, doc = load_practice(rec["practiceId"])
-        it = item_by_id(doc, rec["id"])
-        if not it:
-            raise KeyError((rec["practiceId"], rec["id"]))
-        q = rec.get("question")
-        ch = rec.get("choices")
-        if ch and q:
-            it["prompt"] = listen_prompt_for_item(it, rec)
-            it["stem"] = q
-            it["choices"] = ch
-            it["hideChoicesUntilAnswered"] = True
-            it.pop("hideQuestionUntilAnswered", None)
-            n_full += 1
-        elif q and not ch:
-            it["prompt"] = listen_prompt_for_item(it, rec)
-            it["stem"] = q
-            it["choices"] = {"A": "(A)", "B": "(B)", "C": "(C)"}
-            it["hideChoicesUntilAnswered"] = True
-            it["hideQuestionUntilAnswered"] = True
-            n_qonly += 1
-        else:
-            n_skip += 1
+    n_full = n_qonly = n_warmup = n_skip = 0
+    for fname in ("part2_responses.json", "part2_remaining.json"):
+        fp = EX / fname
+        if not fp.is_file():
             continue
-        save_practice(path, doc)
-        touched.add(rec["practiceId"])
-    return n_full, n_qonly, n_skip, touched
+        for rec in json.loads(fp.read_text(encoding="utf-8")):
+            path, doc = load_practice(rec["practiceId"])
+            it = item_by_id(doc, rec["id"])
+            if not it:
+                raise KeyError((rec["practiceId"], rec["id"]))
+            kind = apply_part2_item(it, rec)
+            if kind == "skip":
+                n_skip += 1
+                continue
+            save_practice(path, doc)
+            touched.add(rec["practiceId"])
+            if kind == "full":
+                n_full += 1
+            elif kind == "qonly":
+                n_qonly += 1
+            elif kind == "warmup":
+                n_warmup += 1
+    return n_full, n_qonly, n_warmup, n_skip, touched
 
 
 def main():
     rc_n, rc_p = apply_rc()
     sense_n, sense_p = apply_sense()
     tf_n, tf_p, tf_skip = apply_tf()
-    p2_full, p2_q, p2_skip, p2_p = apply_part2()
+    p2_full, p2_q, p2_w, p2_skip, p2_p = apply_part2()
     print(
         json.dumps(
             {
@@ -169,7 +191,9 @@ def main():
                 "tf_int_adv_file": (EX / "tf_statements_int_adv.json").is_file(),
                 "part2_full": p2_full,
                 "part2_question_only": p2_q,
+                "part2_warmup_statements": p2_w,
                 "part2_skipped": p2_skip,
+                "part2_remaining_file": (EX / "part2_remaining.json").is_file(),
                 "practices_touched": sorted(
                     rc_p | sense_p | tf_p | p2_p
                 ),

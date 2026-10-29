@@ -446,48 +446,48 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "z",
-        "B": "I didn't sleep.",
-        "C": "z"
+        "A": "I played soccer.",
+        "B": "Yes, I do.",
+        "C": "I like this shirt."
       },
       "prompt": "Check-Up 1: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Why is your shirt dirty?"
     },
     {
       "id": "q33",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "I didn't sleep.",
-        "B": "z",
-        "C": "I have good news."
+        "A": "I am late.",
+        "B": "I overslept.",
+        "C": "I go to school."
       },
       "prompt": "Check-Up 2: Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Why are you late?"
     },
     {
       "id": "q34",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "z",
-        "B": "I have good news.",
-        "C": "dʒ"
+        "A": "I have a shopping list.",
+        "B": "I will go to the department store.",
+        "C": "I want to buy a present."
       },
       "prompt": "Check-Up 3: Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
       "section": "Check-Up",
       "hideChoicesUntilAnswered": true,
-      "stem": "Listen and choose the best response."
+      "stem": "Why are you going shopping?"
     },
     {
       "id": "q35",

@@ -284,68 +284,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, they're right behind us.",
+        "B": "No, I prefer cats to dogs.",
+        "C": "Yes, we should catch the dogs soon."
       },
       "prompt": "Listening Practice 1-1): The dogs are still chasing us,",
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "The dogs are still chasing us, aren't they?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "No, I'm going to Spain for the summer.",
+        "B": "Yes, I'm really looking forward to it.",
+        "C": "No, the music festival's in the winter."
       },
       "prompt": "Listening Practice 1-2): (A) 3)",
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "This summer's music festival is going to be great, isn't it?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, he studied at a top university.",
+        "B": "Yes, he is too young to be the boss.",
+        "C": "Yes, he is very quiet."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "Our new boss seems intelligent, doesn't he?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "No, I don't work for the same team.",
+        "B": "Yes, I was impressed with them.",
+        "C": "Yes, sales does sound like a good job."
       },
       "prompt": "Listening Practice 1-4): The sales team did a really good job,",
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "stem": "The sales team did a really good job, didn't they?",
-      "hideChoicesUntilAnswered": true,
-      "hideQuestionUntilAnswered": true
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
