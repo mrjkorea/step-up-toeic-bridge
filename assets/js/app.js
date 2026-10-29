@@ -552,12 +552,12 @@
     else if (s.indexOf("audio/") === 0) url = root.stepupUrl(s);
     else url = root.stepupUrl("audio/" + s);
     var wrap = el("div", "q-clip-audio");
-    var video = document.createElement("video");
-    video.controls = true;
-    video.preload = "metadata";
-    video.className = "stepup-audio stepup-audio--clip";
-    video.src = url;
-    wrap.appendChild(video);
+    var media = document.createElement("audio");
+    media.controls = true;
+    media.preload = "metadata";
+    media.className = "stepup-audio stepup-audio--clip";
+    media.src = url;
+    wrap.appendChild(media);
     card.appendChild(wrap);
   }
 
