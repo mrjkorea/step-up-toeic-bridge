@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — playing ______",
+      "prompt": "Vocabulary Practice 2-(a): Complete the phrase: playing ______ with pets",
       "accept": [
         "with",
         "playing with pets"
@@ -105,11 +105,11 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "playing ______"
+      "stem": "playing ______ with pets"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — Internet ______",
+      "prompt": "Vocabulary Practice 2-(b): Complete the compound word: Internet ______",
       "accept": [
         "Internet surfing"
       ],
@@ -120,7 +120,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — scuba ______",
+      "prompt": "Vocabulary Practice 2-(c): Complete the compound word: scuba ______",
       "accept": [
         "scuba diving"
       ],
@@ -131,7 +131,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — water ______",
+      "prompt": "Vocabulary Practice 2-(d): Complete the compound word: water ______",
       "accept": [
         "water-skiing",
         "waterskiing"
@@ -154,7 +154,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: I love doing aerobics. It is very ______.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: I love doing aerobics. It is very ______.",
       "accept": [
         "exciting"
       ],
@@ -165,14 +165,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: Have you watched the movie that has been released recently?",
+      "prompt": "Vocabulary Practice 3-(c): Complete the sentence: Have you watched the movie that has been released recently? It was very ______.",
       "accept": [
         "moving"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(c)",
-      "stem": "Have you watched the movie that has been released recently?"
+      "stem": "Have you watched the movie that has been released recently? It was very ______."
     },
     {
       "id": "q16",

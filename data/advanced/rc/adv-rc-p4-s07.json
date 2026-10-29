@@ -148,7 +148,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: Fish ______ through their gills.",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: Fish ______ through their gills.",
       "accept": [
         "breathe"
       ],
@@ -159,7 +159,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: I can't ______ meat well.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: I can't ______ meat well.",
       "accept": [
         "digest"
       ],
@@ -170,7 +170,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: Don't ______ in front of other people.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: Don't ______ in front of other people.",
       "accept": [
         "yawn"
       ],
@@ -181,7 +181,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): Write the word that does not belong: He ______ at the table.",
+      "prompt": "Vocabulary Practice 3-(d): Fill in the blank: He ______ at the table.",
       "accept": [
         "burped"
       ],

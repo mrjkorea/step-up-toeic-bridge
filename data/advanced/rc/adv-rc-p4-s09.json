@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — department ______",
+      "prompt": "Vocabulary Practice 2-(a): Complete the compound word: department ______",
       "accept": [
         "department store",
         "store"
@@ -114,7 +114,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — movie ______",
+      "prompt": "Vocabulary Practice 2-(b): Complete the compound word: movie ______",
       "accept": [
         "movie theater",
         "theater"
@@ -126,7 +126,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — post ______",
+      "prompt": "Vocabulary Practice 2-(c): Complete the compound word: post ______",
       "accept": [
         "post office",
         "office"
@@ -138,7 +138,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — parking ______",
+      "prompt": "Vocabulary Practice 2-(d): Complete the compound word: parking ______",
       "accept": [
         "parking lot",
         "lot"

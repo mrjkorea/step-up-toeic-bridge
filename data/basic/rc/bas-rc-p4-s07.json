@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: If you have any questions, please ______ me.",
+      "prompt": "Vocabulary Practice 2-(a): Fill in the blank: If you have any questions, please ______ me.",
       "accept": [
         "ask"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: Students are ______ the classroom.",
+      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: Students are ______ the classroom.",
       "accept": [
         "cleaning"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: Can I ______ your pen? I didn't bring mine.",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: Can I ______ your pen? I didn't bring mine.",
       "accept": [
         "borrow"
       ],

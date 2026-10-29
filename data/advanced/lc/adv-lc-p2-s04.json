@@ -320,7 +320,7 @@
         "B": "Wait until tomorrow.",
         "C": "Let's do the chores today."
       },
-      "prompt": "Listening Practice 1-3): today, or should we finish the house chores?",
+      "prompt": "Listening Practice 1-3): Should we paint the fence today, or should we finish the house chores?",
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",

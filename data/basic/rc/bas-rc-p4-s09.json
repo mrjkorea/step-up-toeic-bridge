@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: Jane is ______ tennis from Mr. Dean.",
+      "prompt": "Vocabulary Practice 2-(a): Fill in the blank: Jane is ______ tennis from Mr. Dean.",
       "accept": [
         "learning"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: Paul is ______ a magazine.",
+      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: Paul is ______ a magazine.",
       "accept": [
         "reading"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: Laura likes ______.",
+      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: Laura likes ______.",
       "accept": [
         "skiing"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: She is ______ to music now.",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: She is ______ to music now.",
       "accept": [
         "listening"
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: They love ______ movies.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: They love ______ movies.",
       "accept": [
         "watching"
       ],

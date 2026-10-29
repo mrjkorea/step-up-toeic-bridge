@@ -132,7 +132,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: My tooth hurts. I have a ______.",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: My tooth hurts. I have a ______.",
       "accept": [
         "toothache"
       ],
@@ -143,7 +143,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: My head hurts. I have a ______",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: My head hurts. I have a ______",
       "accept": [
         "headache"
       ],
@@ -154,7 +154,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: I can't sleep. I have ______.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: I can't sleep. I have ______.",
       "accept": [
         "insomnia"
       ],
