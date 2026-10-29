@@ -97,15 +97,16 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Complete the phrase: playing ______ with pets",
+      "prompt": "Vocabulary Practice 2-(a): Complete the phrase: playing ______ pets",
       "accept": [
         "with",
-        "playing with pets"
+        "playing with pets",
+        "playing with"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "playing ______ with pets"
+      "stem": "playing ______ pets"
     },
     {
       "type": "text",
