@@ -75,7 +75,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): I’m ______ this week.",
+      "prompt": "Words and Idioms Check-Up (e): I'm ______ this week.",
       "choices": {
         "A": "bought",
         "B": "leave",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "stem": "I’m ______ this week."
+      "stem": "I'm ______ this week."
     },
     {
       "id": "q6",
@@ -564,5 +564,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): ______ is your bag?",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: ______ is your bag?",
       "accept": [
         "Where"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): ______ do you leave?",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: ______ do you leave?",
       "accept": [
         "When"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): ______ is your name?",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: ______ is your name?",
       "accept": [
         "What"
       ],
@@ -144,8 +144,10 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): She runs fast.",
+      "prompt": "Warm-Up 2-(a): Make it negative: She runs fast.",
       "accept": [
+        "She doesn't run fast.",
+        "She does not run fast.",
         "doesn't"
       ],
       "section": "Warm-Up",
@@ -155,8 +157,10 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): They clean the room.",
+      "prompt": "Warm-Up 2-(b): Make it negative: They clean the room.",
       "accept": [
+        "They don't clean the room.",
+        "They do not clean the room.",
         "don't"
       ],
       "section": "Warm-Up",
@@ -166,8 +170,10 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): John and Jane are diligent.",
+      "prompt": "Warm-Up 2-(c): Make it negative: John and Jane are diligent.",
       "accept": [
+        "John and Jane aren't diligent.",
+        "John and Jane are not diligent.",
         "aren't"
       ],
       "section": "Warm-Up",
@@ -177,7 +183,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): ______ stand up.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: ______ stand up.",
       "accept": [
         "Please"
       ],
@@ -188,7 +194,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ go there.",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ go there.",
       "accept": [
         "Don't"
       ],
@@ -199,7 +205,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): ______ quiet.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: ______ quiet.",
       "accept": [
         "Be"
       ],
@@ -210,7 +216,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): ______ run fast.",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: ______ run fast.",
       "accept": [
         "Let's"
       ],
@@ -221,7 +227,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): Let's ______ our homework.",
+      "prompt": "Warm-Up 4-(b): Fill in the blank: Let's ______ our homework.",
       "accept": [
         "do"
       ],
@@ -232,7 +238,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): Let's ______ basketball.",
+      "prompt": "Warm-Up 4-(c): Fill in the blank: Let's ______ basketball.",
       "accept": [
         "play"
       ],
@@ -243,7 +249,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): ______ you a student?",
+      "prompt": "Grammar Practice 1-(a): Fill in the blank: ______ you a student?",
       "accept": [
         "Are"
       ],
@@ -254,7 +260,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): ______ is your hat?",
+      "prompt": "Grammar Practice 1-(b): Fill in the blank: ______ is your hat?",
       "accept": [
         "Where"
       ],
@@ -265,18 +271,18 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): How ______ you goto school?",
+      "prompt": "Grammar Practice 1-(c): Fill in the blank: How ______ you go to school?",
       "accept": [
         "do"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(c)",
-      "stem": "How ______ you goto school?"
+      "stem": "How ______ you go to school?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): I ______ TV in the evening.",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: I ______ TV in the evening.",
       "accept": [
         "don't watch"
       ],
@@ -287,7 +293,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): He ______ his room.",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: He ______ his room.",
       "accept": [
         "doesn't clean"
       ],
@@ -298,7 +304,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): They ______ students.",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: They ______ students.",
       "accept": [
         "are not"
       ],
@@ -454,5 +460,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

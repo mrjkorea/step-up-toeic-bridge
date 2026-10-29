@@ -37,7 +37,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): I can ’t ______ to follow the rules anymore.",
+      "prompt": "Words and Idioms Check-Up (c): I can't ______ to follow the rules anymore.",
       "choices": {
         "A": "agree",
         "B": "contact",
@@ -47,7 +47,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "stem": "I can ’t ______ to follow the rules anymore."
+      "stem": "I can't ______ to follow the rules anymore."
     },
     {
       "type": "text",
@@ -258,20 +258,20 @@
       "section": "Reading Practice 1",
       "id": "q13",
       "label": "1",
-      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! / ^ 12:00 ______ Lunch with Jenny. Bring history / notes from last week. / ^ ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club / ^ ______ 5:00 ______ Piano lesson / s house"
+      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! /  12:00 ______ Lunch with Jenny. Bring history / notes from last week. /  ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club /  ______ 5:00 ______ Piano lesson / s house"
     },
     {
       "type": "choice",
       "prompt": "What does Jenny need?",
       "choices": {
-        "A": "Friday’s lab results",
+        "A": "Friday's lab results",
         "B": "Notes from history class"
       },
       "accept": "B",
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "2",
-      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! / ^ 12:00 ______ Lunch with Jenny. Bring history / notes from last week. / ^ ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club / ^ ______ 5:00 ______ Piano lesson / s house"
+      "passage": "* ______ APPOINTMENTS / 9 ______ Day: Monday / O ______ 10:00 ______ Math exam! /  12:00 ______ Lunch with Jenny. Bring history / notes from last week. /  ______ 1:00 ______ English presentation / : ______ 3:00 ______ Meet Danny to discuss / lab results from Friday. / * 4:00 ______ Computer club /  ______ 5:00 ______ Piano lesson / s house"
     },
     {
       "type": "choice",
@@ -360,5 +360,5 @@
       "passageHead": "Questions 3-4 refer to the following form."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

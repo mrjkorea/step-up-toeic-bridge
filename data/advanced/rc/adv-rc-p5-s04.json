@@ -312,7 +312,7 @@
       },
       "prompt": "Why has Mr. Whalley written the letter?",
       "accept": "A",
-      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"Technical / Assistant  as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the right person for the / position. Please find enclosed my resume and / Yours sincerely, / Andrew Whalley",
       "passageHead": "Questions 3-4 refer to the following letter."
     },
     {
@@ -327,9 +327,9 @@
       },
       "prompt": "What has Mr. Whalley sent with the letter?",
       "accept": "A",
-      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"Technical / Assistant  as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the right person for the / position. Please find enclosed my resume and / Yours sincerely, / Andrew Whalley",
       "passageHead": "Questions 3-4 refer to the following letter."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

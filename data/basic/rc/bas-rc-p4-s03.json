@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): shelves ______ wifes ______ wolves",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: shelves ______ wifes ______ wolves",
       "accept": [
         "wifes"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): boy ies ______ ladies babies",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: boy ies ______ ladies babies",
       "accept": [
         "boyies"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): potato — ______",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: potato — ______",
       "accept": [
         "potatoes"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): child ______ — ______",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: child ______ — ______",
       "accept": [
         "children"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): happiness ______ sadness ______ eraser",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: happiness ______ sadness ______ eraser",
       "accept": [
         "eraser"
       ],
@@ -188,7 +188,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Jane ______ Peter ______ baby",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: Jane ______ Peter ______ baby",
       "accept": [
         "baby"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): water ______ people butter",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: water ______ people butter",
       "accept": [
         "people"
       ],
@@ -210,7 +210,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): a ______ of juice",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: a ______ of juice",
       "accept": [
         "glass"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): a ______ of water",
+      "prompt": "Warm-Up 4-(c): Fill in the blank: a ______ of water",
       "accept": [
         "bottle"
       ],
@@ -282,7 +282,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): There are five ______ on the field.",
+      "prompt": "Grammar Practice 1-(a): Fill in the blank: There are five ______ on the field.",
       "accept": [
         "sheep"
       ],
@@ -293,7 +293,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Good evening, ______ and gentlemen!",
+      "prompt": "Grammar Practice 1-(b): Fill in the blank: Good evening, ______ and gentlemen!",
       "accept": [
         "ladies"
       ],
@@ -304,7 +304,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): ______ are playing on the playground.",
+      "prompt": "Grammar Practice 1-(c): Fill in the blank: ______ are playing on the playground.",
       "accept": [
         "Children"
       ],
@@ -315,7 +315,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): datum ______ — ______",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: datum ______ — ______",
       "accept": [
         "data"
       ],
@@ -326,7 +326,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): bacterium — ______",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: bacterium — ______",
       "accept": [
         "bacteria"
       ],
@@ -337,7 +337,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): medium — ______",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: medium — ______",
       "accept": [
         "media"
       ],
@@ -458,5 +458,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

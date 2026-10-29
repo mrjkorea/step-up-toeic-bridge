@@ -22,7 +22,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): A : It’stood ark inside. Could you please ______ the light?",
+      "prompt": "Words and Idioms Check-Up (b): A : It'stood ark inside. Could you please ______ the light?",
       "choices": {
         "A": "pick up",
         "B": "turn on"
@@ -31,12 +31,13 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "A : It’stood ark inside. Could you please ______ the light?"
+      "stem": "A : It'stood ark inside. Could you please ______ the light?"
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): correct the wrong word — He works very hardly.",
+      "prompt": "Warm-Up 3-(a): Correct the error — He works very hardly.",
       "accept": [
+        "He works very hard.",
         "hard"
       ],
       "section": "Warm-Up",
@@ -46,8 +47,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Correct the wrong word — This watch is very expensively.",
+      "prompt": "Warm-Up 3-(c): Correct the error — This watch is very expensively.",
       "accept": [
+        "This watch is very expensive.",
         "expensive"
       ],
       "section": "Warm-Up",
@@ -57,8 +59,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): correct the wrong word — Tomis often lately for school.",
+      "prompt": "Warm-Up 3-(d): Correct the error — Tomis often lately for school.",
       "accept": [
+        "Tom is often late for school.",
         "late"
       ],
       "section": "Warm-Up",
@@ -68,9 +71,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): I will study very hard.",
+      "prompt": "Warm-Up 1-(a): Underline the adverb — I will study very hard.",
       "accept": [
-        "I will study very hard."
+        "very"
       ],
       "section": "Warm-Up",
       "id": "q6",
@@ -79,9 +82,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): The math exam was very difficult.",
+      "prompt": "Warm-Up 1-(b): Underline the adverb — The math exam was very difficult.",
       "accept": [
-        "The math exam was very difficult."
+        "very"
       ],
       "section": "Warm-Up",
       "id": "q7",
@@ -90,9 +93,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): Happily, he passed the exam.",
+      "prompt": "Warm-Up 1-(c): Underline the adverb — Happily, he passed the exam.",
       "accept": [
-        "Happily, he passed the exam."
+        "Happily"
       ],
       "section": "Warm-Up",
       "id": "q8",
@@ -101,9 +104,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): She ran out of the room very quickly.",
+      "prompt": "Warm-Up 1-(d): Underline the adverb — She ran out of the room very quickly.",
       "accept": [
-        "She ran out of the room very quickly."
+        "quickly"
       ],
       "section": "Warm-Up",
       "id": "q9",
@@ -123,7 +126,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): She looks very (beautiful / beautifully) in her dress.",
+      "prompt": "Warm-Up 2-(b): Choose the correct form: She looks very (beautiful / beautifully) in her dress.",
       "accept": [
         "beautiful"
       ],
@@ -134,7 +137,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Your question is very (easy / easily).",
+      "prompt": "Warm-Up 2-(c): Choose the correct form: Your question is very (easy / easily).",
       "accept": [
         "easy"
       ],
@@ -145,7 +148,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): All the boys can play tennis (good / well).",
+      "prompt": "Warm-Up 2-(d): Choose the correct form: All the boys can play tennis (good / well).",
       "accept": [
         "well"
       ],
@@ -167,7 +170,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): He is sad. (always)",
+      "prompt": "Warm-Up 4-(a): Write the correct form: He is sad. (always)",
       "accept": [
         "He is always sad."
       ],
@@ -178,7 +181,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): He watches TV after dinner, (sometimes)",
+      "prompt": "Warm-Up 4-(b): Write the correct form: He watches TV after dinner, (sometimes)",
       "accept": [
         "He sometimes watches TV after dinner."
       ],
@@ -189,7 +192,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): He can read an English newspaper, (hardly)",
+      "prompt": "Warm-Up 4-(c): Write the correct form: He can read an English newspaper, (hardly)",
       "accept": [
         "He can hardly read an English newspaper."
       ],
@@ -200,7 +203,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): He rides a bike to the mart, (often)",
+      "prompt": "Warm-Up 4-(d): Write the correct form: He rides a bike to the mart, (often)",
       "accept": [
         "He often rides a bike to the mart."
       ],
@@ -222,7 +225,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4: Correct the word order: We watch often movies at home.",
+      "prompt": "Grammar Practice 4: Correct the word order — We watch often movies at home.",
       "accept": [
         "We often watch movies at home."
       ],
@@ -232,14 +235,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): fast ______ — ______",
+      "prompt": "Grammar Practice 1-(a): Write the adverb form — fast — ______",
       "accept": [
-        "fast"
+        "fastly"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(a)",
-      "stem": "fast ______ — ______"
+      "stem": "fast — ______"
     },
     {
       "type": "text",
@@ -254,7 +257,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): happy — ______",
+      "prompt": "Grammar Practice 1-(c): Fill in the blank: happy — ______",
       "accept": [
         "happily"
       ],
@@ -265,7 +268,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): sad ______ — ______",
+      "prompt": "Grammar Practice 1-(d): Fill in the blank: sad ______ — ______",
       "accept": [
         "sadly"
       ],
@@ -276,7 +279,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(e): quick — ______",
+      "prompt": "Grammar Practice 1-(e): Fill in the blank: quick — ______",
       "accept": [
         "quickly"
       ],
@@ -320,7 +323,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): He sings very well.",
+      "prompt": "Grammar Practice 2-(a): Change to a noun phrase: He sings very well.",
       "accept": [
         "He is a good singer."
       ],
@@ -331,7 +334,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): She runs very fast.",
+      "prompt": "Grammar Practice 2-(b): Change to a noun phrase: She runs very fast.",
       "accept": [
         "She is a fast runner."
       ],
@@ -342,7 +345,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): The girl plays beautifully.",
+      "prompt": "Grammar Practice 2-(c): Change to a noun phrase: The girl plays beautifully.",
       "accept": [
         "The girl is a beautiful player."
       ],
@@ -353,7 +356,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): He drives carefully.",
+      "prompt": "Grammar Practice 2-(d): Change to a noun phrase: He drives carefully.",
       "accept": [
         "He is a careful driver."
       ],
@@ -452,5 +455,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

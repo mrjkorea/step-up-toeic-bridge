@@ -22,7 +22,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): That ’s a ______ problem.",
+      "prompt": "Words and Idioms Check-Up (b): That's a ______ problem.",
       "choices": {
         "A": "delicate",
         "B": "regularly"
@@ -31,7 +31,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "That ’s a ______ problem."
+      "stem": "That's a ______ problem."
     },
     {
       "type": "text",
@@ -219,7 +219,7 @@
       "prompt": "Which of the following is NOT true?",
       "choices": {
         "A": "Put the DVD Player in the cool place",
-        "B": "You shouldn’t use the remote control in the bath"
+        "B": "You shouldn't use the remote control in the bath"
       },
       "accept": "B",
       "section": "Reading Practice 1",
@@ -314,5 +314,5 @@
       "passageHead": "Questions 3-4 refer to the following instructions."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I cut my finger and it’s ______ now.",
+      "prompt": "Words and Idioms Check-Up (a): I cut my finger and it's ______ now.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -19,11 +19,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I cut my finger and it’s ______ now."
+      "stem": "I cut my finger and it's ______ now."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): I have a ______ nose. I think Iam coming down with a cold.",
+      "prompt": "Words and Idioms Check-Up (b): I have a ______ nose. I think I am coming down with a cold.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "I have a ______ nose. I think Iam coming down with a cold."
+      "stem": "I have a ______ nose. I think I am coming down with a cold."
     },
     {
       "type": "choice",
@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): bleeding ______ swollen ______ burnt ______ needle",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: bleeding ______ swollen ______ burnt ______ needle",
       "accept": [
         "needle"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): headache ______ medicine ______ backache ______ toothache",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: headache ______ medicine ______ backache ______ toothache",
       "accept": [
         "medicine"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): cut ______ bleed ______ overwork ______ sneeze",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: cut ______ bleed ______ overwork ______ sneeze",
       "accept": [
         "overwork"
       ],
@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): take ______  ______  consciousness",
+      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: take ______  ______  consciousness",
       "accept": [
         "take"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): lose ______  ______  an operation",
+      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: lose ______  ______  an operation",
       "accept": [
         "lose one's temperature: XCH consciousness:"
       ],
@@ -106,18 +106,18 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): comedown  ______  one ’s temperature ______",
+      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: come down  ______  one's temperature ______",
       "accept": [
         "come down with"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "comedown  ______  one ’s temperature ______"
+      "stem": "come down  ______  one's temperature ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): have ______  ______  with ______",
+      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: have ______  ______  with ______",
       "accept": [
         "have an operation:"
       ],
@@ -128,7 +128,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): My tooth hurts. I have a ______.",
+      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: My tooth hurts. I have a ______.",
       "accept": [
         "toothache"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): My head hurts. I have a ______",
+      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: My head hurts. I have a ______",
       "accept": [
         "headache"
       ],
@@ -150,14 +150,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): I can ’t sleep. I have ______.",
+      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: I can't sleep. I have ______.",
       "accept": [
         "insomnia"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "stem": "I can ’t sleep. I have ______."
+      "stem": "I can't sleep. I have ______."
     },
     {
       "id": "q15",
@@ -212,5 +212,5 @@
       "accept": "D"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

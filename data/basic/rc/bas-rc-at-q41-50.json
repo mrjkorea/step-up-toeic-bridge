@@ -116,7 +116,7 @@
       "prompt": "Where can student passes be found?",
       "accept": "B",
       "part": "V",
-      "passage": "Library Hours: / Monday & Friday | 7:30 a.m . - 3:00 p.m . / Tuesday & Thursday | 7:30 a.m . - 4:00 p.m . / Wednesday | 7:30 a.m . - 1:30 p.m . / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
+      "passage": "Library Hours: / Monday & Friday | 7:30 a.m. - 3:00 p.m. / Tuesday & Thursday | 7:30 a.m. - 4:00 p.m. / Wednesday | 7:30 a.m. - 1:30 p.m. / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
       "passageHead": "Questions 97-98 refer to the following chart."
     },
     {
@@ -132,7 +132,7 @@
       "prompt": "What are student passes required for?",
       "accept": "D",
       "part": "V",
-      "passage": "Library Hours: / Monday & Friday | 7:30 a.m . - 3:00 p.m . / Tuesday & Thursday | 7:30 a.m . - 4:00 p.m . / Wednesday | 7:30 a.m . - 1:30 p.m . / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
+      "passage": "Library Hours: / Monday & Friday | 7:30 a.m. - 3:00 p.m. / Tuesday & Thursday | 7:30 a.m. - 4:00 p.m. / Wednesday | 7:30 a.m. - 1:30 p.m. / Student passes are available from the Attendance Office to / allow student access to the Library Media Center during / lunchtime, if no classes are scheduled in the library.",
       "passageHead": "Questions 97-98 refer to the following chart."
     },
     {
@@ -168,5 +168,5 @@
       "passageHead": "Questions 99-100 refer to the following advertisement."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): judge ______ farmer ______ professor ______ lawyer",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: judge ______ farmer ______ professor ______ lawyer",
       "accept": [
         "farmer"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): pianist ______ violinist ______ singer ______ painter",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: pianist ______ violinist ______ singer ______ painter",
       "accept": [
         "painter"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): golfer ______ basketball player ______ tennis player ______ firefighter",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: golfer ______ basketball player ______ tennis player ______ firefighter",
       "accept": [
         "firefighter"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): police ______  ______  player ______ — ______",
+      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: police ______  ______  player ______ — ______",
       "accept": [
         "police officer: police officer"
       ],
@@ -106,7 +106,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): hair ______  ______  officer ______",
+      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: hair ______  ______  officer ______",
       "accept": [
         "hair dresser: hairdresser"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): fire ______  ______  dresser ______",
+      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: fire ______  ______  dresser ______",
       "accept": [
         "fire fighter: firefighter"
       ],
@@ -245,5 +245,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -77,7 +77,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 3-(a): Iam ______ to see you.",
+      "prompt": "Words and Idioms Check-Up 3-(a): I am ______ to see you.",
       "choices": {
         "A": "bought",
         "B": "enjoy",
@@ -90,7 +90,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "3-(a)",
-      "stem": "Iam ______ to see you."
+      "stem": "I am ______ to see you."
     },
     {
       "type": "choice",
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): We ______ happy.",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: We ______ happy.",
       "accept": [
         "are"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): I ______ sad.",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: I ______ sad.",
       "accept": [
         "was"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): They ______ glad to see me.",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: They ______ glad to see me.",
       "accept": [
         "were"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Jean ______ arts.",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: Jean ______ arts.",
       "accept": [
         "studied"
       ],
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): I ______ the movie.",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: I ______ the movie.",
       "accept": [
         "enjoyed"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): We ______ to see ______ him again.",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: We ______ to see ______ him again.",
       "accept": [
         "hoped"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): Paul ______ writing his name on the board.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: Paul ______ writing his name on the board.",
       "accept": [
         "is"
       ],
@@ -188,7 +188,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Jane was ______ to the grocery store.",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: Jane was ______ to the grocery store.",
       "accept": [
         "going"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): They ______ playing volleyball.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: They ______ playing volleyball.",
       "accept": [
         "were"
       ],
@@ -210,25 +210,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): I ______ goto school on weekends.",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: I ______ go to school on weekends.",
       "accept": [
         "don't"
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "4-(a)",
-      "stem": "I ______ goto school on weekends."
+      "stem": "I ______ go to school on weekends."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): She ______ want togo to the hospital.",
+      "prompt": "Warm-Up 4-(b): Fill in the blank: She ______ want to go to the hospital.",
       "accept": [
         "doesn't"
       ],
       "section": "Warm-Up",
       "id": "q17",
       "label": "4-(b)",
-      "stem": "She ______ want togo to the hospital."
+      "stem": "She ______ want to go to the hospital."
     },
     {
       "type": "text",
@@ -273,8 +273,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): correct the wrong word — She quitted her job.",
+      "prompt": "Grammar Practice 4-(a): Correct the error — She quitted her job.",
       "accept": [
+        "She quit her job.",
         "quit"
       ],
       "section": "Grammar Practice",
@@ -284,14 +285,15 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct the wrong word — He was hs his car.",
+      "prompt": "Grammar Practice 4-(c): Correct the wrong word — He wash his car.",
       "accept": [
-        "washes"
+        "washes",
+        "He washes his car."
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "4-(c)",
-      "stem": "He was hs his car."
+      "stem": "He wash his car."
     },
     {
       "type": "text",
@@ -317,7 +319,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): He is kicking the ball. (",
+      "prompt": "Grammar Practice 1-(c): Change to the simple present: He is kicking the ball.",
       "accept": [
         "He kicks the ball."
       ],
@@ -328,7 +330,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): I ______ at 10:00 at night",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: I ______ at 10:00 at night",
       "accept": [
         "sleep"
       ],
@@ -339,7 +341,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): He ______ very hungry ______",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: He ______ very hungry ______",
       "accept": [
         "was"
       ],
@@ -350,7 +352,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): She ______ science",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: She ______ science",
       "accept": [
         "taught"
       ],
@@ -449,5 +451,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

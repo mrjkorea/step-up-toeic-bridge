@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Thank you for your ______. It’s very nice of you.",
+      "prompt": "Words and Idioms Check-Up (a): Thank you for your ______. It's very nice of you.",
       "choices": {
         "A": "anniversary",
         "B": "enjoy",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Thank you for your ______. It’s very nice of you."
+      "stem": "Thank you for your ______. It's very nice of you."
     },
     {
       "type": "choice",
@@ -276,20 +276,20 @@
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "1",
-      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+      "passage": "Hi, Dad!............................................................................. / It's wonderful here in Hawaii. / It'shot but I really enjoy swimming. / Now I'min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
     },
     {
       "type": "choice",
       "prompt": "What does the writer think about the place?",
       "choices": {
         "A": "Not so good.",
-        "B": "Couldn’t be better."
+        "B": "Couldn't be better."
       },
       "accept": "B",
       "section": "Reading Practice 1",
       "id": "q15",
       "label": "2",
-      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+      "passage": "Hi, Dad!............................................................................. / It's wonderful here in Hawaii. / It'shot but I really enjoy swimming. / Now I'min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
     },
     {
       "type": "choice",
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following letter."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

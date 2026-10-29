@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): Let’s finish our ______ now. I have to leave now.",
+      "prompt": "Words and Idioms Check-Up (b): Let's finish our ______ now. I have to leave now.",
       "choices": {
         "A": "conversation",
         "B": "information",
@@ -35,7 +35,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "Let’s finish our ______ now. I have to leave now."
+      "stem": "Let's finish our ______ now. I have to leave now."
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): counselor ______ adviser ______ narrator discuss",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: counselor ______ adviser ______ narrator discuss",
       "accept": [
         "discuss"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): considerate ______ apply ______ contract propose",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: considerate ______ apply ______ contract propose",
       "accept": [
         "considerate"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): acceptable ______ convincing ______ puzzled state",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: acceptable ______ convincing ______ puzzled state",
       "accept": [
         "state"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): a person who counsels others",
+      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: a person who counsels others",
       "accept": [
         "counselor"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): a person who applies for something",
+      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: a person who applies for something",
       "accept": [
         "applicant"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): a person who gives speech to a group of people",
+      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: a person who gives speech to a group of people",
       "accept": [
         "addresser"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): a person who supports something",
+      "prompt": "Vocabulary Practice 2-(d): Write the word that does not belong: a person who supports something",
       "accept": [
         "supporter"
       ],
@@ -263,5 +263,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

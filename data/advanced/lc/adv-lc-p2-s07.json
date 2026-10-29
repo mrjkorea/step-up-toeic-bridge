@@ -43,7 +43,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): It’s quite far from here to them",
+      "prompt": "Words and Idioms Check-Up (c): It's quite far from here to them",
       "choices": {
         "A": "be held",
         "B": "discovered",
@@ -55,11 +55,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "stem": "It’s quite far from here to them"
+      "stem": "It's quite far from here to them"
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): Don’t worry. I’ll be there ______.",
+      "prompt": "Words and Idioms Check-Up (d): Don't worry. I'll be there ______.",
       "choices": {
         "A": "be held",
         "B": "discovered",
@@ -71,7 +71,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "Don’t worry. I’ll be there ______."
+      "stem": "Don't worry. I'll be there ______."
     },
     {
       "type": "choice",
@@ -606,5 +606,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): What’s the weather ______ for Monday?",
+      "prompt": "Words and Idioms Check-Up 1-(a): What's the weather ______ for Monday?",
       "choices": {
         "A": "care",
         "B": "contest",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "What’s the weather ______ for Monday?"
+      "stem": "What's the weather ______ for Monday?"
     },
     {
       "type": "choice",
@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(b): I don ’t ______ what she said.",
+      "prompt": "Words and Idioms Check-Up 2-(b): I don't ______ what she said.",
       "choices": {
         "A": "care",
         "B": "contest",
@@ -65,7 +65,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "2-(b)",
-      "stem": "I don ’t ______ what she said."
+      "stem": "I don't ______ what she said."
     },
     {
       "type": "text",
@@ -276,7 +276,7 @@
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "1",
-      "passage": "Number of CLOTHING ITEMS Sold Out / ^ \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
+      "passage": "Number of CLOTHING ITEMS Sold Out /  \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
     },
     {
       "type": "choice",
@@ -289,7 +289,7 @@
       "section": "Reading Practice 1",
       "id": "q15",
       "label": "2",
-      "passage": "Number of CLOTHING ITEMS Sold Out / ^ \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
+      "passage": "Number of CLOTHING ITEMS Sold Out /  \\Month ______ March ______ June ______ September December. / Jeans ______ 24 ______ 12 ______ 21 ______ 23 / Shorts ______ 13 ______ 50 ______ - / Jacket ______ 41 ______ - ______ 24 ______ 14 / Coat ______ - ______ - ______ 45 ______ 67 / 1 ______ Who keeps this kind of table? / (a) Clothing store manager / (b) Restaurant manager / (a) Jacket / (b) Coat"
     },
     {
       "type": "choice",
@@ -302,11 +302,11 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "1",
-      "passage": "Mary^s Class — / Favorite Subject List / Subject / Music / Math / Science"
+      "passage": "Marys Class — / Favorite Subject List / Subject / Music / Math / Science"
     },
     {
       "type": "choice",
-      "prompt": "How many students are there in Mary’s class?",
+      "prompt": "How many students are there in Mary's class?",
       "choices": {
         "A": "30",
         "B": "31"
@@ -315,7 +315,7 @@
       "section": "Reading Practice 2",
       "id": "q17",
       "label": "2",
-      "passage": "Mary^s Class — / Favorite Subject List / Subject / Music / Math / Science"
+      "passage": "Marys Class — / Favorite Subject List / Subject / Music / Math / Science"
     },
     {
       "id": "q18",
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following chart."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): What’s the weather ______ for Monday?",
+      "prompt": "Words and Idioms Check-Up 1-(a): What's the weather ______ for Monday?",
       "choices": {
         "A": "asking for",
         "B": "canceled",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "What’s the weather ______ for Monday?"
+      "stem": "What's the weather ______ for Monday?"
     },
     {
       "type": "choice",
@@ -302,7 +302,7 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "1",
-      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can’t finish it myself. / Please call me ASAP. / Thanks. / Kali"
+      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can't finish it myself. / Please call me ASAP. / Thanks. / Kali"
     },
     {
       "type": "choice",
@@ -315,7 +315,7 @@
       "section": "Reading Practice 2",
       "id": "q17",
       "label": "2",
-      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can’t finish it myself. / Please call me ASAP. / Thanks. / Kali"
+      "passage": "From : ______ q / To : ______ king john @ gg.com / Subject: ______ Please... / Date : ______ July 7 / John, / Can you help me with my homework? / I can't finish it myself. / Please call me ASAP. / Thanks. / Kali"
     },
     {
       "id": "q18",
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following e-mail."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

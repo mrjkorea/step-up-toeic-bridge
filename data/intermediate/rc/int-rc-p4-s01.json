@@ -101,11 +101,11 @@
       "type": "display",
       "displayOnly": true,
       "scored": false,
-      "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean. Not scored — I usually goto bed at 10:00 p.m.",
+      "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean. Not scored — I usually go to bed at 10:00 p.m.",
       "section": "Warm-Up",
       "id": "q8",
       "label": "4-(d)",
-      "stem": "I usually goto bed at 10:00 p.m."
+      "stem": "I usually go to bed at 10:00 p.m."
     },
     {
       "type": "text",
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): I have ______ dinner at 6 p.m.",
+      "prompt": "Warm-Up 1-(d): Fill in the blank: I have ______ dinner at 6 p.m.",
       "accept": [
         "x"
       ],
@@ -178,7 +178,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Take ______",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: Take ______",
       "accept": [
         "an"
       ],
@@ -200,7 +200,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): I like ______ English.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: I like ______ English.",
       "accept": [
         "x"
       ],
@@ -211,7 +211,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ milk on the table is not cold.",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ milk on the table is not cold.",
       "accept": [
         "The"
       ],
@@ -222,7 +222,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Igo to school on ______ foot.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: Igo to school on ______ foot.",
       "accept": [
         "x"
       ],
@@ -244,7 +244,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): I will comeback in (a / an) hour.",
+      "prompt": "Grammar Practice 1-(a): Choose the correct form: I will comeback in (a / an) hour.",
       "accept": [
         "an"
       ],
@@ -279,7 +279,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): He is (a / an) honest man.",
+      "prompt": "Grammar Practice 1-(d): Choose the correct form: He is (a / an) honest man.",
       "accept": [
         "an"
       ],
@@ -290,7 +290,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): My father has a car. He washes ______ car everyday.",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: My father has a car. He washes ______ car everyday.",
       "accept": [
         "the"
       ],
@@ -301,7 +301,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): Nick is ______ tallest boy in his class.",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: Nick is ______ tallest boy in his class.",
       "accept": [
         "the"
       ],
@@ -324,20 +324,20 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Please close ______ door. It’scold.",
+      "prompt": "Grammar Practice 2-(d): Fill in the blank: Please close ______ door. It'scold.",
       "accept": [
         "the"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "2-(d)",
-      "stem": "Please close ______ door. It’scold."
+      "stem": "Please close ______ door. It'scold."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): I like to play the baseball with the my friends.",
+      "prompt": "Grammar Practice 3-(a): Correct the error — I like to play the baseball with the my friends.",
       "accept": [
-        "I like to play the baseball with the my friends."
+        "I like to play baseball with my friends."
       ],
       "section": "Grammar Practice",
       "id": "q29",
@@ -346,31 +346,33 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): We goto the church after a breakfast.",
+      "prompt": "Grammar Practice 3-(b): Correct the error — We go to the church after a breakfast.",
       "accept": [
-        "We go to the church after a breakfast."
+        "We go to the church after breakfast."
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "3-(b)",
-      "stem": "We goto the church after a breakfast."
+      "stem": "We go to the church after a breakfast."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): I don ’t like the winter.",
+      "prompt": "Grammar Practice 3-(c): Correct the error — I don't like the winter.",
       "accept": [
-        "don't like the winter."
+        "I don't like winter.",
+        "I do not like winter."
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "3-(c)",
-      "stem": "I don ’t like the winter."
+      "stem": "I don't like the winter."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): A waiter, please give me the some water.",
+      "prompt": "Grammar Practice 3-(d): Correct the error — A waiter, please give me the some water.",
       "accept": [
-        "A waiter, please give me the some water."
+        "Waiter, please give me some water.",
+        "A waiter, please give me some water."
       ],
       "section": "Grammar Practice",
       "id": "q32",
@@ -489,5 +491,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

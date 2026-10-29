@@ -20,7 +20,7 @@
       "prompt": "Which of the following items will NOT be on sale?",
       "accept": "D",
       "part": "V",
-      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
+      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m. / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m.",
       "passageHead": "Questions 81-82 refer to the following advertisement."
     },
     {
@@ -36,7 +36,7 @@
       "prompt": "What will people receive if they buy something?",
       "accept": "C",
       "part": "V",
-      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m . / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m .",
+      "passage": "YARD SALE / Saturday, June 14 / Starts at 1 p.m. / We are having a yardsale this Saturday. Everything | must go. / There will be a large selection of clothes, sporting equipment, / and toys on sale. / Every purchase comes with a free balloon. A large selection of / drinks and food will also be on sale. / Sale ends at 6 p.m.",
       "passageHead": "Questions 81-82 refer to the following advertisement."
     },
     {
@@ -148,7 +148,7 @@
       "prompt": "Where would you most likely find this sign?",
       "accept": "A",
       "part": "V",
-      "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
+      "passage": "PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines below exactly. / Have your passport ready and ensure that your immigration form is fully completed and signed. / Wait behind the red line until you are told which desk you have to go to. / Do NOT cross the yellow line until an immigration officer authorizes you to do so.",
       "passageHead": "Questions 89-90 refer to the following instructions."
     },
     {
@@ -164,9 +164,9 @@
       "prompt": "How long should you wait behind the yellow line?",
       "accept": "B",
       "part": "V",
-      "passage": "^^^ '7\"^'.. ^ u ^ / CS / PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines / below exactly. / Have your passport ready and ensure that your immigration form is / fully completed and signed. / Wait behind the red line until you are told which desk you have to go / to. / Do NOT cross the yellow line until an immigration officer authorizes / you to do so.",
+      "passage": "PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines below exactly. / Have your passport ready and ensure that your immigration form is fully completed and signed. / Wait behind the red line until you are told which desk you have to go to. / Do NOT cross the yellow line until an immigration officer authorizes you to do so.",
       "passageHead": "Questions 89-90 refer to the following instructions."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

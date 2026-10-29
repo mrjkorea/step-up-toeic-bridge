@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): Today ’s special menu is a ______ salad.",
+      "prompt": "Words and Idioms Check-Up 1-(a): Today's special menu is a ______ salad.",
       "choices": {
         "A": "are interested in",
         "B": "Chefs",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "Today ’s special menu is a ______ salad."
+      "stem": "Today's special menu is a ______ salad."
     },
     {
       "type": "choice",
@@ -272,7 +272,7 @@
       "section": "Reading Practice 2",
       "id": "q15",
       "label": "1",
-      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______ ^ / Shrimp Pasta / Smoky Mountain Chicken"
+      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______  / Shrimp Pasta / Smoky Mountain Chicken"
     },
     {
       "type": "choice",
@@ -285,7 +285,7 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "2",
-      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______ ^ / Shrimp Pasta / Smoky Mountain Chicken"
+      "passage": "Special Dishes for Night / (S at. and Sun. only) / Asian Spiced Dumplings / Broccoli & Cheese Soup ______  / Shrimp Pasta / Smoky Mountain Chicken"
     },
     {
       "id": "q17",
@@ -299,7 +299,7 @@
       },
       "prompt": "What is being advertised?",
       "accept": "B",
-      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m. tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
       "passageHead": "Questions 1-2 refer to the following advertisement."
     },
     {
@@ -314,7 +314,7 @@
       },
       "prompt": "Where can you see this advertisement?",
       "accept": "B",
-      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m . tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
+      "passage": "ON SALE! / Fresh Oranges / $1 for two / $3 for seven / Until 7 p.m. tonight / 1 What is being advertised? / (A) Seafood / (B) Fruit / (C) Toy / (D) Book / 2. Where can you see this advertise ment? / (A) In a house / (B) In a supermarket / (C) In a factory / (D) In a seafood market",
       "passageHead": "Questions 1-2 refer to the following advertisement."
     },
     {
@@ -348,5 +348,5 @@
       "passageHead": "Questions 3-4 refer to the following advertisement."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

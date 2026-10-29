@@ -219,7 +219,7 @@
     },
     {
       "type": "choice",
-      "prompt": "How many hours are the children’s programs?",
+      "prompt": "How many hours are the children's programs?",
       "choices": {
         "A": "Two and a half hours",
         "B": "Three and a half hours"
@@ -228,7 +228,7 @@
       "section": "Reading Practice 1",
       "id": "q12",
       "label": "1",
-      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+      "passage": "TODAY'S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children's Cartoons / 09:30 - 11:00 Children's Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie's Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
     },
     {
       "type": "choice",
@@ -241,7 +241,7 @@
       "section": "Reading Practice 1",
       "id": "q13",
       "label": "2",
-      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+      "passage": "TODAY'S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children's Cartoons / 09:30 - 11:00 Children's Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie's Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
     },
     {
       "type": "choice",
@@ -330,5 +330,5 @@
       "passageHead": "Questions 3-4 refer to the following chart."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

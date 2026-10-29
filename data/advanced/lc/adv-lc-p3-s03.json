@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): You ’re coughing a lot. You must’ve ______",
+      "prompt": "Words and Idioms Check-Up (d): You're coughing a lot. You must've ______",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -70,7 +70,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "You ’re coughing a lot. You must’ve ______"
+      "stem": "You're coughing a lot. You must've ______"
     },
     {
       "type": "choice",
@@ -346,5 +346,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

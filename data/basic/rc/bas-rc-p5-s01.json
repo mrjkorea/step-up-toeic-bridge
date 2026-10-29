@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): Today ’s special menu is a ______ salad.",
+      "prompt": "Words and Idioms Check-Up 1-(a): Today's special menu is a ______ salad.",
       "choices": {
         "A": "closed",
         "B": "floor",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "Today ’s special menu is a ______ salad."
+      "stem": "Today's special menu is a ______ salad."
     },
     {
       "type": "choice",
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following notice."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I like ______ in summer. It looks cool, doesn ’t it?",
+      "prompt": "Words and Idioms Check-Up (a): I like ______ in summer. It looks cool, doesn't it?",
       "choices": {
         "A": "aerobics",
         "B": "organ",
@@ -19,7 +19,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I like ______ in summer. It looks cool, doesn ’t it?"
+      "stem": "I like ______ in summer. It looks cool, doesn't it?"
     },
     {
       "type": "choice",
@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): Fill in both blanks — I don ’t like going ______ because it can be ______",
+      "prompt": "Vocabulary Practice 3-(d): Fill in both blanks — I don't like going ______ because it can be ______",
       "accept": [
         "scuba diving / dangerous",
         "scuba diving, dangerous",
@@ -60,7 +60,7 @@
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "3-(d)",
-      "stem": "I don ’t like going ______ because it can be ______"
+      "stem": "I don't like going ______ because it can be ______"
     },
     {
       "type": "text",
@@ -75,7 +75,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): turtle ______ elephant ______ rabbit ______ parrot",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: turtle ______ elephant ______ rabbit ______ parrot",
       "accept": [
         "elephant"
       ],
@@ -86,7 +86,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): exciting ______ surf ______ fun ______ moving",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: exciting ______ surf ______ fun ______ moving",
       "accept": [
         "surf"
       ],
@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): playing ______  ______  surfing",
+      "prompt": "Vocabulary Practice 2-(a): Fill in the blank: playing ______  ______  surfing",
       "accept": [
         "Internet surfing : Internet surfing"
       ],
@@ -108,7 +108,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Internet  ______  diving ______",
+      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: Internet  ______  diving ______",
       "accept": [
         "scuba diving: scuba diving"
       ],
@@ -119,18 +119,18 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): scuba ______  ______  whit h pets ______",
+      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: scuba ______  ______  with pets ______",
       "accept": [
         "playing with pets"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "scuba ______  ______  whit h pets ______"
+      "stem": "scuba ______  ______  with pets ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): water ______  ______  skiing ______",
+      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: water ______  ______  skiing ______",
       "accept": [
         "waterskiing : water-skiing"
       ],
@@ -141,7 +141,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): I like reading ______  They are som",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: I like reading ______  They are som",
       "accept": [
         "comic books"
       ],
@@ -152,7 +152,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): I love doing aerobics. It is very ______.",
+      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: I love doing aerobics. It is very ______.",
       "accept": [
         "exciting"
       ],
@@ -163,7 +163,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Have you watched the movie that has been released recently?",
+      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: Have you watched the movie that has been released recently?",
       "accept": [
         "moving"
       ],
@@ -225,5 +225,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -20,7 +20,7 @@
       "prompt": "When does the museum close on Saturdays?",
       "accept": "C",
       "part": "V",
-      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
+      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m. to 5:30 p.m. / Saturday | 11:00 a.m. to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m. to 2 p.m. daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
       "passageHead": "Questions 91-92 refer to the following form."
     },
     {
@@ -36,7 +36,7 @@
       "prompt": "How much is admission fee for teens over 15?",
       "accept": "B",
       "part": "V",
-      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m . to 5:30 p.m . / Saturday | 11:00 a.m . to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m . to 2 p.m . daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
+      "passage": "Natural His tory Museum Hours of Operation / Tuesday - Friday | 9:30 a.m. to 5:30 p.m. / Saturday | 11:00 a.m. to 4:00 p.m. / Closed on Sunday and Monday / Admission Fees / $7 for adults and teens over 15 / $3 for students and children aged 10-15 / Free for seniors and children under 10 / Free admission for everyone on Wednesdays / Cafeteria, giftshop and theater are located next to the / museum building. / Cafeteria opens from 12 p.m. to 2 p.m. daily. / 91 When does the museum close on | 92 . How much is admission fee for teens over / Saturdays? | 15? / (A) 2:00 p.m. | (A) Free / (B) 3:00 p.m. | (B) $3 / (C) 4:00 p.m. | (C) $7 / (D) 5:30 p.m. | (D) $10",
       "passageHead": "Questions 91-92 refer to the following form."
     },
     {
@@ -52,7 +52,7 @@
       "prompt": "What is true about the fundraiser?",
       "accept": "B",
       "part": "V",
-      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
+      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m. on April 13 at Custard's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
       "passageHead": "Questions 93-94 refer to the following article."
     },
     {
@@ -68,7 +68,7 @@
       "prompt": "What will the money from the fundraiser be used for?",
       "accept": "D",
       "part": "V",
-      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m . on April 13 at Custard 's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
+      "passage": "Custard fundraiser Northwestern Ozarks High / School will have its annual fundraising party from / noon to 10 p.m. on April 13 at Custard's Last / Stand, 10138 W. 119th St. A percentage of the / day's profits will be donated to help with / graduation activities at Northwestern Ozarks High.",
       "passageHead": "Questions 93-94 refer to the following article."
     },
     {
@@ -168,5 +168,5 @@
       "passageHead": "Questions 99-100 refer to the following chart."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

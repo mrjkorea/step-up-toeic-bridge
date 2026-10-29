@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): rewrite the sentence — Jane can speak Korean.",
+      "prompt": "Warm-Up 2-(c): Make it negative: Jane can speak Korean.",
       "accept": [
         "Jane cannot speak Korea.",
         "Jane can not speak Korea.",
@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Rewrite the sentence as a negative — Sam will go to see his aunt tomorrow. → negative",
+      "prompt": "Warm-Up 2-(d): Make it negative: Sam will go to see his aunt tomorrow.",
       "accept": [
         "Sam will not go to see his aunt tomorrow.",
         "Sam won't go to see his aunt tomorrow."
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Gary can read Japanese novels.",
+      "prompt": "Warm-Up 2-(a): Change to a question: Gary can read Japanese novels.",
       "accept": [
         "Can Gary read Japanese novels?"
       ],
@@ -157,18 +157,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Candy will use my comp",
+      "prompt": "Warm-Up 2-(b): Change to a question: Candy will use my computer tomorrow.",
       "accept": [
         "Will Candy use my computer tomorrow?"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "2-(b)",
-      "stem": "Candy will use my comp"
+      "stem": "Candy will use my computer tomorrow."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): He teaches me.",
+      "prompt": "Warm-Up 4-(a): Change to the future tense: He teaches me.",
       "accept": [
         "He will teach me."
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): We will meet him at the mart early in the morning.",
+      "prompt": "Warm-Up 4-(b): Make it negative: We will meet him at the mart early in the morning.",
       "accept": [
         "We will not meet him at the mart early in the morning."
       ],
@@ -190,7 +190,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): You are in a hurry.",
+      "prompt": "Warm-Up 4-(c): Change to a question: You are in a hurry.",
       "accept": [
         "Will you be in a hurry?"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): She will bring her younger sister here.",
+      "prompt": "Warm-Up 4-(d): Change to a question: She will bring her younger sister here.",
       "accept": [
         "Will she bring her younger sister here?"
       ],
@@ -405,5 +405,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

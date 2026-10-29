@@ -135,18 +135,19 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): She is very smart.",
+      "prompt": "Warm-Up 1-(c): Replace the noun with a pronoun: Mary is very smart.",
       "accept": [
-        "She is very smart."
+        "She is very smart.",
+        "She's very smart."
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "1-(c)",
-      "stem": "She is very smart."
+      "stem": "Mary is very smart."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): ______ is cute.",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: ______ is cute.",
       "accept": [
         "My sister"
       ],
@@ -157,7 +158,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): ______ is very happy.",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: ______ is very happy.",
       "accept": [
         "He"
       ],
@@ -168,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): ______ is shining.",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: ______ is shining.",
       "accept": [
         "The sun"
       ],
@@ -179,7 +180,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): She teaches ______.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: She teaches ______.",
       "accept": [
         "English"
       ],
@@ -190,7 +191,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): He picked",
+      "prompt": "Warm-Up 3-(b): Type the answer: He picked",
       "accept": [
         "ball"
       ],
@@ -201,7 +202,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): He sanga ______.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: He sanga ______.",
       "accept": [
         "song"
       ],
@@ -212,7 +213,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): It ______ bad.",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: It ______ bad.",
       "accept": [
         "smells"
       ],
@@ -234,7 +235,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): He ______ famous.",
+      "prompt": "Warm-Up 4-(c): Fill in the blank: He ______ famous.",
       "accept": [
         "became"
       ],
@@ -317,8 +318,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): correct the wrong word — He seems sadly.",
+      "prompt": "Grammar Practice 4-(a): Correct the error — He seems sadly.",
       "accept": [
+        "He seems sad.",
         "sad"
       ],
       "section": "Grammar Practice",
@@ -328,8 +330,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): correct the wrong word — It smells badly.",
+      "prompt": "Grammar Practice 4-(b): Correct the error — It smells badly.",
       "accept": [
+        "It smells bad.",
         "bad"
       ],
       "section": "Grammar Practice",
@@ -339,8 +342,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct the wrong word — It sounds nicely.",
+      "prompt": "Grammar Practice 4-(c): Correct the error — It sounds nicely.",
       "accept": [
+        "It sounds nice.",
         "nice"
       ],
       "section": "Grammar Practice",
@@ -460,5 +464,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): poem ______ baseball ______ volleyball",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: poem ______ baseball ______ volleyball",
       "accept": [
         "poem"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): movie ______ fishing ______ traveling",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: movie ______ fishing ______ traveling",
       "accept": [
         "movie"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): jogging ______ aerobics ______ painting",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: jogging ______ aerobics ______ painting",
       "accept": [
         "painting"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Jane is ______ tennis from Mr. Dean.",
+      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: Jane is ______ tennis from Mr. Dean.",
       "accept": [
         "learning"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Paul is ______ a magazine.",
+      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: Paul is ______ a magazine.",
       "accept": [
         "reading"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Laura likes ______.",
+      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: Laura likes ______.",
       "accept": [
         "skiing"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): She is ______ to music now.",
+      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: She is ______ to music now.",
       "accept": [
         "listening"
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): They love ______ movies.",
+      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: They love ______ movies.",
       "accept": [
         "watching"
       ],
@@ -224,5 +224,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

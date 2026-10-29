@@ -78,7 +78,23 @@ def check(assets_only: bool = False) -> int:
         if len(errors) > 200:
             print(f"  ... and {len(errors)-200} more", file=sys.stderr)
         return 1
-    print("check_practice_data: OK")
+
+    import subprocess
+
+    sense = subprocess.run(
+        [sys.executable, os.path.join(os.path.dirname(__file__), "ocr_garble_sense.py")],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if sense.returncode != 0:
+        print("check_practice_data: CoS sense FAIL", file=sys.stderr)
+        print(sense.stdout, file=sys.stderr)
+        if sense.stderr:
+            print(sense.stderr, file=sys.stderr)
+        return 1
+
+    print("check_practice_data: OK (incl. ocr_garble_sense)")
     return 0
 
 

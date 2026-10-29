@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): A : You look angry. What’sup?",
+      "prompt": "Words and Idioms Check-Up (a): A : You look angry. What'sup?",
       "choices": {
         "A": "better than",
         "B": "no longer"
@@ -18,7 +18,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "A : You look angry. What’sup?"
+      "stem": "A : You look angry. What'sup?"
     },
     {
       "type": "choice",
@@ -110,7 +110,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): long ______ - ______ - ______",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: long ______ - ______ - ______",
       "accept": [
         "longer longest"
       ],
@@ -121,7 +121,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): nice — ______ — ______",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: nice — ______ — ______",
       "accept": [
         "nicer - nicest"
       ],
@@ -132,7 +132,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): big — ______ — ______",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: big — ______ — ______",
       "accept": [
         "bigger - biggest"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): John is as smart ______ his brother.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: John is as smart ______ his brother.",
       "accept": [
         "as"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ is bigger, the baseball or golf ball?",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ is bigger, the baseball or golf ball?",
       "accept": [
         "Which"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): It is getting colder and ______",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: It is getting colder and ______",
       "accept": [
         "colder"
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): He is the ______ of all.",
+      "prompt": "Warm-Up 3-(d): Fill in the blank: He is the ______ of all.",
       "accept": [
         "tallest"
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): My cell phone is (expensive / more expensive) than yours.",
+      "prompt": "Grammar Practice 1-(a): Choose the correct form: My cell phone is (expensive / more expensive) than yours.",
       "accept": [
         "more expensive"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Julia is (taller / the tallest) girl in the beauty contest.",
+      "prompt": "Grammar Practice 1-(b): Choose the correct form: Julia is (taller / the tallest) girl in the beauty contest.",
       "accept": [
         "the tallest"
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Seoul is (bigger / the biggest) than Busan.",
+      "prompt": "Grammar Practice 1-(c): Choose the correct form: Seoul is (bigger / the biggest) than Busan.",
       "accept": [
         "bigger"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Newton is as (smart / smarter) as Einstein.",
+      "prompt": "Grammar Practice 1-(d): Choose the correct form: Newton is as (smart / smarter) as Einstein.",
       "accept": [
         "smart"
       ],
@@ -413,5 +413,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

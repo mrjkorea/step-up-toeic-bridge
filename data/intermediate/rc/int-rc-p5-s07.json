@@ -335,8 +335,8 @@
       "type": "choice",
       "prompt": "What does this card show?",
       "choices": {
-        "A": "John’s hobbies",
-        "B": "John’s study result"
+        "A": "John's hobbies",
+        "B": "John's study result"
       },
       "accept": "B",
       "section": "Reading Practice 1",
@@ -348,8 +348,8 @@
       "type": "choice",
       "prompt": "Which of the following is NOT true?",
       "choices": {
-        "A": "John doesn’t like Korean.",
-        "B": "John’s math score is not good."
+        "A": "John doesn't like Korean.",
+        "B": "John's math score is not good."
       },
       "accept": "B",
       "section": "Reading Practice 1",
@@ -368,20 +368,20 @@
       "section": "Reading Practice 2",
       "id": "q18",
       "label": "1",
-      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher’s name"
+      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher's name"
     },
     {
       "type": "choice",
       "prompt": "What is NOT requested to fill in?",
       "choices": {
         "A": "Student ID number",
-        "B": "Homeroom teacher’s name"
+        "B": "Homeroom teacher's name"
       },
       "accept": "B",
       "section": "Reading Practice 2",
       "id": "q19",
       "label": "2",
-      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher’s name"
+      "passage": "St. Lewis Junior HighSchool Library / 1 ______ What is this form for? / (a) To apply for a library card / (b) To apply for a highschool / 2. What is NOT requested to fill in? / (a) Student ID number / (b) Homeroom teacher's name"
     },
     {
       "id": "q20",
@@ -444,5 +444,5 @@
       "passageHead": "Questions 3-4 refer to the following form."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }
