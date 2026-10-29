@@ -6,14 +6,17 @@ Every record carries practiceId + itemIdOrLabel (same string as FAILS.json) + id
 ## Coverage
 | File | Fails | Fully recovered | Partial | Missing |
 |---|---|---|---|---|
-| tf_statements.json | 92 | 24 (Basic s02–s04, exact book wording, high) | 0 | 68 (Int 32 + Adv 36) needsBookPdf |
+| tf_statements.json + tf_statements_int_adv.json | 92 | 92 (Basic 24 + Int/Adv 68 from 녹음 대본 & 정답) | 0 | 0 |
 | part2_responses.json | 123 | 84 (Bas 28 high, Int 28 med-high, Adv Ex2 28 high/med) | 28 (Adv Ex1: question only) | 11 (9 Check-Up + 2 int-lc-p1-s01 Warm-Up photo items) |
 | rc_blanks.json | 8 | 8 (exact, high) | 0 | 0 |
 | sense_fixes.json | 5 | 5 proposals (all book-backed) | — | — |
-Total: 121/228 fully recovered (53%), 28 partial, 79 still need audio scripts.
+Total: T/F lane closed (92/92). Part II: 84 full + 28 question-only + 11 blocked pending next extract.
+
+## Apply path
+
+Use **`python3 scripts/apply_extracts.py`** only (reads `extracts/*.json`). Do not use removed OCR-invent scripts from the earlier hardfix subagent run.
 
 ## Gaps (why) — need the book's audioscript pages (not in OCR or answer keys)
-- Int/Adv Part I Check-Up 1 T/F: book prints only "(a) T/F (b) T/F …"; statements are audio-only. Answer keys give only T/F. No transcript text exists in sources.
 - Adv Part II Listening Practice Ex1 (1-1..1-4, 28 items): question recovered (printed partial + key blank), but its (A)(B)(C) are audio-only and differ from Ex2 (different accept letters).
 - Part II Check-Up (bas-s06, int-s03, adv-s07 ×3) and int-lc-p1-s01 Warm-Up 1–2: book prints "Q. (A)(B)(C)" / photo only.
 - Option if no script available: convert those items to audio-only with a "listen" note rather than inventing text.
