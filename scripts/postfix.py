@@ -7,7 +7,14 @@ F={('bas-rc-p4-s05','Grammar Practice 4-(b)'):['are'],('bas-rc-p4-s05','Grammar 
  ('int-rc-p4-s04','Warm-Up 3-(b)'):['fast'],('int-rc-p4-s05','Warm-Up 1-(d)'):['easier - easiest','easier, easiest','easier easiest'],
  ('int-rc-p4-s05','Warm-Up 1-(e)'):['more wonderful - most wonderful','more wonderful, most wonderful','more wonderful most wonderful'],
  ('adv-rc-p4-s06','Vocabulary Practice 2-(a)'):['touch - rock','touch, rock','touch rock','touch / rock'],
- ('adv-rc-p4-s09','Vocabulary Practice 2-(a)'):['department store'],('int-rc-p4-s06','Vocabulary Practice 2-(a)'):['baseball player']}
+ ('adv-rc-p4-s06','Vocabulary Practice 2-(b)'):['taste - chocolate','taste, chocolate','taste chocolate','taste / chocolate'],
+ ('adv-rc-p4-s06','Vocabulary Practice 2-(c)'):['smell - perfume','smell, perfume','smell perfume','smell / perfume'],
+ ('adv-rc-p4-s06','Vocabulary Practice 2-(d)'):['feel - excited','feel, excited','feel excited','feel / excited'],
+ ('adv-rc-p4-s09','Vocabulary Practice 2-(a)'):['department store'],
+ ('adv-rc-p4-s09','Vocabulary Practice 2-(b)'):['movie theater'],
+ ('adv-rc-p4-s09','Vocabulary Practice 2-(c)'):['post office'],
+ ('adv-rc-p4-s09','Vocabulary Practice 2-(d)'):['parking lot'],
+ ('int-rc-p4-s06','Vocabulary Practice 2-(a)'):['baseball player']}
 DROP={('int-rc-p4-s05','Warm-Up 2-(b)')}  # duplicate of hand-built 2-(b)
 ADD={('int-rc-p4-s05','Warm-Up 1-(e)'):{'type':'text','prompt':'Warm-Up 1-(f): write the comparative and superlative forms (see the book page).','accept':['hotter - hottest','hotter, hottest','hotter hottest'],'label':'1-(f)'}}
 n=0
