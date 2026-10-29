@@ -240,6 +240,7 @@
       "type": "text",
       "prompt": "Grammar Practice 1-(a): Fill in the blank: fast ______ — ______",
       "accept": [
+        "fast",
         "fastly"
       ],
       "section": "Grammar Practice",
@@ -458,5 +459,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v34-cos-fix"
+  "contentVersion": "v35-quiet-fast"
 }
