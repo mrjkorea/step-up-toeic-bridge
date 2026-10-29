@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): ______ is your bag?",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: ______ is your bag?",
       "accept": [
         "Where"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): ______ do you leave?",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: ______ do you leave?",
       "accept": [
         "When"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): ______ is your name?",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: ______ is your name?",
       "accept": [
         "What"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): She runs fast.",
+      "prompt": "Warm-Up 2-(a): Make it negative: She runs fast.",
       "accept": [
         "doesn't"
       ],
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): They clean the room.",
+      "prompt": "Warm-Up 2-(b): Make it negative: They clean the room.",
       "accept": [
         "don't"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): John and Jane are diligent.",
+      "prompt": "Warm-Up 2-(c): Make it negative: John and Jane are diligent.",
       "accept": [
         "aren't"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): ______ stand up.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: ______ stand up.",
       "accept": [
         "Please"
       ],
@@ -188,7 +188,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ go there.",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ go there.",
       "accept": [
         "Don't"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): ______ quiet.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: ______ quiet.",
       "accept": [
         "Be"
       ],
@@ -210,7 +210,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): ______ run fast.",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: ______ run fast.",
       "accept": [
         "Let's"
       ],
@@ -221,7 +221,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): Let's ______ our homework.",
+      "prompt": "Warm-Up 4-(b): Fill in the blank: Let's ______ our homework.",
       "accept": [
         "do"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): Let's ______ basketball.",
+      "prompt": "Warm-Up 4-(c): Fill in the blank: Let's ______ basketball.",
       "accept": [
         "play"
       ],
@@ -243,7 +243,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): ______ you a student?",
+      "prompt": "Grammar Practice 1-(a): Fill in the blank: ______ you a student?",
       "accept": [
         "Are"
       ],
@@ -254,7 +254,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): ______ is your hat?",
+      "prompt": "Grammar Practice 1-(b): Fill in the blank: ______ is your hat?",
       "accept": [
         "Where"
       ],
@@ -265,18 +265,18 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): How ______ you goto school?",
+      "prompt": "Grammar Practice 1-(c): Fill in the blank: How ______ you go to school?",
       "accept": [
         "do"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(c)",
-      "stem": "How ______ you goto school?"
+      "stem": "How ______ you go to school?"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): I ______ TV in the evening.",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: I ______ TV in the evening.",
       "accept": [
         "don't watch"
       ],
@@ -287,7 +287,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): He ______ his room.",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: He ______ his room.",
       "accept": [
         "doesn't clean"
       ],
@@ -298,7 +298,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): They ______ students.",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: They ______ students.",
       "accept": [
         "are not"
       ],
@@ -309,7 +309,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Use the Korean and the given words to make a command — 그곳에 가지 마라. (there. / go / Don't)",
+      "prompt": "Grammar Practice 3-(a): Rewrite the sentence: Use the Korean and the given words to make a command — 그곳에 가지 마라. (there. / go / Don't)",
       "accept": [
         "Don't go there."
       ],
@@ -320,7 +320,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Use the Korean and the given words to make a command — 일찍 일어나세요. (please. / early, / Get / up)",
+      "prompt": "Grammar Practice 3-(b): Rewrite the sentence: Use the Korean and the given words to make a command — 일찍 일어나세요. (please. / early, / Get / up)",
       "accept": [
         "Get up early, please."
       ],
@@ -331,7 +331,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Use the Korean and the given words to make a command — 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
+      "prompt": "Grammar Practice 3-(c): Rewrite the sentence: Use the Korean and the given words to make a command — 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
       "accept": [
         "Don't come back soon."
       ],
@@ -342,7 +342,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): Complete the suggestion using the Korean — 자전거를 타자. → ______ a bicycle.",
+      "prompt": "Grammar Practice 4-(a): Fill in the blank: Complete the suggestion using the Korean — 자전거를 타자. → ______ a bicycle.",
       "accept": [
         "Let's ride"
       ],
@@ -353,7 +353,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): Complete the suggestion using the Korean — 많이 먹지 말자. → ______ not ______ much.",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank: Complete the suggestion using the Korean — 많이 먹지 말자. → ______ not ______ much.",
       "accept": [
         "Let's",
         "eat"
@@ -365,7 +365,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Complete the suggestion using the Korean — 야구하자. → ______ baseball.",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank: Complete the suggestion using the Korean — 야구하자. → ______ baseball.",
       "accept": [
         "Let's",
         "play"

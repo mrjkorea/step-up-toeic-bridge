@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 성적표",
+      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 성적표",
       "accept": [
         "report card"
       ],
@@ -93,7 +93,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 도서관 카드",
+      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 도서관 카드",
       "accept": [
         "library card"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 관심 분야",
+      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 관심 분야",
       "accept": [
         "interest area"
       ],
@@ -141,7 +141,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 의료 기록",
+      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 의료 기록",
       "accept": [
         "medical history"
       ],
@@ -165,7 +165,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
       "accept": [
         "apply for"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~의 결과로",
+      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~의 결과로",
       "accept": [
         "as a result of"
       ],
@@ -213,7 +213,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 작성하다",
       "accept": [
         "fill out"
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 등록양식",
+      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 등록양식",
       "accept": [
         "registration form"
       ],
@@ -261,7 +261,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 시행되다",
+      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 시행되다",
       "accept": [
         "come into effect"
       ],
@@ -285,7 +285,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 10: Write the English expression from the word bank that matches this meaning: ~의 일자로",
+      "prompt": "Warm-Up 10: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~의 일자로",
       "accept": [
         "as of"
       ],
@@ -309,7 +309,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 11: Write the English expression from the word bank that matches this meaning: 유지 비용",
+      "prompt": "Warm-Up 11: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 유지 비용",
       "accept": [
         "maintenance cost"
       ],

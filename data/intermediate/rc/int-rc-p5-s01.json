@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: ~로 나아가다",
+      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~로 나아가다",
       "accept": [
         "proceed to"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 속도를 줄이다",
+      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 속도를 줄이다",
       "accept": [
         "slow down"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 속도 제한",
+      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 속도 제한",
       "accept": [
         "speed limit"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~의 경우에",
+      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~의 경우에",
       "accept": [
         "in case of"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에서 나오다",
+      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에서 나오다",
       "accept": [
         "get out of"
       ],
@@ -161,7 +161,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 줄을 서다",
+      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 줄을 서다",
       "accept": [
         "line up"
       ],
@@ -183,7 +183,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: ~을 향하는",
+      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 향하는",
       "accept": [
         "bound for"
       ],
@@ -205,7 +205,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 탑승을 하는",
+      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 탑승을 하는",
       "accept": [
         "on board"
       ],
@@ -227,7 +227,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하도록 요청받다",
+      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하도록 요청받다",
       "accept": [
         "be requested to"
       ],

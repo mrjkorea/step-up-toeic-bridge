@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "taken his medicine"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, he has."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "turn left or right"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Keep going straight."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "dance recital"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Sorry, there aren't any more tickets."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "some change"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Sure, here you go."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "help me look for"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, but not until I have finished work."
       ],
@@ -622,5 +622,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v6-hardfix-228-2026-10-30"
+  "contentVersion": "v7-cos-lanes-2026-10-30"
 }

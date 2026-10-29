@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 물을 부으세요",
+      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 물을 부으세요",
       "accept": [
         "Pour in water"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 집에서 배우세요",
+      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 집에서 배우세요",
       "accept": [
         "Learn at home"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 스크린을 청소하세요",
+      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 스크린을 청소하세요",
       "accept": [
         "Clean the screen"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 차가워질 때까지",
+      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 차가워질 때까지",
       "accept": [
         "Until chilled"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 알약을 세 알 복용하세요",
+      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 알약을 세 알 복용하세요",
       "accept": [
         "Take 3 tablets"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 식사 후에",
+      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 식사 후에",
       "accept": [
         "After meal"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 재활용하세요",
+      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 재활용하세요",
       "accept": [
         "Recycle"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 함께 섞으세요",
+      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 함께 섞으세요",
       "accept": [
         "Mix together"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 3시간 동안 얼리세요",
+      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 3시간 동안 얼리세요",
       "accept": [
         "Freeze for 3 hours"
       ],

@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "where the biology books are"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "It's on the back wall."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "when your car will be ready"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Not yet. I hope it's sometime today."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "where the bus stop is"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, keep walking straight."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Do you understand"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "I think the company wants to open an overseas office."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "you'll have time"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "I think sometime this afternoon will be O.K."
       ],
@@ -628,5 +628,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v6-hardfix-228-2026-10-30"
+  "contentVersion": "v7-cos-lanes-2026-10-30"
 }

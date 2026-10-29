@@ -5,7 +5,7 @@
   "level": "advanced",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -105,7 +105,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): He is kind (and / but) gentle.",
+      "prompt": "Warm-Up 1-(a): Rewrite the sentence: He is kind (and / but) gentle.",
       "accept": [
         "and"
       ],
@@ -116,7 +116,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): Take the medicine (and / or) you will feel worse.",
+      "prompt": "Warm-Up 1-(b): Rewrite the sentence: Take the medicine (and / or) you will feel worse.",
       "accept": [
         "or"
       ],
@@ -127,7 +127,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): Come (and / for) see me when you can.",
+      "prompt": "Warm-Up 1-(c): Rewrite the sentence: Come (and / for) see me when you can.",
       "accept": [
         "and"
       ],
@@ -138,7 +138,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): Curry (and / but) rice is my favorite.",
+      "prompt": "Warm-Up 1-(d): Rewrite the sentence: Curry (and / but) rice is my favorite.",
       "accept": [
         "and"
       ],
@@ -149,18 +149,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): People say he is right, an dId on ’t agree with him.",
+      "prompt": "Warm-Up 2-(a): Rewrite the sentence: People say he is right, and I don't agree with him.",
       "accept": [
         "and but"
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "2-(a)",
-      "stem": "People say he is right, an dId on ’t agree with him."
+      "stem": "People say he is right, and I don't agree with him."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): Both she (and / or) I are in danger.",
+      "prompt": "Warm-Up 3-(a): Rewrite the sentence: Both she (and / or) I are in danger.",
       "accept": [
         "and"
       ],
@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): He doesn ’t know English (and / or) he is not willing to speak.",
+      "prompt": "Warm-Up 3-(b): Rewrite the sentence: He doesn ’t know English (and / or) he is not willing to speak.",
       "accept": [
         "or"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): I strongly believe (and / that) you will become a good singer.",
+      "prompt": "Warm-Up 3-(c): Rewrite the sentence: I strongly believe (and / that) you will become a good singer.",
       "accept": [
         "that"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): My father told me to study (and / but) I didn ’t.",
+      "prompt": "Warm-Up 3-(d): Rewrite the sentence: My father told me to study (and / but) I didn ’t.",
       "accept": [
         "but"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Catch me ____ you can!",
+      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: Catch me ____ you can!",
       "accept": [
         "if"
       ],
@@ -214,7 +214,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): I must be going now ____ it is getting darker.",
+      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: I must be going now ____ it is getting darker.",
       "accept": [
         "because"
       ],
@@ -224,7 +224,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): I wonder ____ you are for it or against it.",
+      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: I wonder ____ you are for it or against it.",
       "accept": [
         "if"
       ],
@@ -234,7 +234,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): ____ young, he is respected by many people.",
+      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: ____ young, he is respected by many people.",
       "accept": [
         "Although"
       ],
@@ -244,7 +244,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): He can't come into the toy house ____ he is too tall.",
+      "prompt": "Grammar Practice 2-(a): Rewrite the sentence: He can't come into the toy house ____ he is too tall.",
       "accept": [
         "since"
       ],
@@ -254,7 +254,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): I have been learning English ____ we moved to Seoul.",
+      "prompt": "Grammar Practice 2-(b): Rewrite the sentence: I have been learning English ____ we moved to Seoul.",
       "accept": [
         "since"
       ],
@@ -264,7 +264,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Poor ____ he is, he is generous.",
+      "prompt": "Grammar Practice 2-(c): Rewrite the sentence: Poor ____ he is, he is generous.",
       "accept": [
         "as"
       ],
@@ -274,7 +274,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): ____ I look back on, he is a man of great help.",
+      "prompt": "Grammar Practice 2-(d): Rewrite the sentence: ____ I look back on, he is a man of great help.",
       "accept": [
         "as"
       ],
@@ -284,7 +284,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): This is the day ____ we make a contract.",
+      "prompt": "Grammar Practice 3-(a): Rewrite the sentence: This is the day ____ we make a contract.",
       "accept": [
         "when"
       ],
@@ -294,7 +294,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): This is the hall ____ the concert will be on.",
+      "prompt": "Grammar Practice 3-(b): Rewrite the sentence: This is the hall ____ the concert will be on.",
       "accept": [
         "where"
       ],
@@ -304,7 +304,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): She bites her finger nails ____ she becomes nervous.",
+      "prompt": "Grammar Practice 3-(c): Rewrite the sentence: She bites her finger nails ____ she becomes nervous.",
       "accept": [
         "when"
       ],
@@ -314,7 +314,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): This is the toy ____ my father gave me on my birthday.",
+      "prompt": "Grammar Practice 3-(d): Rewrite the sentence: This is the toy ____ my father gave me on my birthday.",
       "accept": [
         "which",
         "that"

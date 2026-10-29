@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): Helen got an Font he math exam. I want to ______ _",
+      "prompt": "Words and Idioms Check-Up (d): Helen got an F on the math exam. I want to ______",
       "choices": {
         "A": "apologize",
         "B": "borrow",
@@ -70,7 +70,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "Helen got an Font he math exam. I want to ______ _"
+      "stem": "Helen got an F on the math exam. I want to ______"
     },
     {
       "type": "choice",

@@ -1013,7 +1013,9 @@
       "type": "text",
       "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “film” (verb: to record with a camera).",
       "accept": [
-        "take a picture"
+        "take a picture",
+        "take a video",
+        "record"
       ],
       "audioOnly": true,
       "section": "Check-Up (2)",
@@ -1139,5 +1141,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v6-hardfix-228-2026-10-30"
+  "contentVersion": "v7-cos-lanes-2026-10-30"
 }

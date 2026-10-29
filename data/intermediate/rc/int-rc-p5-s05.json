@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 정가",
+      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 정가",
       "accept": [
         "regular price"
       ],
@@ -87,7 +87,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 여가 시간",
+      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 여가 시간",
       "accept": [
         "spare time"
       ],
@@ -105,7 +105,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 대학에서",
+      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 대학에서",
       "accept": [
         "at college"
       ],
@@ -123,7 +123,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 매우 큰",
+      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 매우 큰",
       "accept": [
         "extra large"
       ],
@@ -141,7 +141,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 상점 영업 시간",
+      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 상점 영업 시간",
       "accept": [
         "store hours"
       ],

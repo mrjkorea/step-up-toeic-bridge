@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 늦어도 ~까지",
+      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 늦어도 ~까지",
       "accept": [
         "no later than"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
+      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
       "accept": [
         "be invited to"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 예약하다",
+      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 예약하다",
       "accept": [
         "make a reservation"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 요즘에",
+      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 요즘에",
       "accept": [
         "in these days"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 앓다",
+      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 앓다",
       "accept": [
         "suffer from"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 수업 사이에",
+      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 수업 사이에",
       "accept": [
         "between classes"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 손을 씻다",
+      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 손을 씻다",
       "accept": [
         "wash one's hands"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 항상",
+      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 항상",
       "accept": [
         "at all times"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하는 것을 환영하다",
+      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하는 것을 환영하다",
       "accept": [
         "be welcome to"
       ],
@@ -359,7 +359,7 @@
       },
       "prompt": "What is the purpose of this memo?",
       "accept": "A",
-      "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
+      "passage": "To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114 .",
       "passageHead": "Questions 3-4 refer to the following memo."
     },
     {
@@ -374,7 +374,7 @@
       },
       "prompt": "Which of the following is NOT true?",
       "accept": "C",
-      "passage": "jJ i jjiiJ|Ja / To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (M on-Fri) / No reservations needed. / For phone counseling, call 080-1 14-11 14 .",
+      "passage": "To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114 .",
       "passageHead": "Questions 3-4 refer to the following memo."
     }
   ],
