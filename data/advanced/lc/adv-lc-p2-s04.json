@@ -284,9 +284,9 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "Should we take the subway",
-        "B": "I think we should take the car.",
-        "C": "the black one or the white one"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
@@ -301,9 +301,9 @@
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "I took the final exam on Friday",
-        "B": "We should set up camp now",
-        "C": "Climbing mountains is my hobby"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
       "prompt": "Listening Practice 1-2): on Friday or Monday?",
       "accept": "B",
@@ -318,9 +318,9 @@
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "We should paint the fe",
-        "B": "on Friday",
-        "C": "It's on Monday"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
       "prompt": "Listening Practice 1-3): today, or should we finish the house chores?",
       "accept": "C",
@@ -335,9 +335,9 @@
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "We should paint the fence today",
-        "C": "L",
-        "B": "I did the chores yesterday"
+        "A": "(A)",
+        "B": "(B)",
+        "C": "(C)"
       },
       "prompt": "Listening Practice 1-4): the blue shirt or the white one?",
       "accept": "B",

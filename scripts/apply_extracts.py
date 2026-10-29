@@ -73,26 +73,53 @@ def apply_sense():
     return n, touched
 
 
+def apply_tf_record(rec: dict) -> tuple[str, Path] | None:
+    stmt = rec.get("statement")
+    if not stmt:
+        return None
+    path, doc = load_practice(rec["practiceId"])
+    it = item_by_id(doc, rec["id"])
+    if not it:
+        raise KeyError((rec["practiceId"], rec["id"]))
+    label = rec.get("label") or it.get("label", "")
+    it["stem"] = stmt
+    it["prompt"] = f"Check-Up (2) {label}: {stmt} (T/F)"
+    save_practice(path, doc)
+    return rec["practiceId"], path
+
+
 def apply_tf():
     n = 0
     touched = set()
     skipped = 0
-    for rec in json.loads((EX / "tf_statements.json").read_text(encoding="utf-8")):
-        stmt = rec.get("statement")
-        if not stmt:
-            skipped += 1
+    files = [EX / "tf_statements.json", EX / "tf_statements_int_adv.json"]
+    for fp in files:
+        if not fp.is_file():
             continue
-        path, doc = load_practice(rec["practiceId"])
-        it = item_by_id(doc, rec["id"])
-        if not it:
-            raise KeyError((rec["practiceId"], rec["id"]))
-        label = rec.get("label") or it.get("label", "")
-        it["stem"] = stmt
-        it["prompt"] = f"Check-Up (2) {label}: {stmt} (T/F)"
-        save_practice(path, doc)
-        touched.add(rec["practiceId"])
-        n += 1
+        for rec in json.loads(fp.read_text(encoding="utf-8")):
+            if not rec.get("statement"):
+                skipped += 1
+                continue
+            apply_tf_record(rec)
+            touched.add(rec["practiceId"])
+            n += 1
     return n, touched, skipped
+
+
+def listen_prompt_for_item(it: dict, rec: dict | None = None) -> str:
+    pl = (it.get("prompt") or "").strip()
+    if pl and "listen" in pl.lower() and (not it.get("stem") or it.get("stem") not in pl):
+        return pl
+    label = it.get("label") or ""
+    if "choose the best response" in pl.lower() and "Listening Practice" in pl:
+        return pl
+    if "Listening Practice" in pl and re.search(r"\d", pl):
+        base = pl.split(":")[0].strip()
+        if base:
+            return base + ": Listen and choose the best response."
+    if "Check-Up" in (it.get("section") or ""):
+        return pl or "Listen and choose the best response."
+    return f"Listening Practice {label}): Listen and choose the best response."
 
 
 def apply_part2():
@@ -106,16 +133,16 @@ def apply_part2():
         q = rec.get("question")
         ch = rec.get("choices")
         if ch and q:
-            listen = (it.get("prompt") or "").strip()
-            if not listen.lower().startswith("listen"):
-                listen = "Listen and choose the best response."
-            it["prompt"] = listen
+            it["prompt"] = listen_prompt_for_item(it, rec)
             it["stem"] = q
             it["choices"] = ch
             it["hideChoicesUntilAnswered"] = True
+            it.pop("hideQuestionUntilAnswered", None)
             n_full += 1
         elif q and not ch:
+            it["prompt"] = listen_prompt_for_item(it, rec)
             it["stem"] = q
+            it["choices"] = {"A": "(A)", "B": "(B)", "C": "(C)"}
             it["hideChoicesUntilAnswered"] = True
             it["hideQuestionUntilAnswered"] = True
             n_qonly += 1
@@ -139,6 +166,7 @@ def main():
                 "sense": sense_n,
                 "tf_applied": tf_n,
                 "tf_skipped_null": tf_skip,
+                "tf_int_adv_file": (EX / "tf_statements_int_adv.json").is_file(),
                 "part2_full": p2_full,
                 "part2_question_only": p2_q,
                 "part2_skipped": p2_skip,
