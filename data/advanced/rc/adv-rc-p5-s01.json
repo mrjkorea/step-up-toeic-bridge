@@ -343,7 +343,7 @@
       },
       "prompt": "What should people who need to catch a train do?",
       "accept": "B",
-      "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+      "passage": "NOTICE / This station will be closed for repairs / because of water damage from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
       "passageHead": "Questions 1-2 refer to the following notice."
     },
     {
@@ -358,7 +358,7 @@
       },
       "prompt": "Why does the notice tell people to go to another station?",
       "accept": "B",
-      "passage": "NOTICE / This station will be closed for repairs / because of water dam age from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
+      "passage": "NOTICE / This station will be closed for repairs / because of water damage from the recent / storms. It will be closed from Tuesday to / Friday of this week. Passengers are / advised to go to Brook Street station. / We apologize for any inconvenience and / thank you for your patience and / understanding.",
       "passageHead": "Questions 1-2 refer to the following notice."
     },
     {

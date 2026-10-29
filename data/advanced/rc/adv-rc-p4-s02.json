@@ -5,11 +5,11 @@
   "level": "advanced",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I am ______ your grade but you should still work",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ your grade but you should still work",
       "choices": {
         "A": "Before long",
         "B": "get hurt",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I am ______ your grade but you should still work"
+      "stem": "I'm ______ your grade but you should still work"
     },
     {
       "type": "choice",
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): I was very ______ because the game was very",
+      "prompt": "Warm-Up 1-(d): Fill in the blank: I was very ______ because the game was very",
       "accept": [
         "excited"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Rewrite in the passive voice: Tom wrote the letter.",
+      "prompt": "Warm-Up 2-(a): Rewrite in the passive: Tom wrote the letter.",
       "accept": [
         "The letter was written by Tom."
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Rewrite in the passive voice: He has read the book several times.",
+      "prompt": "Warm-Up 2-(c): Rewrite in the passive: He has read the book several times.",
       "accept": [
         "The book has been read several times by him."
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Rewrite in the passive voice: The woman is serving the people.",
+      "prompt": "Warm-Up 2-(d): Rewrite in the passive: The woman is serving the people.",
       "accept": [
         "The people are being served by the woman."
       ],
@@ -285,7 +285,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): Rewrite in the passive voice: My boss made me clean his office.",
+      "prompt": "Grammar Practice 4-(a): Rewrite in the passive: My boss made me clean his office.",
       "accept": [
         "I was made to clean his office by my boss."
       ],
@@ -307,7 +307,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Rewrite in the passive voice: She caught sight of the sunrise.",
+      "prompt": "Grammar Practice 4-(c): Rewrite in the passive: She caught sight of the sunrise.",
       "accept": [
         "The sunrise was caught sight of by her."
       ],
@@ -329,7 +329,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): Rewrite in the passive voice: I turned off the radio.",
+      "prompt": "Grammar Practice 5-(a): Rewrite in the passive: I turned off the radio.",
       "accept": [
         "The radio was turned off by me."
       ],
@@ -351,7 +351,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): Rewrite in the passive voice: The man is repairing the chairs.",
+      "prompt": "Grammar Practice 5-(c): Rewrite in the passive: The man is repairing the chairs.",
       "accept": [
         "The chairs are being repaired by the man."
       ],

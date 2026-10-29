@@ -102,47 +102,47 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — department ______ theater",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — department ______ store",
       "accept": [
         "department store"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "department ______ theater"
+      "stem": "department ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: movie ______ store",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — movie ______ theater",
       "accept": [
-        "movie theater: movie theater"
+        "movie theater"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "movie ______ store"
+      "stem": "movie ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: post ______ lot",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — post ______ office",
       "accept": [
-        "post office: post office"
+        "post office"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "post ______ lot"
+      "stem": "post ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: parking ______ office",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — parking ______ lot",
       "accept": [
-        "parking lot: parking lot"
+        "parking lot"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "parking ______ office"
+      "stem": "parking ______"
     },
     {
       "type": "text",
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Type the answer: telephone : public telephone = newspaper : —",
+      "prompt": "Vocabulary Practice 3-(c): Type your answer: telephone : public telephone = newspaper : —",
       "accept": [
         "newsstand"
       ],

@@ -26,7 +26,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): You look like you 5re in pain. ______ see a doctor?",
+      "prompt": "Words and Idioms Check-Up (b): You look like you're in pain. ______ see a doctor?",
       "choices": {
         "A": "caught a cold",
         "B": "give a presentation",
@@ -38,7 +38,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "You look like you 5re in pain. ______ see a doctor?"
+      "stem": "You look like you're in pain. ______ see a doctor?"
     },
     {
       "type": "choice",

@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Write the plural form — man — ______",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: Write the plural form — man — ______",
       "accept": [
         "men"
       ],
@@ -221,7 +221,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): Choose the word from the box — a ______ of paper (종이 한 장) [cup / piece / glass / bottle]",
+      "prompt": "Warm-Up 4-(b): Fill in the blank: Choose the word from the box — a ______ of paper (종이 한 장) [cup / piece / glass / bottle]",
       "accept": [
         "piece"
       ],
@@ -348,7 +348,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Write it in English — 물 두 잔 → ______",
+      "prompt": "Grammar Practice 3-(a): Fill in the blank: Write it in English — 물 두 잔 → ______",
       "accept": [
         "two glasses of water"
       ],
@@ -359,7 +359,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Write it in English — 종이 세 장 → ______",
+      "prompt": "Grammar Practice 3-(b): Fill in the blank: Write it in English — 종이 세 장 → ______",
       "accept": [
         "three pieces of paper"
       ],
@@ -370,7 +370,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Write it in English — 커피 세 잔 → ______",
+      "prompt": "Grammar Practice 3-(c): Fill in the blank: Write it in English — 커피 세 잔 → ______",
       "accept": [
         "three cups of coffee"
       ],

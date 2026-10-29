@@ -1,0 +1,550 @@
+[
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q32 / 1 [Check-Up]",
+  "id": "q32",
+  "accept": "A",
+  "question": "Why is your shirt dirty?",
+  "choices": {
+   "A": "I played soccer.",
+   "B": "Yes, I do.",
+   "C": "I like this shirt."
+  },
+  "confidence": "high",
+  "source": "bas-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q33 / 2 [Check-Up]",
+  "id": "q33",
+  "accept": "B",
+  "question": "Why are you late?",
+  "choices": {
+   "A": "I am late.",
+   "B": "I overslept.",
+   "C": "I go to school."
+  },
+  "confidence": "high",
+  "source": "bas-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q34 / 3 [Check-Up]",
+  "id": "q34",
+  "accept": "C",
+  "question": "Why are you going shopping?",
+  "choices": {
+   "A": "I have a shopping list.",
+   "B": "I will go to the department store.",
+   "C": "I want to buy a present."
+  },
+  "confidence": "high",
+  "source": "bas-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "int-lc-p1-s01",
+  "itemIdOrLabel": "q6 / 1 [Warm-Up]",
+  "id": "q6",
+  "accept": "A",
+  "question": null,
+  "choices": {
+   "A": "The boy has one foot on the ball.",
+   "B": "The boy has one foot on the rock.",
+   "C": "The boy has one foot on the bag."
+  },
+  "confidence": "high",
+  "source": "int-key.pdf PDF p.3 rendered image (exercise 1 set; key letter cross-checked as sensible)",
+  "note": "Part I photo Warm-Up: 3 photo statements, no spoken question (not Part II-style); answer letter fits."
+ },
+ {
+  "practiceId": "int-lc-p1-s01",
+  "itemIdOrLabel": "q7 / 2 [Warm-Up]",
+  "id": "q7",
+  "accept": "B",
+  "question": null,
+  "choices": {
+   "A": "The child is buying a drink.",
+   "B": "The child is having a drink.",
+   "C": "The child is making a drink."
+  },
+  "confidence": "high",
+  "source": "int-key.pdf PDF p.3 rendered image (exercise 1 set; key letter cross-checked as sensible)",
+  "note": "Part I photo Warm-Up: 3 photo statements, no spoken question (not Part II-style); answer letter fits."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q32 / 1 [Check-Up]",
+  "id": "q32",
+  "accept": "A",
+  "question": "Where did you put your bag?",
+  "choices": {
+   "A": "Next to the table.",
+   "B": "I lost my bag.",
+   "C": "My mother bought it for me."
+  },
+  "confidence": "high",
+  "source": "int-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q33 / 2 [Check-Up]",
+  "id": "q33",
+  "accept": "A",
+  "question": "Where are you going to meet Sue?",
+  "choices": {
+   "A": "At the mall.",
+   "B": "At 4 o'clock.",
+   "C": "She is my teacher."
+  },
+  "confidence": "high",
+  "source": "int-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q34 / 3 [Check-Up]",
+  "id": "q34",
+  "accept": "A",
+  "question": "Where did you go for your winter vacation?",
+  "choices": {
+   "A": "I went skiing with my family.",
+   "B": "I am going to go to my friend's house.",
+   "C": "I have not decided yet."
+  },
+  "confidence": "high",
+  "source": "int-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Has George ever been to Australia?",
+  "choices": {
+   "A": "It's a 20-hour flight.",
+   "B": "Yes, it is.",
+   "C": "Yes, last year."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "Haven't you finished your science fair project yet?",
+  "choices": {
+   "A": "I'm late.",
+   "B": "I got an A.",
+   "C": "No, I haven't."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "Wouldn't it be better to stay at home this weekend?",
+  "choices": {
+   "A": "Yes, it would help us save money.",
+   "B": "No, I have to stay at home this weekend.",
+   "C": "Yes, I had a great time last weekend."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "A",
+  "question": "Should we call the restaurant and book a table?",
+  "choices": {
+   "A": "Yes, it gets quite busy on weekends.",
+   "B": "Yes, I read the books.",
+   "C": "You've dialed the wrong number."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.6 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Who's going to help Ms. Jones when she gives the presentation?",
+  "choices": {
+   "A": "In the boardroom.",
+   "B": "I don't know.",
+   "C": "She needs a projector."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.7 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "When are we going to start renovating the house?",
+  "choices": {
+   "A": "I go every Saturday.",
+   "B": "No, we don't.",
+   "C": "Perhaps next week."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.7 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "What are you going to bring to the picnic?",
+  "choices": {
+   "A": "Yes, I will.",
+   "B": "Drinks and sandwiches.",
+   "C": "In the park."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.7 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Where are you going to hold your party?",
+  "choices": {
+   "A": "Just come any time after 9 p.m.",
+   "B": "I haven't decided yet.",
+   "C": "I don't think I can attend."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.7 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Which of these products do you think will sell the best?",
+  "choices": {
+   "A": "Twenty-five dollars.",
+   "B": "The T-shirts will.",
+   "C": "At eight o'clock."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "Which way is it to the hospital?",
+  "choices": {
+   "A": "Yes, I was sick yesterday.",
+   "B": "It closes at 9 p.m.",
+   "C": "Keep walking straight."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "Which report do you have to finish today?",
+  "choices": {
+   "A": "Yes, I did.",
+   "B": "The Franklin report.",
+   "C": "I haven't yet."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Which one of the apartments did you decide to buy?",
+  "choices": {
+   "A": "We really need a cheaper one.",
+   "B": "We still don't know yet.",
+   "C": "We live in a two-bedroom apartment."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.8 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Should we set up camp now or keep climbing?",
+  "choices": {
+   "A": "The tent is broken.",
+   "B": "It's just over the hill.",
+   "C": "We should keep climbing."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.9 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "Is the final exam on Friday or Monday?",
+  "choices": {
+   "A": "The store closes early on Mondays.",
+   "B": "It's on Friday.",
+   "C": "All sales are final."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.9 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "C",
+  "question": "Should we paint the fence today, or should we finish the house chores?",
+  "choices": {
+   "A": "I cleaned it yesterday.",
+   "B": "Wait until tomorrow.",
+   "C": "Let's do the chores today."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.9 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Which looks better on me, the blue shirt or the white one?",
+  "choices": {
+   "A": "No, they're not.",
+   "B": "They both look good.",
+   "C": "The cashier is."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.9 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "A",
+  "question": "The dogs are still chasing us, aren't they?",
+  "choices": {
+   "A": "Yes, they're right behind us.",
+   "B": "No, I prefer cats to dogs.",
+   "C": "Yes, we should catch the dogs soon."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.10 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "This summer's music festival is going to be great, isn't it?",
+  "choices": {
+   "A": "No, I'm going to Spain for the summer.",
+   "B": "Yes, I'm really looking forward to it.",
+   "C": "No, the music festival's in the winter."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.10 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "Our new boss seems intelligent, doesn't he?",
+  "choices": {
+   "A": "Yes, he studied at a top university.",
+   "B": "Yes, he is too young to be the boss.",
+   "C": "Yes, he is very quiet."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.10 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "The sales team did a really good job, didn't they?",
+  "choices": {
+   "A": "No, I don't work for the same team.",
+   "B": "Yes, I was impressed with them.",
+   "C": "Yes, sales does sound like a good job."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.10 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "C",
+  "question": "I need to see a doctor about my sore knee.",
+  "choices": {
+   "A": "I hurt my knee playing soccer.",
+   "B": "The doctor told me to rest it.",
+   "C": "You'd better go as soon as possible."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.11 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "The weather forecast for the weekend doesn't look good.",
+  "choices": {
+   "A": "Maybe we should meet this weekend.",
+   "B": "Maybe the weather was too bad.",
+   "C": "Maybe we should cancel our hiking trip."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.11 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "I really need to buy a new mobile phone.",
+  "choices": {
+   "A": "I'm talking on the phone.",
+   "B": "My phone doesn't have a battery at the moment.",
+   "C": "You should go to the new store down the road."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.11 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "I hope you enjoy your stay at our hotel.",
+  "choices": {
+   "A": "Thank you. I'm sure I will.",
+   "B": "I'll be staying for a week.",
+   "C": "I'm staying at the Grand Hotel."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.11 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Do you know who got the promotion?",
+  "choices": {
+   "A": "No, I think he was very surprised.",
+   "B": "Yes, I think it'll be announced today.",
+   "C": "No, I haven't heard anything."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "You don't know where Mr. Lewis is, do you?",
+  "choices": {
+   "A": "Yes, he is.",
+   "B": "Yes, I do.",
+   "C": "For five minutes."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "C",
+  "question": "Do you know what time it is?",
+  "choices": {
+   "A": "I already have a watch.",
+   "B": "I think it's Saturday.",
+   "C": "I'm sorry, but I don't."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Could you tell me where the exit is, please?",
+  "choices": {
+   "A": "It closes at 8 p.m. every night.",
+   "B": "Certainly, just keep walking down the hall.",
+   "C": "I'm sorry, but we're full at the moment."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q37 / 1 [Check-Up]",
+  "id": "q37",
+  "accept": "B",
+  "question": "Did you find out why your computer wasn't working?",
+  "choices": {
+   "A": "Yes, I don't have a computer at work.",
+   "B": "Yes, there was a problem with the disc drive.",
+   "C": "Yes, I really liked working with computers."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q38 / 2 [Check-Up]",
+  "id": "q38",
+  "accept": "C",
+  "question": "Did she tell you why you failed the test?",
+  "choices": {
+   "A": "No, I still don't take the test.",
+   "B": "Yes, the test is this afternoon.",
+   "C": "Yes, she said my grammar was poor."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q39 / 3 [Check-Up]",
+  "id": "q39",
+  "accept": "A",
+  "question": "How do you think we should travel to the mountain?",
+  "choices": {
+   "A": "I really enjoy taking the train.",
+   "B": "I often go hiking on the mountain.",
+   "C": "I took the subway to the mountain."
+  },
+  "confidence": "high",
+  "source": "adv-key.pdf PDF p.13 rendered image (exercise 1 set; key letter cross-checked as sensible)"
+ }
+]

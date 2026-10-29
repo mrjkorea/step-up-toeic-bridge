@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -135,15 +135,15 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): Replace the noun with a pronoun: Mary is very smart.",
+      "prompt": "Warm-Up 1-(c): Put a slash (/) between the subject and the verb: She is very smart.",
       "accept": [
-        "She is very smart.",
-        "She's very smart."
+        "She / is very smart.",
+        "She/is very smart."
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "1-(c)",
-      "stem": "Mary is very smart."
+      "stem": "She is very smart."
     },
     {
       "type": "text",
@@ -191,25 +191,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Type the answer: He picked",
+      "prompt": "Warm-Up 3-(b): Fill in the blank — He picked up the ______.",
       "accept": [
         "ball"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "stem": "He picked"
+      "stem": "He picked up the ______."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Fill in the blank: He sanga ______.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank — He sang a ______.",
       "accept": [
         "song"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "3-(c)",
-      "stem": "He sanga ______."
+      "stem": "He sang a ______."
     },
     {
       "type": "text",
@@ -246,7 +246,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): She closed the window last night. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(a): Type the English word that matches the blank — She closed the window last night.",
       "accept": [
         "window"
       ],
@@ -256,7 +256,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Birds fly in the sky. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(b): Type the English word that matches the blank — Birds fly in the sky.",
       "accept": [
         "fly"
       ],
@@ -266,7 +266,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): He can play the piano. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(c): Type the English word that matches the blank — He can play the piano.",
       "accept": [
         "He"
       ],

@@ -827,10 +827,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The man is painting the window. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is painting the window."
     },
     {
       "id": "q51",
@@ -840,10 +841,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): Someone is painting the window. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "Someone is painting the window."
     },
     {
       "id": "q52",
@@ -853,10 +855,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): The window is being painted. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The window is being painted."
     },
     {
       "id": "q53",
@@ -866,10 +869,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): No one is painting the window. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "No one is painting the window."
     },
     {
       "id": "q54",
@@ -879,10 +883,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (e): The man is working on the roof. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is working on the roof."
     },
     {
       "id": "q55",
@@ -892,10 +897,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (f): The man is opening the window. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is opening the window."
     },
     {
       "id": "q56",
@@ -905,10 +911,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): The woman is cutting the cake. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The woman is cutting the cake."
     },
     {
       "id": "q57",
@@ -918,10 +925,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): Someone is cutting the cake. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "Someone is cutting the cake."
     },
     {
       "id": "q58",
@@ -931,10 +939,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): The woman is buying the cake. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The woman is buying the cake."
     },
     {
       "id": "q59",
@@ -944,10 +953,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The cake is being cut. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The cake is being cut."
     },
     {
       "id": "q60",
@@ -957,10 +967,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (e): The woman is eating the cake. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The woman is eating the cake."
     },
     {
       "id": "q61",
@@ -970,10 +981,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (f): The cake is on the table. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The cake is on the table."
     },
     {
       "type": "text",
@@ -999,9 +1011,11 @@
     },
     {
       "type": "text",
-      "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “film”.",
+      "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “film” (verb: to record with a camera).",
       "accept": [
-        "take a picture"
+        "take a picture",
+        "take a video",
+        "record"
       ],
       "audioOnly": true,
       "section": "Check-Up (2)",

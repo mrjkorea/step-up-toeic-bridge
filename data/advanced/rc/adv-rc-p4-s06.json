@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as'touch - word' — touch ______",
+      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as'sense - word' — touch ______ rock",
       "accept": [
         "touch - rock",
         "touch, rock",
@@ -116,9 +116,12 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: taste ______ excited",
+      "prompt": "Vocabulary Practice 2-(b): Match the related words; write as'sense - word' — taste ______ chocolate",
       "accept": [
-        "taste chocolate"
+        "taste - chocolate",
+        "taste, chocolate",
+        "taste chocolate",
+        "taste / chocolate"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
@@ -127,25 +130,31 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: smell ______ chocolate",
+      "prompt": "Vocabulary Practice 2-(c): Match the related words; write as'sense - word' — smell ______ perfume",
       "accept": [
-        "smell"
+        "smell - perfume",
+        "smell, perfume",
+        "smell perfume",
+        "smell / perfume"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "smell ______ chocolate"
+      "stem": "smell ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: feel ______ rock",
+      "prompt": "Vocabulary Practice 2-(d): Match the related words; write as'sense - word' — feel ______ excited",
       "accept": [
-        "feel perfume excited"
+        "feel - excited",
+        "feel, excited",
+        "feel excited",
+        "feel / excited"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "feel ______ rock"
+      "stem": "feel ______"
     },
     {
       "type": "text",

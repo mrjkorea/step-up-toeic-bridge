@@ -5,7 +5,7 @@
   "level": "advanced",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Write the correct form of the given verb — Bread and butter ______ what I like most for breakfast. (be)",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: Write the correct form of the given verb — Bread and butter ______ what I like most for breakfast. (be)",
       "accept": [
         "is"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): This is the wrong sentence; write the correct verb to replace'are' — The number of questions given to me are 10.",
+      "prompt": "Warm-Up 3-(b): Type your answer: The number of questions given to me are 10.",
       "accept": [
         "is"
       ],
@@ -186,14 +186,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): correct the wrong word — The earth goes around the sun.",
+      "prompt": "Grammar Practice 4-(b): Correct the error — The sun goes around the earth.",
       "accept": [
-        "makes"
+        "The earth goes around the sun."
       ],
       "section": "Grammar Practice",
       "id": "q17",
       "label": "4-(b)",
-      "stem": "The earth goes around the sun."
+      "stem": "The sun goes around the earth."
     },
     {
       "type": "text",
@@ -253,7 +253,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Make a sentence using the given words to match the Korean — 그와 나 둘 다 배가 고프다. (Both, hungry)",
+      "prompt": "Grammar Practice 3-(a): Type your answer: 그와 나 둘 다 배가 고프다. (Both, hungry)",
       "accept": [
         "Both he and I are hungry."
       ],
@@ -264,7 +264,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Make a sentence using the given words to match the Korean — 그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)",
+      "prompt": "Grammar Practice 3-(b): Type your answer: 그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)",
       "accept": [
         "Either he or she is impatient."
       ],
@@ -275,7 +275,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Make a sentence using the given words to match the Korean — 너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)",
+      "prompt": "Grammar Practice 3-(c): Type your answer: 너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)",
       "accept": [
         "Neither you or she can't buy it."
       ],
@@ -286,7 +286,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): Make a sentence using the given words to match the Korean — 나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)",
+      "prompt": "Grammar Practice 3-(d): Type your answer: 나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)",
       "accept": [
         "I like"
       ],

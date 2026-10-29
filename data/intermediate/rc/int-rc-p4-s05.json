@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Write the comparative and superlative forms — many - ______ - ______",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: Write the comparative and superlative forms — many - ______ - ______",
       "accept": [
         "more - most / more - most",
         "more most / more most",
@@ -48,7 +48,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Write the comparative and superlative forms — good — ______ — ______ / well — ______ — ______",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: Write the comparative and superlative forms — good — ______ — ______ / well — ______ — ______",
       "accept": [
         "better - best / better - best",
         "better best / better best",
@@ -61,7 +61,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Write the comparative and superlative forms — bad — ______ — ______ / ill — ______ — ______",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: Write the comparative and superlative forms — bad — ______ — ______ / ill — ______ — ______",
       "accept": [
         "worse - worst / worse - worst",
         "worse worst / worse worst",
@@ -156,7 +156,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(e): Write the comparative and superlative forms — wonderful — ______ — ______",
+      "prompt": "Warm-Up 1-(e): Fill in the blank: Write the comparative and superlative forms — wonderful — ______ — ______",
       "accept": [
         "more wonderful - most wonderful",
         "more wonderful, most wonderful",
@@ -169,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(f): write the comparative and superlative forms — hot ______ - ______ - ______",
+      "prompt": "Warm-Up 1-(f): Fill in the blank: write the comparative and superlative forms — hot ______ - ______ - ______",
       "accept": [
         "hotter - hottest",
         "hotter, hottest",

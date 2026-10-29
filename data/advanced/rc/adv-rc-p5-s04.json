@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): It will ______ _ your English if you listen to this CD everyday.",
+      "prompt": "Words and Idioms Check-Up (b): It will ______ your English if you listen to this CD everyday.",
       "choices": {
         "A": "believe",
         "B": "improve",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "It will ______ _ your English if you listen to this CD everyday."
+      "stem": "It will ______ your English if you listen to this CD everyday."
     },
     {
       "type": "choice",

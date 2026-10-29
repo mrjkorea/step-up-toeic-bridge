@@ -100,7 +100,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: listen and type the answer.",
+      "prompt": "Warm-Up 1: Type the words you hear:",
       "accept": [
         "Take out all electronic devices"
       ],
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: listen and type the answer.",
+      "prompt": "Warm-Up 2: Type the words you hear:",
       "accept": [
         "On a bus"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: listen and type the answer.",
+      "prompt": "Warm-Up 3: Type the words you hear:",
       "accept": [
         "Move the car"
       ],

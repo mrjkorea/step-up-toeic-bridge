@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(e): Write the date in words — 11월 20일 → ______",
+      "prompt": "Grammar Practice 1-(e): Fill in the blank: Write the date in words — 11월 20일 → ______",
       "accept": [
         "November twentieth"
       ],
@@ -174,33 +174,36 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Fill in the blank.",
+      "prompt": "Grammar Practice 3-(b): Fill in the blank — We have (few / little) time to do the work.",
       "accept": [
         "little"
       ],
       "section": "Grammar Practice",
       "id": "q15",
-      "label": "3-(b)"
+      "label": "3-(b)",
+      "stem": "We have (few / little) time to do the work."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Fill in the blank.",
+      "prompt": "Grammar Practice 3-(c): Fill in the blank — (All / Every) student in his class is hardworking.",
       "accept": [
         "Every"
       ],
       "section": "Grammar Practice",
       "id": "q16",
-      "label": "3-(c)"
+      "label": "3-(c)",
+      "stem": "(All / Every) student in his class is hardworking."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): Fill in the blank.",
+      "prompt": "Grammar Practice 3-(d): Fill in the blank — Does he have (many / much) items to buy?",
       "accept": [
         "many"
       ],
       "section": "Grammar Practice",
       "id": "q17",
-      "label": "3-(d)"
+      "label": "3-(d)",
+      "stem": "Does he have (many / much) items to buy?"
     },
     {
       "type": "text",
@@ -215,23 +218,39 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank — The boy always helps the poor. He is a ______ boy.",
       "accept": [
         "kind"
       ],
       "section": "Grammar Practice",
       "id": "q19",
-      "label": "4-(b)"
+      "label": "4-(b)",
+      "stem": "The boy always helps the poor. He is a ______ boy.",
+      "wordBank": [
+        "delicious",
+        "handsome",
+        "kind",
+        "honest",
+        "busy"
+      ]
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank — I like pears. They are very ______.",
       "accept": [
         "delicious"
       ],
       "section": "Grammar Practice",
       "id": "q20",
-      "label": "4-(c)"
+      "label": "4-(c)",
+      "stem": "I like pears. They are very ______.",
+      "wordBank": [
+        "delicious",
+        "handsome",
+        "kind",
+        "honest",
+        "busy"
+      ]
     },
     {
       "id": "q21",

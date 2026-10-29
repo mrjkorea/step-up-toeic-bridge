@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -22,7 +22,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): A : It'stood ark inside. Could you please ______ the light?",
+      "prompt": "Words and Idioms Check-Up (b): A : It's too dark inside. Could you please ______ the light?",
       "choices": {
         "A": "pick up",
         "B": "turn on"
@@ -31,7 +31,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "A : It'stood ark inside. Could you please ______ the light?"
+      "stem": "A : It's too dark inside. Could you please ______ the light?"
     },
     {
       "type": "text",
@@ -59,7 +59,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): Correct the error — Tomis often lately for school.",
+      "prompt": "Warm-Up 3-(d): Correct the error — Tom is often lately for school.",
       "accept": [
         "Tom is often late for school.",
         "late"
@@ -67,7 +67,7 @@
       "section": "Warm-Up",
       "id": "q5",
       "label": "3-(d)",
-      "stem": "Tomis often lately for school."
+      "stem": "Tom is often lately for school."
     },
     {
       "type": "text",
@@ -115,7 +115,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): I visited his house (exact / exactly) at 5 p.m.",
+      "prompt": "Warm-Up 2-(a): Choose the correct form: I visited his house (exact / exactly) at 5 p.m.",
       "accept": [
         "exactly"
       ],
@@ -159,14 +159,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): correct or complete it — She runs very fast ly.",
+      "prompt": "Warm-Up 3-(b): correct or complete it — She runs very fast.",
       "accept": [
         "fast"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "stem": "She runs very fast ly."
+      "stem": "She runs very fast."
     },
     {
       "type": "text",
@@ -235,18 +235,18 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Write the adverb form — fast — ______",
+      "prompt": "Grammar Practice 1-(a): Fill in the blank: fast ______ — ______",
       "accept": [
         "fastly"
       ],
       "section": "Grammar Practice",
       "id": "q21",
       "label": "1-(a)",
-      "stem": "fast — ______"
+      "stem": "fast ______ — ______"
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Change the adjective into an adverb — kind — ______",
+      "prompt": "Grammar Practice 1-(b): Fill in the blank: Change the adjective into an adverb — kind — ______",
       "accept": [
         "kindly"
       ],
@@ -290,7 +290,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(f): Change the adjective into an adverb — true — ______",
+      "prompt": "Grammar Practice 1-(f): Fill in the blank: Change the adjective into an adverb — true — ______",
       "accept": [
         "truly"
       ],
@@ -301,7 +301,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(g): Change the adjective into an adverb — real — ______",
+      "prompt": "Grammar Practice 1-(g): Fill in the blank: Change the adjective into an adverb — real — ______",
       "accept": [
         "really"
       ],
@@ -312,7 +312,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(h): Change the adjective into an adverb — careful — ______",
+      "prompt": "Grammar Practice 1-(h): Fill in the blank: Change the adjective into an adverb — careful — ______",
       "accept": [
         "carefully"
       ],

@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Type the words you hear:",
       "accept": [
         "Should we take the subway"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Type the words you hear:",
       "accept": [
         "I think we should take the car."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Type the words you hear:",
       "accept": [
         "the black one or the white one"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Type the words you hear:",
       "accept": [
         "The black one looks much nicer."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Type the words you hear:",
       "accept": [
         "Would you like to rest for a while"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Type the words you hear:",
       "accept": [
         "I'd like to take a nap."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Type the words you hear:",
       "accept": [
         "you or your cousin"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Type the words you hear:",
       "accept": [
         "I'm one year older."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Type the words you hear:",
       "accept": [
         "Are you going to take the bus"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Type the words you hear:",
       "accept": [
         "Either one is O.K."
       ],
@@ -284,56 +284,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The tent is broken.",
+        "B": "It's just over the hill.",
+        "C": "We should keep climbing."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Should we set up camp now or keep climbing?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The store closes early on Mondays.",
+        "B": "It's on Friday.",
+        "C": "All sales are final."
       },
-      "prompt": "Listening Practice 1-2): Listen and choose the best response.",
+      "prompt": "Listening Practice 1-2): on Friday or Monday?",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Is the final exam on Friday or Monday?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I cleaned it yesterday.",
+        "B": "Wait until tomorrow.",
+        "C": "Let's do the chores today."
       },
-      "prompt": "Listening Practice 1-3): Listen and choose the best response.",
+      "prompt": "Listening Practice 1-3): today, or should we finish the house chores?",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Should we paint the fence today, or should we finish the house chores?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "No, they're not.",
+        "B": "They both look good.",
+        "C": "The cashier is."
       },
-      "prompt": "Listening Practice 1-4): Listen and choose the best response.",
+      "prompt": "Listening Practice 1-4): the blue shirt or the white one?",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Which looks better on me, the blue shirt or the white one?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -383,15 +391,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-1): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The camp was fun.",
+        "B": "We should set up camp now.",
+        "C": "Climbing mountains is my hobby."
       },
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q29",
-      "label": "9"
+      "label": "9",
+      "stem": "Should we set up camp now or keep climbing?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -408,15 +418,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-2): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I took the final exam on Friday.",
+        "B": "I'm busy on Friday.",
+        "C": "It's on Monday."
       },
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q31",
-      "label": "11"
+      "label": "11",
+      "stem": "Is the final exam on Friday, or Monday?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -433,15 +445,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-3): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "We should paint the fence today.",
+        "B": "I did the chores yesterday.",
+        "C": "Let's fix the fence."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q33",
-      "label": "13"
+      "label": "13",
+      "stem": "Should we paint the fence today, or should we finish the house chores?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -458,15 +472,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-4): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The blue one.",
+        "B": "You look good.",
+        "C": "I will take it."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q35",
-      "label": "15"
+      "label": "15",
+      "stem": "Which looks better on me, the blue shirt or the white one?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",

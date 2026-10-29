@@ -13,3 +13,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: No page scans in assets or JSON
         run: python3 scripts/check_practice_data.py
+      - name: OCR garble and RC instruction sense
+        run: python3 scripts/ocr_garble_sense.py

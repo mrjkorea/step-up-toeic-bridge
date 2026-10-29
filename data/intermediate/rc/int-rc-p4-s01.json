@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): Fill in the blank: I have ______ dinner at 6 p.m.",
+      "prompt": "Warm-Up 1-(d): Fill in the blank: Write a, or x if no article is needed — I have ______ dinner at 6 p.m.",
       "accept": [
         "x"
       ],
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Write a or an — ______ hour has 60 minutes. (한 시간은 60분이다.)",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: Write a or an — ______ hour has 60 minutes. (한 시간은 60분이다.)",
       "accept": [
         "An"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Write a or an — There is ______ university in our city. (우리 도시에는 대학이 하나 있다.)",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: Write a or an — There is ______ university in our city. (우리 도시에는 대학이 하나 있다.)",
       "accept": [
         "a"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Write a or an — ______ honest man never tells a lie. (정직한 사람은 거짓말을 하지 않는다.)",
+      "prompt": "Warm-Up 2-(d): Fill in the blank: Write a or an — ______ honest man never tells a lie. (정직한 사람은 거짓말을 하지 않는다.)",
       "accept": [
         "An"
       ],
@@ -200,7 +200,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): Fill in the blank: I like ______ English.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: Write a, or x if no article is needed — I like ______ English.",
       "accept": [
         "x"
       ],
@@ -222,18 +222,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Fill in the blank: Igo to school on ______ foot.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: Write a, or x if no article is needed — I go to school on ______ foot.",
       "accept": [
         "x"
       ],
       "section": "Warm-Up",
       "id": "q19",
       "label": "3-(c)",
-      "stem": "Igo to school on ______ foot."
+      "stem": "I go to school on ______ foot."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): Write the, or x if no article is needed — Look at ______ man in the bus. (버스 안의 저 남자를 보아라.)",
+      "prompt": "Warm-Up 3-(d): Fill in the blank: Write the, or x if no article is needed — Look at ______ man in the bus. (버스 안의 저 남자를 보아라.)",
       "accept": [
         "the"
       ],
@@ -312,7 +312,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Write a, an, or the — ______ year has twelve months.",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: Write a, an, or the — ______ year has twelve months.",
       "accept": [
         "a"
       ],
@@ -324,14 +324,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Fill in the blank: Please close ______ door. It'scold.",
+      "prompt": "Grammar Practice 2-(d): Fill in the blank: Please close ______ door. It's cold.",
       "accept": [
         "the"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "2-(d)",
-      "stem": "Please close ______ door. It'scold."
+      "stem": "Please close ______ door. It's cold."
     },
     {
       "type": "text",

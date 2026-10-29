@@ -102,14 +102,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Fill in the blank: head ______  ______  liver, heart",
+      "prompt": "Vocabulary Practice 2-(a): Match parts of the body — head: ______, ______ (clue: mouth, hair)",
       "accept": [
-        "head mouth, hair"
+        "mouth, hair"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "head ______  ______  liver, heart"
+      "stem": "head: ______, ______ (mouth, hair)"
     },
     {
       "type": "text",
@@ -126,25 +126,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: leg ______  ______  mouth, hair",
+      "prompt": "Vocabulary Practice 2-(c): Match parts of the body — leg: ______, ______ (clue: toe, knee)",
       "accept": [
-        "leg toe, knee"
+        "toe, knee"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "leg ______  ______  mouth, hair"
+      "stem": "leg: ______, ______ (toe, knee)"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: organs ______  ______  toe, knee",
+      "prompt": "Vocabulary Practice 2-(d): Match parts of the body — organs: ______, ______ (clue: liver, heart)",
       "accept": [
-        "organs liver, heart"
+        "liver, heart"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "organs ______  ______  toe, knee"
+      "stem": "organs: ______, ______ (liver, heart)"
     },
     {
       "type": "text",

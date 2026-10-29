@@ -1,0 +1,61 @@
+[
+ {
+  "practiceId": "adv-lc-p1-s02",
+  "id": "q5",
+  "label": "(e)",
+  "current": "I was ______ my news",
+  "proposedStem": "I was ______ my new sunglasses.",
+  "proposedPrompt": "Words and Idioms Check-Up (e): I was ______ my new sunglasses.",
+  "accept": "E",
+  "bookExact": true,
+  "note": "Book OCR line: \"(e) I was ___ my new sunglasses.\" Key (e) wearing. App stem truncated."
+ },
+ {
+  "practiceId": "adv-lc-p1-s03",
+  "id": "q60",
+  "label": "2-(c)",
+  "current": "“boat”",
+  "proposedPrompt": "Check-Up 2-(c): listen and type the expression that means the same as “boat” (verb: to travel in a boat).",
+  "accept": [
+   "paddle the boat"
+  ],
+  "bookExact": true,
+  "note": "Book prints exactly \"(c) boat\" matched to \"paddle the boat\" (verb sense). Keep wording, add verb gloss."
+ },
+ {
+  "practiceId": "adv-lc-p1-s04",
+  "id": "q64",
+  "label": "2-(c)",
+  "current": "“film”",
+  "proposedPrompt": "Check-Up 2-(c): listen and type the expression that means the same as “film” (verb: to record with a camera).",
+  "accept": [
+   "take a picture"
+  ],
+  "bookExact": true,
+  "note": "Book prints \"(c) film\" with options incl. \"take a picture\". Book pairing; add verb gloss. Optional extra accept: \"take a video\"."
+ },
+ {
+  "practiceId": "adv-lc-p1-s01",
+  "id": "q64",
+  "label": "2-(e)",
+  "current": "“have a meeting”",
+  "proposedPrompt": "Check-Up 2-(e): listen and type the expression that means the same as “have a meeting”.",
+  "accept": [
+   "talk in a group"
+  ],
+  "bookExact": true,
+  "note": "Key: \"(e) have a meeting - talk in a group\" — exact book pairing; recommend leave as-is (mark reviewed)."
+ },
+ {
+  "practiceId": "adv-lc-p1-s01",
+  "id": "q61",
+  "label": "2-(b)",
+  "current": "“use a drill”",
+  "proposedPrompt": "Check-Up 2-(b): listen and type the one-word verb that means the same as “use a drill”.",
+  "accept": [
+   "drill"
+  ],
+  "bookExact": true,
+  "note": "Key: \"(b) use a drill - drill\" — exact book pairing; clarify prompt that answer is the verb."
+ }
+]

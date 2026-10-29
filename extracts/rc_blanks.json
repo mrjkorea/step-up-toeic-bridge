@@ -1,0 +1,93 @@
+[
+ {
+  "practiceId": "int-rc-p4-s03",
+  "id": "q15",
+  "label": "3-(b)",
+  "stem": "We have (few / little) time to do the work.",
+  "accept": [
+   "little"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "int-rc-p4-s03",
+  "id": "q16",
+  "label": "3-(c)",
+  "stem": "(All / Every) student in his class is hardworking.",
+  "accept": [
+   "Every"
+  ],
+  "note": "OCR dropped the slash: \"(All Every)\"",
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "int-rc-p4-s03",
+  "id": "q17",
+  "label": "3-(d)",
+  "stem": "Does he have (many / much) items to buy?",
+  "accept": [
+   "many"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "int-rc-p4-s03",
+  "id": "q19",
+  "label": "4-(b)",
+  "stem": "The boy always helps the poor. He is a ______ boy.",
+  "wordBank": "delicious handsome kind honest busy",
+  "accept": [
+   "kind"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "int-rc-p4-s03",
+  "id": "q20",
+  "label": "4-(c)",
+  "stem": "I like pears. They are very ______.",
+  "wordBank": "delicious handsome kind honest busy",
+  "accept": [
+   "delicious"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "adv-rc-p4-s04",
+  "id": "q31",
+  "label": "4-(b)",
+  "stem": "(Unless / If) it doesn't rain, I will wash my car.",
+  "accept": [
+   "If"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "adv-rc-p4-s04",
+  "id": "q32",
+  "label": "4-(c)",
+  "stem": "(While / Before) he was alive, he sent me many letters.",
+  "accept": [
+   "While"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ },
+ {
+  "practiceId": "adv-rc-p4-s04",
+  "id": "q33",
+  "label": "4-(d)",
+  "stem": "(If / Though) you feel tired every day, you had better see a doctor.",
+  "accept": [
+   "If"
+  ],
+  "confidence": "high",
+  "source": "sources/stepuptoeicalllevelsquestions_20260415.txt"
+ }
+]

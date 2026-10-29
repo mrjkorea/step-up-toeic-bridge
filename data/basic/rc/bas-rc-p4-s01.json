@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -315,7 +315,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Use the Korean and the given words to make a command — 그곳에 가지 마라. (there. / go / Don't)",
+      "prompt": "Grammar Practice 3-(a): Choose the correct form: 그곳에 가지 마라. (there. / go / Don't)",
       "accept": [
         "Don't go there."
       ],
@@ -326,7 +326,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Use the Korean and the given words to make a command — 일찍 일어나세요. (please. / early, / Get / up)",
+      "prompt": "Grammar Practice 3-(b): Choose the correct form: 일찍 일어나세요. (please. / early, / Get / up)",
       "accept": [
         "Get up early, please."
       ],
@@ -337,7 +337,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Use the Korean and the given words to make a command — 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
+      "prompt": "Grammar Practice 3-(c): Choose the correct form: 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
       "accept": [
         "Don't come back soon."
       ],
@@ -348,7 +348,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): Complete the suggestion using the Korean — 자전거를 타자. → ______ a bicycle.",
+      "prompt": "Grammar Practice 4-(a): Fill in the blank: Complete the suggestion using the Korean — 자전거를 타자. → ______ a bicycle.",
       "accept": [
         "Let's ride"
       ],
@@ -359,7 +359,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): Complete the suggestion using the Korean — 많이 먹지 말자. → ______ not ______ much.",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank: Complete the suggestion using the Korean — 많이 먹지 말자. → ______ not ______ much.",
       "accept": [
         "Let's",
         "eat"
@@ -371,7 +371,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Complete the suggestion using the Korean — 야구하자. → ______ baseball.",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank: Complete the suggestion using the Korean — 야구하자. → ______ baseball.",
       "accept": [
         "Let's",
         "play"

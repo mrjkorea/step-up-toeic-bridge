@@ -254,56 +254,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's my 13th birthday.",
+        "B": "It's tomorrow.",
+        "C": "I have to buy your birthday gift."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "When is your birthday?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q17",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Early this morning.",
+        "B": "At about 1 o'clock.",
+        "C": "I ate a hamburger."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "When did you have lunch?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q18",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I'm tired.",
+        "B": "Soon.",
+        "C": "I had to finish the report."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "When will you go to bed?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q19",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "After having dinner.",
+        "B": "Enjoy your dinner.",
+        "C": "I have to buy some soap."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "When will you take a shower?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",

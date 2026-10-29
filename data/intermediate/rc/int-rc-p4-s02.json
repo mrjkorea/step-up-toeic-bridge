@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -212,8 +212,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Correct the wrong part — He wills come here to meet her.",
+      "prompt": "Grammar Practice 1-(a): Correct the error — He wills come here to meet her.",
       "accept": [
+        "He will come here to meet her.",
         "will"
       ],
       "section": "Grammar Practice",
@@ -223,7 +224,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(b): Correct the error.",
       "accept": [
         "will be"
       ],
@@ -233,7 +234,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(c): Correct the error — She cans speak French.",
       "accept": [
         "play"
       ],
@@ -243,7 +244,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(d): Correct the error — They wills be here soon.",
       "accept": [
         "be"
       ],
@@ -303,7 +304,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-fix: Correct the wrong part of that sentence.",
+      "prompt": "Grammar Practice 3-fix: Correct the error — John should be the dishes this evening.",
       "accept": [
         "should do"
       ],

@@ -23,7 +23,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): I have a ______ nose. I think I am coming down with a cold.",
+      "prompt": "Words and Idioms Check-Up (b): I have a ______ nose. I think I'm coming down with a cold.",
       "choices": {
         "A": "bleeding",
         "B": "runny",
@@ -33,7 +33,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "I have a ______ nose. I think I am coming down with a cold."
+      "stem": "I have a ______ nose. I think I'm coming down with a cold."
     },
     {
       "type": "choice",
@@ -84,47 +84,51 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: take ______  ______  consciousness",
+      "prompt": "Vocabulary Practice 2-(a): Complete the health phrase — take ______ temperature",
       "accept": [
-        "take"
+        "one's temperature",
+        "take one's temperature"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "stem": "take ______  ______  consciousness"
+      "stem": "take ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Fill in the blank: lose ______  ______  an operation",
+      "prompt": "Vocabulary Practice 2-(b): Complete the health phrase — lose ______",
       "accept": [
-        "lose one's temperature: XCH consciousness:"
+        "consciousness",
+        "lose consciousness"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "stem": "lose ______  ______  an operation"
+      "stem": "lose ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: come down  ______  one's temperature ______",
+      "prompt": "Vocabulary Practice 2-(c): Complete the health phrase — come down ______ a cold",
       "accept": [
+        "with",
         "come down with"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "come down  ______  one's temperature ______"
+      "stem": "come down ______ a cold"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Fill in the blank: have ______  ______  with ______",
+      "prompt": "Vocabulary Practice 2-(d): Complete the health phrase — have ______ operation",
       "accept": [
-        "have an operation:"
+        "an operation",
+        "have an operation"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "stem": "have ______  ______  with ______"
+      "stem": "have ______"
     },
     {
       "type": "text",

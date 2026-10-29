@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I am ______ tomorrow.",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ tomorrow.",
       "choices": {
         "A": "leaving",
         "B": "looking at",
@@ -21,7 +21,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I am ______ tomorrow."
+      "stem": "I'm ______ tomorrow."
     },
     {
       "type": "choice",
@@ -304,56 +304,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "She is cleaning.",
+        "B": "She is a teacher.",
+        "C": "She is sick."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What is your mother doing?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It is sunny.",
+        "B": "It is Sunday.",
+        "C": "It is my birthday."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What day is it today?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It is October 2nd.",
+        "B": "It is Wednesday.",
+        "C": "I have a date."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What is the date today?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q25",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It is nine o'clock.",
+        "B": "It is my watch.",
+        "C": "I am late."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What time is it?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",

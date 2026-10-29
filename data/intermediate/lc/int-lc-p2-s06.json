@@ -254,56 +254,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I studied hard.",
+        "B": "I lost your number.",
+        "C": "The phone rang a few minutes ago."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why didn't you call me?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q17",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I got ill.",
+        "B": "It was sunny.",
+        "C": "I like the dog."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why didn't you walk your dog?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q18",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I got an A.",
+        "B": "I lost my wallet.",
+        "C": "He gave me a gift."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why are you so upset?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q19",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "That's a good idea.",
+        "B": "I'm sleepy.",
+        "C": "I did the rest of it."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why don't you take a rest?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
