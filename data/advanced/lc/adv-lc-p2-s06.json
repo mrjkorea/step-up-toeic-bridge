@@ -273,56 +273,68 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "it was great",
+        "B": "Thank you. I'm glad you liked it.",
+        "C": "white T-shirt"
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "I need to see a doctor about my sore knee.",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q21",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Thank you. I'm glad you liked it.",
+        "B": "white T-shirt",
+        "C": "O.K. Do you have a receipt?"
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "The weather forecast for the weekend doesn't look good.",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "white T-shirt",
+        "B": "O.K. Do you have a receipt?",
+        "C": "you were voted salesmen"
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "I really need to buy a new mobile phone.",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "O.K. Do you have a receipt?",
+        "B": "you were voted salesmen",
+        "C": "That's right. It's a great honor."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "I hope you enjoy your stay at our hotel.",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "type": "text",
@@ -372,15 +384,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-1): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "How did you get the pain on your knee?",
+        "B": "The soccer game was exciting.",
+        "C": "The doctor is very nice."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q28",
-      "label": "9"
+      "label": "9",
+      "stem": "I need to see a doctor about my sore knee.",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -397,15 +411,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-2): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Maybe we should go camping.",
+        "B": "Maybe we should postpone our trip.",
+        "C": "Maybe we should meet on Saturday."
       },
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q30",
-      "label": "11"
+      "label": "11",
+      "stem": "The weather forecast for the weekend doesn't look good.",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -422,15 +438,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-3): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Make sure you go to the new store down the road.",
+        "B": "My phone is broken.",
+        "C": "How much is your cell phone?"
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q32",
-      "label": "13"
+      "label": "13",
+      "stem": "I really need to buy a new mobile phone.",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -447,15 +465,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-4): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I enjoyed staying here.",
+        "B": "Thank you. I hope so.",
+        "C": "I am staying for three days."
       },
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q34",
-      "label": "15"
+      "label": "15",
+      "stem": "I hope you enjoy your stay at our hotel.",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -595,5 +615,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

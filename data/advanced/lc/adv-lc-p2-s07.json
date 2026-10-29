@@ -284,56 +284,68 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "where the biology books are",
+        "B": "It's on the back wall.",
+        "C": "when your car will be ready"
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Do you know who got the promotion?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's on the back wall.",
+        "B": "when your car will be ready",
+        "C": "Not yet. I hope it's sometime today."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "You don't know where Mr. Lewis is, do you?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "when your car will be ready",
+        "B": "Not yet. I hope it's sometime today.",
+        "C": "where the bus stop is"
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Do you know what time it is?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Not yet. I hope it's sometime today.",
+        "B": "where the bus stop is",
+        "C": "Yes, keep walking straight."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Could you tell me where the exit is, please?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "type": "text",
@@ -383,15 +395,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-1): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I think James got it.",
+        "B": "Yes, I think sales team will promote it today.",
+        "C": "No, I will be away for five days."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q29",
-      "label": "9"
+      "label": "9",
+      "stem": "Do you know who got the promotion?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -408,15 +422,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-2): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, he is in his office.",
+        "B": "Yes, I will.",
+        "C": "I will pick it up."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q31",
-      "label": "11"
+      "label": "11",
+      "stem": "You don't know where Mr. Lewis is, do you?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -433,15 +449,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-3): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Your watch is on the table.",
+        "B": "It's 3 o'clock.",
+        "C": "It's time to go home."
       },
       "accept": "B",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q33",
-      "label": "13"
+      "label": "13",
+      "stem": "Do you know what time it is?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -458,15 +476,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-4): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Sure, it is at the end of the hall.",
+        "B": "Certainly, you can sit here.",
+        "C": "I'm sorry, but I have to go."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q35",
-      "label": "15"
+      "label": "15",
+      "stem": "Could you tell me where the exit is, please?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -484,42 +504,48 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "where the biology books are",
+        "B": "It's on the back wall.",
+        "C": "when your car will be ready"
       },
       "prompt": "Check-Up 1: Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q38",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's on the back wall.",
+        "B": "when your car will be ready",
+        "C": "Not yet. I hope it's sometime today."
       },
       "prompt": "Check-Up 2: Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q39",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "when your car will be ready",
+        "B": "Not yet. I hope it's sometime today.",
+        "C": "where the bus stop is"
       },
       "prompt": "Check-Up 3: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q40",
@@ -606,5 +632,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

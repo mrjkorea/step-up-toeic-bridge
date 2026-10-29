@@ -745,10 +745,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The tow truck is towing the car. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The tow truck is towing the car."
     },
     {
       "id": "q47",
@@ -758,10 +759,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): The car is being towed. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The car is being towed."
     },
     {
       "id": "q48",
@@ -771,10 +773,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): The car is in front of the tow truck. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The car is in front of the tow truck."
     },
     {
       "id": "q49",
@@ -784,10 +787,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): The car is being repaired. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The car is being repaired."
     },
     {
       "id": "q50",
@@ -797,10 +801,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (e): The car is parked in the parking lot. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The car is parked in the parking lot."
     },
     {
       "id": "q51",
@@ -810,10 +815,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (f): The car is at the gas station. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The car is at the gas station."
     },
     {
       "id": "q52",
@@ -823,10 +829,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): The building is under construction. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The building is under construction."
     },
     {
       "id": "q53",
@@ -836,10 +843,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): The man is working on the roof. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is working on the roof."
     },
     {
       "id": "q54",
@@ -849,10 +857,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): The windows are very different. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The windows are very different."
     },
     {
       "id": "q55",
@@ -862,10 +871,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The windows are similar. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The windows are similar."
     },
     {
       "id": "q56",
@@ -875,10 +885,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (e): The windows are open. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The windows are open."
     },
     {
       "id": "q57",
@@ -888,10 +899,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (f): The building has seven floors. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The building has seven floors."
     },
     {
       "type": "text",
@@ -917,7 +929,7 @@
     },
     {
       "type": "text",
-      "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “boat”.",
+      "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “boat” (verb: to travel in a boat).",
       "accept": [
         "paddle the boat"
       ],
@@ -1045,5 +1057,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

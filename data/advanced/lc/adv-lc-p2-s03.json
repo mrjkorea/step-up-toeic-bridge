@@ -259,56 +259,68 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Which jacket",
+        "B": "I didn't bring a jacket.",
+        "C": "do you like the most"
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Which of these products do you think will sell the best?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I didn't bring a jacket.",
+        "B": "do you like the most",
+        "C": "I think the dark one is the most suitable."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Which way is it to the hospital?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "do you like the most",
+        "B": "I think the dark one is the most suitable.",
+        "C": "Which route"
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Which report do you have to finish today?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "id": "q24",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I think the dark one is the most suitable.",
+        "B": "Which route",
+        "C": "The coastal road has some great views of the ocean."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Which one of the apartments did you decide to buy?",
+      "hideChoicesUntilAnswered": true,
+      "hideQuestionUntilAnswered": true
     },
     {
       "type": "text",
@@ -358,15 +370,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-1): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The latest cell phone will.",
+        "B": "It is expensive.",
+        "C": "Put it on the table."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q29",
-      "label": "9"
+      "label": "9",
+      "stem": "Which of these products do you think will sell the best?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -383,15 +397,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-2): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Go up 1st Avenue.",
+        "B": "I'm driving.",
+        "C": "It's behind the school."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q31",
-      "label": "11"
+      "label": "11",
+      "stem": "Which way is it to the hospital?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -408,15 +424,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-3): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I will finish it soon.",
+        "B": "He reported it yesterday.",
+        "C": "The one on the table."
       },
       "accept": "C",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q33",
-      "label": "13"
+      "label": "13",
+      "stem": "Which report do you have to finish today?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -433,15 +451,17 @@
       "type": "choice",
       "prompt": "Listening Practice 2-4): choose the best response.",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "We haven't decided it yet.",
+        "B": "We live on the 5th floor.",
+        "C": "We live with my parents."
       },
       "accept": "A",
       "audioOnly": true,
       "section": "Listening Practice",
       "id": "q35",
-      "label": "15"
+      "label": "15",
+      "stem": "Which one of the apartments did you decide to buy?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -581,5 +601,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

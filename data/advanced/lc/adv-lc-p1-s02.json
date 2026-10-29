@@ -75,7 +75,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (e): I was ______ my news",
+      "prompt": "Words and Idioms Check-Up (e): I was ______ my new sunglasses.",
       "choices": {
         "A": "bathing suit",
         "B": "carrying",
@@ -87,7 +87,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q5",
       "label": "(e)",
-      "stem": "I was ______ my news"
+      "stem": "I was ______ my new sunglasses."
     },
     {
       "id": "q6",
@@ -784,10 +784,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The children are on the swings. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are on the swings."
     },
     {
       "id": "q49",
@@ -797,10 +798,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): The children are on the slide. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are on the slide."
     },
     {
       "id": "q50",
@@ -810,10 +812,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): No one is on the swings. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "No one is on the swings."
     },
     {
       "id": "q51",
@@ -823,10 +826,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): The children are playing on the swings. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are playing on the swings."
     },
     {
       "id": "q52",
@@ -836,10 +840,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (e): There is no one on the slide. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "There is no one on the slide."
     },
     {
       "id": "q53",
@@ -849,10 +854,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (f): The children are playing outside. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are playing outside."
     },
     {
       "id": "q54",
@@ -862,10 +868,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): The children are swimming in the ocean. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are swimming in the ocean."
     },
     {
       "id": "q55",
@@ -875,10 +882,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): The children are swimming in the lake. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are swimming in the lake."
     },
     {
       "id": "q56",
@@ -888,10 +896,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): The children are walking along the beach. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are walking along the beach."
     },
     {
       "id": "q57",
@@ -901,10 +910,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The children are wearing bathing suits. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are wearing bathing suits."
     },
     {
       "id": "q58",
@@ -914,10 +924,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (e): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (e): The children are swimming in the pool. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are swimming in the pool."
     },
     {
       "id": "q59",
@@ -927,10 +938,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (f): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (f): The children are lying on the beach. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The children are lying on the beach."
     },
     {
       "type": "text",
@@ -1084,5 +1096,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

@@ -1,0 +1,259 @@
+{
+  "part2": {
+    "adv-lc-p2-s01": {
+      "1": {
+        "question": "Has George ever been to Australia?",
+        "choices": {
+          "A": "He is from Australia.",
+          "B": "No, he hasn't.",
+          "C": "Yes, he has."
+        }
+      },
+      "2": {
+        "question": "Haven't you finished your science fair project yet?",
+        "choices": {
+          "A": "Yes, I'm going to the science fair tomorrow.",
+          "B": "No, I'm still doing it now.",
+          "C": "No, I finished it yesterday."
+        }
+      },
+      "3": {
+        "question": "Wouldn't it be better to stay at home this weekend?",
+        "choices": {
+          "A": "No, I have to work.",
+          "B": "Yes, it would be a good idea.",
+          "C": "Yes, I went to the park last weekend."
+        }
+      },
+      "4": {
+        "question": "Should we call the restaurant and book a table?",
+        "choices": {
+          "A": "Yes, it is my favorite book.",
+          "B": "No, I don't like restaurants.",
+          "C": "Yes, that's a good idea."
+        }
+      }
+    },
+    "adv-lc-p2-s02": {
+      "1": {
+        "question": "Who's going to help Ms. Jones",
+        "choices": {
+          "A": "Next month",
+          "B": "",
+          "C": "At 9:00 a.m"
+        }
+      },
+      "2": {
+        "question": "When are we going to",
+        "choices": {
+          "A": "Yes, I'd love to",
+          "C": "At 9:00 a.m",
+          "B": "At the park"
+        }
+      },
+      "3": {
+        "question": "What are you going to.",
+        "choices": {
+          "A": "At my house",
+          "B": "I was a nice p",
+          "C": ""
+        }
+      },
+      "4": {
+        "question": "Where are you going to",
+        "choices": {
+          "A": "At my house",
+          "B": "I was a nice party",
+          "C": "58 Check-Up O 1. 질문을 듣고 적절한 대답"
+        }
+      }
+    },
+    "adv-lc-p2-s03": {
+      "1": {
+        "question": "do you think will sell the best?",
+        "choices": {
+          "A": "We haven't decided it yet",
+          "B": "",
+          "C": "We live with my parents"
+        }
+      },
+      "2": {
+        "question": "Which way is it ?",
+        "choices": {
+          "A": "We haven't decided it yet",
+          "B": "",
+          "C": "We live with my parents"
+        }
+      },
+      "3": {
+        "question": "Which report",
+        "choices": {
+          "A": "We haven't decided it yet",
+          "B": "",
+          "C": "We live with my parents"
+        }
+      },
+      "4": {
+        "question": "(A)",
+        "choices": {
+          "B": "",
+          "C": "We live with my parents",
+          "A": "We haven't decided it yet"
+        }
+      }
+    },
+    "adv-lc-p2-s04": {
+      "1": {
+        "question": "Should we set up camp now or",
+        "choices": {
+          "A": "",
+          "B": "We should set up camp now",
+          "C": "Climbing mountains is my hobby"
+        }
+      },
+      "2": {
+        "question": "on Friday or Monday?",
+        "choices": {
+          "A": "I took the final exam on Friday",
+          "B": "We should set up camp now",
+          "C": "Climbing mountains is my hobby"
+        }
+      },
+      "3": {
+        "question": "today, or should we finish the house chores?",
+        "choices": {
+          "A": "We should paint the fe",
+          "B": "on Friday",
+          "C": "It's on Monday"
+        }
+      },
+      "4": {
+        "question": "the blue shirt or the white one?",
+        "choices": {
+          "A": "We should paint the fence today",
+          "C": "L",
+          "B": "I did the chores yesterday"
+        }
+      }
+    },
+    "adv-lc-p2-s05": {
+      "1": {
+        "question": "The dogs are still chasing us,",
+        "choices": {
+          "A": "Yes, I'm going to the festival ne",
+          "B": "Yes, they are really fast",
+          "C": "Yes, I'll"
+        }
+      },
+      "2": {
+        "question": "(A) 3)",
+        "choices": {
+          "A": "No, I have two dogs at home",
+          "B": "Yes, they are really fast",
+          "C": "Yes, I'll"
+        }
+      },
+      "4": {
+        "question": "The sales team did a really good job,",
+        "choices": {
+          "A": "Yes, I'm going to the festival next summer",
+          "B": "No, the music festival is in London",
+          "C": "Yes, it's"
+        }
+      }
+    },
+    "adv-lc-p2-s06": {
+      "1": {
+        "question": "about my sore knee.",
+        "choices": {
+          "A": "",
+          "B": "4) I hope",
+          "C": "2. 녹음을 듣고 빈칸에 알맞은 단어를 쓴 후 적당한 응답을 고르세요"
+        }
+      },
+      "2": {
+        "question": "for the weekend doesn't look good.",
+        "choices": {
+          "A": "",
+          "B": "4) I hope",
+          "C": "2. 녹음을 듣고 빈칸에 알맞은 단어를 쓴 후 적당한 응답을 고르세요"
+        }
+      },
+      "3": {
+        "question": "I really need to buy",
+        "choices": {
+          "A": "",
+          "B": "4) I hope",
+          "C": "2. 녹음을 듣고 빈칸에 알맞은 단어를 쓴 후 적당한 응답을 고르세요"
+        }
+      }
+    },
+    "bas-lc-p2-s06": {
+      "1": {
+        "question": "How was the",
+        "choices": {
+          "A": "How many pencils do you have?",
+          "B": "",
+          "C": "2"
+        }
+      },
+      "2": {
+        "question": "How  to the park?  3) How",
+        "choices": {
+          "B": "",
+          "C": "2",
+          "A": "How many pencils do you have?"
+        }
+      },
+      "3": {
+        "question": "How many cousins do you have?  4) How much is the pencil?",
+        "choices": {
+          "B": "It is a new one",
+          "A": "It is",
+          "C": "I need two pencils. 88 Check-Up O 질문을 듣고 적절한 대답을 고르세요. 1. How"
+        }
+      }
+    },
+    "int-lc-p2-s03": {
+      "1": {
+        "question": "Where is Jane?",
+        "choices": {
+          "A": "",
+          "B": "0 2. Q. HE",
+          "C": "I really outside. you. 64 Check-Up O 질문을 듣고 적절한 대답을 고르세요. 1. Q"
+        }
+      },
+      "2": {
+        "question": "Where is the post office?",
+        "choices": {
+          "A": "",
+          "B": "",
+          "C": "65"
+        }
+      },
+      "3": {
+        "question": "Where did you meet Katie?",
+        "choices": {
+          "B": "",
+          "A": "",
+          "C": "65 Test Your Skills 실제 문제를 풀어 보세요"
+        }
+      }
+    }
+  },
+  "blocked": [
+    "adv-lc-p2-s05 label=3 id=q23",
+    "adv-lc-p2-s06 label=4 id=q23",
+    "adv-lc-p2-s07 label=1 id=q21",
+    "adv-lc-p2-s07 label=2 id=q22",
+    "adv-lc-p2-s07 label=3 id=q23",
+    "adv-lc-p2-s07 label=4 id=q24",
+    "adv-lc-p2-s07 label=1 id=q37",
+    "adv-lc-p2-s07 label=2 id=q38",
+    "adv-lc-p2-s07 label=3 id=q39",
+    "int-lc-p1-s01 label=1 id=q6",
+    "int-lc-p1-s01 label=2 id=q7",
+    "int-lc-p1-s01 q6 label=1",
+    "int-lc-p1-s01 q7 label=2"
+  ]
+}

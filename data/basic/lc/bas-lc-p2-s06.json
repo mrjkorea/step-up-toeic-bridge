@@ -294,56 +294,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I am.",
+        "B": "I was up all night.",
+        "C": "I am busy."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why are you tired today?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q21",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I can.",
+        "B": "I won the game.",
+        "C": "I am late."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why are you so happy?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I do.",
+        "B": "I played baseball.",
+        "C": "I like my pants."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why are your pants dirty?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q23",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I am sick.",
+        "B": "It is my house.",
+        "C": "It is near here."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Why are you at home?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -438,42 +446,48 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "z",
+        "B": "I didn't sleep.",
+        "C": "z"
       },
       "prompt": "Check-Up 1: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q33",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I didn't sleep.",
+        "B": "z",
+        "C": "I have good news."
       },
       "prompt": "Check-Up 2: Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q34",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "z",
+        "B": "I have good news.",
+        "C": "dʒ"
       },
       "prompt": "Check-Up 3: Listen and choose the best response.",
       "accept": "C",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Listen and choose the best response."
     },
     {
       "id": "q35",
@@ -560,5 +574,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }
