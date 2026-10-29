@@ -42,6 +42,7 @@ GENERIC_REWRITE = re.compile(
 CORRECT_WRONG = re.compile(r"Correct the (wrong word|error)", re.I)
 
 ODD_ONE_OUT = re.compile(r"Write the word that does not belong", re.I)
+WRITE_THE_ADVERB = re.compile(r"Write the adverb", re.I)
 VAGUE_CORRECT_COMPLETE = re.compile(r"correct or complete it\s*[—–-]", re.I)
 CUTOFF_LISTENING = re.compile(
     r"Listening Practice 1-\d+\):\s*today,\s*or should we",
@@ -62,6 +63,61 @@ def _exercise_stem(prompt: str, stem: str) -> str:
         return ""
     m = re.search(r":\s*(.+)$", prompt)
     return (m.group(1) if m else prompt).strip()
+
+
+def _odd_one_out_slash_text(pr: str, st: str) -> str:
+    if st and "/" in st:
+        return st.strip()
+    m = re.search(r"[—–-]\s*(.+)$", pr)
+    return m.group(1).strip() if m else _exercise_stem(pr, st)
+
+
+def check_odd_one_out_glued_slash(pr: str, st: str) -> str | None:
+    """Missing slash between odd-one-out words (other-three lists should have 3 slashes)."""
+    if not ODD_ONE_OUT.search(pr):
+        return None
+    ex = _odd_one_out_slash_text(pr, st)
+    if "/" not in ex:
+        return None
+    if re.search(r"\bill tasting\b", ex, re.I):
+        return "odd-one-out-ill-tasting-space"
+    if not re.search(r"other three", pr, re.I) or ex.count("/") != 2:
+        return None
+    for tok in (t.strip() for t in ex.split("/")):
+        if " " not in tok or "'" in tok or "-" in tok:
+            continue
+        parts = tok.split()
+        if len(parts) >= 2 and all(re.match(r"^[A-Za-z]+$", p) for p in parts):
+            return f"odd-one-out-glued-slash-token:{tok}"
+    return None
+
+
+def check_other_three_three_token_list(pr: str, st: str) -> str | None:
+    """Basic odd-one-out uses 나머지 두 (other two) for 3-word lists."""
+    if not ODD_ONE_OUT.search(pr) or not re.search(r"other three", pr, re.I):
+        return None
+    ex = _odd_one_out_slash_text(pr, st)
+    if ex.count("/") == 2:
+        return "other-three-but-three-token-list"
+    return None
+
+
+def check_write_adverb_accept_in_stem(pr: str, st: str, al: list) -> str | None:
+    if not WRITE_THE_ADVERB.search(pr) or not st or not al:
+        return None
+    first = str(al[0]).strip()
+    if first and re.search(rf"\b{re.escape(first)}\b", st, re.I):
+        return "write-adverb-accept-in-stem"
+    return None
+
+
+def check_bas_rc_p4_s07_bare_language(pid: str, pr: str, st: str) -> str | None:
+    if pid != "bas-rc-p4-s07" or not ODD_ONE_OUT.search(pr):
+        return None
+    ex = (st or "").strip()
+    if re.search(r"/\s*language(?:\s|$)", ex) and "language lab" not in ex:
+        return "bas-rc-p4-s07-bare-language"
+    return None
 
 
 def check_misapplied_odd_one_out(pr: str, st: str) -> str | None:
@@ -315,6 +371,22 @@ def scan() -> list[tuple]:
             junk = check_junk_accept(al)
             if junk:
                 fails.append((pid, iid, junk, pr[:100], it.get("accept")))
+
+            glued = check_odd_one_out_glued_slash(pr, st)
+            if glued:
+                fails.append((pid, iid, glued, pr[:100], it.get("accept")))
+
+            o3 = check_other_three_three_token_list(pr, st)
+            if o3:
+                fails.append((pid, iid, o3, pr[:100], it.get("accept")))
+
+            adv_stem = check_write_adverb_accept_in_stem(pr, st, al)
+            if adv_stem:
+                fails.append((pid, iid, adv_stem, pr[:100], it.get("accept")))
+
+            bare_lang = check_bas_rc_p4_s07_bare_language(pid, pr, st)
+            if bare_lang:
+                fails.append((pid, iid, bare_lang, pr[:100], it.get("accept")))
 
     return fails
 

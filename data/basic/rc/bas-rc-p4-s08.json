@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — boots / socks / cape",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other two — boots / socks / cape",
       "accept": [
         "cape"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — shirt / jeans / shorts",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other two — shirt / jeans / shorts",
       "accept": [
         "shirt"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — tuxedo / suit / sneakers",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other two — tuxedo / suit / sneakers",
       "accept": [
         "sneakers"
       ],
@@ -219,5 +219,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }

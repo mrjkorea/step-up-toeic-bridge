@@ -159,14 +159,17 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Write the adverb: — She runs very fast.",
+      "prompt": "Warm-Up 3-(b): Correct the error: — She runs very fastly.",
       "accept": [
-        "fast"
+        "She runs very fast.",
+        "fast",
+        "fastly → fast",
+        "fastly - fast"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "stem": "She runs very fast."
+      "stem": "She runs very fastly."
     },
     {
       "type": "text",
@@ -455,5 +458,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }

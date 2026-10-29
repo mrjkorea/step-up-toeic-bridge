@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — coffee / bread / milk",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other two — coffee / bread / milk",
       "accept": [
         "bread"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — hamburger / spaghetti / sandwich",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other two — hamburger / spaghetti / sandwich",
       "accept": [
         "spaghetti"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — salt / sugar / pizza",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other two — salt / sugar / pizza",
       "accept": [
         "pizza"
       ],
@@ -219,5 +219,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }

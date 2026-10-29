@@ -69,25 +69,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — witness / observe / perceive perfume",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — witness / observe / perceive / perfume",
       "accept": [
         "perfume"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "witness / observe / perceive perfume"
+      "stem": "witness / observe / perceive / perfume"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — salty / greasy / beer / ill tasting",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — salty / greasy / beer / ill-tasting",
       "accept": [
         "beer"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "salty / greasy / beer / ill tasting"
+      "stem": "salty / greasy / beer / ill-tasting"
     },
     {
       "type": "text",
@@ -264,5 +264,5 @@
       "accept": "D"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }
