@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — poem / baseball / volleyball",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other two — poem / baseball / volleyball",
       "accept": [
         "poem"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — movie / fishing / traveling",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other two — movie / fishing / traveling",
       "accept": [
         "movie"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — jogging / aerobics / painting",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other two — jogging / aerobics / painting",
       "accept": [
         "painting"
       ],
@@ -224,5 +224,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }

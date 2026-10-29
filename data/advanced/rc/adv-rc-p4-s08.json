@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — counselor / adviser / narrator discuss",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — counselor / adviser / narrator / discuss",
       "accept": [
         "discuss"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "counselor / adviser / narrator discuss"
+      "stem": "counselor / adviser / narrator / discuss"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — considerate / apply / contract propose",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — considerate / apply / contract / propose",
       "accept": [
         "considerate"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "considerate / apply / contract propose"
+      "stem": "considerate / apply / contract / propose"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — acceptable / convincing / puzzled state",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — acceptable / convincing / puzzled / state",
       "accept": [
         "state"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "acceptable / convincing / puzzled state"
+      "stem": "acceptable / convincing / puzzled / state"
     },
     {
       "type": "text",
@@ -263,5 +263,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v33-cos-fix"
+  "contentVersion": "v34-cos-fix"
 }
