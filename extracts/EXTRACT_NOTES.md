@@ -1,0 +1,27 @@
+# Step Up TOEIC Bridge — book-text extracts (2026-10-30)
+
+Sources: sources/stepuptoeicalllevelsquestions_20260415.txt (OCR of all 3 books), basic/intermediate/advanced_answers.txt, data/*.json, FAILS.json.
+Every record carries practiceId + itemIdOrLabel (same string as FAILS.json) + id + app accept (unchanged).
+
+## Coverage
+| File | Fails | Fully recovered | Partial | Missing |
+|---|---|---|---|---|
+| tf_statements.json | 92 | 24 (Basic s02–s04, exact book wording, high) | 0 | 68 (Int 32 + Adv 36) needsBookPdf |
+| part2_responses.json | 123 | 84 (Bas 28 high, Int 28 med-high, Adv Ex2 28 high/med) | 28 (Adv Ex1: question only) | 11 (9 Check-Up + 2 int-lc-p1-s01 Warm-Up photo items) |
+| rc_blanks.json | 8 | 8 (exact, high) | 0 | 0 |
+| sense_fixes.json | 5 | 5 proposals (all book-backed) | — | — |
+Total: 121/228 fully recovered (53%), 28 partial, 79 still need audio scripts.
+
+## Gaps (why) — need the book's audioscript pages (not in OCR or answer keys)
+- Int/Adv Part I Check-Up 1 T/F: book prints only "(a) T/F (b) T/F …"; statements are audio-only. Answer keys give only T/F. No transcript text exists in sources.
+- Adv Part II Listening Practice Ex1 (1-1..1-4, 28 items): question recovered (printed partial + key blank), but its (A)(B)(C) are audio-only and differ from Ex2 (different accept letters).
+- Part II Check-Up (bas-s06, int-s03, adv-s07 ×3) and int-lc-p1-s01 Warm-Up 1–2: book prints "Q. (A)(B)(C)" / photo only.
+- Option if no script available: convert those items to audio-only with a "listen" note rather than inventing text.
+
+## Confidence / caveats
+- Basic Part II: Ex1 prints Q + (A)(B) exactly; (C) taken from Ex2. Book Ex1 is 2-choice — app may drop C. bas-lc-p2-s06 #3: Ex1 order (A) Yes, I do. (B) I played baseball. used (Ex2 puts it as C).
+- Int Part II: Ex1 choices are audio; used Ex2 (same questions, printed 3 choices, blanks filled from key). All 28 accept letters semantically consistent.
+- Adv Part II Ex2: several blank placements inferred — see per-item `note` (s02 #4 "I was a nice party." OCR/book typo; s05 #4 "Yes, I can hardly believe it." guessed filler "I can"; s06 #4 "I hope so." placement; s07 #1 C "No, I will be away for five days.").
+- bas-lc-p1-s02 1-1) key F,F,F,T (sitting/relaxing = False, reading = True) — matches app accept and key, but worth a photo check.
+- int-rc-p4-s03 3-(c): OCR "(All Every)" — restored slash.
+- Sense: adv q5 stem should be "I was ______ my new sunglasses." (book exact). "boat"/"film"/"use a drill"/"have a meeting" are the book's exact pairings — propose verb glosses in prompt, keep accepts.
