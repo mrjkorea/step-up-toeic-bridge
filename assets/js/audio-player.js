@@ -49,12 +49,12 @@
           lab.textContent = "Track " + String.fromCharCode(65 + idx);
           wrap.appendChild(lab);
         }
-        var video = document.createElement("video");
-        video.controls = true;
-        video.preload = "metadata";
-        video.className = "stepup-audio";
-        video.src = root.stepupUrl("audio/" + file);
-        wrap.appendChild(video);
+        var media = document.createElement("audio");
+        media.controls = true;
+        media.preload = "metadata";
+        media.className = "stepup-audio";
+        media.src = root.stepupUrl("audio/" + file);
+        wrap.appendChild(media);
         container.appendChild(wrap);
       });
     });
