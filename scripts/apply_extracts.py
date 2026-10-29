@@ -149,38 +149,64 @@ def apply_part2_item(it: dict, rec: dict) -> str:
     return "skip"
 
 
-def apply_part2():
-    touched = set()
-    n_full = n_qonly = n_warmup = n_skip = 0
+def merge_part2_records() -> list[dict]:
+    """Merge part2_responses + part2_remaining; later file wins non-null fields."""
+    merged: dict[tuple[str, str], dict] = {}
     for fname in ("part2_responses.json", "part2_remaining.json"):
         fp = EX / fname
         if not fp.is_file():
             continue
         for rec in json.loads(fp.read_text(encoding="utf-8")):
-            path, doc = load_practice(rec["practiceId"])
-            it = item_by_id(doc, rec["id"])
-            if not it:
-                raise KeyError((rec["practiceId"], rec["id"]))
-            kind = apply_part2_item(it, rec)
-            if kind == "skip":
-                n_skip += 1
-                continue
-            save_practice(path, doc)
-            touched.add(rec["practiceId"])
-            if kind == "full":
-                n_full += 1
-            elif kind == "qonly":
-                n_qonly += 1
-            elif kind == "warmup":
-                n_warmup += 1
-    return n_full, n_qonly, n_warmup, n_skip, touched
+            key = (rec["practiceId"], rec["id"])
+            base = merged.setdefault(key, dict(rec))
+            for field in (
+                "itemIdOrLabel",
+                "accept",
+                "question",
+                "choices",
+                "confidence",
+                "source",
+                "note",
+            ):
+                if rec.get(field) is not None:
+                    base[field] = rec[field]
+    return list(merged.values())
+
+
+def apply_part2():
+    touched = set()
+    n_full = n_qonly = n_warmup = n_skip = 0
+    null_only_in_responses = 0
+    resp_path = EX / "part2_responses.json"
+    if resp_path.is_file():
+        for rec in json.loads(resp_path.read_text(encoding="utf-8")):
+            if rec.get("question") is None and rec.get("choices") is None:
+                null_only_in_responses += 1
+    for rec in merge_part2_records():
+        path, doc = load_practice(rec["practiceId"])
+        it = item_by_id(doc, rec["id"])
+        if not it:
+            raise KeyError((rec["practiceId"], rec["id"]))
+        kind = apply_part2_item(it, rec)
+        if kind == "skip":
+            n_skip += 1
+            continue
+        save_practice(path, doc)
+        touched.add(rec["practiceId"])
+        if kind == "full":
+            n_full += 1
+        elif kind == "qonly":
+            n_qonly += 1
+        elif kind == "warmup":
+            n_warmup += 1
+    return n_full, n_qonly, n_warmup, n_skip, null_only_in_responses, touched
 
 
 def main():
     rc_n, rc_p = apply_rc()
     sense_n, sense_p = apply_sense()
     tf_n, tf_p, tf_skip = apply_tf()
-    p2_full, p2_q, p2_w, p2_skip, p2_p = apply_part2()
+    p2_full, p2_q, p2_w, p2_skip, p2_null_resp, p2_p = apply_part2()
     print(
         json.dumps(
             {
@@ -193,6 +219,7 @@ def main():
                 "part2_question_only": p2_q,
                 "part2_warmup_statements": p2_w,
                 "part2_skipped": p2_skip,
+                "part2_null_rows_in_responses_only": p2_null_resp,
                 "part2_remaining_file": (EX / "part2_remaining.json").is_file(),
                 "practices_touched": sorted(
                     rc_p | sense_p | tf_p | p2_p

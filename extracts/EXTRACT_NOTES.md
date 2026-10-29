@@ -19,6 +19,8 @@ Use **`python3 scripts/apply_extracts.py`** only (reads `extracts/*.json`). Do n
 ## Gaps (why) — need the book's audioscript pages (not in OCR or answer keys)
 - Adv Part II Listening Practice Ex1 (1-1..1-4, 28 items): question recovered (printed partial + key blank), but its (A)(B)(C) are audio-only and differ from Ex2 (different accept letters).
 - Part II Check-Up (bas-s06, int-s03, adv-s07 ×3) and int-lc-p1-s01 Warm-Up 1–2: book prints "Q. (A)(B)(C)" / photo only.
+- **`part2_responses.json` null/null rows (11):** see `part2_null_rows_in_responses_only` in apply output; all 11 are filled from `part2_remaining.json` (Check-Ups → full Q+choices; Warm-Up q6/q7 → photo statements, choices only).
+- RC grammar items with `(a)`/`(b)`/`(c)`/`(d)` choice labels and full sentences in **stem/prompt**: sweep **WARN** `letter-label-choices-in-stem`, not FAIL.
 - Option if no script available: convert those items to audio-only with a "listen" note rather than inventing text.
 
 ## Confidence / caveats

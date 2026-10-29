@@ -121,6 +121,8 @@ for t in cat["tracks"]:
                             + json.dumps(ch, ensure_ascii=False),
                         )
                 elif vals and all(LET.match(v) for v in vals):
+                    combined = f"{pr} {st}".strip()
+                    stem_labels = len(re.findall(r"\([a-d]\)", combined, re.I)) >= 2
                     if it.get("photo"):
                         add(
                             warns,
@@ -138,6 +140,15 @@ for t in cat["tracks"]:
                             it,
                             "phoneme-letter-choices (b/v, f/p, s/z — legit sound contrast)",
                             pr + " | " + json.dumps(ch),
+                        )
+                    elif stem_labels or (st and len(st.strip()) >= 40):
+                        add(
+                            warns,
+                            b,
+                            pid,
+                            it,
+                            "letter-label-choices-in-stem (grammar RC; full options in stem/prompt)",
+                            pr + " " + st + " | " + json.dumps(ch, ensure_ascii=False),
                         )
                     else:
                         add(
