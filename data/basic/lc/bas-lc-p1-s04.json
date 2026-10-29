@@ -583,10 +583,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The man is behind the counter. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is behind the counter."
     },
     {
       "id": "q34",
@@ -596,10 +597,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): The store is closed. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The store is closed."
     },
     {
       "id": "q35",
@@ -609,10 +611,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): The man is handing over money. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The man is handing over money."
     },
     {
       "id": "q36",
@@ -622,10 +625,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): The money is on the counter. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The money is on the counter."
     },
     {
       "id": "q37",
@@ -635,10 +639,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): He is eating a meal. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "He is eating a meal."
     },
     {
       "id": "q38",
@@ -648,10 +653,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): The table is empty. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The table is empty."
     },
     {
       "id": "q39",
@@ -661,10 +667,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): He is buying a table. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "He is buying a table."
     },
     {
       "id": "q40",
@@ -674,10 +681,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The table is full of food. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The table is full of food."
     },
     {
       "id": "q41",
@@ -828,5 +836,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

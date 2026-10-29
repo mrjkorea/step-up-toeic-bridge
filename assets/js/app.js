@@ -515,9 +515,25 @@
     return "";
   }
 
-  function appendPrompt(card, item) {
+  function itemHideUntilAnswer(item) {
+    return !!(
+      item &&
+      (item.hideChoicesUntilAnswered ||
+        item.revealChoicesAfterAnswer ||
+        item.hideQuestionUntilAnswered)
+    );
+  }
+
+  function appendPrompt(card, item, opts) {
+    opts = opts || {};
+    var hideWritten = opts.hideWritten && itemHideUntilAnswer(item);
     if (item.prompt) card.appendChild(el("p", "q-prompt", item.prompt));
-    else if (item.stem) card.appendChild(el("p", "q-prompt", item.stem));
+    else if (item.stem && !hideWritten) card.appendChild(el("p", "q-prompt", item.stem));
+    if (item.stem && hideWritten) {
+      var stemEl = el("p", "q-prompt q-prompt--spoken q-hidden-until-reveal", item.stem);
+      stemEl.hidden = true;
+      card.appendChild(stemEl);
+    }
   }
 
   function appendWordBank(card, item) {
@@ -591,13 +607,15 @@
 
   function renderChoiceItem(item, responses, practice, passageShown) {
     var card = el("article", "q-card");
+    var hideUntil = itemHideUntilAnswer(item);
+    if (hideUntil) card.classList.add("q-card--hide-until-answer");
     card.appendChild(el("div", "q-label", formatItemLabel(item)));
     appendPassageBlock(card, item, practice, passageShown);
     appendItemPagePhoto(card, item, true);
     if (item.photo) {
       appendPhotoBlock(card, item.photo, "Picture for question " + (item.label || item.id));
     }
-    appendPrompt(card, item);
+    appendPrompt(card, item, { hideWritten: true });
     var fieldset = el("fieldset", "q-choices");
     fieldset.setAttribute("aria-label", "Question " + item.label);
     var choices = item.choices || {};
@@ -607,7 +625,8 @@
       var id = item.id + "_" + k;
       var row = el("label", "choice-row");
       var text = choices[k];
-      var letterOnly = text === k;
+      var letterOnly = text === k || /^\([A-E]\)$/.test(String(text).trim());
+      var hideText = hideUntil && !letterOnly;
       row.innerHTML =
         '<input type="radio" name="' +
         item.id +
@@ -620,12 +639,31 @@
         ' /> <span class="choice-key">' +
         k +
         "</span>" +
-        (letterOnly ? "" : ' <span class="choice-text">' + text + "</span>");
+        (letterOnly || hideText
+          ? ' <span class="choice-text"' +
+            (hideText ? ' data-full-text="' + String(text).replace(/"/g, "&quot;") + '"' : "") +
+            ">" +
+            (hideText ? "(" + k + ")" : text) +
+            "</span>"
+          : ' <span class="choice-text">' + text + "</span>");
       fieldset.appendChild(row);
     });
     card.appendChild(fieldset);
     card.dataset.itemId = item.id;
     return card;
+  }
+
+  function revealHiddenQuizContent(form) {
+    form.querySelectorAll(".q-card--hide-until-answer").forEach(function (card) {
+      card.classList.add("q-card--revealed");
+      card.querySelectorAll(".q-hidden-until-reveal").forEach(function (node) {
+        node.hidden = false;
+      });
+      card.querySelectorAll(".choice-text[data-full-text]").forEach(function (span) {
+        span.textContent = span.getAttribute("data-full-text") || span.textContent;
+        span.removeAttribute("data-full-text");
+      });
+    });
   }
 
   function renderTextItem(item, responses, practice, passageShown) {
@@ -953,6 +991,7 @@
             result.detail.forEach(function (d) {
               byId[d.id] = d;
             });
+            revealHiddenQuizContent(form);
             form.querySelectorAll(".q-card").forEach(function (card) {
               var id = card.dataset.itemId;
               var detail = byId[id];

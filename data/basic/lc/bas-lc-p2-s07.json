@@ -281,56 +281,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It was difficult.",
+        "B": "It is expensive.",
+        "C": "I like math."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "How was the math test?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q20",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Yes, I can.",
+        "B": "I walk to the park.",
+        "C": "Everyday."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "How do you go to the park?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q21",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "He is five years old.",
+        "B": "I have five.",
+        "C": "He is my cousin."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "How many cousins do you have?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q22",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It is $1.",
+        "B": "It is a new one.",
+        "C": "I need two pencils."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "How much is the pencil?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -547,5 +555,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

@@ -380,6 +380,16 @@ body {
   border-color: var(--bad);
 }
 
+.q-card--hide-until-answer.q-card--revealed .q-prompt--spoken {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.q-card--hide-until-answer:not(.q-card--revealed) .choice-text[data-full-text] {
+  font-style: italic;
+  opacity: 0.85;
+}
+
 .q-label {
   font-weight: 700;
   margin-bottom: 0.35rem;

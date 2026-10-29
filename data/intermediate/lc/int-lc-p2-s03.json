@@ -254,56 +254,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "She is going to school.",
+        "B": "She is at home.",
+        "C": "She likes to go to the museum."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Where is Jane?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q17",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's right there.",
+        "B": "It's on me.",
+        "C": "I have to send them."
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Where is the post office?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q18",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "In the library.",
+        "B": "At 3 o'clock.",
+        "C": "We went to watch a movie."
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Where did you meet Katie?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q19",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It's sunny outside.",
+        "B": "It's San Diego.",
+        "C": "I really miss you."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "Where is your hometown?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -442,42 +450,48 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "Next to the table.",
+        "B": "I lost my bag.",
+        "C": "My mother bought it for me."
       },
       "prompt": "Check-Up 1: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Where did you put your bag?"
     },
     {
       "id": "q33",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "At the mall.",
+        "B": "At 4 o'clock.",
+        "C": "She is my teacher."
       },
       "prompt": "Check-Up 2: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Where are you going to meet Sue?"
     },
     {
       "id": "q34",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I went skiing with my family.",
+        "B": "I am going to go to my friend's house.",
+        "C": "I have not decided yet."
       },
       "prompt": "Check-Up 3: Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up"
+      "section": "Check-Up",
+      "hideChoicesUntilAnswered": true,
+      "stem": "Where did you go for your winter vacation?"
     },
     {
       "id": "q35",
@@ -564,5 +578,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }
