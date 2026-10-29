@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: This jacket will ______ you well.",
+      "prompt": "Vocabulary Practice 2-(a): Fill in the blank: This jacket will ______ you well.",
       "accept": [
         "suit"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: She is ______ in the mirror.",
+      "prompt": "Vocabulary Practice 2-(c): Fill in the blank: She is ______ in the mirror.",
       "accept": [
         "looking"
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: She is ______ on her boots.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: She is ______ on her boots.",
       "accept": [
         "putting"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: In winter, people usually wear ______",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: In winter, people usually wear ______",
       "accept": [
         "coats"
       ],

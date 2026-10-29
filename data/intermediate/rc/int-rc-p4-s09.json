@@ -62,14 +62,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: toothpaste toothbrush ______ nightstand ______ washstand",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — toothpaste / toothbrush / nightstand / washstand",
       "accept": [
-        "stand"
+        "nightstand"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(b)",
-      "stem": "toothpaste toothbrush ______ nightstand ______ washstand"
+      "stem": "toothpaste / toothbrush / nightstand / washstand"
     },
     {
       "type": "text",
@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — wash ______",
+      "prompt": "Vocabulary Practice 2-(a): Complete the compound word: wash ______",
       "accept": [
         "washstand"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — tooth ______",
+      "prompt": "Vocabulary Practice 2-(b): Complete the compound word: tooth ______",
       "accept": [
         "toothbrush"
       ],
@@ -106,7 +106,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — cup ______",
+      "prompt": "Vocabulary Practice 2-(c): Complete the compound word: cup ______",
       "accept": [
         "cupboard"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — bath ______",
+      "prompt": "Vocabulary Practice 2-(d): Complete the compound word: bath ______",
       "accept": [
         "bathtub"
       ],
@@ -128,7 +128,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: The steps lead to the ______.",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: The steps lead to the ______.",
       "accept": [
         "basement"
       ],
@@ -150,7 +150,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: There is some fruit in the ______.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: There is some fruit in the ______.",
       "accept": [
         "refrigerator"
       ],

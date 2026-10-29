@@ -149,9 +149,11 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Type your answer: People say he is right, and I don't agree with him.",
+      "prompt": "Warm-Up 2-(a): Correct the connector (and / but): People say he is right, and I don't agree with him.",
       "accept": [
-        "and but"
+        "but",
+        "and → but",
+        "People say he is right, but I don't agree with him."
       ],
       "section": "Warm-Up",
       "id": "q13",

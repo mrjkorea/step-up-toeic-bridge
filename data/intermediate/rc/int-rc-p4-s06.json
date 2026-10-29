@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — baseball ______",
+      "prompt": "Vocabulary Practice 2-(a): Complete the compound word: baseball ______",
       "accept": [
         "baseball player"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — police ______",
+      "prompt": "Vocabulary Practice 2-(b): Complete the compound word: police ______",
       "accept": [
         "police officer"
       ],
@@ -106,7 +106,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — hair ______",
+      "prompt": "Vocabulary Practice 2-(c): Complete the compound word: hair ______",
       "accept": [
         "hairdresser"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — fire ______",
+      "prompt": "Vocabulary Practice 2-(d): Complete the compound word: fire ______",
       "accept": [
         "firefighter"
       ],

@@ -41,6 +41,67 @@ GENERIC_REWRITE = re.compile(
 
 CORRECT_WRONG = re.compile(r"Correct the (wrong word|error)", re.I)
 
+ODD_ONE_OUT = re.compile(r"Write the word that does not belong", re.I)
+VAGUE_CORRECT_COMPLETE = re.compile(r"correct or complete it\s*[—–-]", re.I)
+CUTOFF_LISTENING = re.compile(
+    r"Listening Practice 1-\d+\):\s*today,\s*or should we",
+    re.I,
+)
+JUNK_MULTI_ACCEPT = re.compile(r"^and\s+but$", re.I)
+
+SENTENCE_START = re.compile(
+    r"\b(I|My|We|They|She|He|It|The|Have you|Can I|Jane|Paul|Laura|Students|If you|In winter|There is|Every|Don't|Fish)\b",
+    re.I,
+)
+
+
+def _exercise_stem(prompt: str, stem: str) -> str:
+    if stem:
+        return stem
+    if not prompt:
+        return ""
+    m = re.search(r":\s*(.+)$", prompt)
+    return (m.group(1) if m else prompt).strip()
+
+
+def check_misapplied_odd_one_out(pr: str, st: str) -> str | None:
+    if not ODD_ONE_OUT.search(pr):
+        return None
+    ex = _exercise_stem(pr, st)
+    blanks = ex.count("______")
+    if blanks == 1 and ("." in ex or "?" in ex or SENTENCE_START.search(ex)):
+        return "odd-one-out-on-sentence-fill"
+    if blanks == 0 and not re.search(r"/", ex):
+        if re.search(r"\?", ex) or SENTENCE_START.search(ex):
+            return "odd-one-out-without-blank-or-list"
+        return None
+    return None
+
+
+def check_vague_correct_complete(pr: str) -> str | None:
+    if VAGUE_CORRECT_COMPLETE.search(pr) and re.search(r"Vocabulary Practice 2-", pr):
+        return "vague-correct-or-complete"
+    return None
+
+
+def check_cutoff_listening(pr: str, st: str) -> str | None:
+    if CUTOFF_LISTENING.search(pr) or CUTOFF_LISTENING.search(st or ""):
+        return "cutoff-listening-prompt"
+    return None
+
+
+def check_junk_accept(al: list) -> str | None:
+    for x in al:
+        s = str(x).strip()
+        if JUNK_MULTI_ACCEPT.match(s):
+            return "junk-multi-word-accept"
+        if " " in s and not re.search(r"[→/,]", s):
+            words = s.split()
+            if len(words) >= 2 and all(len(w) <= 4 for w in words):
+                if s.lower() in ("and but", "or and", "but and"):
+                    return "junk-multi-word-accept"
+    return None
+
 def norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", str(s).lower().replace("'", "'"))
 
@@ -144,10 +205,20 @@ def scan() -> list[tuple]:
             if m:
                 fails.append((pid, iid, "ocr", m.group(0), pr[:120]))
 
+            if it.get("type") == "choice":
+                cut = check_cutoff_listening(pr, st)
+                if cut:
+                    fails.append((pid, iid, cut, pr[:100], it.get("accept")))
+
             if it.get("type") != "text":
                 continue
 
-            if st and any(norm(x) == norm(st) for x in al) and "slash" not in pr.lower():
+            if (
+                st
+                and "______" not in st
+                and any(norm(x) == norm(st) for x in al)
+                and "slash" not in pr.lower()
+            ):
                 fails.append((pid, iid, "accept==stem", pr[:100], it.get("accept")))
 
             leak = check_vocab_stem_leak(pid, it)
@@ -197,6 +268,18 @@ def scan() -> list[tuple]:
                 and not INSTR_KEYWORDS.search(pr)
             ):
                 fails.append((pid, iid, "no-instruction", pr[:100], it.get("accept")))
+
+            mis = check_misapplied_odd_one_out(pr, st)
+            if mis:
+                fails.append((pid, iid, mis, pr[:100], it.get("accept")))
+
+            vague = check_vague_correct_complete(pr)
+            if vague:
+                fails.append((pid, iid, vague, pr[:100], it.get("accept")))
+
+            junk = check_junk_accept(al)
+            if junk:
+                fails.append((pid, iid, junk, pr[:100], it.get("accept")))
 
     return fails
 
