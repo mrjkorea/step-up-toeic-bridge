@@ -246,7 +246,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: She closed the window last night. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(a): Type the English word that matches the blank — She closed the window last night.",
       "accept": [
         "window"
       ],
@@ -256,7 +256,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: Birds fly in the sky. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(b): Type the English word that matches the blank — Birds fly in the sky.",
       "accept": [
         "fly"
       ],
@@ -266,7 +266,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: He can play the piano. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(c): Type the English word that matches the blank — He can play the piano.",
       "accept": [
         "He"
       ],
@@ -318,8 +318,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): correct the wrong word — He seems sadly.",
+      "prompt": "Grammar Practice 4-(a): Correct the error — He seems sadly.",
       "accept": [
+        "He seems sad.",
         "sad"
       ],
       "section": "Grammar Practice",
@@ -329,8 +330,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): correct the wrong word — It smells badly.",
+      "prompt": "Grammar Practice 4-(b): Correct the error — It smells badly.",
       "accept": [
+        "It smells bad.",
         "bad"
       ],
       "section": "Grammar Practice",
@@ -340,8 +342,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct the wrong word — It sounds nicely.",
+      "prompt": "Grammar Practice 4-(c): Correct the error — It sounds nicely.",
       "accept": [
+        "It sounds nice.",
         "nice"
       ],
       "section": "Grammar Practice",
@@ -461,5 +464,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

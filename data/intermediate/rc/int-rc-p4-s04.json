@@ -35,8 +35,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): correct the wrong word — He works very hardly.",
+      "prompt": "Warm-Up 3-(a): Correct the error — He works very hardly.",
       "accept": [
+        "He works very hard.",
         "hard"
       ],
       "section": "Warm-Up",
@@ -46,8 +47,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Correct the wrong word — This watch is very expensively.",
+      "prompt": "Warm-Up 3-(c): Correct the error — This watch is very expensively.",
       "accept": [
+        "This watch is very expensive.",
         "expensive"
       ],
       "section": "Warm-Up",
@@ -57,8 +59,9 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): correct the wrong word — Tom is often lately for school.",
+      "prompt": "Warm-Up 3-(d): Correct the error — Tom is often lately for school.",
       "accept": [
+        "Tom is often late for school.",
         "late"
       ],
       "section": "Warm-Up",
@@ -70,7 +73,7 @@
       "type": "text",
       "prompt": "Warm-Up 1-(a): Underline the adverb — I will study very hard.",
       "accept": [
-        "very hard"
+        "very"
       ],
       "section": "Warm-Up",
       "id": "q6",
@@ -81,7 +84,7 @@
       "type": "text",
       "prompt": "Warm-Up 1-(b): Underline the adverb — The math exam was very difficult.",
       "accept": [
-        "very difficult"
+        "very"
       ],
       "section": "Warm-Up",
       "id": "q7",
@@ -103,7 +106,7 @@
       "type": "text",
       "prompt": "Warm-Up 1-(d): Underline the adverb — She ran out of the room very quickly.",
       "accept": [
-        "very quickly"
+        "quickly"
       ],
       "section": "Warm-Up",
       "id": "q9",
@@ -112,7 +115,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Rewrite the sentence: I visited his house (exact / exactly) at 5 p.m.",
+      "prompt": "Warm-Up 2-(a): Choose the correct form: I visited his house (exact / exactly) at 5 p.m.",
       "accept": [
         "exactly"
       ],
@@ -123,7 +126,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Rewrite the sentence: She looks very (beautiful / beautifully) in her dress.",
+      "prompt": "Warm-Up 2-(b): Choose the correct form: She looks very (beautiful / beautifully) in her dress.",
       "accept": [
         "beautiful"
       ],
@@ -134,7 +137,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Rewrite the sentence: Your question is very (easy / easily).",
+      "prompt": "Warm-Up 2-(c): Choose the correct form: Your question is very (easy / easily).",
       "accept": [
         "easy"
       ],
@@ -145,7 +148,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Rewrite the sentence: All the boys can play tennis (good / well).",
+      "prompt": "Warm-Up 2-(d): Choose the correct form: All the boys can play tennis (good / well).",
       "accept": [
         "well"
       ],
@@ -167,7 +170,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): Rewrite the sentence: He is sad. (always)",
+      "prompt": "Warm-Up 4-(a): Write the correct form: He is sad. (always)",
       "accept": [
         "He is always sad."
       ],
@@ -178,7 +181,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): Rewrite the sentence: He watches TV after dinner, (sometimes)",
+      "prompt": "Warm-Up 4-(b): Write the correct form: He watches TV after dinner, (sometimes)",
       "accept": [
         "He sometimes watches TV after dinner."
       ],
@@ -189,7 +192,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): Rewrite the sentence: He can read an English newspaper, (hardly)",
+      "prompt": "Warm-Up 4-(c): Write the correct form: He can read an English newspaper, (hardly)",
       "accept": [
         "He can hardly read an English newspaper."
       ],
@@ -200,7 +203,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): Rewrite the sentence: He rides a bike to the mart, (often)",
+      "prompt": "Warm-Up 4-(d): Write the correct form: He rides a bike to the mart, (often)",
       "accept": [
         "He often rides a bike to the mart."
       ],
@@ -222,7 +225,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4: Rewrite the sentence: Correct the word order: We watch often movies at home.",
+      "prompt": "Grammar Practice 4: Correct the word order — We watch often movies at home.",
       "accept": [
         "We often watch movies at home."
       ],
@@ -234,7 +237,7 @@
       "type": "text",
       "prompt": "Grammar Practice 1-(a): Fill in the blank: fast ______ — ______",
       "accept": [
-        "fast"
+        "fastly"
       ],
       "section": "Grammar Practice",
       "id": "q21",
@@ -320,7 +323,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): Rewrite the sentence: He sings very well.",
+      "prompt": "Grammar Practice 2-(a): Change to a noun phrase: He sings very well.",
       "accept": [
         "He is a good singer."
       ],
@@ -331,7 +334,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): Rewrite the sentence: She runs very fast.",
+      "prompt": "Grammar Practice 2-(b): Change to a noun phrase: She runs very fast.",
       "accept": [
         "She is a fast runner."
       ],
@@ -342,7 +345,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Rewrite the sentence: The girl plays beautifully.",
+      "prompt": "Grammar Practice 2-(c): Change to a noun phrase: The girl plays beautifully.",
       "accept": [
         "The girl is a beautiful player."
       ],
@@ -353,7 +356,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Rewrite the sentence: He drives carefully.",
+      "prompt": "Grammar Practice 2-(d): Change to a noun phrase: He drives carefully.",
       "accept": [
         "He is a careful driver."
       ],
@@ -452,5 +455,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -46,7 +46,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): It’s ______ and windy in New York.",
+      "prompt": "Words and Idioms Check-Up (c): It's ______ and windy in New York.",
       "choices": {
         "A": "available",
         "B": "cloudy",
@@ -60,7 +60,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "stem": "It’s ______ and windy in New York."
+      "stem": "It's ______ and windy in New York."
     },
     {
       "type": "choice",
@@ -100,7 +100,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: listen and type the answer.",
+      "prompt": "Warm-Up 1: Type the words you hear:",
       "accept": [
         "Take out all electronic devices"
       ],
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: listen and type the answer.",
+      "prompt": "Warm-Up 2: Type the words you hear:",
       "accept": [
         "On a bus"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: listen and type the answer.",
+      "prompt": "Warm-Up 3: Type the words you hear:",
       "accept": [
         "Move the car"
       ],
@@ -439,5 +439,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

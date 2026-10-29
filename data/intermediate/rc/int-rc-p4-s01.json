@@ -244,7 +244,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: I will comeback in (a / an) hour.",
+      "prompt": "Grammar Practice 1-(a): Choose the correct form: I will comeback in (a / an) hour.",
       "accept": [
         "an"
       ],
@@ -279,7 +279,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: He is (a / an) honest man.",
+      "prompt": "Grammar Practice 1-(d): Choose the correct form: He is (a / an) honest man.",
       "accept": [
         "an"
       ],
@@ -348,7 +348,7 @@
       "type": "text",
       "prompt": "Grammar Practice 3-(b): Correct the error — We go to the church after a breakfast.",
       "accept": [
-        "We go to church after breakfast."
+        "We go to the church after breakfast."
       ],
       "section": "Grammar Practice",
       "id": "q30",
@@ -359,18 +359,20 @@
       "type": "text",
       "prompt": "Grammar Practice 3-(c): Correct the error — I don't like the winter.",
       "accept": [
-        "I don't like the winter."
+        "I don't like winter.",
+        "I do not like winter."
       ],
       "section": "Grammar Practice",
       "id": "q31",
       "label": "3-(c)",
-      "stem": "I don ’t like the winter."
+      "stem": "I don't like the winter."
     },
     {
       "type": "text",
       "prompt": "Grammar Practice 3-(d): Correct the error — A waiter, please give me the some water.",
       "accept": [
-        "Waiter, please give me some water."
+        "Waiter, please give me some water.",
+        "A waiter, please give me some water."
       ],
       "section": "Grammar Practice",
       "id": "q32",
@@ -489,5 +491,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): urban ______ trash ______ modern ______ ancient",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: urban ______ trash ______ modern ______ ancient",
       "accept": [
         "trash"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): police station fire station ______ taxi driver bus stop",
+      "prompt": "Vocabulary Practice 1-(b): Fill in the blank: police station fire station ______ taxi driver bus stop",
       "accept": [
         "taxi driver"
       ],
@@ -109,7 +109,7 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "department ______ store"
+      "stem": "department ______"
     },
     {
       "type": "text",
@@ -120,7 +120,7 @@
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "movie ______ theater"
+      "stem": "movie ______"
     },
     {
       "type": "text",
@@ -131,7 +131,7 @@
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "post ______ office"
+      "stem": "post ______"
     },
     {
       "type": "text",
@@ -142,11 +142,11 @@
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "parking ______ lot"
+      "stem": "parking ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): book : library = movie : ______",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: book : library = movie : ______",
       "accept": [
         "movie theater"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): lodge : hotel = work : ______",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: lodge : hotel = work : ______",
       "accept": [
         "office building"
       ],
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): telephone : public telephone = newspaper : —",
+      "prompt": "Vocabulary Practice 3-(c): Type your answer: telephone : public telephone = newspaper : —",
       "accept": [
         "newsstand"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): police officer : police station = firefighter : ______",
+      "prompt": "Vocabulary Practice 3-(d): Fill in the blank: police officer : police station = firefighter : ______",
       "accept": [
         "fire station"
       ],
@@ -190,7 +190,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(e): money : bank = mail : ______",
+      "prompt": "Vocabulary Practice 3-(e): Fill in the blank: money : bank = mail : ______",
       "accept": [
         "post office"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(f): city : country = urban : ______",
+      "prompt": "Vocabulary Practice 3-(f): Fill in the blank: city : country = urban : ______",
       "accept": [
         "rural"
       ],
@@ -263,5 +263,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

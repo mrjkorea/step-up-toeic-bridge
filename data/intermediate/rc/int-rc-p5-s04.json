@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Thank you for your ______. It’s very nice of you.",
+      "prompt": "Words and Idioms Check-Up (a): Thank you for your ______. It's very nice of you.",
       "choices": {
         "A": "anniversary",
         "B": "enjoy",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Thank you for your ______. It’s very nice of you."
+      "stem": "Thank you for your ______. It's very nice of you."
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 마음속에 A를 생각하다",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 마음속에 A를 생각하다",
       "accept": [
         "have A in mind"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: A에게 알려 주다",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: A에게 알려 주다",
       "accept": [
         "let A know"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 의심할 여지 없이",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 의심할 여지 없이",
       "accept": [
         "no doubt"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 파티에 참석하다",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 파티에 참석하다",
       "accept": [
         "come to one's party"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 주지하다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 주지하다",
       "accept": [
         "take a notice of"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 준비하다",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~을 준비하다",
       "accept": [
         "get ready for"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 건강 검진",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 건강 검진",
       "accept": [
         "a physical checkup"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
       "accept": [
         "be invited to"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~대신에",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~대신에",
       "accept": [
         "instead of"
       ],
@@ -276,20 +276,20 @@
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "1",
-      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+      "passage": "Hi, Dad!............................................................................. / It's wonderful here in Hawaii. / It'shot but I really enjoy swimming. / Now I'min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
     },
     {
       "type": "choice",
       "prompt": "What does the writer think about the place?",
       "choices": {
         "A": "Not so good.",
-        "B": "Couldn’t be better."
+        "B": "Couldn't be better."
       },
       "accept": "B",
       "section": "Reading Practice 1",
       "id": "q15",
       "label": "2",
-      "passage": "Hi, Dad!............................................................................. / It ’s wonderful here in Hawaii. / It ’shot but I really enjoy swimming. / Now I’min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
+      "passage": "Hi, Dad!............................................................................. / It's wonderful here in Hawaii. / It'shot but I really enjoy swimming. / Now I'min the hotel room drinking pineapple juice. / The people here are very kind. / Wish you were here, tool I will eee you next Monday. / Lovely yours, / Jane ______..................................................................................."
     },
     {
       "type": "choice",
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following letter."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

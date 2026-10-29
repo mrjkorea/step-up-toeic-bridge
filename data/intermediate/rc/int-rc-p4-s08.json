@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I like ______ in summer. It looks cool, doesn ’t it?",
+      "prompt": "Words and Idioms Check-Up (a): I like ______ in summer. It looks cool, doesn't it?",
       "choices": {
         "A": "aerobics",
         "B": "organ",
@@ -19,7 +19,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I like ______ in summer. It looks cool, doesn ’t it?"
+      "stem": "I like ______ in summer. It looks cool, doesn't it?"
     },
     {
       "type": "choice",
@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): Fill in both blanks — I don ’t like going ______ because it can be ______",
+      "prompt": "Vocabulary Practice 3-(d): Fill in both blanks — I don't like going ______ because it can be ______",
       "accept": [
         "scuba diving / dangerous",
         "scuba diving, dangerous",
@@ -60,7 +60,7 @@
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "3-(d)",
-      "stem": "I don ’t like going ______ because it can be ______"
+      "stem": "I don't like going ______ because it can be ______"
     },
     {
       "type": "text",
@@ -75,7 +75,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): turtle ______ elephant ______ rabbit ______ parrot",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: turtle ______ elephant ______ rabbit ______ parrot",
       "accept": [
         "elephant"
       ],
@@ -86,7 +86,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): exciting ______ surf ______ fun ______ moving",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: exciting ______ surf ______ fun ______ moving",
       "accept": [
         "surf"
       ],
@@ -105,7 +105,7 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "playing ______ pets"
+      "stem": "playing ______"
     },
     {
       "type": "text",
@@ -116,7 +116,7 @@
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "Internet ______ surfing"
+      "stem": "Internet ______"
     },
     {
       "type": "text",
@@ -127,7 +127,7 @@
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "scuba ______ diving"
+      "stem": "scuba ______"
     },
     {
       "type": "text",
@@ -139,7 +139,7 @@
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "water ______ skiing"
+      "stem": "water ______"
     },
     {
       "type": "text",
@@ -154,7 +154,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): I love doing aerobics. It is very ______.",
+      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: I love doing aerobics. It is very ______.",
       "accept": [
         "exciting"
       ],
@@ -165,7 +165,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Have you watched the movie that has been released recently?",
+      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: Have you watched the movie that has been released recently?",
       "accept": [
         "moving"
       ],
@@ -227,5 +227,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

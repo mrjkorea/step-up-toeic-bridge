@@ -39,7 +39,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2-(a): She didn ’t ______ the book from me.",
+      "prompt": "Words and Idioms Check-Up 2-(a): She didn't ______ the book from me.",
       "choices": {
         "A": "auditorium",
         "B": "borrow",
@@ -50,7 +50,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "2-(a)",
-      "stem": "She didn ’t ______ the book from me."
+      "stem": "She didn't ______ the book from me."
     },
     {
       "type": "choice",
@@ -69,18 +69,18 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): chair ______ desk ______ nurse ’s office",
+      "prompt": "Vocabulary Practice 1-(a): Fill in the blank: chair ______ desk ______ nurse's office",
       "accept": [
         "nurse's office"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "chair ______ desk ______ nurse ’s office"
+      "stem": "chair ______ desk ______ nurse's office"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): auditorium ______ librarian ______ lang",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: auditorium ______ librarian ______ lang",
       "accept": [
         "librarian"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): dictionary ______ encyclopedia ______ cafeteria",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: dictionary ______ encyclopedia ______ cafeteria",
       "accept": [
         "cafeteria"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): If you have any questions, please ______ me.",
+      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: If you have any questions, please ______ me.",
       "accept": [
         "ask"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Students are ______ the classroom.",
+      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: Students are ______ the classroom.",
       "accept": [
         "cleaning"
       ],
@@ -135,18 +135,18 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Can I ______ your pen? I didn ’t bring mine.",
+      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: Can I ______ your pen? I didn't bring mine.",
       "accept": [
         "borrow"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "3-(a)",
-      "stem": "Can I ______ your pen? I didn ’t bring mine."
+      "stem": "Can I ______ your pen? I didn't bring mine."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): It’s important. Please ______ it ______.",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: It's important. Please ______ it ______.",
       "accept": [
         "take",
         "down"
@@ -154,19 +154,21 @@
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(b)",
-      "stem": "It’s important. Please ______ it ______."
+      "stem": "It's important. Please ______ it ______."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Let’s get started. ______ your books.",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: Let's get started. ______ your books.",
       "accept": [
+        "Take out",
+        "take out",
         "Take",
         "out"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(c)",
-      "stem": "Let’s get started. ______ your books."
+      "stem": "Let's get started. ______ your books."
     },
     {
       "id": "q15",
@@ -221,5 +223,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

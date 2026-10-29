@@ -243,7 +243,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Rewrite the sentence: Jane buys shoes. Change it to the past tense.",
+      "prompt": "Grammar Practice 3-(a): Jane buys shoes. Change it to the past tense.",
       "accept": [
         "Jane bought shoes."
       ],
@@ -253,7 +253,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Rewrite the sentence: Jane buys shoes. Change it to the present progressive.",
+      "prompt": "Grammar Practice 3-(b): Jane buys shoes. Change it to the present progressive.",
       "accept": [
         "Jane is buying shoes."
       ],
@@ -263,7 +263,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Rewrite the sentence: Jane buys shoes. Change it to the present negative.",
+      "prompt": "Grammar Practice 3-(c): Jane buys shoes. Change it to the present negative.",
       "accept": [
         "Jane does not buy shoes."
       ],
@@ -273,8 +273,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): correct the wrong word — She quitted her job.",
+      "prompt": "Grammar Practice 4-(a): Correct the error — She quitted her job.",
       "accept": [
+        "She quit her job.",
         "quit"
       ],
       "section": "Grammar Practice",
@@ -284,14 +285,15 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Correct the wrong word — He washes his car.",
+      "prompt": "Grammar Practice 4-(c): Correct the wrong word — He wash his car.",
       "accept": [
-        "washes"
+        "washes",
+        "He washes his car."
       ],
       "section": "Grammar Practice",
       "id": "q24",
       "label": "4-(c)",
-      "stem": "He washes his car."
+      "stem": "He wash his car."
     },
     {
       "type": "text",
@@ -317,7 +319,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Change the sentence into the simple present — He is kicking the ball.",
+      "prompt": "Grammar Practice 1-(c): Change to the simple present: He is kicking the ball.",
       "accept": [
         "He kicks the ball."
       ],
@@ -357,7 +359,7 @@
       "section": "Grammar Practice",
       "id": "q30",
       "label": "2-(c)",
-      "stem": "She ______ science"
+      "stem": "She ______"
     },
     {
       "type": "text",
@@ -449,5 +451,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

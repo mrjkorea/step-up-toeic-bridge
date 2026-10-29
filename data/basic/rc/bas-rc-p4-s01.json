@@ -146,6 +146,8 @@
       "type": "text",
       "prompt": "Warm-Up 2-(a): Make it negative: She runs fast.",
       "accept": [
+        "She doesn't run fast.",
+        "She does not run fast.",
         "doesn't"
       ],
       "section": "Warm-Up",
@@ -157,6 +159,8 @@
       "type": "text",
       "prompt": "Warm-Up 2-(b): Make it negative: They clean the room.",
       "accept": [
+        "They don't clean the room.",
+        "They do not clean the room.",
         "don't"
       ],
       "section": "Warm-Up",
@@ -168,6 +172,8 @@
       "type": "text",
       "prompt": "Warm-Up 2-(c): Make it negative: John and Jane are diligent.",
       "accept": [
+        "John and Jane aren't diligent.",
+        "John and Jane are not diligent.",
         "aren't"
       ],
       "section": "Warm-Up",
@@ -309,7 +315,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Rewrite the sentence: Use the Korean and the given words to make a command — 그곳에 가지 마라. (there. / go / Don't)",
+      "prompt": "Grammar Practice 3-(a): Choose the correct form: 그곳에 가지 마라. (there. / go / Don't)",
       "accept": [
         "Don't go there."
       ],
@@ -320,7 +326,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Rewrite the sentence: Use the Korean and the given words to make a command — 일찍 일어나세요. (please. / early, / Get / up)",
+      "prompt": "Grammar Practice 3-(b): Choose the correct form: 일찍 일어나세요. (please. / early, / Get / up)",
       "accept": [
         "Get up early, please."
       ],
@@ -331,7 +337,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Rewrite the sentence: Use the Korean and the given words to make a command — 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
+      "prompt": "Grammar Practice 3-(c): Choose the correct form: 일찍 돌아오지 마세요. (soon. / back / Don't / come)",
       "accept": [
         "Don't come back soon."
       ],
@@ -454,5 +460,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

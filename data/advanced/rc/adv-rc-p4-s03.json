@@ -37,7 +37,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): Don ’t ______ anymore or you will get anF.",
+      "prompt": "Words and Idioms Check-Up (d): Don't ______ anymore or you will get anF.",
       "choices": {
         "A": "get married to",
         "B": "pay attention to",
@@ -47,11 +47,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(d)",
-      "stem": "Don ’t ______ anymore or you will get anF."
+      "stem": "Don't ______ anymore or you will get anF."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): Rewrite the sentence: A black and a white puppy (is / are) in front of the door.",
+      "prompt": "Warm-Up 1-(a): Choose the correct form: A black and a white puppy (is / are) in front of the door.",
       "accept": [
         "are"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): Rewrite the sentence: A black and white puppy (is / are) very cute and smart.",
+      "prompt": "Warm-Up 1-(b): Choose the correct form: A black and white puppy (is / are) very cute and smart.",
       "accept": [
         "is"
       ],
@@ -73,25 +73,25 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): Rewrite the sentence: (This is / These are) David and Julia’s cabinet.",
+      "prompt": "Warm-Up 1-(c): Choose the correct form: (This is / These are) David and Julia's cabinet.",
       "accept": [
         "This is"
       ],
       "section": "Warm-Up",
       "id": "q6",
       "label": "1-(c)",
-      "stem": "(This is / These are) David and Julia’s cabinet."
+      "stem": "(This is / These are) David and Julia's cabinet."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): Rewrite the sentence: (This is / These are) David’s and Julia’s cabinets.",
+      "prompt": "Warm-Up 1-(d): Choose the correct form: (This is / These are) David's and Julia's cabinets.",
       "accept": [
         "These are"
       ],
       "section": "Warm-Up",
       "id": "q7",
       "label": "1-(d)",
-      "stem": "(This is / These are) David’s and Julia’s cabinets."
+      "stem": "(This is / These are) David's and Julia's cabinets."
     },
     {
       "type": "text",
@@ -139,7 +139,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Rewrite the sentence: This is the wrong sentence; write the correct verb to replace 'are' — The number of questions given to me are 10.",
+      "prompt": "Warm-Up 3-(b): Type your answer: The number of questions given to me are 10.",
       "accept": [
         "is"
       ],
@@ -197,8 +197,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): correct the wrong word — All pays attention to me when I give a speech.",
+      "prompt": "Grammar Practice 5-(c): Correct the error — All pays attention to me when I give a speech.",
       "accept": [
+        "All pay attention to me when I give a speech.",
         "pay"
       ],
       "section": "Grammar Practice",
@@ -208,7 +209,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): Rewrite the sentence: He is one of my friends who (like / likes ) hanging around.",
+      "prompt": "Grammar Practice 2-(a): Choose the correct form: He is one of my friends who (like / likes ) hanging around.",
       "accept": [
         "like"
       ],
@@ -219,7 +220,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): Rewrite the sentence: I asked my dad yesterday to give me (him / his) opinion about this.",
+      "prompt": "Grammar Practice 2-(b): Choose the correct form: I asked my dad yesterday to give me (him / his) opinion about this.",
       "accept": [
         "his"
       ],
@@ -230,7 +231,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Rewrite the sentence: The witnesses told about what (they / them ) had seen.",
+      "prompt": "Grammar Practice 2-(c): Choose the correct form: The witnesses told about what (they / them ) had seen.",
       "accept": [
         "they"
       ],
@@ -241,7 +242,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Rewrite the sentence: Please follow (this / these ) way.",
+      "prompt": "Grammar Practice 2-(d): Choose the correct form: Please follow (this / these ) way.",
       "accept": [
         "this"
       ],
@@ -252,7 +253,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Rewrite the sentence: Make a sentence using the given words to match the Korean — 그와 나 둘 다 배가 고프다. (Both, hungry)",
+      "prompt": "Grammar Practice 3-(a): Type your answer: 그와 나 둘 다 배가 고프다. (Both, hungry)",
       "accept": [
         "Both he and I are hungry."
       ],
@@ -263,7 +264,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Rewrite the sentence: Make a sentence using the given words to match the Korean — 그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)",
+      "prompt": "Grammar Practice 3-(b): Type your answer: 그와 그녀 둘 중 한 명은 인내심이 없다. (Either, impatient)",
       "accept": [
         "Either he or she is impatient."
       ],
@@ -274,7 +275,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Rewrite the sentence: Make a sentence using the given words to match the Korean — 너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)",
+      "prompt": "Grammar Practice 3-(c): Type your answer: 너와 그녀 둘 다 그것을 살 수가 없다. (Neither, buy)",
       "accept": [
         "Neither you or she can't buy it."
       ],
@@ -285,7 +286,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): Rewrite the sentence: Make a sentence using the given words to match the Korean — 나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)",
+      "prompt": "Grammar Practice 3-(d): Type your answer: 나는 수학뿐만 아니라 과학도 좋아한다. (not only, but also)",
       "accept": [
         "I like"
       ],
@@ -406,5 +407,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

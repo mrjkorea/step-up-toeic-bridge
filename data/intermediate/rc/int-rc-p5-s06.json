@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): I have to ______ my bike. It’s broken.",
+      "prompt": "Words and Idioms Check-Up (a): I have to ______ my bike. It's broken.",
       "choices": {
         "A": "computer",
         "B": "fix",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "I have to ______ my bike. It’s broken."
+      "stem": "I have to ______ my bike. It's broken."
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 늦어도 ~까지",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 늦어도 ~까지",
       "accept": [
         "no later than"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~에 초대되다",
       "accept": [
         "be invited to"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 예약하다",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 예약하다",
       "accept": [
         "make a reservation"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 요즘에",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 요즘에",
       "accept": [
         "in these days"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 앓다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 앓다",
       "accept": [
         "suffer from"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 수업 사이에",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 수업 사이에",
       "accept": [
         "between classes"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 손을 씻다",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 손을 씻다",
       "accept": [
         "wash one's hands"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 항상",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 항상",
       "accept": [
         "at all times"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하는 것을 환영하다",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: ~하는 것을 환영하다",
       "accept": [
         "be welcome to"
       ],
@@ -276,7 +276,7 @@
       "section": "Reading Practice 1",
       "id": "q14",
       "label": "1",
-      "passage": "To: John / Date: May 7 ______ ^ ______ / Time: 3 :55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by : Bob / 1 ______ What is this memo for? / (a) To give John a telephone message / (b) To give Jane and John a telephone message / 2. Who has written down this memo? / (a) John and Bob / (b) Bob"
+      "passage": "To: John / Date: May 7 / Time: 3:55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by: Bob"
     },
     {
       "type": "choice",
@@ -289,20 +289,20 @@
       "section": "Reading Practice 1",
       "id": "q15",
       "label": "2",
-      "passage": "To: John / Date: May 7 ______ ^ ______ / Time: 3 :55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by : Bob / 1 ______ What is this memo for? / (a) To give John a telephone message / (b) To give Jane and John a telephone message / 2. Who has written down this memo? / (a) John and Bob / (b) Bob"
+      "passage": "To: John / Date: May 7 / Time: 3:55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by: Bob"
     },
     {
       "type": "choice",
       "prompt": "Who would read this memo?",
       "choices": {
-        "A": "Super Computers’ employees",
+        "A": "Super Computers' employees",
         "B": "The events coordinator"
       },
       "accept": "A",
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "1",
-      "passage": "MmM mS d mMm MmM mMm MmM mMm Mm ______ Mm Mm / SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super / Computers ’ Annual Family Barbecue Party at Mooney ’s / Bay Beach Resort on July 16th. The company has rented / a bus for the event and it will leave the headquarters at / 8:00 a.m. Please make reservations for seats with the / general affairs department no later than July 10th. / See you there."
+      "passage": "SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super Computers Annual Family Barbecue Party at Mooney's Bay Beach Resort on July 16th. The company has rented a bus for the event and it will leave the headquarters at 8:00 a.m. Please make reservations for seats with the general affairs department no later than July 10th. / See you there."
     },
     {
       "type": "choice",
@@ -315,7 +315,7 @@
       "section": "Reading Practice 2",
       "id": "q17",
       "label": "2",
-      "passage": "MmM mS d mMm MmM mMm MmM mMm Mm ______ Mm Mm / SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super / Computers ’ Annual Family Barbecue Party at Mooney ’s / Bay Beach Resort on July 16th. The company has rented / a bus for the event and it will leave the headquarters at / 8:00 a.m. Please make reservations for seats with the / general affairs department no later than July 10th. / See you there."
+      "passage": "SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super Computers Annual Family Barbecue Party at Mooney's Bay Beach Resort on July 16th. The company has rented a bus for the event and it will leave the headquarters at 8:00 a.m. Please make reservations for seats with the general affairs department no later than July 10th. / See you there."
     },
     {
       "id": "q18",
@@ -359,7 +359,7 @@
       },
       "prompt": "What is the purpose of this memo?",
       "accept": "A",
-      "passage": "To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114 .",
+      "passage": "To all students, / In these days, some of our school students are suffering from eye diseases. All students must wash their hands after each class. Use hot water and soap at all times. If anyone has any eye disease symptom, report it to his or her teacher. / You are welcome to visit our School Health Care Center for checkup between classes. / Office hours: 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114.",
       "passageHead": "Questions 3-4 refer to the following memo."
     },
     {
@@ -374,9 +374,9 @@
       },
       "prompt": "Which of the following is NOT true?",
       "accept": "C",
-      "passage": "To all students, / In these days, some of our school students are / suffering from eye diseases. All students must / wash their hands after each class. Use hot water / and soap at all times. If anyone has any eye / disease symptom, report it to his / her teacher. / You are welcome to visit our School Health Care / Center for checkup between classes. / Office hours : 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114 .",
+      "passage": "To all students, / In these days, some of our school students are suffering from eye diseases. All students must wash their hands after each class. Use hot water and soap at all times. If anyone has any eye disease symptom, report it to his or her teacher. / You are welcome to visit our School Health Care Center for checkup between classes. / Office hours: 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114.",
       "passageHead": "Questions 3-4 refer to the following memo."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

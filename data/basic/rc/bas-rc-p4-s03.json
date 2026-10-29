@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): Rewrite the sentence: Write the word whose plural form is wrong — books / pens / foxs",
+      "prompt": "Warm-Up 1-(a): Write the word whose plural form is wrong — books / pens / foxs",
       "accept": [
         "foxs"
       ],
@@ -458,5 +458,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

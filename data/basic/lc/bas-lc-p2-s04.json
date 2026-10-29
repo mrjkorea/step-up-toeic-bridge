@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): When is your sister’s ______?",
+      "prompt": "Words and Idioms Check-Up (a): When is your sister's ______?",
       "choices": {
         "A": "birthday",
         "B": "close",
@@ -21,7 +21,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "When is your sister’s ______?"
+      "stem": "When is your sister's ______?"
     },
     {
       "type": "choice",
@@ -556,5 +556,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v6-hardfix-228-2026-10-30"
+  "contentVersion": "v29-cos-fix"
 }

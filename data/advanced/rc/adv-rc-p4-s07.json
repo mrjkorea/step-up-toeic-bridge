@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): stomach ______ heart ______ thigh ______ liver",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: stomach ______ heart ______ thigh ______ liver",
       "accept": [
         "thigh"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): forehead ______ chest ______ waist ______ lung",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: forehead ______ chest ______ waist ______ lung",
       "accept": [
         "lung"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): cough ______ disappoint ______ burp ______ sigh",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: cough ______ disappoint ______ burp ______ sigh",
       "accept": [
         "disappoint"
       ],
@@ -113,14 +113,16 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Match parts of the body — hand: ______, ______ (clue: thumb, palm)",
+      "prompt": "Vocabulary Practice 2-(b): Match the related words — hand ______ / thumb, ______",
       "accept": [
-        "thumb, palm"
+        "hand - thumb, palm",
+        "hand, thumb, palm",
+        "hand thumb palm"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "hand: ______, ______ (thumb, palm)"
+      "stem": "hand ______ / thumb, ______"
     },
     {
       "type": "text",
@@ -146,7 +148,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Fish ______ through their gills.",
+      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: Fish ______ through their gills.",
       "accept": [
         "breathe"
       ],
@@ -157,29 +159,29 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): I can ’t ______ meat well.",
+      "prompt": "Vocabulary Practice 3-(b): Write the word that does not belong: I can't ______ meat well.",
       "accept": [
         "digest"
       ],
       "section": "Vocabulary Practice",
       "id": "q14",
       "label": "3-(b)",
-      "stem": "I can ’t ______ meat well."
+      "stem": "I can't ______ meat well."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): Don ’t ______ in front of other people.",
+      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: Don't ______ in front of other people.",
       "accept": [
         "yawn"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(c)",
-      "stem": "Don ’t ______ in front of other people."
+      "stem": "Don't ______ in front of other people."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): He ______ at the table.",
+      "prompt": "Vocabulary Practice 3-(d): Write the word that does not belong: He ______ at the table.",
       "accept": [
         "burped"
       ],
@@ -241,5 +243,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

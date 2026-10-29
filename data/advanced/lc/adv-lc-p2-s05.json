@@ -43,7 +43,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (c): Mike was ______ Nancy’s bad behavior.",
+      "prompt": "Words and Idioms Check-Up (c): Mike was ______ Nancy's bad behavior.",
       "choices": {
         "A": "afraid of",
         "B": "disappointed with",
@@ -55,7 +55,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "(c)",
-      "stem": "Mike was ______ Nancy’s bad behavior."
+      "stem": "Mike was ______ Nancy's bad behavior."
     },
     {
       "type": "choice",
@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Type the words you hear:",
       "accept": [
         "who live next door are new"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Type the words you hear:",
       "accept": [
         "Yes, they have just moved in recently."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Type the words you hear:",
       "accept": [
         "isn't it"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Type the words you hear:",
       "accept": [
         "Yes, I'm very impressed with it."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Type the words you hear:",
       "accept": [
         "The football team played really well"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Type the words you hear:",
       "accept": [
         "Yes, It's too bad they didn't win."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Type the words you hear:",
       "accept": [
         "used to be a policeman"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Type the words you hear:",
       "accept": [
         "Yes, he retired last year."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Type the words you hear:",
       "accept": [
         "You lived in Australia"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Type the words you hear:",
       "accept": [
         "Yes, Australia is a very beautiful country."
       ],
@@ -622,5 +622,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v7-cos-lanes-2026-10-30"
+  "contentVersion": "v29-cos-fix"
 }

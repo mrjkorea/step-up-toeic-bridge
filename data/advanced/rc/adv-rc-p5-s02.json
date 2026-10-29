@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Let’s ______ our 10th wedding anniversary tomorrow.",
+      "prompt": "Words and Idioms Check-Up (a): Let's ______ our 10th wedding anniversary tomorrow.",
       "choices": {
         "A": "celebrate",
         "B": "contact",
@@ -19,7 +19,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Let’s ______ our 10th wedding anniversary tomorrow."
+      "stem": "Let's ______ our 10th wedding anniversary tomorrow."
     },
     {
       "type": "choice",
@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 판매용인",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 판매용인",
       "accept": [
         "for sale"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 조리 기구",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 조리 기구",
       "accept": [
         "cooking equipment"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~의 일부분으로",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: ~의 일부분으로",
       "accept": [
         "as part of"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 찾다",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~을 찾다",
       "accept": [
         "look for"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 요청하다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~을 요청하다",
       "accept": [
         "call for"
       ],
@@ -161,7 +161,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 치우다",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~을 치우다",
       "accept": [
         "clean up"
       ],
@@ -183,7 +183,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 작성하다",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 작성하다",
       "accept": [
         "fill out"
       ],
@@ -205,7 +205,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 현장 학습",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 현장 학습",
       "accept": [
         "field trip"
       ],
@@ -227,7 +227,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 수신자 부담의[무료의]",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 수신자 부담의[무료의]",
       "accept": [
         "toll-free"
       ],
@@ -275,7 +275,7 @@
     },
     {
       "type": "choice",
-      "prompt": "What will Uncle Henry’s do on Monday?",
+      "prompt": "What will Uncle Henry's do on Monday?",
       "choices": {
         "A": "Hire new workers",
         "B": "Give away free ice cream"
@@ -284,11 +284,11 @@
       "section": "Reading Practice 2",
       "id": "q15",
       "label": "1",
-      "passage": "CELEBRATING THE ICE CREAM CONE / As part of the 100th anniversary of the ice cream / cone, Uncle Henry’s will offer one free ice cream / cone to each customer on Monday. Both local / Uncle Henry’s outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Youngville. / For more information, visit www.unclehenrys.com."
+      "passage": "CELEBRATING THE ICE CREAM CONE / As part of the 100th anniversary of the ice cream / cone, Uncle Henry's will offer one free ice cream / cone to each customer on Monday. Both local / Uncle Henry's outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Youngville. / For more information, visit www.unclehenrys.com."
     },
     {
       "type": "choice",
-      "prompt": "What is learned about Uncle Henry’s?",
+      "prompt": "What is learned about Uncle Henry's?",
       "choices": {
         "A": "It has two stores.",
         "B": "It sells dinners and desserts."
@@ -297,7 +297,7 @@
       "section": "Reading Practice 2",
       "id": "q16",
       "label": "2",
-      "passage": "CELEBRATING THE ICE CREAM CONE / As part of the 100th anniversary of the ice cream / cone, Uncle Henry’s will offer one free ice cream / cone to each customer on Monday. Both local / Uncle Henry’s outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Youngville. / For more information, visit www.unclehenrys.com."
+      "passage": "CELEBRATING THE ICE CREAM CONE / As part of the 100th anniversary of the ice cream / cone, Uncle Henry's will offer one free ice cream / cone to each customer on Monday. Both local / Uncle Henry's outlets will participate. Locations are / 101 S. Oak St., Johnstown, and 2009 N. First St., / Youngville. / For more information, visit www.unclehenrys.com."
     },
     {
       "id": "q17",
@@ -311,7 +311,7 @@
       },
       "prompt": "What will volunteers receive?",
       "accept": "C",
-      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
+      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m. to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
       "passageHead": "Questions 1-2 refer to the following advertisement."
     },
     {
@@ -326,7 +326,7 @@
       },
       "prompt": "What should people interested in volunteering do?",
       "accept": "A",
-      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m . to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
+      "passage": "0M M ra / Call for Volunteers / We are looking for volunteers in the Capitol Hill / area to work with your neighbors, business / owners, and city employees on Saturday, August / 23 ,fro m 9 a.m. to 5 p.m. to help clean up graffiti. / All materials and instruction are provided. / Come for a few hours or all day. / As a volunteer you will: / * Receive a free T - shirt / * Receive a great breakfast and lunch, provided by / local restaurant s / * Meet new friends / * Do something good for our community. / So come join the fun! Contact Ann at 206-329-6781. / 1 What will volunteers receive? / (A) A hat / (B) Dinner / (C) AT -s hirt / (D) Free classes / What should people interested in volunteering do? | Contact Ann at 206-329- / (A) Call Ann / (B) Fill out a form / (C) Go to an office / (D) Send Ann an e-mail",
       "passageHead": "Questions 1-2 refer to the following advertisement."
     },
     {
@@ -360,5 +360,5 @@
       "passageHead": "Questions 3-4 refer to the following advertisement."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

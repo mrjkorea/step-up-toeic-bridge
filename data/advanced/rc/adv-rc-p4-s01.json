@@ -117,18 +117,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Fill in the blank: I don't know ____ — I don ’t know ______.",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: I don't know ____ — I don't know ______.",
       "accept": [
         "what to wear"
       ],
       "section": "Warm-Up",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "I don ’t know ______."
+      "stem": "I don't know ______."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Rewrite the sentence: Do you know ____ the engine?",
+      "prompt": "Warm-Up 2-(b): Type your answer: Do you know ____ the engine?",
       "accept": [
         "how to start"
       ],
@@ -138,7 +138,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Rewrite the sentence: Please tell me ____ for Seoul.",
+      "prompt": "Warm-Up 2-(c): Type your answer: Please tell me ____ for Seoul.",
       "accept": [
         "when to leave"
       ],
@@ -148,7 +148,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Rewrite the sentence: They will decide ____ next Friday.",
+      "prompt": "Warm-Up 2-(d): Type your answer: They will decide ____ next Friday.",
       "accept": [
         "where to meet"
       ],
@@ -417,6 +417,7 @@
       "type": "text",
       "prompt": "Grammar Practice 3-(c): Correct the wrong word — The doctor made her to stay at home for the time being.",
       "accept": [
+        "The doctor made her stay at home for the time being.",
         "stay"
       ],
       "section": "Grammar Practice",
@@ -426,14 +427,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): correct or complete it — Don’t forget returning the book in time.",
+      "prompt": "Grammar Practice 5-(b): correct or complete it — Don't forget returning the book in time.",
       "accept": [
         "to return"
       ],
       "section": "Grammar Practice",
       "id": "q35",
       "label": "5-(b)",
-      "stem": "Don’t forget returning the book in time."
+      "stem": "Don't forget returning the book in time."
     },
     {
       "type": "text",
@@ -525,5 +526,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

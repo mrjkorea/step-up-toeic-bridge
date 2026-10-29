@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: Write 5,462 in words.",
+      "prompt": "Grammar Practice 1-(a): Write 5,462 in words.",
       "accept": [
         "five thousand four hundred sixty-two",
         "five thousand four hundred sixty two",
@@ -81,7 +81,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: Write 3/5 in words.",
+      "prompt": "Grammar Practice 1-(b): Write 3/5 in words.",
       "accept": [
         "three fifths"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: Write 2.47 in words.",
+      "prompt": "Grammar Practice 1-(c): Write 2.47 in words.",
       "accept": [
         "two point four seven"
       ],
@@ -101,7 +101,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: Write 2007 (the year) in words.",
+      "prompt": "Grammar Practice 1-(d): Write 2007 (the year) in words.",
       "accept": [
         "two thousand seven"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(f): Rewrite the sentence: Write 243-5908 in words.",
+      "prompt": "Grammar Practice 1-(f): Write 243-5908 in words.",
       "accept": [
         "two four three five nine zero eight"
       ],
@@ -132,7 +132,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(g): Rewrite the sentence: Write $5.41 in words.",
+      "prompt": "Grammar Practice 1-(g): Write $5.41 in words.",
       "accept": [
         "five dollars forty one cents",
         "five dollars forty-one cents"
@@ -331,5 +331,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v7-cos-lanes-2026-10-30"
+  "contentVersion": "v29-cos-fix"
 }

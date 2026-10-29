@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 1-(a): Today ’s special menu is a ______ salad.",
+      "prompt": "Words and Idioms Check-Up 1-(a): Today's special menu is a ______ salad.",
       "choices": {
         "A": "closed",
         "B": "floor",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "1-(a)",
-      "stem": "Today ’s special menu is a ______ salad."
+      "stem": "Today's special menu is a ______ salad."
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 조심해",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 조심해",
       "accept": [
         "Watch out"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 제한 속도",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 제한 속도",
       "accept": [
         "Speed limit"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 자동차 전용",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 자동차 전용",
       "accept": [
         "Cars only"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 학교 도서관",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 학교 도서관",
       "accept": [
         "School library"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 어린이 보호 구역",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 어린이 보호 구역",
       "accept": [
         "School zone"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 젖은 바닥",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 젖은 바닥",
       "accept": [
         "Wet floor"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 크리스마스 연휴",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 크리스마스 연휴",
       "accept": [
         "Christmas holidays"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 주차",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 주차",
       "accept": [
         "Parking"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 자전거 금지",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 자전거 금지",
       "accept": [
         "No bicycles"
       ],
@@ -378,5 +378,5 @@
       "passageHead": "Questions 3-4 refer to the following notice."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

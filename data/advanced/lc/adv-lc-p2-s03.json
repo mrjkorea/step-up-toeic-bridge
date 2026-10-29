@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 1-(a): Type the words you hear:",
       "accept": [
         "Which swimsuit do you like"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 1-(b): Type the words you hear:",
       "accept": [
         "Which way does the tour bus"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 1-(c): Type the words you hear:",
       "accept": [
         "Which way do I go to get to"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 1-(d): Type the words you hear:",
       "accept": [
         "Which room would you like to"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(e): Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 1-(e): Type the words you hear:",
       "accept": [
         "Which car is yours?"
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Type the words you hear:",
       "accept": [
         "Which jacket"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Type the words you hear:",
       "accept": [
         "I didn't bring a jacket."
       ],
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Type the words you hear:",
       "accept": [
         "do you like the most"
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Type the words you hear:",
       "accept": [
         "I think the dark one is the most suitable."
       ],
@@ -190,7 +190,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Type the words you hear:",
       "accept": [
         "Which route"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Type the words you hear:",
       "accept": [
         "The coastal road has some great views of the ocean."
       ],
@@ -212,7 +212,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Type the words you hear:",
       "accept": [
         "Which one of the paintings"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Type the words you hear:",
       "accept": [
         "I prefer the oil painting."
       ],
@@ -234,7 +234,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Type the words you hear:",
       "accept": [
         "Which way does"
       ],
@@ -245,7 +245,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Type the words you hear:",
       "accept": [
         "It heads towards the movie theater."
       ],
@@ -597,5 +597,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v7-cos-lanes-2026-10-30"
+  "contentVersion": "v29-cos-fix"
 }

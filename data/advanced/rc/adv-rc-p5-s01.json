@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 항상",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 항상",
       "accept": [
         "at all times"
       ],
@@ -74,7 +74,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하도록 허락되다",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: ~하도록 허락되다",
       "accept": [
         "be allowed to"
       ],
@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 예외 없음",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 예외 없음",
       "accept": [
         "no exceptions"
       ],
@@ -120,7 +120,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 전시된",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 전시된",
       "accept": [
         "on display"
       ],
@@ -143,7 +143,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하도록 고안되다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~하도록 고안되다",
       "accept": [
         "be designed to"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 수리를 위해",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 수리를 위해",
       "accept": [
         "for repairs"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하도록 권고받다",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: ~하도록 권고받다",
       "accept": [
         "be advised to"
       ],
@@ -212,7 +212,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 대해 사과하다",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: ~에 대해 사과하다",
       "accept": [
         "apologize for"
       ],
@@ -235,7 +235,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 9: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 더 추워지다",
+      "prompt": "Warm-Up 9: Write the English expression from the word bank that matches this meaning: 더 추워지다",
       "accept": [
         "get colder"
       ],
@@ -258,7 +258,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 10: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~때문에",
+      "prompt": "Warm-Up 10: Write the English expression from the word bank that matches this meaning: ~때문에",
       "accept": [
         "because of"
       ],
@@ -392,5 +392,5 @@
       "passageHead": "Questions 3-4 refer to the following notice."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

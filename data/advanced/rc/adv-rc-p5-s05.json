@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 교통사고",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 교통사고",
       "accept": [
         "traffic accident"
       ],
@@ -72,7 +72,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 늦은 시간(심야)",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 늦은 시간(심야)",
       "accept": [
         "late night"
       ],
@@ -93,7 +93,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 매시간",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 매시간",
       "accept": [
         "per hour"
       ],
@@ -114,7 +114,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 1년 안에",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 1년 안에",
       "accept": [
         "in a year"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 국제뉴스",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 국제뉴스",
       "accept": [
         "international news"
       ],
@@ -156,7 +156,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 요리 시간",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: 요리 시간",
       "accept": [
         "cooking hour"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 아이들 쇼",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 아이들 쇼",
       "accept": [
         "children's show"
       ],
@@ -198,7 +198,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 몇 시간 동안",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 몇 시간 동안",
       "accept": [
         "how many hours"
       ],
@@ -219,7 +219,7 @@
     },
     {
       "type": "choice",
-      "prompt": "How many hours are the children’s programs?",
+      "prompt": "How many hours are the children's programs?",
       "choices": {
         "A": "Two and a half hours",
         "B": "Three and a half hours"
@@ -228,7 +228,7 @@
       "section": "Reading Practice 1",
       "id": "q12",
       "label": "1",
-      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+      "passage": "TODAY'S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children's Cartoons / 09:30 - 11:00 Children's Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie's Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
     },
     {
       "type": "choice",
@@ -241,7 +241,7 @@
       "section": "Reading Practice 1",
       "id": "q13",
       "label": "2",
-      "passage": "TODAY ’S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children’s Cartoons / 09:30 - 11:00 Children’s Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie’s Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
+      "passage": "TODAY'S TELEVISION SCHEDULE : / 08:00 - 09:30 Business and ______ 15:00-16:00 News and Sports / International news / 16:00-18:00 Children's Cartoons / 09:30 - 11:00 Children's Show / 18:00-19:00 Local News / 11:00 - 12:00 Jamie's Cooking Hour / 19:00-20:30 Live Soccer / 12:00- 13:00 Local and / 20:30-23:00 Late Night Movie: / International news / “The Swan” / 13:00 - 15:00 Daytime Movie: / “The Three Brothers”"
     },
     {
       "type": "choice",
@@ -330,5 +330,5 @@
       "passageHead": "Questions 3-4 refer to the following chart."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

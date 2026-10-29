@@ -54,7 +54,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (d): I’m sorry. It won ’t ______ again, I promise.",
+      "prompt": "Words and Idioms Check-Up (d): I'm sorry. It won't ______ again, I promise.",
       "choices": {
         "A": "delicious",
         "B": "happen",
@@ -65,11 +65,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q4",
       "label": "(d)",
-      "stem": "I’m sorry. It won ’t ______ again, I promise."
+      "stem": "I'm sorry. It won't ______ again, I promise."
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): witness ______ observe ______ perceive perfume",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: witness ______ observe ______ perceive perfume",
       "accept": [
         "perfume"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): salty ______ greasy ______ beer ______ ill tasting",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: salty ______ greasy ______ beer ______ ill tasting",
       "accept": [
         "beer"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): clap ______ splash ______ sight ______ crack",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: clap ______ splash ______ sight ______ crack",
       "accept": [
         "sight"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as 'sense - word' — touch ______ rock",
+      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as'sense - word' — touch ______ rock",
       "accept": [
         "touch - rock",
         "touch, rock",
@@ -112,11 +112,11 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "touch ______ rock"
+      "stem": "touch ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Match the related words; write as 'sense - word' — taste ______ chocolate",
+      "prompt": "Vocabulary Practice 2-(b): Match the related words; write as'sense - word' — taste ______ chocolate",
       "accept": [
         "taste - chocolate",
         "taste, chocolate",
@@ -126,11 +126,11 @@
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "taste ______ chocolate"
+      "stem": "taste ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Match the related words; write as 'sense - word' — smell ______ perfume",
+      "prompt": "Vocabulary Practice 2-(c): Match the related words; write as'sense - word' — smell ______ perfume",
       "accept": [
         "smell - perfume",
         "smell, perfume",
@@ -140,11 +140,11 @@
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "smell ______ perfume"
+      "stem": "smell ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Match the related words; write as 'sense - word' — feel ______ excited",
+      "prompt": "Vocabulary Practice 2-(d): Match the related words; write as'sense - word' — feel ______ excited",
       "accept": [
         "feel - excited",
         "feel, excited",
@@ -154,11 +154,11 @@
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "feel ______ excited"
+      "stem": "feel ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): (smell, bad ) ______",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: (smell, bad ) ______",
       "accept": [
         "It smells bad."
       ],
@@ -169,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): (feel, cold ) ______",
+      "prompt": "Vocabulary Practice 3-(c): Fill in the blank: (feel, cold ) ______",
       "accept": [
         "It feels cold."
       ],
@@ -180,7 +180,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(e): (look, dirty ) ______",
+      "prompt": "Vocabulary Practice 3-(e): Fill in the blank: (look, dirty ) ______",
       "accept": [
         "It looks dirty."
       ],
@@ -191,7 +191,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(b): (taste, bitter) ______",
+      "prompt": "Vocabulary Practice 3-(b): Fill in the blank: (taste, bitter) ______",
       "accept": [
         "It tastes bitter."
       ],
@@ -202,7 +202,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): (sound, noisy ) ______",
+      "prompt": "Vocabulary Practice 3-(d): Fill in the blank: (sound, noisy ) ______",
       "accept": [
         "It sounds noisy."
       ],
@@ -264,5 +264,5 @@
       "accept": "D"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

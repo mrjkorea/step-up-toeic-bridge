@@ -24,7 +24,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 2: I’m going to ______ in this winter.",
+      "prompt": "Words and Idioms Check-Up 2: I'm going to ______ in this winter.",
       "choices": {
         "A": "a long distance",
         "B": "go skating",
@@ -34,11 +34,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "2",
-      "stem": "I’m going to ______ in this winter."
+      "stem": "I'm going to ______ in this winter."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up 3: It’s my first time to drive for such ______.",
+      "prompt": "Words and Idioms Check-Up 3: It's my first time to drive for such ______.",
       "choices": {
         "A": "a long distance",
         "B": "go skating",
@@ -48,7 +48,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q3",
       "label": "3",
-      "stem": "It’s my first time to drive for such ______."
+      "stem": "It's my first time to drive for such ______."
     },
     {
       "id": "q4",
@@ -414,5 +414,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

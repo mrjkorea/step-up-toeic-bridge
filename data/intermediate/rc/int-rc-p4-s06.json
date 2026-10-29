@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): judge ______ farmer ______ professor ______ lawyer",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: judge ______ farmer ______ professor ______ lawyer",
       "accept": [
         "farmer"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): pianist ______ violinist ______ singer ______ painter",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: pianist ______ violinist ______ singer ______ painter",
       "accept": [
         "painter"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): golfer ______ basketball player ______ tennis player ______ firefighter",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: golfer ______ basketball player ______ tennis player ______ firefighter",
       "accept": [
         "firefighter"
       ],
@@ -91,7 +91,7 @@
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "stem": "baseball ______ player"
+      "stem": "baseball ______"
     },
     {
       "type": "text",
@@ -102,7 +102,7 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "stem": "police ______ officer"
+      "stem": "police ______"
     },
     {
       "type": "text",
@@ -113,7 +113,7 @@
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "hair ______ dresser"
+      "stem": "hair ______"
     },
     {
       "type": "text",
@@ -124,7 +124,7 @@
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "stem": "fire ______ fighter"
+      "stem": "fire ______"
     },
     {
       "type": "text",
@@ -245,5 +245,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

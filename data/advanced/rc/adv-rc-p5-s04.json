@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: A가 B하기를 원하다",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: A가 B하기를 원하다",
       "accept": [
         "would like A to B"
       ],
@@ -72,7 +72,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 다음 번에",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 다음 번에",
       "accept": [
         "next time"
       ],
@@ -93,7 +93,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 내가 장담하다",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 내가 장담하다",
       "accept": [
         "I bet"
       ],
@@ -114,7 +114,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~하고 싶다",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: ~하고 싶다",
       "accept": [
         "would like to"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: ~에 지원하다",
       "accept": [
         "apply for"
       ],
@@ -156,7 +156,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 6: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: ~을 요구하다",
+      "prompt": "Warm-Up 6: Write the English expression from the word bank that matches this meaning: ~을 요구하다",
       "accept": [
         "ask for"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 7: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 동봉된 이력서",
+      "prompt": "Warm-Up 7: Write the English expression from the word bank that matches this meaning: 동봉된 이력서",
       "accept": [
         "enclosed résumé",
         "enclosed resume"
@@ -199,7 +199,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 8: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 신문에 광고된",
+      "prompt": "Warm-Up 8: Write the English expression from the word bank that matches this meaning: 신문에 광고된",
       "accept": [
         "advertised in the newspaper"
       ],
@@ -312,7 +312,7 @@
       },
       "prompt": "Why has Mr. Whalley written the letter?",
       "accept": "A",
-      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"Technical / Assistant  as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the right person for the / position. Please find enclosed my resume and / Yours sincerely, / Andrew Whalley",
       "passageHead": "Questions 3-4 refer to the following letter."
     },
     {
@@ -327,9 +327,9 @@
       },
       "prompt": "What has Mr. Whalley sent with the letter?",
       "accept": "A",
-      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"T ech nic al / Assistant * * as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the ri ^ ht person for the / position. Plea 5 e find enclosed my resume and / Yours sincerely, / Andrew Whalley",
+      "passage": "Technical Department / J & R Technologies, / 16 James Street / Swindon / SW 671 / Dear Sir / Madam: / I would like to apply for the | position of \"Technical / Assistant  as advertised in today's newspaper . / experience that you are asking for. I strongly / believe that I am the right person for the / position. Please find enclosed my resume and / Yours sincerely, / Andrew Whalley",
       "passageHead": "Questions 3-4 refer to the following letter."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

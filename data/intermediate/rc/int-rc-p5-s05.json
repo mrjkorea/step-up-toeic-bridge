@@ -9,7 +9,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): It’s so ______ that I can’t afford it.",
+      "prompt": "Words and Idioms Check-Up (a): It's so ______ that I can't afford it.",
       "choices": {
         "A": "expensive",
         "B": "favorite",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "It’s so ______ that I can’t afford it."
+      "stem": "It's so ______ that I can't afford it."
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 정가",
+      "prompt": "Warm-Up 1: Write the English expression from the word bank that matches this meaning: 정가",
       "accept": [
         "regular price"
       ],
@@ -87,7 +87,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 여가 시간",
+      "prompt": "Warm-Up 2: Write the English expression from the word bank that matches this meaning: 여가 시간",
       "accept": [
         "spare time"
       ],
@@ -105,7 +105,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 대학에서",
+      "prompt": "Warm-Up 3: Write the English expression from the word bank that matches this meaning: 대학에서",
       "accept": [
         "at college"
       ],
@@ -123,7 +123,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 매우 큰",
+      "prompt": "Warm-Up 4: Write the English expression from the word bank that matches this meaning: 매우 큰",
       "accept": [
         "extra large"
       ],
@@ -141,7 +141,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 5: Rewrite the sentence: Write the English expression from the word bank that matches this meaning: 상점 영업 시간",
+      "prompt": "Warm-Up 5: Write the English expression from the word bank that matches this meaning: 상점 영업 시간",
       "accept": [
         "store hours"
       ],
@@ -194,7 +194,7 @@
       "section": "Reading Practice 2",
       "id": "q12",
       "label": "1",
-      "passage": "Free Tea of the Day (At Martin's Restaurant) ______ ^ [ ______ / Mon / K1 Tue / Wed / Thu / II Fri / Green ______ Iced Camomile ______ Ginseng Herbal / tea ______ tea ______ tea ______ tea ______ tea"
+      "passage": "Free Tea of the Day (At Martin's Restaurant) ______  [ ______ / Mon / K1 Tue / Wed / Thu / II Fri / Green ______ Iced Camomile ______ Ginseng Herbal / tea ______ tea ______ tea ______ tea ______ tea"
     },
     {
       "type": "choice",
@@ -207,7 +207,7 @@
       "section": "Reading Practice 2",
       "id": "q13",
       "label": "2",
-      "passage": "Free Tea of the Day (At Martin's Restaurant) ______ ^ [ ______ / Mon / K1 Tue / Wed / Thu / II Fri / Green ______ Iced Camomile ______ Ginseng Herbal / tea ______ tea ______ tea ______ tea ______ tea"
+      "passage": "Free Tea of the Day (At Martin's Restaurant) ______  [ ______ / Mon / K1 Tue / Wed / Thu / II Fri / Green ______ Iced Camomile ______ Ginseng Herbal / tea ______ tea ______ tea ______ tea ______ tea"
     },
     {
       "id": "q14",
@@ -251,7 +251,7 @@
       },
       "prompt": "What is the regular price of oranges?",
       "accept": "B",
-      "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
+      "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m. / Sat, Sun 9 a.m. - 4 p.m.",
       "passageHead": "Questions 3-4 refer to the following chart."
     },
     {
@@ -266,9 +266,9 @@
       },
       "prompt": "What is the last day of the sale?",
       "accept": "D",
-      "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m . / Sat, Sun 9 a.m. - 4 p.m .",
+      "passage": "Sunnyside Fruit and Vegetable Market Weekly Sale Items / Extra Large Navel Oranges | was $1.99 / (Bag of Six) | - now $1.79 / Fresh Kiwi | $2.99 / A pound Carrots (Two pound bag) | $2.29 / buy one for / Iceberg Lettuce | $0.99 and get / another free / Sale ends on Sunday, March 12th / Store Hours: / Mon - Fri 7 a.m. - 7 p.m. / Sat, Sun 9 a.m. - 4 p.m.",
       "passageHead": "Questions 3-4 refer to the following chart."
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

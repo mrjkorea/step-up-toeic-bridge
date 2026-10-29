@@ -1,23 +1,27 @@
 #!/usr/bin/env python3
-"""Apply CoS lanes A–E fixes to RC/LC practice JSON under data/."""
+"""Apply CoS content fixes across data/**/*.json. Idempotent where possible."""
 from __future__ import annotations
 
+import glob
 import json
 import os
 import re
-import sys
 
-ROOT = os.path.join(os.path.dirname(__file__), "..")
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 DATA = os.path.join(ROOT, "data")
 
-INSTRUCTION_RE = re.compile(
-    r"(?i)(make it negative|change to a question|rewrite|passive|active|"
-    r"replace the noun with a pronoun|correct the error|participle|"
-    r"put the words in order|complete the sentence|fill in the blank|fill in|"
-    r"write a,? or x|translate|following the example|correct or complete|"
-    r"combine|underline the adverb|change the sentence|put a slash|"
-    r"choose the verb|choose the correct|find the wrong word|correct the wrong word|"
-    r"type your answer|write the full sentence)"
+INSTR_KEYWORDS = re.compile(
+    r"Fill|Make|Change|Rewrite|Replace|Correct|Underline|Choose|Write|Translate|"
+    r"Combine|Put|Circle|Match|Complete|Find|Arrange|type|Use|Listen|Say|Correct the|"
+    r"Type the words you hear|Shorten|What|Refer|Reduce",
+    re.I,
+)
+
+NEG_FRAGS = {"doesn't", "don't", "aren't", "isn't", "won't", "can't", "cannot", "does not", "do not"}
+
+GENERIC_REWRITE = re.compile(
+    r":\s*Rewrite the sentence[:\s—-]|Rewrite the sentence:",
+    re.I,
 )
 
 INTRO_TYPED = (
@@ -26,204 +30,10 @@ INTRO_TYPED = (
     "type your answer (rewritten sentence, correction, or word/phrase as asked)."
 )
 
-# (practiceId, itemId) -> partial item updates
-EXPLICIT: dict[tuple[str, str], dict] = {
-    ("adv-rc-p4-s03", "q17"): {
-        "prompt": "Grammar Practice 4-(b): Correct the error — The sun goes around the earth.",
-        "stem": "The sun goes around the earth.",
-        "accept": ["The earth goes around the sun."],
-    },
-    ("adv-rc-p4-s01", "q26"): {
-        "prompt": "Grammar Practice 5-(a): Correct the wrong word — I couldn't help cry when I saw the poor puppy.",
-        "stem": "I couldn't help cry when I saw the poor puppy.",
-        "accept": ["crying"],
-    },
-    ("adv-rc-p4-s01", "q33"): {
-        "prompt": "Grammar Practice 3-(b): Correct the wrong word — He has finished do his homework.",
-        "accept": ["doing"],
-    },
-    ("adv-rc-p4-s01", "q34"): {
-        "prompt": "Grammar Practice 3-(c): Correct the wrong word — The doctor made her to stay at home for the time being.",
-        "accept": ["stay"],
-    },
-    ("int-rc-p4-s01", "q29"): {
-        "prompt": "Grammar Practice 3-(a): Correct the error — I like to play the baseball with the my friends.",
-        "accept": ["I like to play baseball with my friends."],
-    },
-    ("int-rc-p4-s01", "q31"): {
-        "prompt": "Grammar Practice 3-(c): Correct the error — I don't like the winter.",
-        "accept": ["I don't like the winter."],
-    },
-    ("int-rc-p4-s01", "q32"): {
-        "prompt": "Grammar Practice 3-(d): Correct the error — A waiter, please give me the some water.",
-        "accept": ["Waiter, please give me some water."],
-    },
-    ("bas-rc-p4-s02", "q9"): {
-        "prompt": "Warm-Up 1-(c): Put a slash (/) between the subject and the verb: She is very smart.",
-        "accept": ["She / is very smart.", "She/is very smart."],
-    },
-    ("bas-rc-p4-s05", "q13"): {
-        "prompt": "Warm-Up 3-(c): Replace the noun with a pronoun — This is your notebook.",
-        "stem": "This is your notebook.",
-        "accept": ["It is your notebook."],
-    },
-    ("int-rc-p4-s04", "q6"): {
-        "prompt": "Warm-Up 1-(a): Underline the adverb — I will study very hard.",
-        "accept": ["very hard"],
-    },
-    ("int-rc-p4-s04", "q7"): {
-        "prompt": "Warm-Up 1-(b): Underline the adverb — The math exam was very difficult.",
-        "accept": ["very difficult"],
-    },
-    ("int-rc-p4-s04", "q8"): {
-        "prompt": "Warm-Up 1-(c): Underline the adverb — Happily, he passed the exam.",
-        "accept": ["Happily"],
-    },
-    ("int-rc-p4-s04", "q9"): {
-        "prompt": "Warm-Up 1-(d): Underline the adverb — She ran out of the room very quickly.",
-        "accept": ["very quickly"],
-    },
-    ("bas-rc-p4-s02", "q14"): {
-        "prompt": "Warm-Up 3-(b): Fill in the blank — He picked up the ______.",
-        "stem": "He picked up the ______.",
-        "accept": ["ball"],
-    },
-    ("bas-rc-p4-s02", "q15"): {
-        "prompt": "Warm-Up 3-(c): Fill in the blank — He sang a ______.",
-        "stem": "He sang a ______.",
-        "accept": ["song"],
-    },
-    ("bas-rc-p4-s04", "q25"): {
-        "prompt": "Grammar Practice 1-(a): Change the sentence into the present progressive — He writes a letter.",
-        "stem": "He writes a letter.",
-    },
-    ("bas-rc-p4-s04", "q27"): {
-        "prompt": "Grammar Practice 1-(c): Change the sentence into the simple present — He is kicking the ball.",
-        "stem": "He is kicking the ball.",
-    },
-    ("bas-rc-p4-s04", "q24"): {
-        "prompt": "Grammar Practice 4-(c): Correct the wrong word — He washes his car.",
-        "stem": "He washes his car.",
-    },
-    ("int-rc-p4-s06", "q8"): {
-        "prompt": "Vocabulary Practice 2-(a): correct or complete it — baseball ______ player",
-        "stem": "baseball ______ player",
-        "accept": ["baseball player"],
-    },
-    ("int-rc-p4-s06", "q9"): {
-        "prompt": "Vocabulary Practice 2-(b): correct or complete it — police ______ officer",
-        "stem": "police ______ officer",
-        "accept": ["police officer"],
-    },
-    ("int-rc-p4-s06", "q10"): {
-        "prompt": "Vocabulary Practice 2-(c): correct or complete it — hair ______ dresser",
-        "stem": "hair ______ dresser",
-        "accept": ["hairdresser"],
-    },
-    ("int-rc-p4-s06", "q11"): {
-        "prompt": "Vocabulary Practice 2-(d): correct or complete it — fire ______ fighter",
-        "stem": "fire ______ fighter",
-        "accept": ["firefighter"],
-    },
-    ("int-rc-p4-s07", "q8"): {
-        "prompt": "Vocabulary Practice 2-(a): Complete the health phrase — take ______ temperature",
-        "stem": "take ______ temperature",
-        "accept": ["one's temperature", "take one's temperature"],
-    },
-    ("int-rc-p4-s07", "q9"): {
-        "prompt": "Vocabulary Practice 2-(b): Complete the health phrase — lose ______",
-        "stem": "lose ______",
-        "accept": ["consciousness", "lose consciousness"],
-    },
-    ("int-rc-p4-s07", "q10"): {
-        "prompt": "Vocabulary Practice 2-(c): Complete the health phrase — come down ______ a cold",
-        "stem": "come down ______ a cold",
-        "accept": ["with", "come down with"],
-    },
-    ("int-rc-p4-s07", "q11"): {
-        "prompt": "Vocabulary Practice 2-(d): Complete the health phrase — have ______ operation",
-        "stem": "have ______ operation",
-        "accept": ["an operation", "have an operation"],
-    },
-    ("int-rc-p4-s08", "q9"): {
-        "prompt": "Vocabulary Practice 2-(a): correct or complete it — playing ______ pets",
-        "stem": "playing ______ pets",
-        "accept": ["with", "playing with pets"],
-    },
-    ("int-rc-p4-s08", "q10"): {
-        "prompt": "Vocabulary Practice 2-(b): correct or complete it — Internet ______ surfing",
-        "stem": "Internet ______ surfing",
-        "accept": ["Internet surfing"],
-    },
-    ("int-rc-p4-s08", "q11"): {
-        "prompt": "Vocabulary Practice 2-(c): correct or complete it — scuba ______ diving",
-        "stem": "scuba ______ diving",
-        "accept": ["scuba diving"],
-    },
-    ("int-rc-p4-s08", "q12"): {
-        "prompt": "Vocabulary Practice 2-(d): correct or complete it — water ______ skiing",
-        "stem": "water ______ skiing",
-        "accept": ["water-skiing", "waterskiing"],
-    },
-    ("int-rc-p4-s08", "q13"): {
-        "prompt": "Vocabulary Practice 3-(a): Fill in the blank — I like reading ______. They are some of my favorites.",
-        "stem": "I like reading ______. They are some of my favorites.",
-        "accept": ["comic books"],
-    },
-    ("int-rc-p4-s09", "q8"): {
-        "prompt": "Vocabulary Practice 2-(a): correct or complete it — wash ______ stand",
-        "stem": "wash ______ stand",
-        "accept": ["washstand"],
-    },
-    ("int-rc-p4-s09", "q9"): {
-        "prompt": "Vocabulary Practice 2-(b): correct or complete it — tooth ______ brush",
-        "stem": "tooth ______ brush",
-        "accept": ["toothbrush"],
-    },
-    ("int-rc-p4-s09", "q10"): {
-        "prompt": "Vocabulary Practice 2-(c): correct or complete it — cup ______ board",
-        "stem": "cup ______ board",
-        "accept": ["cupboard"],
-    },
-    ("int-rc-p4-s09", "q11"): {
-        "prompt": "Vocabulary Practice 2-(d): correct or complete it — bath ______ tub",
-        "stem": "bath ______ tub",
-        "accept": ["bathtub"],
-    },
-    ("int-rc-p4-s09", "q15"): {
-        "prompt": "Vocabulary Practice 3-(d): Fill in the blank — The car is parked in the ______.",
-        "stem": "The car is parked in the ______.",
-        "accept": ["garage"],
-    },
-    ("adv-rc-p4-s07", "q9"): {
-        "prompt": "Vocabulary Practice 2-(a): Match parts of the body — head: ______, ______ (clue: mouth, hair)",
-        "stem": "head: ______, ______ (mouth, hair)",
-        "accept": ["mouth, hair"],
-    },
-    ("adv-rc-p4-s07", "q10"): {
-        "prompt": "Vocabulary Practice 2-(b): Match parts of the body — hand: ______, ______ (clue: thumb, palm)",
-        "stem": "hand: ______, ______ (thumb, palm)",
-        "accept": ["thumb, palm"],
-    },
-    ("adv-rc-p4-s07", "q11"): {
-        "prompt": "Vocabulary Practice 2-(c): Match parts of the body — leg: ______, ______ (clue: toe, knee)",
-        "stem": "leg: ______, ______ (toe, knee)",
-        "accept": ["toe, knee"],
-    },
-    ("adv-rc-p4-s07", "q12"): {
-        "prompt": "Vocabulary Practice 2-(d): Match parts of the body — organs: ______, ______ (clue: liver, heart)",
-        "stem": "organs: ______, ______ (liver, heart)",
-        "accept": ["liver, heart"],
-    },
-    ("adv-lc-p1-s04", "q64"): {
-        "accept": ["take a picture", "take a video", "record"],
-    },
-}
-
 GLOBAL_SUBS = [
     (re.compile(r"______ _"), "______"),
     (re.compile(r"_ ______"), "______"),
-    (re.compile(r"\bIam\b"), "I'm"),
+    (re.compile(r"\bIam\b"), "I am"),
     (re.compile(r"\bgoto\b"), "go to"),
     (re.compile(r"\btogo\b"), "to go"),
     (re.compile(r"Font he"), "F on the"),
@@ -233,160 +43,618 @@ GLOBAL_SUBS = [
     (re.compile(r"\bcomedown\b"), "come down"),
     (re.compile(r"whit h"), "with"),
     (re.compile(r"It’scold"), "It's cold"),
-    (re.compile(r"It'cold"), "It's cold"),
-    (re.compile(r"It’stood ark"), "It's too dark"),
     (re.compile(r"Tomis often"), "Tom is often"),
     (re.compile(r"Tomis "), "Tom is "),
     (re.compile(r"He sanga"), "He sang a"),
     (re.compile(r"\bhs his\b"), "washes his"),
     (re.compile(r"\bcomed\b"), "came"),
     (re.compile(r"\]tis\b"), "It is"),
-    (re.compile(r"The cari sparked"), "The car is parked"),
     (re.compile(r"jJ i jjiiJ\|Ja / "), ""),
     (re.compile(r"M on-Fri"), "Mon-Fri"),
     (re.compile(r"080-1 14-11 14"), "080-114-1114"),
-    (re.compile(r"I always\. ______"), "I always ______"),
     (re.compile(r"couldn ’the lp cry when Is aw"), "couldn't help cry when I saw"),
     (re.compile(r"\bIgo\b"), "I go"),
     (re.compile(r"fast ly"), "fast"),
-    (re.compile(r"dam age"), "damage"),
-    (re.compile(r"It’stood ark"), "It's too dark"),
-    (re.compile(r"It' stood ark"), "It's too dark"),
     (re.compile(r"to meet meeting"), "meeting"),
 ]
 
 
-def _walk_strings(obj, fn):
-    if isinstance(obj, dict):
-        for k, v in obj.items():
-            obj[k] = _walk_strings(v, fn)
-        return obj
-    if isinstance(obj, list):
-        return [_walk_strings(v, fn) for v in obj]
+def apply_global_subs_string(s: str) -> str:
+    for pat, rep in GLOBAL_SUBS:
+        s = pat.sub(rep, s)
+    return s
+
+
+def accept_list(a):
+    if a is None:
+        return []
+    return a if isinstance(a, list) else [a]
+
+
+def fix_ocr_string(s: str) -> str:
+    if not s or not isinstance(s, str):
+        return s
+    s = s.replace("’", "'").replace("‘", "'")
+    s = re.sub(r"(\w)\s+'\s*(\w)", r"\1'\2", s)
+    s = re.sub(r"\bIam\b", "I am", s)
+    s = re.sub(r"\bgoto\b", "go to", s, flags=re.I)
+    s = re.sub(r"\btogo\b", "to go", s, flags=re.I)
+    s = re.sub(r"\bFont he\b", "F on the", s)
+    s = re.sub(r"\bwhit h\b", "with", s, flags=re.I)
+    s = re.sub(r"\ban dId\b", "and I", s)
+    s = re.sub(r"\bcomedown\b", "come down", s, flags=re.I)
+    s = re.sub(r"\btakeoff\b", "take off", s, flags=re.I)
+    s = re.sub(r"\s3\s:\s*55", " 3:55", s)
+    s = re.sub(r"p\.m\s*\.", "p.m.", s)
+    s = re.sub(r"a\.m\s*\.", "a.m.", s)
+    return s
+
+
+def walk_strings(obj, fn):
     if isinstance(obj, str):
         return fn(obj)
+    if isinstance(obj, list):
+        return [walk_strings(x, fn) for x in obj]
+    if isinstance(obj, dict):
+        return {k: walk_strings(v, fn) for k, v in obj.items()}
     return obj
 
 
-def apply_global_subs(d: dict) -> None:
-    def sub(s: str) -> str:
-        for pat, rep in GLOBAL_SUBS:
-            s = pat.sub(rep, s)
-        return s
-
-    _walk_strings(d, sub)
-
-
-def infer_instruction(it: dict) -> str | None:
-    if it.get("type") != "text" or it.get("displayOnly"):
-        return None
-    if it.get("section") not in ("Warm-Up", "Grammar Practice"):
-        return None
-    prompt = it.get("prompt") or ""
-    if INSTRUCTION_RE.search(prompt):
-        return None
-    stem = (it.get("stem") or "").strip()
-    acc = it.get("accept")
-    accs = acc if isinstance(acc, list) else ([acc] if acc is not None else [])
-    accs = [str(a).strip() for a in accs if str(a).strip()]
-    has_blank = "______" in stem or "______" in prompt
-
-    neg_words = {"doesn't", "don't", "aren't", "isn't", "wasn't", "weren't", "didn't", "can't", "cannot"}
-    if not has_blank and accs and accs[0].lower().replace("'", "'") in neg_words:
-        return "Make it negative:"
-    if not has_blank and accs and all(a.split()[0] in ("He", "She", "It", "They") for a in accs if a.split()):
-        if stem and stem.split()[0] not in ("He", "She", "It", "They"):
-            return "Replace the noun with a pronoun:"
-    if stem and accs:
-        passive_markers = (" was ", " were ", " is ", " are ", " been ", " being ")
-        if any(" by " in a.lower() for a in accs) and any(m in a for a in accs for m in passive_markers):
-            if re.search(r"(?i)\b(by him|by her|by them|is spoken|was announced|been supported)\b", stem):
-                return "Rewrite in the active:"
-            return "Rewrite in the passive:"
-    if stem and accs and any(
-        a.startswith(("When ", "Though ", "As ", "Doing ", "Made ", "Walking ", "Though feeling"))
-        for a in accs
-    ):
-        return "Rewrite using a participle:"
-    if has_blank:
-        if stem.startswith("______") or re.search(r"\([^)]+\s/\s[^)]+\)", stem):
-            return "Fill in the blank:"
-        return "Fill in the blank:"
-    if stem and accs and all(" " in a for a in accs):
-        return "Rewrite the sentence:"
-    return "Rewrite the sentence:"
-
-
-def prepend_instruction(it: dict, instruction: str) -> None:
-    prompt = it.get("prompt") or ""
-    m = re.match(r"^([^:]+:\s*)(.*)$", prompt, re.S)
+def split_prompt_prefix(prompt: str) -> tuple[str, str]:
+    m = re.match(r"^([^:]{3,80}:\s*)", prompt)
     if m:
-        it["prompt"] = f"{m.group(1)}{instruction} {m.group(2).lstrip()}"
-    else:
-        it["prompt"] = f"{instruction} {prompt}"
+        return m.group(1), prompt[len(m.group(1)) :]
+    return "", prompt
 
 
-def maybe_fix_intro(d: dict) -> bool:
+def infer_instruction(item: dict, pid: str) -> str | None:
+    pr = item.get("prompt") or ""
+    if INSTR_KEYWORDS.search(pr) and not GENERIC_REWRITE.search(pr):
+        return None
+    st = item.get("stem") or ""
+    body = st if st else pr
+    prefix, _ = split_prompt_prefix(pr)
+    al = accept_list(item.get("accept"))
+    sec = item.get("section") or ""
+
+    if "Vocabulary Practice" in sec and len(al) == 1 and len(str(al[0]).split()) == 1:
+        if re.search(r"\b\w+\s+\w+\s+\w+", body):
+            return prefix + "Write the word that does not belong: " + (st or pr[len(prefix) :] if prefix else pr)
+
+    if "______" in body or "______" in st:
+        if "(" in body and "/" in body:
+            return prefix + "Choose the correct form: " + (st or pr[len(prefix) :] if prefix else pr)
+        return prefix + "Fill in the blank: " + (st or pr[len(prefix) :] if prefix else pr)
+
+    if "(" in body and "/" in body:
+        return prefix + "Choose the correct form: " + body
+
+    if len(al) == 1 and str(al[0]).strip().lower() in NEG_FRAGS:
+        return prefix + "Make it negative: " + body
+
+    acc0 = str(al[0]) if al else ""
+    if al and any(" by " in str(x).lower() for x in al):
+        if re.search(r"\bby\b", st, re.I) or re.search(r"\b(was|were|been|being)\b", st, re.I):
+            return prefix + "Rewrite in the active voice: " + body
+        return prefix + "Rewrite in the passive voice: " + body
+
+    if re.search(r"\b(was|were)\s+\w+ed\b", st, re.I) and al and " by " not in acc0.lower():
+        return prefix + "Rewrite in the active voice: " + body
+
+    if re.search(r"\(\s*\w+\s*\)", st):
+        return prefix + "Write the correct form: " + body
+
+    if "?" in acc0 or acc0.strip().endswith("?"):
+        return prefix + "Change to a question: " + body
+
+    if " will " in acc0.lower() and " will " not in st.lower() and "teaches" in st.lower():
+        return prefix + "Change to the future tense: " + body
+
+    if " will not " in acc0.lower() or " won't " in acc0.lower():
+        return prefix + "Make it negative: " + body
+
+    if "Grammar Practice" in sec or "Warm-Up" in sec:
+        if al and len(str(al[0]).split()) > 3:
+            if re.search(r"\bby\b", body, re.I):
+                return prefix + "Rewrite in the active voice: " + body
+            if re.search(r"\b(is|are|was|were)\s+(a|an)\s+", str(al[0]), re.I):
+                return prefix + "Rewrite using a noun phrase: " + body
+
+    return prefix + "Type your answer: " + body
+
+
+def expand_transform_accepts(item: dict) -> None:
+    pr = item.get("prompt") or ""
+    st = item.get("stem") or ""
+    al = accept_list(item.get("accept"))
+    if not al or not st:
+        return
+    if re.search(r"Make it negative", pr, re.I):
+        frag = str(al[0]).strip()
+        if frag.lower() in NEG_FRAGS or len(frag.split()) <= 2:
+            base = st.rstrip(".")
+            if frag.lower() in ("doesn't", "does not"):
+                full = re.sub(r"\bruns\b", "doesn't run", base, flags=re.I)
+                if full == base:
+                    full = f"{base} (negative form)"
+            elif frag.lower() in ("don't", "do not"):
+                full = re.sub(r"\b(clean|like|watch)\b", r"don't \1", base, flags=re.I)
+            elif frag.lower() in ("aren't", "are not"):
+                full = re.sub(r"\bare\b", "aren't", base, flags=re.I)
+            else:
+                full = None
+            if full and full not in al:
+                item["accept"] = al + [full] if isinstance(item.get("accept"), list) else [frag, full]
+    if re.search(r"Replace the noun with a pronoun", pr, re.I) and al:
+        frag = str(al[0]).strip()
+        if len(frag.split()) <= 2 and st:
+            subj = frag
+            if st.endswith("?"):
+                full = f"{subj} is that boy?" if "boy" in st.lower() else f"{subj} {st.split(maxsplit=1)[-1]}"
+            else:
+                full = None
+            if "Who is that boy" in st:
+                full = "He is that boy."
+            if "What does your mother do" in st:
+                full = "She is a teacher."
+            if full and full not in al:
+                item["accept"] = al + [full]
+    if re.search(r"Take out|______ your books", pr + st, re.I):
+        if set(x.lower() for x in al) >= {"take", "out"}:
+            item["accept"] = list(dict.fromkeys(al + ["Take out", "take out"]))
+
+
+# Explicit per-item patches: (practiceId, id) -> dict of fields to merge
+PATCHES: dict[tuple[str, str], dict] = {
+    ("bas-rc-p4-s01", "q10"): {
+        "prompt": "Warm-Up 2-(a): Make it negative: She runs fast.",
+        "accept": ["She doesn't run fast.", "She does not run fast.", "doesn't"],
+    },
+    ("bas-rc-p4-s01", "q11"): {
+        "prompt": "Warm-Up 2-(b): Make it negative: They clean the room.",
+        "accept": ["They don't clean the room.", "They do not clean the room.", "don't"],
+    },
+    ("bas-rc-p4-s01", "q12"): {
+        "prompt": "Warm-Up 2-(c): Make it negative: John and Jane are diligent.",
+        "accept": ["John and Jane aren't diligent.", "John and Jane are not diligent.", "aren't"],
+    },
+    ("bas-rc-p4-s04", "q24"): {
+        "prompt": "Grammar Practice 4-(c): Correct the wrong word — He wash his car.",
+        "stem": "He wash his car.",
+        "accept": ["washes", "He washes his car."],
+    },
+    ("bas-rc-p4-s05", "q14"): {
+        "prompt": "Warm-Up 4-(a): What does It refer to? — I bought a cake. It tasted very good.",
+        "accept": ["a cake", "cake"],
+    },
+    ("bas-rc-p4-s05", "q13"): {
+        "prompt": "Warm-Up 3-(c): Replace the noun with a pronoun — This is your notebook.",
+        "stem": "This is your notebook.",
+        "accept": ["It is your notebook.", "It's your notebook."],
+    },
+    ("bas-rc-p4-s07", "q14"): {
+        "prompt": "Vocabulary Practice 3-(c): Fill in the blank: Let's get started. ______ your books.",
+        "accept": ["Take out", "take out", "Take", "out"],
+    },
+    ("int-rc-p4-s01", "q31"): {
+        "prompt": "Grammar Practice 3-(c): Correct the error — I don't like the winter.",
+        "stem": "I don't like the winter.",
+        "accept": ["I don't like winter.", "I do not like winter."],
+    },
+    ("int-rc-p4-s01", "q29"): {
+        "prompt": "Grammar Practice 3-(a): Correct the error — I like to play the baseball with the my friends.",
+        "accept": ["I like to play baseball with my friends."],
+    },
+    ("int-rc-p4-s01", "q32"): {
+        "prompt": "Grammar Practice 3-(d): Correct the error — A waiter, please give me the some water.",
+        "accept": ["Waiter, please give me some water.", "A waiter, please give me some water."],
+    },
+    ("int-rc-p4-s04", "q6"): {
+        "prompt": "Warm-Up 1-(a): Underline the adverb — I will study very hard.",
+        "accept": ["very"],
+    },
+    ("int-rc-p4-s04", "q7"): {
+        "prompt": "Warm-Up 1-(b): Underline the adverb — The math exam was very difficult.",
+        "accept": ["very"],
+    },
+    ("int-rc-p4-s04", "q8"): {
+        "prompt": "Warm-Up 1-(c): Underline the adverb — Happily, he passed the exam.",
+        "accept": ["Happily"],
+    },
+    ("int-rc-p4-s04", "q9"): {
+        "prompt": "Warm-Up 1-(d): Underline the adverb — She ran out of the room very quickly.",
+        "accept": ["quickly"],
+    },
+    ("int-rc-p4-s04", "q21"): {
+        "prompt": "Grammar Practice 1-(a): Write the adverb form — fast — ______",
+        "stem": "fast — ______",
+        "accept": ["fast", "fastly"],
+    },
+    ("int-rc-p4-s04", "q20"): {
+        "prompt": "Grammar Practice 4: Correct the word order — We watch often movies at home.",
+    },
+    ("adv-rc-p4-s02", "q16"): {
+        "prompt": "Warm-Up 3-(d): Rewrite in the active voice: I am called Mr. Kim by them.",
+        "stem": "I am called Mr. Kim by them.",
+        "accept": ["They call me Mr. Kim.", "They called me Mr. Kim."],
+    },
+    ("adv-rc-p4-s02", "q15"): {
+        "prompt": "Warm-Up 3-(c): Rewrite in the active voice: The result was announced by him.",
+        "accept": ["He announced the result."],
+    },
+    ("adv-rc-p4-s04", "q35"): {
+        "prompt": "Grammar Practice 5-(b): Rewrite using 'after' — You may get out after you finish your homework.",
+        "stem": "You may get out after you finish your homework.",
+    },
+    ("adv-rc-p4-s04", "q36"): {
+        "prompt": "Grammar Practice 5-(c): Rewrite using 'when' — When she was 18 years old, she moved to Seoul.",
+        "stem": "When she was 18 years old, she moved to Seoul.",
+    },
+    ("adv-rc-p4-s04", "q37"): {
+        "prompt": "Grammar Practice 5-(d): Rewrite using 'if' — Please call me if you find the person.",
+        "stem": "Please call me if you find the person.",
+    },
+    ("int-rc-p4-s02", "q6"): {
+        "prompt": "Warm-Up 2-(c): Make it negative: Jane can speak Korean.",
+    },
+    ("int-rc-p4-s02", "q7"): {
+        "prompt": "Warm-Up 2-(d): Make it negative: Sam will go to see his aunt tomorrow.",
+    },
+    ("int-rc-p4-s02", "q12"): {
+        "prompt": "Warm-Up 2-(a): Change to a question: Gary can read Japanese novels.",
+    },
+    ("int-rc-p4-s02", "q13"): {
+        "prompt": "Warm-Up 2-(b): Change to a question: Candy will use my computer tomorrow.",
+        "stem": "Candy will use my computer tomorrow.",
+    },
+    ("int-rc-p4-s02", "q14"): {
+        "prompt": "Warm-Up 4-(a): Change to the future tense: He teaches me.",
+    },
+    ("int-rc-p4-s02", "q15"): {
+        "prompt": "Warm-Up 4-(b): Make it negative: We will meet him at the mart early in the morning.",
+    },
+    ("int-rc-p4-s02", "q16"): {
+        "prompt": "Warm-Up 4-(c): Change to a question: You are in a hurry.",
+    },
+    ("int-rc-p4-s02", "q17"): {
+        "prompt": "Warm-Up 4-(d): Change to a question: She will bring her younger sister here.",
+    },
+    ("int-rc-p4-s01", "q30"): {
+        "prompt": "Grammar Practice 3-(b): Correct the error — We go to the church after a breakfast.",
+        "stem": "We go to the church after a breakfast.",
+        "accept": ["We go to the church after breakfast."],
+    },
+    ("int-rc-p4-s04", "q21"): {
+        "accept": ["fastly"],
+    },
+    ("adv-rc-p4-s07", "q10"): {
+        "prompt": "Vocabulary Practice 2-(b): Match the related words — hand ______ / thumb, ______",
+        "stem": "hand ______ / thumb, ______",
+        "accept": ["hand - thumb, palm", "hand, thumb, palm", "hand thumb palm"],
+    },
+    ("adv-rc-p4-s02", "q13"): {
+        "prompt": "Warm-Up 3-(a): Rewrite in the active voice: English is spoken by my friends in class.",
+    },
+    ("adv-rc-p4-s02", "q14"): {
+        "prompt": "Warm-Up 3-(b): Rewrite in the active voice: She has been supported by him.",
+    },
+    ("adv-rc-p4-s02", "q21"): {
+        "prompt": "Grammar Practice 3-(a): Shorten using a participial phrase: When I walked on the street, I encountered him.",
+    },
+    ("adv-rc-p4-s02", "q22"): {
+        "prompt": "Grammar Practice 3-(b): Shorten using a participial phrase: Though I feel sleepy, I must not go to bed.",
+    },
+    ("adv-rc-p4-s02", "q23"): {
+        "prompt": "Grammar Practice 3-(c): Shorten using a participial phrase: As she does the dishes, she sings pop songs.",
+    },
+    ("adv-rc-p4-s02", "q24"): {
+        "prompt": "Grammar Practice 3-(d): Shorten using a participial phrase: As it was made in Japan, it is expensive.",
+    },
+    ("adv-rc-p4-s02", "q28"): {
+        "prompt": "Grammar Practice 4-(d): Rewrite in the passive voice: I saw my grandfather playing basketball at dawn.",
+    },
+    ("adv-rc-p4-s02", "q32"): {
+        "prompt": "Grammar Practice 5-(d): Rewrite in the passive voice: She made him pick it up.",
+        "stem": "She made him pick it up.",
+    },
+    ("bas-rc-p4-s04", "q27"): {
+        "prompt": "Grammar Practice 1-(c): Change to the simple present: He is kicking the ball.",
+    },
+    ("bas-rc-p4-s05", "q10"): {
+        "prompt": "Warm-Up 2-(a): Replace the noun with a pronoun: The actor wants to talk to you.",
+    },
+    ("bas-rc-p4-s05", "q11"): {
+        "prompt": "Warm-Up 2-(b): Replace the noun with a pronoun: Mr. Baker washes his shoes.",
+    },
+    ("bas-rc-p4-s05", "q12"): {
+        "prompt": "Warm-Up 2-(c): Replace the noun with a pronoun: Susan is my best friend.",
+    },
+    ("int-rc-p4-s04", "q29"): {
+        "prompt": "Grammar Practice 2-(a): Change to a noun phrase: He sings very well.",
+    },
+    ("int-rc-p4-s04", "q30"): {
+        "prompt": "Grammar Practice 2-(b): Change to a noun phrase: She runs very fast.",
+    },
+    ("int-rc-p4-s04", "q31"): {
+        "prompt": "Grammar Practice 2-(c): Change to a noun phrase: The girl plays beautifully.",
+    },
+    ("int-rc-p4-s04", "q32"): {
+        "prompt": "Grammar Practice 2-(d): Change to a noun phrase: He drives carefully.",
+    },
+    ("adv-rc-p4-s01", "q34"): {
+        "accept": ["The doctor made her stay at home for the time being.", "stay"],
+    },
+    ("bas-rc-p4-s04", "q19"): {
+        "prompt": "Grammar Practice 3-(a): Jane buys shoes. Change it to the past tense.",
+    },
+    ("bas-rc-p4-s04", "q20"): {
+        "prompt": "Grammar Practice 3-(b): Jane buys shoes. Change it to the present progressive.",
+    },
+    ("bas-rc-p4-s04", "q21"): {
+        "prompt": "Grammar Practice 3-(c): Jane buys shoes. Change it to the present negative.",
+    },
+    ("bas-rc-p4-s02", "q19"): {
+        "prompt": "Grammar Practice 1-(a): Type the English word that matches the blank — She closed the window last night.",
+    },
+    ("bas-rc-p4-s02", "q20"): {
+        "prompt": "Grammar Practice 1-(b): Type the English word that matches the blank — Birds fly in the sky.",
+    },
+    ("bas-rc-p4-s02", "q21"): {
+        "prompt": "Grammar Practice 1-(c): Type the English word that matches the blank — He can play the piano.",
+    },
+    ("adv-rc-p4-s04", "q22"): {
+        "prompt": "Grammar Practice 2-(a): Fill in the blank with a conjunction — He can't come into the toy house ______ he is too tall.",
+    },
+    ("adv-rc-p4-s04", "q26"): {
+        "prompt": "Grammar Practice 3-(a): Fill in the blank — This is the day ______ we make a contract.",
+    },
+    ("int-rc-p4-s02", "q18"): {
+        "prompt": "Grammar Practice 1-(a): Correct the error — He wills come here to meet her.",
+        "accept": ["He will come here to meet her.", "will"],
+    },
+    ("int-rc-p4-s02", "q20"): {
+        "prompt": "Grammar Practice 1-(c): Correct the error — She cans speak French.",
+    },
+    ("int-rc-p4-s02", "q21"): {
+        "prompt": "Grammar Practice 1-(d): Correct the error — They wills be here soon.",
+    },
+    ("int-rc-p4-s02", "q26"): {
+        "prompt": "Grammar Practice 3-fix: Correct the error — John should be the dishes this evening.",
+    },
+    ("int-rc-p4-s03", "q5"): {
+        "prompt": "Grammar Practice 1-(a): Write 5,462 in words.",
+    },
+    ("int-rc-p4-s03", "q6"): {
+        "prompt": "Grammar Practice 1-(b): Write 3/5 in words.",
+    },
+    ("int-rc-p4-s03", "q7"): {
+        "prompt": "Grammar Practice 1-(c): Write 2.47 in words.",
+    },
+    ("int-rc-p4-s03", "q8"): {
+        "prompt": "Grammar Practice 1-(d): Write 2007 (the year) in words.",
+    },
+    ("int-rc-p4-s03", "q10"): {
+        "prompt": "Grammar Practice 1-(f): Write 243-5908 in words.",
+    },
+    ("int-rc-p4-s03", "q11"): {
+        "prompt": "Grammar Practice 1-(g): Write $5.41 in words.",
+    },
+    ("adv-lc-p3-s05", "q8"): {"prompt": "Warm-Up 1: Type the words you hear:"},
+    ("adv-lc-p3-s05", "q9"): {"prompt": "Warm-Up 2: Type the words you hear:"},
+    ("adv-lc-p3-s05", "q10"): {"prompt": "Warm-Up 3: Type the words you hear:"},
+    ("int-rc-p5-s06", "q20"): {
+        "passage": "To all students, / In these days, some of our school students are suffering from eye diseases. All students must wash their hands after each class. Use hot water and soap at all times. If anyone has any eye disease symptom, report it to his or her teacher. / You are welcome to visit our School Health Care Center for checkup between classes. / Office hours: 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114.",
+    },
+    ("int-rc-p5-s06", "q21"): {
+        "passage": "To all students, / In these days, some of our school students are suffering from eye diseases. All students must wash their hands after each class. Use hot water and soap at all times. If anyone has any eye disease symptom, report it to his or her teacher. / You are welcome to visit our School Health Care Center for checkup between classes. / Office hours: 9 a.m. till 6 p.m. (Mon-Fri) / No reservations needed. / For phone counseling, call 080-114-1114.",
+    },
+}
+
+PASSAGE_PATCHES: dict[tuple[str, str], str] = {
+    (
+        "int-rc-p5-s06",
+        "q14",
+    ): "To: John / Date: May 7 / Time: 3:55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by: Bob",
+    (
+        "int-rc-p5-s06",
+        "q15",
+    ): "To: John / Date: May 7 / Time: 3:55 p.m. / From: Jane / Will call again / Message: The meeting is at 9 in the morning. / Taken by: Bob",
+    (
+        "int-rc-p5-s06",
+        "q16",
+    ): "SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super Computers Annual Family Barbecue Party at Mooney's Bay Beach Resort on July 16th. The company has rented a bus for the event and it will leave the headquarters at 8:00 a.m. Please make reservations for seats with the general affairs department no later than July 10th. / See you there.",
+    (
+        "int-rc-p5-s06",
+        "q17",
+    ): "SuperComputers Office Memorandum / To all staff members, / All employees and their families are invited to the Super Computers Annual Family Barbecue Party at Mooney's Bay Beach Resort on July 16th. The company has rented a bus for the event and it will leave the headquarters at 8:00 a.m. Please make reservations for seats with the general affairs department no later than July 10th. / See you there.",
+    (
+        "adv-rc-at-q31-40",
+        "q9",
+    ): "PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines below exactly. / Have your passport ready and ensure that your immigration form is fully completed and signed. / Wait behind the red line until you are told which desk you have to go to. / Do NOT cross the yellow line until an immigration officer authorizes you to do so.",
+    (
+        "adv-rc-at-q31-40",
+        "q10",
+    ): "PLEASE READ THE FOLLOWING CAREFULLY. / You are now entering passport control. You must follow the guidelines below exactly. / Have your passport ready and ensure that your immigration form is fully completed and signed. / Wait behind the red line until you are told which desk you have to go to. / Do NOT cross the yellow line until an immigration officer authorizes you to do so.",
+}
+
+CORRECTION_FULL: dict[tuple[str, str], list[str]] = {
+    ("bas-rc-p4-s02", "q25"): ["He seems sad.", "sad"],
+    ("bas-rc-p4-s02", "q26"): ["It smells bad.", "bad"],
+    ("bas-rc-p4-s02", "q27"): ["It sounds nice.", "nice"],
+    ("bas-rc-p4-s04", "q23"): ["She quit her job.", "quit"],
+    ("adv-rc-p4-s03", "q18"): ["All pay attention to me when I give a speech.", "pay"],
+    ("int-rc-p4-s04", "q3"): ["He works very hard.", "hard"],
+    ("int-rc-p4-s04", "q4"): ["This watch is very expensive.", "expensive"],
+    ("int-rc-p4-s04", "q5"): ["Tom is often late for school.", "late"],
+}
+
+
+def fix_vocab_stems(item: dict) -> None:
+    pr = item.get("prompt") or ""
+    st = item.get("stem") or ""
+    if re.match(r"^\w+\s+______\s+\w+$", st.strip()):
+        item["stem"] = re.sub(r"^(\w+\s+______)\s+\w+$", r"\1", st.strip())
+    if "touch — ?" in st or "touch ______" in st:
+        item["stem"] = "touch ______"
+        item["prompt"] = re.sub(r"touch — \?.*", "touch ______", pr)
+    if re.search(r"taste ______\s+\w+$", st):
+        item["stem"] = re.sub(r"(\w+)\s+______\s+\w+$", r"\1 ______", st)
+    if "department" in st.lower() and "store" in st.lower():
+        item["stem"] = re.sub(r"department\s+______\s+store", "department ______", st, flags=re.I)
+    if re.search(r"(smell|feel|taste|touch)\s+______\s+\w+", st, re.I):
+        item["stem"] = re.sub(r"((?:smell|feel|taste|touch)\s+______)\s+\w+", r"\1", st, flags=re.I)
+
+
+def clean_passage_text(p: str) -> str:
+    p = fix_ocr_string(p)
+    p = p.replace("^", "")
+    p = re.sub(r"\bri\s+ht\b", "right", p, flags=re.I)
+    p = re.sub(r"\bPlea\s+5\s+e\b", "Please", p, flags=re.I)
+    p = re.sub(r"Mary\^s", "Mary's", p)
+    p = re.sub(r"^jJ[^/]*/\s*", "", p)
+    p = re.sub(r"\\ \} J Hi LeV\s+u\s+", "", p)
+    p = re.sub(r"T\s+ech\s+nic\s+al", "Technical", p)
+    p = re.sub(r"\*\ \*", "", p)
+    return p.strip()
+
+
+def sanitize_prompt(pr: str) -> str:
+    pr = re.sub(r"(?:Type your answer:\s*)+", "", pr, flags=re.I)
+    pr = re.sub(r"(?:Choose the correct form:\s*)+", "", pr, flags=re.I)
+    pr = re.sub(r"^((?:[^:]+:\s*))\1+", r"\1", pr)
+    pr = re.sub(
+        r"Rewrite the sentence:\s*listen and type the answer\.?",
+        "Type the words you hear:",
+        pr,
+        flags=re.I,
+    )
+    return pr.strip()
+
+
+def fix_rewrite_labels(item: dict, pid: str) -> bool:
+    pr = sanitize_prompt(item.get("prompt") or "")
+    item["prompt"] = pr
+    if re.search(r"type the words you hear", pr, re.I) and re.search(
+        r"Rewrite the sentence", pr, re.I
+    ):
+        prefix, _ = split_prompt_prefix(pr)
+        item["prompt"] = prefix + "Type the words you hear:"
+        return True
+    if re.search(r"listen and type the answer", pr, re.I):
+        prefix, _ = split_prompt_prefix(pr)
+        item["prompt"] = prefix + "Type the words you hear:"
+        return True
+    if not GENERIC_REWRITE.search(pr):
+        return False
+    prefix, body = split_prompt_prefix(pr)
+    body = re.sub(r"^Rewrite the sentence[:\s—-]+\s*", "", body, flags=re.I).strip()
+    if re.match(r"^Write\b", body, re.I):
+        item["prompt"] = prefix + body
+        return True
+    if re.match(r"^Correct the\b", body, re.I):
+        item["prompt"] = prefix + body.replace("Correct the wrong part", "Correct the error").replace(
+            "Correct the wrong word", "Correct the error"
+        )
+        return True
+    stub = dict(item)
+    stub["prompt"] = prefix + body
+    if not stub.get("stem") and body and len(body) < 220:
+        stub["stem"] = body.split("—")[0].strip()
+    new = infer_instruction(stub, pid)
+    if new and new != pr:
+        item["prompt"] = new
+        return True
+    return False
+
+
+def merge_main_v28_explicit() -> None:
+    path = os.path.join(os.path.dirname(__file__), "cos_apply_fixes_main_v28.py")
+    if not os.path.isfile(path):
+        return
+    g: dict = {}
+    exec(compile(open(path, encoding="utf-8").read(), path, "exec"), g)
+    main_explicit = g.get("EXPLICIT") or {}
+    for key, val in main_explicit.items():
+        PATCHES.setdefault(key, val)
+
+
+def maybe_fix_intro(d: dict) -> None:
     pid = d.get("practiceId", "")
     if not re.match(r"(bas|int|adv)-rc-p4-s0[1-5]$", pid):
-        return False
+        return
     has_typed = any(
         it.get("type") == "text" and it.get("section") in ("Warm-Up", "Grammar Practice")
         for it in d.get("items") or []
     )
-    if not has_typed:
-        return False
-    if d.get("introEn") == INTRO_TYPED:
-        return False
-    d["introEn"] = INTRO_TYPED
-    return True
+    if has_typed:
+        d["introEn"] = INTRO_TYPED
 
 
-def iter_json():
-    for dirpath, _, files in os.walk(DATA):
-        for name in files:
-            if name.endswith(".json"):
-                yield os.path.join(dirpath, name)
+def fix_item(item: dict, pid: str) -> int:
+    n = 0
+    iid = item.get("id", "")
+    key = (pid, iid)
+    if key in PATCHES:
+        item.update(PATCHES[key])
+        n += 1
+    if key in CORRECTION_FULL:
+        item["accept"] = CORRECTION_FULL[key]
+        pr = item.get("prompt") or ""
+        if "wrong word" in pr.lower():
+            item["prompt"] = re.sub(r"correct the wrong word", "Correct the error", pr, flags=re.I)
+        n += 1
+    if key in PASSAGE_PATCHES and item.get("passage"):
+        item["passage"] = PASSAGE_PATCHES[key]
+        n += 1
+    elif item.get("passage") and "^" in item.get("passage", ""):
+        item["passage"] = clean_passage_text(item["passage"])
+        n += 1
+    elif item.get("passage") and re.search(r"\bjJ\b|MmM", item.get("passage", "")):
+        item["passage"] = clean_passage_text(item["passage"])
+        n += 1
+
+    if item.get("type") == "text":
+        if fix_rewrite_labels(item, pid):
+            n += 1
+        if key not in PATCHES:
+            new_pr = infer_instruction(item, pid)
+            if new_pr and new_pr != item.get("prompt"):
+                item["prompt"] = new_pr
+                n += 1
+        expand_transform_accepts(item)
+        fix_vocab_stems(item)
+
+    return n
 
 
-def main() -> int:
-    changed_files = 0
-    instr_count = 0
-    explicit_count = 0
+def strip_vague_book_page(obj):
+    if isinstance(obj, str):
+        return re.sub(r"\s*\(see the book page\)\.?", "", obj, flags=re.I).replace(
+            "see the book page", ""
+        ).strip()
+    if isinstance(obj, list):
+        return [strip_vague_book_page(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: strip_vague_book_page(v) for k, v in obj.items()}
+    return obj
 
-    for path in iter_json():
-        d = json.load(open(path, encoding="utf-8"))
-        pid = d.get("practiceId", os.path.basename(path)[:-5])
-        orig = json.dumps(d, ensure_ascii=False, sort_keys=True)
-        apply_global_subs(d)
 
-        for it in d.get("items") or []:
-            key = (pid, it.get("id", ""))
-            if key in EXPLICIT:
-                it.update(EXPLICIT[key])
-                explicit_count += 1
-            if it.get("type") == "text" and not it.get("displayOnly"):
-                ins = infer_instruction(it)
-                if ins:
-                    prepend_instruction(it, ins)
-                    instr_count += 1
-
-        if maybe_fix_intro(d):
-            pass
-
-        new = json.dumps(d, ensure_ascii=False, sort_keys=True)
-        if new != orig:
-            with open(path, "w", encoding="utf-8") as f:
-                json.dump(d, f, ensure_ascii=False, indent=2)
-                f.write("\n")
-            changed_files += 1
-
-    print(
-        f"cos_apply_fixes: {changed_files} files, "
-        f"{explicit_count} explicit item patches, {instr_count} instructions added"
-    )
-    return 0
+def main() -> None:
+    merge_main_v28_explicit()
+    total = 0
+    for f in sorted(glob.glob(os.path.join(DATA, "*", "*", "*.json"))):
+        d = json.load(open(f, encoding="utf-8"))
+        pid = d.get("practiceId") or os.path.basename(f)[:-5]
+        d = walk_strings(d, fix_ocr_string)
+        d = walk_strings(d, apply_global_subs_string)
+        d = strip_vague_book_page(d)
+        maybe_fix_intro(d)
+        for it in d.get("items", []):
+            total += fix_item(it, pid)
+        d["contentVersion"] = "v29-cos-fix"
+        json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    print("cos_apply_fixes: updated fields", total)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

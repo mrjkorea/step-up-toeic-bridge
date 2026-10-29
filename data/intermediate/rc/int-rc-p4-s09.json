@@ -51,7 +51,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): window ______ door ______ gate ______ attic",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: window ______ door ______ gate ______ attic",
       "accept": [
         "attic"
       ],
@@ -62,7 +62,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): toothpaste toothbrush ______ nightstand ______ washstand",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: toothpaste toothbrush ______ nightstand ______ washstand",
       "accept": [
         "stand"
       ],
@@ -73,7 +73,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): pillow ______ blanket ______ tissue ______ mattress",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: pillow ______ blanket ______ tissue ______ mattress",
       "accept": [
         "tissue"
       ],
@@ -91,7 +91,7 @@
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "stem": "wash ______ stand"
+      "stem": "wash ______"
     },
     {
       "type": "text",
@@ -102,7 +102,7 @@
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "stem": "tooth ______ brush"
+      "stem": "tooth ______"
     },
     {
       "type": "text",
@@ -113,7 +113,7 @@
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "cup ______ board"
+      "stem": "cup ______"
     },
     {
       "type": "text",
@@ -124,11 +124,11 @@
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "stem": "bath ______ tub"
+      "stem": "bath ______"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): The steps lead to the ______.",
+      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: The steps lead to the ______.",
       "accept": [
         "basement"
       ],
@@ -150,7 +150,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(c): There is some fruit in the ______.",
+      "prompt": "Vocabulary Practice 3-(c): Write the word that does not belong: There is some fruit in the ______.",
       "accept": [
         "refrigerator"
       ],
@@ -223,5 +223,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }

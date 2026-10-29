@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Rewrite the sentence: The man will save the bird.",
+      "prompt": "Warm-Up 2-(b): Rewrite in the passive voice: The man will save the bird.",
       "accept": [
         "The bird will be saved by the man."
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): Rewrite the sentence: English is spoken by my friends in class.",
+      "prompt": "Warm-Up 3-(a): Rewrite in the active voice: English is spoken by my friends in class.",
       "accept": [
         "My friends speak English in class."
       ],
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): Rewrite the sentence: She has been supported by him.",
+      "prompt": "Warm-Up 3-(b): Rewrite in the active voice: She has been supported by him.",
       "accept": [
         "He has supported her."
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Replace the noun with a pronoun: The result was announced by him.",
+      "prompt": "Warm-Up 3-(c): Rewrite in the active voice: The result was announced by him.",
       "accept": [
         "He announced the result."
       ],
@@ -190,14 +190,15 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): Replace the noun with a pronoun: I'm called Mr. Kim by them.",
+      "prompt": "Warm-Up 3-(d): Rewrite in the active voice: I am called Mr. Kim by them.",
       "accept": [
+        "They call me Mr. Kim.",
         "They called me Mr. Kim."
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "3-(d)",
-      "stem": "I'm called Mr. Kim by them."
+      "stem": "I am called Mr. Kim by them."
     },
     {
       "type": "choice",
@@ -240,7 +241,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): Rewrite using a participle: When I walked on the street, I encountered him.",
+      "prompt": "Grammar Practice 3-(a): Shorten using a participial phrase: When I walked on the street, I encountered him.",
       "accept": [
         "When walking on the street, I encountered him."
       ],
@@ -251,7 +252,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Rewrite using a participle: Though I feel sleepy, I must not go to bed.",
+      "prompt": "Grammar Practice 3-(b): Shorten using a participial phrase: Though I feel sleepy, I must not go to bed.",
       "accept": [
         "Though feeling sleepy, I must not go to bed."
       ],
@@ -262,7 +263,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): Rewrite using a participle: As she does the dishes, she sings pop songs.",
+      "prompt": "Grammar Practice 3-(c): Shorten using a participial phrase: As she does the dishes, she sings pop songs.",
       "accept": [
         "Doing the dishes, she sings pop songs."
       ],
@@ -273,7 +274,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): Rewrite using a participle: As it was made in Japan, it is expensive.",
+      "prompt": "Grammar Practice 3-(d): Shorten using a participial phrase: As it was made in Japan, it is expensive.",
       "accept": [
         "Made in Japan, it is expensive."
       ],
@@ -317,7 +318,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(d): Rewrite the sentence: I saw my grandfather playing basketball at dawn.",
+      "prompt": "Grammar Practice 4-(d): Rewrite in the passive voice: I saw my grandfather playing basketball at dawn.",
       "accept": [
         "My grandfather was seen to play"
       ],
@@ -339,7 +340,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): Rewrite the sentence: Who made it?",
+      "prompt": "Grammar Practice 5-(b): Change to a question: Who made it?",
       "accept": [
         "By whom was it made?"
       ],
@@ -361,14 +362,14 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(d): Rewrite the sentence: She made him pick it",
+      "prompt": "Grammar Practice 5-(d): Rewrite in the passive voice: She made him pick it up.",
       "accept": [
         "He was made to pick it up."
       ],
       "section": "Grammar Practice",
       "id": "q32",
       "label": "5-(d)",
-      "stem": "She made him pick it"
+      "stem": "She made him pick it up."
     },
     {
       "id": "q33",
@@ -449,5 +450,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v29-cos-fix"
 }
