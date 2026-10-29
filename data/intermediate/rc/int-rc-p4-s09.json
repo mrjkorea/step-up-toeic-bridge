@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — wash ______ stand",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — wash ______",
       "accept": [
         "washstand"
       ],
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — tooth ______ brush",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — tooth ______",
       "accept": [
         "toothbrush"
       ],
@@ -106,7 +106,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — cup ______ board",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — cup ______",
       "accept": [
         "cupboard"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — bath ______ tub",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — bath ______",
       "accept": [
         "bathtub"
       ],

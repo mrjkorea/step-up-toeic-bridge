@@ -41,13 +41,6 @@ GENERIC_REWRITE = re.compile(
 
 CORRECT_WRONG = re.compile(r"Correct the (wrong word|error)", re.I)
 
-COMPOUND_VOCAB = re.compile(
-    r"write as ['\"]sense - word['\"]|Match the related words|department ______|"
-    r"touch ______|taste ______|smell ______|feel ______",
-    re.I,
-)
-
-
 def norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]", "", str(s).lower().replace("'", "'"))
 
@@ -62,33 +55,64 @@ def json_files() -> list[str]:
     return sorted(glob.glob(os.path.join(DATA, "*", "*", "*.json")))
 
 
+BLANK_PAIR = re.compile(r"\b(\w+)\s+______\s+(\w+)\b", re.I)
+
+
+def _exercise_texts(prompt: str, stem: str) -> list[str]:
+    texts: list[str] = []
+    if stem:
+        texts.append(stem)
+    if prompt:
+        texts.append(prompt)
+        if re.search(r"[—–]", prompt):
+            texts.append(re.split(r"\s*[—–]\s*", prompt, maxsplit=1)[-1].strip())
+    # de-dupe while preserving order
+    seen: set[str] = set()
+    out: list[str] = []
+    for t in texts:
+        if t and t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
+def _accept_parts(acc: str) -> list[str]:
+    raw = str(acc).strip()
+    if ":" in raw:
+        raw = raw.split(":")[0].strip()
+    return [norm(p) for p in re.split(r"[\s\-/,]+", raw) if norm(p)]
+
+
+def _accept_matches_compound(acc: str, left: str, right: str) -> bool:
+    left_n, right_n = norm(left), norm(right)
+    compact = norm(str(acc).split(":")[0].strip())
+    if compact == left_n + right_n:
+        return True
+    parts = _accept_parts(acc)
+    if len(parts) >= 2 and parts[0] == left_n and parts[-1] == right_n:
+        return True
+    return False
+
+
 def check_vocab_stem_leak(pid: str, it: dict) -> str | None:
+    if it.get("type") != "text":
+        return None
     pr = it.get("prompt") or ""
     st = it.get("stem") or ""
-    if not st or "______" not in st:
-        return None
     al = accept_list(it.get("accept"))
     if not al:
         return None
-    for acc in al:
-        acc_s = str(acc)
-        if " - " in acc_s or " / " in acc_s:
-            parts = re.split(r"\s*[-/,]\s*", acc_s)
-            if len(parts) >= 2:
-                second = parts[-1].strip()
-                if second and norm(second) in norm(st.replace("______", "")):
-                    return f"answer-part-in-stem:{second}"
-        if "store" in acc_s.lower() and "store" in st.lower() and "______" in st:
-            if re.search(r"department\s+______\s+store", st, re.I):
-                return "compound-answer-in-stem"
-        if re.search(r"(touch|taste|smell|feel)\s+______\s+\w+", st, re.I):
-            m = re.match(r"(?P<sense>\w+)\s+______\s+(?P<word>\w+)", st, re.I)
-            if m and norm(m.group("word")) in norm(acc_s):
-                return f"sense-word-in-stem:{m.group('word')}"
-    if COMPOUND_VOCAB.search(pr) and re.search(r"______\s+\w{3,}", st):
-        tail = re.sub(r".*______\s*", "", st).strip()
-        if tail and any(norm(tail) in norm(x) for x in al):
-            return f"post-blank-word-in-stem:{tail}"
+    texts = _exercise_texts(pr, st)
+    if not any("______" in t for t in texts):
+        return None
+
+    for text in texts:
+        for m in BLANK_PAIR.finditer(text):
+            left, right = m.group(1), m.group(2)
+            for acc in al:
+                if _accept_matches_compound(acc, left, right):
+                    return f"compound-blank-leak:{left}-{right}"
+
     return None
 
 

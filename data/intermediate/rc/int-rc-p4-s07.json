@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Complete the health phrase — take ______ temperature",
+      "prompt": "Vocabulary Practice 2-(a): Complete the health phrase — take ______",
       "accept": [
         "one's temperature",
         "take one's temperature"
@@ -120,7 +120,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Complete the health phrase — have ______ operation",
+      "prompt": "Vocabulary Practice 2-(d): Complete the health phrase — have ______",
       "accept": [
         "an operation",
         "have an operation"
