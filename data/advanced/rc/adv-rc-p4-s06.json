@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: witness ______ observe ______ perceive perfume",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — witness / observe / perceive perfume",
       "accept": [
         "perfume"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "witness ______ observe ______ perceive perfume"
+      "stem": "witness / observe / perceive perfume"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: salty ______ greasy ______ beer ______ ill tasting",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — salty / greasy / beer / ill tasting",
       "accept": [
         "beer"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "salty ______ greasy ______ beer ______ ill tasting"
+      "stem": "salty / greasy / beer / ill tasting"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: clap ______ splash ______ sight ______ crack",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — clap / splash / sight / crack",
       "accept": [
         "sight"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "clap ______ splash ______ sight ______ crack"
+      "stem": "clap / splash / sight / crack"
     },
     {
       "type": "text",
@@ -264,5 +264,5 @@
       "accept": "D"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

@@ -393,7 +393,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): correct or complete it — It is wise for you to say like that.",
+      "prompt": "Grammar Practice 3-(a): Correct the error: — It is wise for you to say like that.",
       "accept": [
         "of"
       ],
@@ -427,7 +427,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): correct or complete it — Don't forget returning the book in time.",
+      "prompt": "Grammar Practice 5-(b): Correct the error: — Don't forget returning the book in time.",
       "accept": [
         "to return"
       ],
@@ -526,5 +526,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

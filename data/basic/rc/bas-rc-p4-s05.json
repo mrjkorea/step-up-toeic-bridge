@@ -346,7 +346,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct or complete it — That games are for children.",
+      "prompt": "Grammar Practice 4-(c): Correct the error: — That games are for children.",
       "accept": [
         "Those"
       ],
@@ -434,5 +434,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

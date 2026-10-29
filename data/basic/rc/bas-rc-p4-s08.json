@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: boots ______ socks ______ cape",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — boots / socks / cape",
       "accept": [
         "cape"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "boots ______ socks ______ cape"
+      "stem": "boots / socks / cape"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: shirt ______ jeans ______ shorts",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — shirt / jeans / shorts",
       "accept": [
         "shirt"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "shirt ______ jeans ______ shorts"
+      "stem": "shirt / jeans / shorts"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: tuxedo ______ suit ______ sneakers",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — tuxedo / suit / sneakers",
       "accept": [
         "sneakers"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "tuxedo ______ suit ______ sneakers"
+      "stem": "tuxedo / suit / sneakers"
     },
     {
       "type": "text",
@@ -219,5 +219,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

@@ -51,36 +51,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: judge ______ farmer ______ professor ______ lawyer",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — judge / farmer / professor / lawyer",
       "accept": [
         "farmer"
       ],
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "1-(a)",
-      "stem": "judge ______ farmer ______ professor ______ lawyer"
+      "stem": "judge / farmer / professor / lawyer"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: pianist ______ violinist ______ singer ______ painter",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — pianist / violinist / singer / painter",
       "accept": [
         "painter"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(b)",
-      "stem": "pianist ______ violinist ______ singer ______ painter"
+      "stem": "pianist / violinist / singer / painter"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: golfer ______ basketball player ______ tennis player ______ firefighter",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — golfer / basketball player / tennis player / firefighter",
       "accept": [
         "firefighter"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(c)",
-      "stem": "golfer ______ basketball player ______ tennis player ______ firefighter"
+      "stem": "golfer / basketball player / tennis player / firefighter"
     },
     {
       "type": "text",
@@ -245,5 +245,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

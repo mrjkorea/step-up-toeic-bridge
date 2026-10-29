@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: coffee ______ bread ______ milk",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — coffee / bread / milk",
       "accept": [
         "bread"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "coffee ______ bread ______ milk"
+      "stem": "coffee / bread / milk"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: hamburger ______ spa hett i ______ sandwich",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — hamburger / spaghetti / sandwich",
       "accept": [
         "spaghetti"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "hamburger ______ spa hett i ______ sandwich"
+      "stem": "hamburger / spaghetti / sandwich"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: salt ______ sugar ______ pizza",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — salt / sugar / pizza",
       "accept": [
         "pizza"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "salt ______ sugar ______ pizza"
+      "stem": "salt / sugar / pizza"
     },
     {
       "type": "text",
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): Write the word that does not belong: Lemon is ______",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank: Lemon is ______",
       "accept": [
         "sour"
       ],
@@ -219,5 +219,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }
