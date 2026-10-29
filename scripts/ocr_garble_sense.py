@@ -149,10 +149,42 @@ def _accept_matches_compound(acc: str, left: str, right: str) -> bool:
     compact = norm(str(acc).split(":")[0].strip())
     if compact == left_n + right_n:
         return True
-    parts = _accept_parts(acc)
-    if len(parts) >= 2 and parts[0] == left_n and parts[-1] == right_n:
-        return True
+    tokens = _accept_word_tokens(acc)
+    for i in range(len(tokens) - 1):
+        if tokens[i] == left_n and tokens[i + 1] == right_n:
+            return True
     return False
+
+
+def _accept_word_tokens(acc: str) -> list[str]:
+    raw = str(acc).strip()
+    if ":" in raw:
+        raw = raw.split(":")[0].strip()
+    return [norm(w) for w in re.findall(r"\w+", raw)]
+
+
+def _check_blank_following_token_leak(text: str, al: list) -> str | None:
+    """Fail when ______ <word> reveals the next token of a multi-word accept phrase."""
+    multi = [acc for acc in al if len(_accept_word_tokens(acc)) >= 2]
+    if not multi:
+        return None
+    for m in re.finditer(r"______", text):
+        tail = text[m.end() :]
+        rm = re.match(r"\s+(\w+)", tail)
+        if not rm:
+            continue
+        revealed = norm(rm.group(1))
+        before_norm = [norm(w) for w in re.findall(r"\w+", text[: m.start()])]
+        if not before_norm:
+            continue
+        for acc in multi:
+            acc_norm = _accept_word_tokens(acc)
+            for k in range(1, min(len(before_norm), len(acc_norm)) + 1):
+                if before_norm[-k:] != acc_norm[:k] or k >= len(acc_norm):
+                    continue
+                if acc_norm[k] == revealed:
+                    return f"blank-following-token-leak:{revealed}"
+    return None
 
 
 def check_vocab_stem_leak(pid: str, it: dict) -> str | None:
@@ -168,6 +200,9 @@ def check_vocab_stem_leak(pid: str, it: dict) -> str | None:
         return None
 
     for text in texts:
+        leak = _check_blank_following_token_leak(text, al)
+        if leak:
+            return leak
         for m in BLANK_PAIR.finditer(text):
             left, right = m.group(1), m.group(2)
             for acc in al:
