@@ -159,7 +159,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): correct or complete it — She runs very fast.",
+      "prompt": "Warm-Up 3-(b): Write the adverb: — She runs very fast.",
       "accept": [
         "fast"
       ],
@@ -455,5 +455,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

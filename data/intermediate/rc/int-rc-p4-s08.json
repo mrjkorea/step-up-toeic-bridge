@@ -75,25 +75,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: turtle ______ elephant ______ rabbit ______ parrot",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — turtle / elephant / rabbit / parrot",
       "accept": [
         "elephant"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "turtle ______ elephant ______ rabbit ______ parrot"
+      "stem": "turtle / elephant / rabbit / parrot"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: exciting ______ surf ______ fun ______ moving",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — exciting / surf / fun / moving",
       "accept": [
         "surf"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "exciting ______ surf ______ fun ______ moving"
+      "stem": "exciting / surf / fun / moving"
     },
     {
       "type": "text",
@@ -228,5 +228,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

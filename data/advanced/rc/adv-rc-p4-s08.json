@@ -69,40 +69,40 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: counselor ______ adviser ______ narrator discuss",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — counselor / adviser / narrator discuss",
       "accept": [
         "discuss"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "counselor ______ adviser ______ narrator discuss"
+      "stem": "counselor / adviser / narrator discuss"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: considerate ______ apply ______ contract propose",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — considerate / apply / contract propose",
       "accept": [
         "considerate"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "considerate ______ apply ______ contract propose"
+      "stem": "considerate / apply / contract propose"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: acceptable ______ convincing ______ puzzled state",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — acceptable / convincing / puzzled state",
       "accept": [
         "state"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "acceptable ______ convincing ______ puzzled state"
+      "stem": "acceptable / convincing / puzzled state"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Write the word that does not belong: a person who counsels others",
+      "prompt": "Vocabulary Practice 2-(a): Match the definition: a person who counsels others",
       "accept": [
         "counselor"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Write the word that does not belong: a person who applies for something",
+      "prompt": "Vocabulary Practice 2-(b): Match the definition: a person who applies for something",
       "accept": [
         "applicant"
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Write the word that does not belong: a person who gives speech to a group of people",
+      "prompt": "Vocabulary Practice 2-(c): Match the definition: a person who gives speech to a group of people",
       "accept": [
         "addresser"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Write the word that does not belong: a person who supports something",
+      "prompt": "Vocabulary Practice 2-(d): Match the definition: a person who supports something",
       "accept": [
         "supporter"
       ],
@@ -263,5 +263,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

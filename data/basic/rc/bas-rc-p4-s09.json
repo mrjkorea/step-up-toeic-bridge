@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: poem ______ baseball ______ volleyball",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — poem / baseball / volleyball",
       "accept": [
         "poem"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "poem ______ baseball ______ volleyball"
+      "stem": "poem / baseball / volleyball"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: movie ______ fishing ______ traveling",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — movie / fishing / traveling",
       "accept": [
         "movie"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "movie ______ fishing ______ traveling"
+      "stem": "movie / fishing / traveling"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: jogging ______ aerobics ______ painting",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — jogging / aerobics / painting",
       "accept": [
         "painting"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "jogging ______ aerobics ______ painting"
+      "stem": "jogging / aerobics / painting"
     },
     {
       "type": "text",
@@ -224,5 +224,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

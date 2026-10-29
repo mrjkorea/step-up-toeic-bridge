@@ -69,36 +69,36 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: stomach ______ heart ______ thigh ______ liver",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — stomach / heart / thigh / liver",
       "accept": [
         "thigh"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "stomach ______ heart ______ thigh ______ liver"
+      "stem": "stomach / heart / thigh / liver"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong: forehead ______ chest ______ waist ______ lung",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — forehead / chest / waist / lung",
       "accept": [
         "lung"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "forehead ______ chest ______ waist ______ lung"
+      "stem": "forehead / chest / waist / lung"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: cough ______ disappoint ______ burp ______ sigh",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — cough / disappoint / burp / sigh",
       "accept": [
         "disappoint"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "1-(c)",
-      "stem": "cough ______ disappoint ______ burp ______ sigh"
+      "stem": "cough / disappoint / burp / sigh"
     },
     {
       "type": "text",
@@ -243,5 +243,5 @@
       "accept": "A"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

@@ -297,7 +297,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): correct or complete it — I will go and meet him if he will arrive on time.",
+      "prompt": "Grammar Practice 4-(c): Correct the error: — I will go and meet him if he will arrive on time.",
       "accept": [
         "arrives"
       ],
@@ -308,7 +308,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): correct or complete it — The building with stained glass windows belong to the city.",
+      "prompt": "Grammar Practice 5-(a): Correct the error: — The building with stained glass windows belong to the city.",
       "accept": [
         "belongs"
       ],
@@ -319,7 +319,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(d): correct or complete it — Ten times ten are one hundred.",
+      "prompt": "Grammar Practice 5-(d): Correct the error: — Ten times ten are one hundred.",
       "accept": [
         "is"
       ],
@@ -407,5 +407,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

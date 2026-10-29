@@ -69,25 +69,25 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: urban ______ trash ______ modern ______ ancient",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — urban / trash / modern / ancient",
       "accept": [
         "trash"
       ],
       "section": "Vocabulary Practice",
       "id": "q6",
       "label": "1-(a)",
-      "stem": "urban ______ trash ______ modern ______ ancient"
+      "stem": "urban / trash / modern / ancient"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(b): Fill in the blank: police station fire station ______ taxi driver bus stop",
+      "prompt": "Vocabulary Practice 1-(b): Write the word that does not belong with the other three — police station / fire station / taxi driver / bus stop",
       "accept": [
         "taxi driver"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(b)",
-      "stem": "police station fire station ______ taxi driver bus stop"
+      "stem": "police station / fire station / taxi driver / bus stop"
     },
     {
       "type": "text",
@@ -267,5 +267,5 @@
       "accept": "B"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }

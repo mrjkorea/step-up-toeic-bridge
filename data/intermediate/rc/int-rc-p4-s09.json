@@ -51,14 +51,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong: window ______ door ______ gate ______ attic",
+      "prompt": "Vocabulary Practice 1-(a): Write the word that does not belong with the other three — window / door / gate / attic",
       "accept": [
         "attic"
       ],
       "section": "Vocabulary Practice",
       "id": "q5",
       "label": "1-(a)",
-      "stem": "window ______ door ______ gate ______ attic"
+      "stem": "window / door / gate / attic"
     },
     {
       "type": "text",
@@ -73,14 +73,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong: pillow ______ blanket ______ tissue ______ mattress",
+      "prompt": "Vocabulary Practice 1-(c): Write the word that does not belong with the other three — pillow / blanket / tissue / mattress",
       "accept": [
         "tissue"
       ],
       "section": "Vocabulary Practice",
       "id": "q7",
       "label": "1-(c)",
-      "stem": "pillow ______ blanket ______ tissue ______ mattress"
+      "stem": "pillow / blanket / tissue / mattress"
     },
     {
       "type": "text",
@@ -223,5 +223,5 @@
       "accept": "C"
     }
   ],
-  "contentVersion": "v29-cos-fix"
+  "contentVersion": "v33-cos-fix"
 }
