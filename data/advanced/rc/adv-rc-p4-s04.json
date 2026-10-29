@@ -336,33 +336,36 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(b): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(b): Fill in the blank — (Unless / If) it doesn't rain, I will wash my car.",
       "accept": [
         "If"
       ],
       "section": "Grammar Practice",
       "id": "q31",
-      "label": "4-(b)"
+      "label": "4-(b)",
+      "stem": "(Unless / If) it doesn't rain, I will wash my car."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(c): Fill in the blank — (While / Before) he was alive, he sent me many letters.",
       "accept": [
         "While"
       ],
       "section": "Grammar Practice",
       "id": "q32",
-      "label": "4-(c)"
+      "label": "4-(c)",
+      "stem": "(While / Before) he was alive, he sent me many letters."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(d): Fill in the blank.",
+      "prompt": "Grammar Practice 4-(d): Fill in the blank — (If / Though) you feel tired every day, you had better see a doctor.",
       "accept": [
         "If"
       ],
       "section": "Grammar Practice",
       "id": "q33",
-      "label": "4-(d)"
+      "label": "4-(d)",
+      "stem": "(If / Though) you feel tired every day, you had better see a doctor."
     },
     {
       "type": "text",
@@ -484,5 +487,5 @@
       "accept": "D"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

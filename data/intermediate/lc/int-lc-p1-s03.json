@@ -587,10 +587,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The boat is full. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boat is full."
     },
     {
       "id": "q32",
@@ -600,10 +601,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): No one is on the boat. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "No one is on the boat."
     },
     {
       "id": "q33",
@@ -613,10 +615,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): The boat is being used. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boat is being used."
     },
     {
       "id": "q34",
@@ -626,10 +629,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): The boat is on the water. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boat is on the water."
     },
     {
       "id": "q35",
@@ -639,10 +643,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): The orange is not being eaten. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The orange is not being eaten."
     },
     {
       "id": "q36",
@@ -652,10 +657,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): The orange is for sale. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The orange is for sale."
     },
     {
       "id": "q37",
@@ -665,10 +671,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): The two pieces of orange are the same. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The two pieces of orange are the same."
     },
     {
       "id": "q38",
@@ -678,10 +685,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The orange is being sliced. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The orange is being sliced."
     },
     {
       "id": "q39",
@@ -860,5 +868,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

@@ -94,9 +94,9 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The boy has one foot on the ball.",
+        "B": "The boy has one foot on the rock.",
+        "C": "The boy has one foot on the bag."
       },
       "prompt": "Warm-Up 1: Choose the statement you hear that best matches the picture.",
       "accept": "A",
@@ -109,9 +109,9 @@
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "The child is buying a drink.",
+        "B": "The child is having a drink.",
+        "C": "The child is making a drink."
       },
       "prompt": "Warm-Up 2: Choose the statement you hear that best matches the picture.",
       "accept": "B",
@@ -587,10 +587,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): The boy is repairing a bicycle. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boy is repairing a bicycle."
     },
     {
       "id": "q32",
@@ -600,10 +601,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): A bicycle is being repaired. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "A bicycle is being repaired."
     },
     {
       "id": "q33",
@@ -613,10 +615,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): A boy is riding a bicycle. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "A boy is riding a bicycle."
     },
     {
       "id": "q34",
@@ -626,10 +629,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): A bicycle is not being repaired. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "A bicycle is not being repaired."
     },
     {
       "id": "q35",
@@ -639,10 +643,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): The boy is drinking water. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boy is drinking water."
     },
     {
       "id": "q36",
@@ -652,10 +657,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): The boy is having a drink. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boy is having a drink."
     },
     {
       "id": "q37",
@@ -665,10 +671,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): The boy is buying a drink. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boy is buying a drink."
     },
     {
       "id": "q38",
@@ -678,10 +685,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): The boy is eating some food. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "The boy is eating some food."
     },
     {
       "id": "q39",
@@ -886,5 +894,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

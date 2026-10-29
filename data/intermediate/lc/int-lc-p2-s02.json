@@ -254,56 +254,64 @@
       "label": "1",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "It will be snowy.",
+        "B": "It was windy.",
+        "C": "I like sunny days."
       },
       "prompt": "Listening Practice 1-1): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What was the weather like yesterday?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q17",
       "label": "2",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I like orange juice.",
+        "B": "I will have hamburgers.",
+        "C": "Do you like steak?"
       },
       "prompt": "Listening Practice 1-2): Listen and choose the best response.",
       "accept": "B",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What will you have for dinner?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q18",
       "label": "3",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I caught a cold.",
+        "B": "I will take the math class.",
+        "C": "What was the homework?"
       },
       "prompt": "Listening Practice 1-3): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What made you skip the class?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "id": "q19",
       "label": "4",
       "type": "choice",
       "choices": {
-        "A": "(A)",
-        "B": "(B)",
-        "C": "(C)"
+        "A": "I will bring apple pies.",
+        "B": "It was so much fun.",
+        "C": "I really love the party."
       },
       "prompt": "Listening Practice 1-4): Listen and choose the best response.",
       "accept": "A",
       "audioOnly": true,
-      "section": "Listening Practice"
+      "section": "Listening Practice",
+      "stem": "What will you bring to the party?",
+      "hideChoicesUntilAnswered": true
     },
     {
       "type": "text",
@@ -586,5 +594,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

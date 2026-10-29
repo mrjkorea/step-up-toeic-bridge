@@ -804,11 +804,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (a): The man is using a computer. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (a): The woman is answering the phone. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is using a computer."
+      "stem": "The woman is answering the phone. (T/F)"
     },
     {
       "id": "q49",
@@ -818,11 +818,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (b): The man is talking on the telephone. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (b): The man is reading a newspaper. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is talking on the telephone."
+      "stem": "The man is reading a newspaper. (T/F)"
     },
     {
       "id": "q50",
@@ -832,11 +832,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (c): The man is looking at the screen. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (c): The man is using the computer. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is looking at the screen."
+      "stem": "The man is using the computer. (T/F)"
     },
     {
       "id": "q51",
@@ -846,11 +846,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (d): The man is using a keyboard. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (d): The man is making a photocopy. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is using a keyboard."
+      "stem": "The man is making a photocopy. (T/F)"
     },
     {
       "id": "q52",
@@ -860,11 +860,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (e): The man is buying a computer. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (e): The woman is pointing at a screen. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is buying a computer."
+      "stem": "The woman is pointing at a screen. (T/F)"
     },
     {
       "id": "q53",
@@ -874,11 +874,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) (f): The man is carrying a computer. (T/F)",
+      "prompt": "Check-Up (2) 1-1) (f): The woman is talking on her mobile phone. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is carrying a computer."
+      "stem": "The woman is talking on her mobile phone. (T/F)"
     },
     {
       "id": "q54",
@@ -888,11 +888,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (a): The man is fixing a car. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (a): The policeman is beside the motorcycle. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is fixing a car."
+      "stem": "The policeman is beside the motorcycle. (T/F)"
     },
     {
       "id": "q55",
@@ -902,11 +902,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (b): The man is working in the garage. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (b): The bus driver is in the bus. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is working in the garage."
+      "stem": "The bus driver is in the bus. (T/F)"
     },
     {
       "id": "q56",
@@ -916,11 +916,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (c): The man is driving a car. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (c): The cook is in the kitchen. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is driving a car."
+      "stem": "The cook is in the kitchen. (T/F)"
     },
     {
       "id": "q57",
@@ -930,11 +930,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (d): The man is buying a car. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (d): The waiter is in the restaurant. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is buying a car."
+      "stem": "The waiter is in the restaurant. (T/F)"
     },
     {
       "id": "q58",
@@ -944,11 +944,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (e): The man is working on the road. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (e): The firefighter is wearing a helmet. (T/F)",
       "accept": "B",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is working on the road."
+      "stem": "The firefighter is wearing a helmet. (T/F)"
     },
     {
       "id": "q59",
@@ -958,11 +958,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) (f): The man is repairing a car. (T/F)",
+      "prompt": "Check-Up (2) 1-2) (f): The car is at the gas station. (T/F)",
       "accept": "A",
       "audioOnly": true,
       "section": "Check-Up (2)",
-      "stem": "The man is repairing a car."
+      "stem": "The car is at the gas station. (T/F)"
     },
     {
       "type": "text",
@@ -977,7 +977,7 @@
     },
     {
       "type": "text",
-      "prompt": "Check-Up 2-(b): listen and type the expression that means the same as “use a drill”.",
+      "prompt": "Check-Up 2-(b): listen and type the one-word verb that means the same as “use a drill”.",
       "accept": [
         "drill"
       ],
@@ -1116,5 +1116,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v5-sensefix-adv-lc-p1-s01-2026-10-29"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }

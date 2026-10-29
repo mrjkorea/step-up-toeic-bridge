@@ -1,0 +1,1676 @@
+[
+ {
+  "practiceId": "bas-lc-p2-s01",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "A",
+  "question": "Is your mother cooking?",
+  "choices": {
+   "A": "Yes, she is.",
+   "B": "Yes, she does.",
+   "C": "She likes cooking."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s01",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "A",
+  "question": "Can you help me?",
+  "choices": {
+   "A": "Yes, I can.",
+   "B": "Yes, I do.",
+   "C": "Help yourself."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s01",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "Does your father give you a ride home?",
+  "choices": {
+   "A": "Yes, he is.",
+   "B": "Yes, he does.",
+   "C": "He is my father."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s01",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Is there a pencil I can use?",
+  "choices": {
+   "A": "Yes, it is.",
+   "B": "Yes, there is.",
+   "C": "I have a pencil."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s02",
+  "itemIdOrLabel": "q22 / 1 [Listening Practice]",
+  "id": "q22",
+  "accept": "A",
+  "question": "What is your mother doing?",
+  "choices": {
+   "A": "She is cleaning.",
+   "B": "She is a teacher.",
+   "C": "She is sick."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s02",
+  "itemIdOrLabel": "q23 / 2 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "What day is it today?",
+  "choices": {
+   "A": "It is sunny.",
+   "B": "It is Sunday.",
+   "C": "It is my birthday."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s02",
+  "itemIdOrLabel": "q24 / 3 [Listening Practice]",
+  "id": "q24",
+  "accept": "A",
+  "question": "What is the date today?",
+  "choices": {
+   "A": "It is October 2nd.",
+   "B": "It is Wednesday.",
+   "C": "I have a date."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s02",
+  "itemIdOrLabel": "q25 / 4 [Listening Practice]",
+  "id": "q25",
+  "accept": "A",
+  "question": "What time is it?",
+  "choices": {
+   "A": "It is nine o'clock.",
+   "B": "It is my watch.",
+   "C": "I am late."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s03",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "A",
+  "question": "Where is she?",
+  "choices": {
+   "A": "She is in the kitchen.",
+   "B": "She is studying.",
+   "C": "She is my mother."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s03",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "A",
+  "question": "Where do you live?",
+  "choices": {
+   "A": "In New York.",
+   "B": "Yes, I do.",
+   "C": "I live with my parents."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s03",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "Where do you play baseball?",
+  "choices": {
+   "A": "I won the game.",
+   "B": "At the playground.",
+   "C": "I like baseball."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s03",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "Where do you work?",
+  "choices": {
+   "A": "I go to work by bus.",
+   "B": "At the shopping mall.",
+   "C": "I am tired."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s04",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "A",
+  "question": "When is your father's birthday?",
+  "choices": {
+   "A": "It is June 16th.",
+   "B": "I like my father.",
+   "C": "It is his birthday."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s04",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "When is the report due?",
+  "choices": {
+   "A": "I don't like the report.",
+   "B": "Today.",
+   "C": "About insects."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s04",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "When does the museum close?",
+  "choices": {
+   "A": "It is nine o'clock.",
+   "B": "At 6 p.m.",
+   "C": "It is very clean."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s04",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "When do you leave for school?",
+  "choices": {
+   "A": "About 7:30.",
+   "B": "I leave school at 1:00 p.m.",
+   "C": "I live near the school."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s05",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "A",
+  "question": "Who is the woman?",
+  "choices": {
+   "A": "She is my aunt.",
+   "B": "I like the woman.",
+   "C": "She is pretty."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s05",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Who is she by the piano?",
+  "choices": {
+   "A": "He has a piano.",
+   "B": "She is Jane.",
+   "C": "It is mine."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s05",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "A",
+  "question": "Who is your favorite teacher?",
+  "choices": {
+   "A": "Mrs. Sheldon.",
+   "B": "She is a nice teacher.",
+   "C": "No, she isn't."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s05",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "Who is riding a bicycle?",
+  "choices": {
+   "A": "I like riding a bicycle.",
+   "B": "Tom is riding a bicycle.",
+   "C": "I have a bicycle."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "B",
+  "question": "Why are you tired today?",
+  "choices": {
+   "A": "Yes, I am.",
+   "B": "I was up all night.",
+   "C": "I am busy."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Why are you so happy?",
+  "choices": {
+   "A": "Yes, I can.",
+   "B": "I won the game.",
+   "C": "I am late."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "Why are your pants dirty?",
+  "choices": {
+   "A": "Yes, I do.",
+   "B": "I played baseball.",
+   "C": "I like my pants."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity. NOTE: Ex1 order is (A) Yes, I do. (B) I played baseball.; Ex2 lists 'I played baseball' as (C). Used Ex1 order."
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "Why are you at home?",
+  "choices": {
+   "A": "I am sick.",
+   "B": "It is my house.",
+   "C": "It is near here."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q32 / 1 [Check-Up]",
+  "id": "q32",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q33 / 2 [Check-Up]",
+  "id": "q33",
+  "accept": "B",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "bas-lc-p2-s06",
+  "itemIdOrLabel": "q34 / 3 [Check-Up]",
+  "id": "q34",
+  "accept": "C",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "bas-lc-p2-s07",
+  "itemIdOrLabel": "q19 / 1 [Listening Practice]",
+  "id": "q19",
+  "accept": "A",
+  "question": "How was the math test?",
+  "choices": {
+   "A": "It was difficult.",
+   "B": "It is expensive.",
+   "C": "I like math."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s07",
+  "itemIdOrLabel": "q20 / 2 [Listening Practice]",
+  "id": "q20",
+  "accept": "B",
+  "question": "How do you go to the park?",
+  "choices": {
+   "A": "Yes, I can.",
+   "B": "I walk to the park.",
+   "C": "Everyday."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s07",
+  "itemIdOrLabel": "q21 / 3 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "How many cousins do you have?",
+  "choices": {
+   "A": "He is five years old.",
+   "B": "I have five.",
+   "C": "He is my cousin."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "bas-lc-p2-s07",
+  "itemIdOrLabel": "q22 / 4 [Listening Practice]",
+  "id": "q22",
+  "accept": "A",
+  "question": "How much is the pencil?",
+  "choices": {
+   "A": "It is $1.",
+   "B": "It is a new one.",
+   "C": "I need two pencils."
+  },
+  "needsBookPdf": false,
+  "confidence": "high",
+  "note": "Exercise 1 in book prints Q + only (A)(B) (exact). (C) is from Exercise 2 (same question, 3 options, blanks filled from key). App could use 2 choices for fidelity."
+ },
+ {
+  "practiceId": "int-lc-p1-s01",
+  "itemIdOrLabel": "q6 / 1 [Warm-Up]",
+  "id": "q6",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "int-lc-p1-s01",
+  "itemIdOrLabel": "q7 / 2 [Warm-Up]",
+  "id": "q7",
+  "accept": "B",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "int-lc-p2-s01",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "A",
+  "question": "Did you visit your grandmother yesterday?",
+  "choices": {
+   "A": "No, I didn't.",
+   "B": "Not much.",
+   "C": "I like my grandmother."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s01",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "A",
+  "question": "Will you give me a ride?",
+  "choices": {
+   "A": "Sorry but I'm busy.",
+   "B": "I can drive.",
+   "C": "Sorry for you."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s01",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "B",
+  "question": "Are you going to join the club?",
+  "choices": {
+   "A": "I enjoyed it.",
+   "B": "I'm excited.",
+   "C": "I haven't decided yet."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s01",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "B",
+  "question": "Do you have sisters?",
+  "choices": {
+   "A": "No, I don't think so.",
+   "B": "No, I am the only child.",
+   "C": "My sister is very beautiful."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s02",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "B",
+  "question": "What was the weather like yesterday?",
+  "choices": {
+   "A": "It will be snowy.",
+   "B": "It was windy.",
+   "C": "I like sunny days."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s02",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "B",
+  "question": "What will you have for dinner?",
+  "choices": {
+   "A": "I like orange juice.",
+   "B": "I will have hamburgers.",
+   "C": "Do you like steak?"
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s02",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "A",
+  "question": "What made you skip the class?",
+  "choices": {
+   "A": "I caught a cold.",
+   "B": "I will take the math class.",
+   "C": "What was the homework?"
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s02",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "A",
+  "question": "What will you bring to the party?",
+  "choices": {
+   "A": "I will bring apple pies.",
+   "B": "It was so much fun.",
+   "C": "I really love the party."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "B",
+  "question": "Where is Jane?",
+  "choices": {
+   "A": "She is going to school.",
+   "B": "She is at home.",
+   "C": "She likes to go to the museum."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "A",
+  "question": "Where is the post office?",
+  "choices": {
+   "A": "It's right there.",
+   "B": "It's on me.",
+   "C": "I have to send them."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "A",
+  "question": "Where did you meet Katie?",
+  "choices": {
+   "A": "In the library.",
+   "B": "At 3 o'clock.",
+   "C": "We went to watch a movie."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "B",
+  "question": "Where is your hometown?",
+  "choices": {
+   "A": "It's sunny outside.",
+   "B": "It's San Diego.",
+   "C": "I really miss you."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q32 / 1 [Check-Up]",
+  "id": "q32",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q33 / 2 [Check-Up]",
+  "id": "q33",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "int-lc-p2-s03",
+  "itemIdOrLabel": "q34 / 3 [Check-Up]",
+  "id": "q34",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "int-lc-p2-s04",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "B",
+  "question": "When is your birthday?",
+  "choices": {
+   "A": "It's my 13th birthday.",
+   "B": "It's tomorrow.",
+   "C": "I have to buy your birthday gift."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s04",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "B",
+  "question": "When did you have lunch?",
+  "choices": {
+   "A": "Early this morning.",
+   "B": "At about 1 o'clock.",
+   "C": "I ate a hamburger."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s04",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "B",
+  "question": "When will you go to bed?",
+  "choices": {
+   "A": "I'm tired.",
+   "B": "Soon.",
+   "C": "I had to finish the report."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s04",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "A",
+  "question": "When will you take a shower?",
+  "choices": {
+   "A": "After having dinner.",
+   "B": "Enjoy your dinner.",
+   "C": "I have to buy some soap."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s05",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "A",
+  "question": "Who do you have for English?",
+  "choices": {
+   "A": "Ms. Johnson.",
+   "B": "Twice a week.",
+   "C": "There is so much homework."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s05",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "A",
+  "question": "Who is your favorite movie star?",
+  "choices": {
+   "A": "Jude Law is my favorite.",
+   "B": "I like \"Jurassic Park\".",
+   "C": "I went to the movie theater yesterday."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s05",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "B",
+  "question": "Who did you talk to?",
+  "choices": {
+   "A": "She is kind.",
+   "B": "A friend of mine.",
+   "C": "Yes, I called her."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s05",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "B",
+  "question": "Who made these sandwiches?",
+  "choices": {
+   "A": "Take out the pickles, please.",
+   "B": "My mother did.",
+   "C": "I prefer a pizza to a sandwich."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s06",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "B",
+  "question": "Why didn't you call me?",
+  "choices": {
+   "A": "I studied hard.",
+   "B": "I lost your number.",
+   "C": "The phone rang a few minutes ago."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s06",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "A",
+  "question": "Why didn't you walk your dog?",
+  "choices": {
+   "A": "I got ill.",
+   "B": "It was sunny.",
+   "C": "I like the dog."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s06",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "B",
+  "question": "Why are you so upset?",
+  "choices": {
+   "A": "I got an A.",
+   "B": "I lost my wallet.",
+   "C": "He gave me a gift."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s06",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "A",
+  "question": "Why don't you take a rest?",
+  "choices": {
+   "A": "That's a good idea.",
+   "B": "I'm sleepy.",
+   "C": "I did the rest of it."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s07",
+  "itemIdOrLabel": "q16 / 1 [Listening Practice]",
+  "id": "q16",
+  "accept": "B",
+  "question": "How about having some coffee?",
+  "choices": {
+   "A": "I'm thirsty.",
+   "B": "That's a good idea.",
+   "C": "I love tea."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s07",
+  "itemIdOrLabel": "q17 / 2 [Listening Practice]",
+  "id": "q17",
+  "accept": "A",
+  "question": "How much are these shoes?",
+  "choices": {
+   "A": "They're $20.",
+   "B": "She wore them yesterday.",
+   "C": "I bought them the day before yesterday."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s07",
+  "itemIdOrLabel": "q18 / 3 [Listening Practice]",
+  "id": "q18",
+  "accept": "A",
+  "question": "How long have you been waiting?",
+  "choices": {
+   "A": "Not too long.",
+   "B": "I've been O.K.",
+   "C": "It was boring."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "int-lc-p2-s07",
+  "itemIdOrLabel": "q19 / 4 [Listening Practice]",
+  "id": "q19",
+  "accept": "B",
+  "question": "How was school today?",
+  "choices": {
+   "A": "It'll be new and nice.",
+   "B": "It was interesting.",
+   "C": "He is the new teacher."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium-high",
+  "note": "Exercise 1 audio choices not printed (book shows bare (A)(B)); choices taken from Exercise 2 (same question; printed 3 options, blanks filled from answer key/app accept). Accept letter verified consistent with Exercise 2 meaning for all 28."
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Has George ever been to Australia?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "Haven't you finished your science fair project yet?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "Wouldn't it be better to stay at home this weekend?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "A",
+  "question": "Should we call the restaurant and book a table?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "B",
+  "question": "Has George ever been to Australia?",
+  "choices": {
+   "A": "He is from Australia.",
+   "B": "Yes, he has.",
+   "C": "Yes, next year."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "B",
+  "question": "Haven't you finished your science fair project yet?",
+  "choices": {
+   "A": "Yes, I'm going to the science fair tomorrow.",
+   "B": "No, I'm still doing it now.",
+   "C": "No, it was due yesterday."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "B",
+  "question": "Wouldn't it be better to stay at home this weekend?",
+  "choices": {
+   "A": "No, I have to do my homework.",
+   "B": "Yes, it would be a good idea.",
+   "C": "Yes, I went to the park last weekend."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s01",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "C",
+  "question": "Should we call the restaurant and book a table?",
+  "choices": {
+   "A": "Yes, it is my favorite book.",
+   "B": "No, the line is busy now.",
+   "C": "Yes, that's a good idea."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Who's going to help Ms. Jones when she gives the presentation?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "When are we going to start renovating the house?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "What are you going to bring to the picnic?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Where are you going to hold your party?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "C",
+  "question": "Who's going to help Ms. Jones when she gives the presentation?",
+  "choices": {
+   "A": "Tomorrow morning.",
+   "B": "She is my secretary.",
+   "C": "Her secretary will."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "A",
+  "question": "When are we going to start renovating the house?",
+  "choices": {
+   "A": "Next month.",
+   "B": "To my friend's house.",
+   "C": "At 9:00 a.m."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B was blank in OCR; filled from key blank 'To my friend's house.'"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "C",
+  "question": "What are you going to bring to the picnic?",
+  "choices": {
+   "A": "Yes, I'd love to.",
+   "B": "At the park.",
+   "C": "Some fruits."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "C blank filled from key"
+ },
+ {
+  "practiceId": "adv-lc-p2-s02",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "A",
+  "question": "Where are you going to hold your party?",
+  "choices": {
+   "A": "At my house.",
+   "B": "I was a nice party.",
+   "C": "On my birthday."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B OCR reads 'I was a nice party.' (likely book typo/OCR for 'It was a nice party.'); C from key"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "B",
+  "question": "Which of these products do you think will sell the best?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "Which way is it to the hospital?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "B",
+  "question": "Which report do you have to finish today?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Which one of the apartments did you decide to buy?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "A",
+  "question": "Which of these products do you think will sell the best?",
+  "choices": {
+   "A": "The latest cell phone will.",
+   "B": "It is expensive.",
+   "C": "Put it on the table."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "A",
+  "question": "Which way is it to the hospital?",
+  "choices": {
+   "A": "Go up 1st Avenue.",
+   "B": "I'm driving.",
+   "C": "It's behind the school."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "C",
+  "question": "Which report do you have to finish today?",
+  "choices": {
+   "A": "Yes, I will finish it soon.",
+   "B": "He reported it yesterday.",
+   "C": "The one on the table."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B blank placement inferred"
+ },
+ {
+  "practiceId": "adv-lc-p2-s03",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "A",
+  "question": "Which one of the apartments did you decide to buy?",
+  "choices": {
+   "A": "We haven't decided it yet.",
+   "B": "We live on the 5th floor.",
+   "C": "We live with my parents."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B blank placement inferred"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Should we set up camp now or keep climbing?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "Is the final exam on Friday, or Monday?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "C",
+  "question": "Should we paint the fence today, or should we finish the house chores?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Which looks better on me, the blue shirt or the white one?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "B",
+  "question": "Should we set up camp now or keep climbing?",
+  "choices": {
+   "A": "The camp was fun.",
+   "B": "We should set up camp now.",
+   "C": "Climbing mountains is my hobby."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "A blank placement inferred"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "C",
+  "question": "Is the final exam on Friday, or Monday?",
+  "choices": {
+   "A": "I took the final exam on Friday.",
+   "B": "I'm busy on Friday.",
+   "C": "It's on Monday."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B partially blank; 'I'm busy' from key + printed 'on Friday.'"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "A",
+  "question": "Should we paint the fence today, or should we finish the house chores?",
+  "choices": {
+   "A": "We should paint the fence today.",
+   "B": "I did the chores yesterday.",
+   "C": "Let's fix the fence."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "C completion inferred ('Let's' + key 'fix the fence')"
+ },
+ {
+  "practiceId": "adv-lc-p2-s04",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "A",
+  "question": "Which looks better on me, the blue shirt or the white one?",
+  "choices": {
+   "A": "The blue one.",
+   "B": "You look good.",
+   "C": "I will take it."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B from key"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "A",
+  "question": "The dogs are still chasing us, aren't they?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "This summer's music festival is going to be great, isn't it?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "Our new boss seems intelligent, doesn't he?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "The sales team did a really good job, didn't they?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "B",
+  "question": "The dogs are still chasing us, aren't they?",
+  "choices": {
+   "A": "No, I have two dogs at home.",
+   "B": "Yes, they are really fast.",
+   "C": "Yes, I'll catch the dogs soon."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "C",
+  "question": "This summer's music festival is going to be great, isn't it?",
+  "choices": {
+   "A": "Yes, I'm going to the festival next summer.",
+   "B": "No, the music festival is in London.",
+   "C": "Yes, it's my favorite festival."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "A",
+  "question": "Our new boss seems intelligent, doesn't he?",
+  "choices": {
+   "A": "Yes, he has got a master's degree.",
+   "B": "Yes, he's too old to be the boss.",
+   "C": "Yes, he's a very quiet person."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s05",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "B",
+  "question": "The sales team did a really good job, didn't they?",
+  "choices": {
+   "A": "Yes, I'm in the sales team.",
+   "B": "Yes, I can hardly believe it.",
+   "C": "Yes, she really did a good job."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B: only 'Yes,' printed + key blank 'hardly believe it'; 'I can' is a guess"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q20 / 1 [Listening Practice]",
+  "id": "q20",
+  "accept": "C",
+  "question": "I need to see a doctor about my sore knee.",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q21 / 2 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "The weather forecast for the weekend doesn't look good.",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q22 / 3 [Listening Practice]",
+  "id": "q22",
+  "accept": "C",
+  "question": "I really need to buy a new mobile phone.",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q23 / 4 [Listening Practice]",
+  "id": "q23",
+  "accept": "A",
+  "question": "I hope you enjoy your stay at our hotel.",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q28 / 9 [Listening Practice]",
+  "id": "q28",
+  "accept": "A",
+  "question": "I need to see a doctor about my sore knee.",
+  "choices": {
+   "A": "How did you get the pain on your knee?",
+   "B": "The soccer game was exciting.",
+   "C": "The doctor is very nice."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "B blank placement inferred"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q30 / 11 [Listening Practice]",
+  "id": "q30",
+  "accept": "B",
+  "question": "The weather forecast for the weekend doesn't look good.",
+  "choices": {
+   "A": "Maybe we should go camping.",
+   "B": "Maybe we should postpone our trip.",
+   "C": "Maybe we should meet on Saturday."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q32 / 13 [Listening Practice]",
+  "id": "q32",
+  "accept": "A",
+  "question": "I really need to buy a new mobile phone.",
+  "choices": {
+   "A": "Make sure you go to the new store down the road.",
+   "B": "My phone is broken.",
+   "C": "How much is your cell phone?"
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s06",
+  "itemIdOrLabel": "q34 / 15 [Listening Practice]",
+  "id": "q34",
+  "accept": "B",
+  "question": "I hope you enjoy your stay at our hotel.",
+  "choices": {
+   "A": "I enjoyed staying here.",
+   "B": "Thank you. I hope so.",
+   "C": "I am staying for three days."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "Key blank 'I hope so.' not visible in OCR; placed in B (accept B) — verify"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q21 / 1 [Listening Practice]",
+  "id": "q21",
+  "accept": "C",
+  "question": "Do you know who got the promotion?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q22 / 2 [Listening Practice]",
+  "id": "q22",
+  "accept": "B",
+  "question": "You don't know where Mr. Lewis is, do you?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q23 / 3 [Listening Practice]",
+  "id": "q23",
+  "accept": "C",
+  "question": "Do you know what time it is?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q24 / 4 [Listening Practice]",
+  "id": "q24",
+  "accept": "B",
+  "question": "Could you tell me where the exit is, please?",
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "question-high/choices-none",
+  "note": "Exercise 1: question recovered (printed blanks + key). Its (A)(B)(C) are audio-only and DIFFER from Exercise 2 (different accept letters) — need audioscript."
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q29 / 9 [Listening Practice]",
+  "id": "q29",
+  "accept": "A",
+  "question": "Do you know who got the promotion?",
+  "choices": {
+   "A": "Yes, I think James got it.",
+   "B": "Yes, I think sales team will promote it today.",
+   "C": "No, I will be away for five days."
+  },
+  "needsBookPdf": false,
+  "confidence": "medium",
+  "note": "C = 'No,' + key 'I will be away' + stray OCR 'for five days.' — verify"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q31 / 11 [Listening Practice]",
+  "id": "q31",
+  "accept": "A",
+  "question": "You don't know where Mr. Lewis is, do you?",
+  "choices": {
+   "A": "Yes, he is in his office.",
+   "B": "Yes, I will.",
+   "C": "I will pick it up."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q33 / 13 [Listening Practice]",
+  "id": "q33",
+  "accept": "B",
+  "question": "Do you know what time it is?",
+  "choices": {
+   "A": "Your watch is on the table.",
+   "B": "It's 3 o'clock.",
+   "C": "It's time to go home."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q35 / 15 [Listening Practice]",
+  "id": "q35",
+  "accept": "A",
+  "question": "Could you tell me where the exit is, please?",
+  "choices": {
+   "A": "Sure, it is at the end of the hall.",
+   "B": "Certainly, you can sit here.",
+   "C": "I'm sorry, but I have to go."
+  },
+  "needsBookPdf": false,
+  "confidence": "high"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q37 / 1 [Check-Up]",
+  "id": "q37",
+  "accept": "B",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q38 / 2 [Check-Up]",
+  "id": "q38",
+  "accept": "C",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ },
+ {
+  "practiceId": "adv-lc-p2-s07",
+  "itemIdOrLabel": "q39 / 3 [Check-Up]",
+  "id": "q39",
+  "accept": "A",
+  "question": null,
+  "choices": null,
+  "needsBookPdf": true,
+  "confidence": "none",
+  "source": "Book prints only \"Q. (A) (B) (C)\" / photo — audio-only; no audioscript in OCR/keys"
+ }
+]

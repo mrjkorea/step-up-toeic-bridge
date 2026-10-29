@@ -500,10 +500,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (a): They are sitting next to the tree. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are sitting next to the tree."
     },
     {
       "id": "q29",
@@ -513,10 +514,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (b): They are sitting beside the tree. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are sitting beside the tree."
     },
     {
       "id": "q30",
@@ -526,10 +528,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (c): They are sitting behind the tree. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are sitting behind the tree."
     },
     {
       "id": "q31",
@@ -539,10 +542,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-1) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-1) (d): They are sitting next to each other. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are sitting next to each other."
     },
     {
       "id": "q32",
@@ -552,10 +556,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (a): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (a): They are having a meal. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are having a meal."
     },
     {
       "id": "q33",
@@ -565,10 +570,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (b): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (b): They are eating some food. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are eating some food."
     },
     {
       "id": "q34",
@@ -578,10 +584,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (c): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (c): They are sitting at the table. (T/F)",
       "accept": "A",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are sitting at the table."
     },
     {
       "id": "q35",
@@ -591,10 +598,11 @@
         "A": "True",
         "B": "False"
       },
-      "prompt": "Check-Up (2) 1-2) statement (d): Is it True or False?",
+      "prompt": "Check-Up (2) 1-2) (d): They are cooking some food. (T/F)",
       "accept": "B",
       "audioOnly": true,
-      "section": "Check-Up (2)"
+      "section": "Check-Up (2)",
+      "stem": "They are cooking some food."
     },
     {
       "id": "q36",
@@ -773,5 +781,5 @@
       "section": "Test Your Skills"
     }
   ],
-  "contentVersion": "v4-finishpack-2026-10-28"
+  "contentVersion": "v6-hardfix-228-2026-10-30"
 }
