@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): When did you goto the ______?",
+      "prompt": "Words and Idioms Check-Up (a): When did you go to the ______?",
       "choices": {
         "A": "bonus",
         "B": "contract",
@@ -23,7 +23,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "When did you goto the ______?"
+      "stem": "When did you go to the ______?"
     },
     {
       "type": "choice",

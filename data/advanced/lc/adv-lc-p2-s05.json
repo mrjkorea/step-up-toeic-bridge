@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Iam _ ______ dogs when they bark loudly.",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ dogs when they bark loudly.",
       "choices": {
         "A": "afraid of",
         "B": "disappointed with",
@@ -23,11 +23,11 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Iam _ ______ dogs when they bark loudly."
+      "stem": "I'm ______ dogs when they bark loudly."
     },
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (b): I was ______ _ her beautiful mind.",
+      "prompt": "Words and Idioms Check-Up (b): I was ______ her beautiful mind.",
       "choices": {
         "A": "afraid of",
         "B": "disappointed with",
@@ -39,7 +39,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q2",
       "label": "(b)",
-      "stem": "I was ______ _ her beautiful mind."
+      "stem": "I was ______ her beautiful mind."
     },
     {
       "type": "choice",
@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "who live next door are new"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, they have just moved in recently."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "isn't it"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, I'm very impressed with it."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "The football team played really well"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, It's too bad they didn't win."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "used to be a policeman"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, he retired last year."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "You lived in Australia"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Yes, Australia is a very beautiful country."
       ],

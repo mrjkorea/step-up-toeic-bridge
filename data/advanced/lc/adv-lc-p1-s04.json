@@ -1001,7 +1001,9 @@
       "type": "text",
       "prompt": "Check-Up 2-(c): listen and type the expression that means the same as “film”.",
       "accept": [
-        "take a picture"
+        "take a picture",
+        "take a video",
+        "record"
       ],
       "audioOnly": true,
       "section": "Check-Up (2)",

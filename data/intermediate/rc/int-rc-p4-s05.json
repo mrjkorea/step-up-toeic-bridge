@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Write the comparative and superlative forms — many - ______ - ______",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: Write the comparative and superlative forms — many - ______ - ______",
       "accept": [
         "more - most / more - most",
         "more most / more most",
@@ -48,7 +48,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Write the comparative and superlative forms — good — ______ — ______ / well — ______ — ______",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: Write the comparative and superlative forms — good — ______ — ______ / well — ______ — ______",
       "accept": [
         "better - best / better - best",
         "better best / better best",
@@ -61,7 +61,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Write the comparative and superlative forms — bad — ______ — ______ / ill — ______ — ______",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: Write the comparative and superlative forms — bad — ______ — ______ / ill — ______ — ______",
       "accept": [
         "worse - worst / worse - worst",
         "worse worst / worse worst",
@@ -110,7 +110,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): long ______ - ______ - ______",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: long ______ - ______ - ______",
       "accept": [
         "longer longest"
       ],
@@ -121,7 +121,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): nice — ______ — ______",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: nice — ______ — ______",
       "accept": [
         "nicer - nicest"
       ],
@@ -132,7 +132,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): big — ______ — ______",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: big — ______ — ______",
       "accept": [
         "bigger - biggest"
       ],
@@ -156,7 +156,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(e): Write the comparative and superlative forms — wonderful — ______ — ______",
+      "prompt": "Warm-Up 1-(e): Fill in the blank: Write the comparative and superlative forms — wonderful — ______ — ______",
       "accept": [
         "more wonderful - most wonderful",
         "more wonderful, most wonderful",
@@ -169,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(f): write the comparative and superlative forms — hot ______ - ______ - ______",
+      "prompt": "Warm-Up 1-(f): Fill in the blank: write the comparative and superlative forms — hot ______ - ______ - ______",
       "accept": [
         "hotter - hottest",
         "hotter, hottest",
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): John is as smart ______ his brother.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: John is as smart ______ his brother.",
       "accept": [
         "as"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ is bigger, the baseball or golf ball?",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ is bigger, the baseball or golf ball?",
       "accept": [
         "Which"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): It is getting colder and ______",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: It is getting colder and ______",
       "accept": [
         "colder"
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): He is the ______ of all.",
+      "prompt": "Warm-Up 3-(d): Fill in the blank: He is the ______ of all.",
       "accept": [
         "tallest"
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): My cell phone is (expensive / more expensive) than yours.",
+      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: My cell phone is (expensive / more expensive) than yours.",
       "accept": [
         "more expensive"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Julia is (taller / the tallest) girl in the beauty contest.",
+      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: Julia is (taller / the tallest) girl in the beauty contest.",
       "accept": [
         "the tallest"
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Seoul is (bigger / the biggest) than Busan.",
+      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: Seoul is (bigger / the biggest) than Busan.",
       "accept": [
         "bigger"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Newton is as (smart / smarter) as Einstein.",
+      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: Newton is as (smart / smarter) as Einstein.",
       "accept": [
         "smart"
       ],

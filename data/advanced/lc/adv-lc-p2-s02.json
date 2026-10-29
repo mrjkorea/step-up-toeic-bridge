@@ -171,7 +171,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "bring to the picnic"
       ],
@@ -182,7 +182,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(a) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Some sandwiches."
       ],
@@ -193,7 +193,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "leave for work"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(b) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "At 7:30."
       ],
@@ -215,7 +215,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "leaving early tomorrow"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(c) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "I have a dentist's appointment."
       ],
@@ -237,7 +237,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "When is your father leaving"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(d) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Tomorrow morning."
       ],
@@ -259,7 +259,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 1: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 1: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Who's going to help"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(e) part 2: type the words you hear.",
+      "prompt": "Warm-Up 2-(e) part 2: Rewrite the sentence: type the words you hear.",
       "accept": [
         "Jennifer said she would."
       ],

@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -101,11 +101,11 @@
       "type": "display",
       "displayOnly": true,
       "scored": false,
-      "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean. Not scored — I usually goto bed at 10:00 p.m.",
+      "prompt": "Warm-Up 4-(d): I usually go to bed at 10:00 p.m. Say the meaning in Korean. Not scored — I usually go to bed at 10:00 p.m.",
       "section": "Warm-Up",
       "id": "q8",
       "label": "4-(d)",
-      "stem": "I usually goto bed at 10:00 p.m."
+      "stem": "I usually go to bed at 10:00 p.m."
     },
     {
       "type": "text",
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): I have ______ dinner at 6 p.m.",
+      "prompt": "Warm-Up 1-(d): Fill in the blank: Write a, or x if no article is needed — I have ______ dinner at 6 p.m.",
       "accept": [
         "x"
       ],
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Write a or an — ______ hour has 60 minutes. (한 시간은 60분이다.)",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: Write a or an — ______ hour has 60 minutes. (한 시간은 60분이다.)",
       "accept": [
         "An"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Write a or an — There is ______ university in our city. (우리 도시에는 대학이 하나 있다.)",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: Write a or an — There is ______ university in our city. (우리 도시에는 대학이 하나 있다.)",
       "accept": [
         "a"
       ],
@@ -178,7 +178,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Take ______",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: Take ______",
       "accept": [
         "an"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): Write a or an — ______ honest man never tells a lie. (정직한 사람은 거짓말을 하지 않는다.)",
+      "prompt": "Warm-Up 2-(d): Fill in the blank: Write a or an — ______ honest man never tells a lie. (정직한 사람은 거짓말을 하지 않는다.)",
       "accept": [
         "An"
       ],
@@ -200,7 +200,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): I like ______ English.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: Write a, or x if no article is needed — I like ______ English.",
       "accept": [
         "x"
       ],
@@ -211,7 +211,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): ______ milk on the table is not cold.",
+      "prompt": "Warm-Up 3-(b): Fill in the blank: ______ milk on the table is not cold.",
       "accept": [
         "The"
       ],
@@ -222,18 +222,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): Igo to school on ______ foot.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank: Write a, or x if no article is needed — I go to school on ______ foot.",
       "accept": [
         "x"
       ],
       "section": "Warm-Up",
       "id": "q19",
       "label": "3-(c)",
-      "stem": "Igo to school on ______ foot."
+      "stem": "I go to school on ______ foot."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): Write the, or x if no article is needed — Look at ______ man in the bus. (버스 안의 저 남자를 보아라.)",
+      "prompt": "Warm-Up 3-(d): Fill in the blank: Write the, or x if no article is needed — Look at ______ man in the bus. (버스 안의 저 남자를 보아라.)",
       "accept": [
         "the"
       ],
@@ -244,7 +244,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): I will comeback in (a / an) hour.",
+      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: I will comeback in (a / an) hour.",
       "accept": [
         "an"
       ],
@@ -279,7 +279,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): He is (a / an) honest man.",
+      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: He is (a / an) honest man.",
       "accept": [
         "an"
       ],
@@ -290,7 +290,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): My father has a car. He washes ______ car everyday.",
+      "prompt": "Grammar Practice 2-(a): Fill in the blank: My father has a car. He washes ______ car everyday.",
       "accept": [
         "the"
       ],
@@ -301,7 +301,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): Nick is ______ tallest boy in his class.",
+      "prompt": "Grammar Practice 2-(b): Fill in the blank: Nick is ______ tallest boy in his class.",
       "accept": [
         "the"
       ],
@@ -312,7 +312,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Write a, an, or the — ______ year has twelve months.",
+      "prompt": "Grammar Practice 2-(c): Fill in the blank: Write a, an, or the — ______ year has twelve months.",
       "accept": [
         "a"
       ],
@@ -324,20 +324,20 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(d): Please close ______ door. It’scold.",
+      "prompt": "Grammar Practice 2-(d): Fill in the blank: Please close ______ door. It's cold.",
       "accept": [
         "the"
       ],
       "section": "Grammar Practice",
       "id": "q28",
       "label": "2-(d)",
-      "stem": "Please close ______ door. It’scold."
+      "stem": "Please close ______ door. It's cold."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): I like to play the baseball with the my friends.",
+      "prompt": "Grammar Practice 3-(a): Correct the error — I like to play the baseball with the my friends.",
       "accept": [
-        "I like to play the baseball with the my friends."
+        "I like to play baseball with my friends."
       ],
       "section": "Grammar Practice",
       "id": "q29",
@@ -346,20 +346,20 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): We goto the church after a breakfast.",
+      "prompt": "Grammar Practice 3-(b): Correct the error — We go to the church after a breakfast.",
       "accept": [
-        "We go to the church after a breakfast."
+        "We go to church after breakfast."
       ],
       "section": "Grammar Practice",
       "id": "q30",
       "label": "3-(b)",
-      "stem": "We goto the church after a breakfast."
+      "stem": "We go to the church after a breakfast."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): I don ’t like the winter.",
+      "prompt": "Grammar Practice 3-(c): Correct the error — I don't like the winter.",
       "accept": [
-        "don't like the winter."
+        "I don't like the winter."
       ],
       "section": "Grammar Practice",
       "id": "q31",
@@ -368,9 +368,9 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): A waiter, please give me the some water.",
+      "prompt": "Grammar Practice 3-(d): Correct the error — A waiter, please give me the some water.",
       "accept": [
-        "A waiter, please give me the some water."
+        "Waiter, please give me some water."
       ],
       "section": "Grammar Practice",
       "id": "q32",

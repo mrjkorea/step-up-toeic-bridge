@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -111,7 +111,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): This is ______ house. ( I / my / mine )",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: This is ______ house. ( I / my / mine )",
       "accept": [
         "my"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): That is ______ book. ( you / your / yours )",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: That is ______ book. ( you / your / yours )",
       "accept": [
         "your"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): ______ shirt is blue. ( He / His / Him )",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: ______ shirt is blue. ( He / His / Him )",
       "accept": [
         "His"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): The actor wants to talk to you.",
+      "prompt": "Warm-Up 2-(a): Replace the noun with a pronoun: The actor wants to talk to you.",
       "accept": [
         "He wants to talk to you."
       ],
@@ -155,7 +155,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Mr. Baker washes his shoes.",
+      "prompt": "Warm-Up 2-(b): Replace the noun with a pronoun: Mr. Baker washes his shoes.",
       "accept": [
         "He washes his shoes."
       ],
@@ -166,7 +166,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): Susan is my best friend.",
+      "prompt": "Warm-Up 2-(c): Replace the noun with a pronoun: Susan is my best friend.",
       "accept": [
         "She is my best friend."
       ],
@@ -177,18 +177,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): It is your notebook.",
+      "prompt": "Warm-Up 3-(c): Replace the noun with a pronoun — This is your notebook.",
       "accept": [
         "It is your notebook."
       ],
       "section": "Warm-Up",
       "id": "q13",
       "label": "3-(c)",
-      "stem": "It is your notebook."
+      "stem": "This is your notebook."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): I bought a cake. It tasted very good.",
+      "prompt": "Warm-Up 4-(a): Rewrite the sentence: I bought a cake. It tasted very good.",
       "accept": [
         "a cake"
       ],
@@ -199,18 +199,18 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): There is a flower in the garden. ]tis purple.",
+      "prompt": "Warm-Up 4-(b): Rewrite the sentence: There is a flower in the garden. It is purple.",
       "accept": [
         "a flower"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "4-(b)",
-      "stem": "There is a flower in the garden. ]tis purple."
+      "stem": "There is a flower in the garden. It is purple."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): She gave me a book. It is interesting.",
+      "prompt": "Warm-Up 4-(c): Rewrite the sentence: She gave me a book. It is interesting.",
       "accept": [
         "a book"
       ],
@@ -221,7 +221,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Who is that boy?",
+      "prompt": "Grammar Practice 1-(a): Replace the noun with a pronoun: Who is that boy?",
       "accept": [
         "He"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): What does your mother do?",
+      "prompt": "Grammar Practice 1-(b): Replace the noun with a pronoun: What does your mother do?",
       "accept": [
         "She"
       ],
@@ -243,7 +243,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Do you have a bicycle?",
+      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: Do you have a bicycle?",
       "accept": [
         "I"
       ],
@@ -254,7 +254,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(a): That pencil is John ’s pencil.",
+      "prompt": "Grammar Practice 2-(a): Rewrite the sentence: That pencil is John ’s pencil.",
       "accept": [
         "his"
       ],
@@ -265,7 +265,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(b): This computer is my computer.",
+      "prompt": "Grammar Practice 2-(b): Rewrite the sentence: This computer is my computer.",
       "accept": [
         "mine"
       ],
@@ -276,7 +276,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 2-(c): Change the underlined part into a possessive pronoun — My pants are blue and her pants are red. — replace 'her pants'",
+      "prompt": "Grammar Practice 2-(c): Rewrite the sentence: Change the underlined part into a possessive pronoun — My pants are blue and her pants are red. — replace 'her pants'",
       "accept": [
         "hers"
       ],
@@ -320,7 +320,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): This is a flag and those is a carpet.",
+      "prompt": "Grammar Practice 4-(a): Rewrite the sentence: This is a flag and those is a carpet.",
       "accept": [
         "those"
       ],

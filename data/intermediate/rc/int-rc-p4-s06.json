@@ -84,47 +84,47 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — baseball  ______  fighter ______",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — baseball ______ player",
       "accept": [
         "baseball player"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "stem": "baseball  ______  fighter ______"
+      "stem": "baseball ______ player"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): police ______  ______  player ______ — ______",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — police ______ officer",
       "accept": [
-        "police officer: police officer"
+        "police officer"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "stem": "police ______  ______  player ______ — ______"
+      "stem": "police ______ officer"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): hair ______  ______  officer ______",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — hair ______ dresser",
       "accept": [
-        "hair dresser: hairdresser"
+        "hairdresser"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "hair ______  ______  officer ______"
+      "stem": "hair ______ dresser"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): fire ______  ______  dresser ______",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — fire ______ fighter",
       "accept": [
-        "fire fighter: firefighter"
+        "firefighter"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "stem": "fire ______  ______  dresser ______"
+      "stem": "fire ______ fighter"
     },
     {
       "type": "text",

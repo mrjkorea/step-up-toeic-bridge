@@ -84,47 +84,47 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): wash ______  ______  ______ brush ______",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — wash ______ stand",
       "accept": [
-        "wash stand washstand"
+        "washstand"
       ],
       "section": "Vocabulary Practice",
       "id": "q8",
       "label": "2-(a)",
-      "stem": "wash ______  ______  ______ brush ______"
+      "stem": "wash ______ stand"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): tooth. ______  tub ______",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — tooth ______ brush",
       "accept": [
         "toothbrush"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(b)",
-      "stem": "tooth. ______  tub ______"
+      "stem": "tooth ______ brush"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): cup ______  ______  ______ board ______",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — cup ______ board",
       "accept": [
-        "cupboard: cupboard"
+        "cupboard"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(c)",
-      "stem": "cup ______  ______  ______ board ______"
+      "stem": "cup ______ board"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): bath ______  ______  ______ stand ______",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — bath ______ tub",
       "accept": [
         "bathtub"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(d)",
-      "stem": "bath ______  ______  ______ stand ______"
+      "stem": "bath ______ tub"
     },
     {
       "type": "text",
@@ -161,14 +161,14 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(d): The cari sparked in the ______.",
+      "prompt": "Vocabulary Practice 3-(d): Fill in the blank — The car is parked in the ______.",
       "accept": [
         "garage"
       ],
       "section": "Vocabulary Practice",
       "id": "q15",
       "label": "3-(d)",
-      "stem": "The cari sparked in the ______."
+      "stem": "The car is parked in the ______."
     },
     {
       "id": "q16",

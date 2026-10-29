@@ -5,7 +5,7 @@
   "level": "intermediate",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Gary can read Japanese novels.",
+      "prompt": "Warm-Up 2-(a): Rewrite the sentence: Gary can read Japanese novels.",
       "accept": [
         "Can Gary read Japanese novels?"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): Candy will use my comp",
+      "prompt": "Warm-Up 2-(b): Rewrite the sentence: Candy will use my comp",
       "accept": [
         "Will Candy use my computer tomorrow?"
       ],
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): He teaches me.",
+      "prompt": "Warm-Up 4-(a): Rewrite the sentence: He teaches me.",
       "accept": [
         "He will teach me."
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(b): We will meet him at the mart early in the morning.",
+      "prompt": "Warm-Up 4-(b): Rewrite the sentence: We will meet him at the mart early in the morning.",
       "accept": [
         "We will not meet him at the mart early in the morning."
       ],
@@ -190,7 +190,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): You are in a hurry.",
+      "prompt": "Warm-Up 4-(c): Rewrite the sentence: You are in a hurry.",
       "accept": [
         "Will you be in a hurry?"
       ],
@@ -201,7 +201,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(d): She will bring her younger sister here.",
+      "prompt": "Warm-Up 4-(d): Rewrite the sentence: She will bring her younger sister here.",
       "accept": [
         "Will she bring her younger sister here?"
       ],
@@ -212,7 +212,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): Correct the wrong part — He wills come here to meet her.",
+      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: Correct the wrong part — He wills come here to meet her.",
       "accept": [
         "will"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: Correct the wrong part.",
       "accept": [
         "will be"
       ],
@@ -233,7 +233,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: Correct the wrong part.",
       "accept": [
         "play"
       ],
@@ -243,7 +243,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(d): Correct the wrong part.",
+      "prompt": "Grammar Practice 1-(d): Rewrite the sentence: Correct the wrong part.",
       "accept": [
         "be"
       ],
@@ -303,7 +303,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-fix: Correct the wrong part of that sentence.",
+      "prompt": "Grammar Practice 3-fix: Rewrite the sentence: Correct the wrong part of that sentence.",
       "accept": [
         "should do"
       ],

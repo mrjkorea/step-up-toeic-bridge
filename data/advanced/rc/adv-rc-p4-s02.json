@@ -5,11 +5,11 @@
   "level": "advanced",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Iam ______ your grade but you should still work",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ your grade but you should still work",
       "choices": {
         "A": "Before long",
         "B": "get hurt",
@@ -20,7 +20,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Iam ______ your grade but you should still work"
+      "stem": "I'm ______ your grade but you should still work"
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(a): The man was ______ at the door, (stand )",
+      "prompt": "Warm-Up 1-(a): Fill in the blank: The man was ______ at the door, (stand )",
       "accept": [
         "standing"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(b): The dog got, ______ on the road, (kill)",
+      "prompt": "Warm-Up 1-(b): Fill in the blank: The dog got, ______ on the road, (kill)",
       "accept": [
         "killed"
       ],
@@ -91,7 +91,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): I found the vase ______. (break )",
+      "prompt": "Warm-Up 1-(c): Fill in the blank: I found the vase ______. (break )",
       "accept": [
         "broken"
       ],
@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(d): I was very ______ because the game was very",
+      "prompt": "Warm-Up 1-(d): Fill in the blank: I was very ______ because the game was very",
       "accept": [
         "excited"
       ],
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): Tom wrote the letter.",
+      "prompt": "Warm-Up 2-(a): Rewrite in the passive: Tom wrote the letter.",
       "accept": [
         "The letter was written by Tom."
       ],
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): The man will save the bird.",
+      "prompt": "Warm-Up 2-(b): Rewrite the sentence: The man will save the bird.",
       "accept": [
         "The bird will be saved by the man."
       ],
@@ -135,7 +135,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): He has read the book several times.",
+      "prompt": "Warm-Up 2-(c): Rewrite in the passive: He has read the book several times.",
       "accept": [
         "The book has been read several times by him."
       ],
@@ -146,7 +146,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(d): The woman is serving the people.",
+      "prompt": "Warm-Up 2-(d): Rewrite in the passive: The woman is serving the people.",
       "accept": [
         "The people are being served by the woman."
       ],
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): English is spoken by my friends in class.",
+      "prompt": "Warm-Up 3-(a): Rewrite the sentence: English is spoken by my friends in class.",
       "accept": [
         "My friends speak English in class."
       ],
@@ -168,7 +168,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): She has been supported by him.",
+      "prompt": "Warm-Up 3-(b): Rewrite the sentence: She has been supported by him.",
       "accept": [
         "He has supported her."
       ],
@@ -179,7 +179,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): The result was announced by him.",
+      "prompt": "Warm-Up 3-(c): Replace the noun with a pronoun: The result was announced by him.",
       "accept": [
         "He announced the result."
       ],
@@ -190,14 +190,14 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(d): Iam called Mr. Kim by them.",
+      "prompt": "Warm-Up 3-(d): Replace the noun with a pronoun: I'm called Mr. Kim by them.",
       "accept": [
         "They called me Mr. Kim."
       ],
       "section": "Warm-Up",
       "id": "q16",
       "label": "3-(d)",
-      "stem": "Iam called Mr. Kim by them."
+      "stem": "I'm called Mr. Kim by them."
     },
     {
       "type": "choice",
@@ -240,7 +240,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(a): When I walked on the street, I encountered him.",
+      "prompt": "Grammar Practice 3-(a): Rewrite using a participle: When I walked on the street, I encountered him.",
       "accept": [
         "When walking on the street, I encountered him."
       ],
@@ -251,18 +251,18 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(b): Though I feel sleepy, I must not goto bed.",
+      "prompt": "Grammar Practice 3-(b): Rewrite using a participle: Though I feel sleepy, I must not go to bed.",
       "accept": [
         "Though feeling sleepy, I must not go to bed."
       ],
       "section": "Grammar Practice",
       "id": "q22",
       "label": "3-(b)",
-      "stem": "Though I feel sleepy, I must not goto bed."
+      "stem": "Though I feel sleepy, I must not go to bed."
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(c): As she does the dishes, she sings pop songs.",
+      "prompt": "Grammar Practice 3-(c): Rewrite using a participle: As she does the dishes, she sings pop songs.",
       "accept": [
         "Doing the dishes, she sings pop songs."
       ],
@@ -273,7 +273,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 3-(d): As it was made in Japan, it is expensive.",
+      "prompt": "Grammar Practice 3-(d): Rewrite using a participle: As it was made in Japan, it is expensive.",
       "accept": [
         "Made in Japan, it is expensive."
       ],
@@ -284,7 +284,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(a): My boss made me clean his office.",
+      "prompt": "Grammar Practice 4-(a): Rewrite in the passive: My boss made me clean his office.",
       "accept": [
         "I was made to clean his office by my boss."
       ],
@@ -306,7 +306,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(c): She caught sight of the sunrise.",
+      "prompt": "Grammar Practice 4-(c): Rewrite in the passive: She caught sight of the sunrise.",
       "accept": [
         "The sunrise was caught sight of by her."
       ],
@@ -317,7 +317,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 4-(d): I saw my grandfather playing basketball at dawn.",
+      "prompt": "Grammar Practice 4-(d): Rewrite the sentence: I saw my grandfather playing basketball at dawn.",
       "accept": [
         "My grandfather was seen to play"
       ],
@@ -328,7 +328,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(a): I turned off the radio.",
+      "prompt": "Grammar Practice 5-(a): Rewrite in the passive: I turned off the radio.",
       "accept": [
         "The radio was turned off by me."
       ],
@@ -339,7 +339,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(b): Who made it?",
+      "prompt": "Grammar Practice 5-(b): Rewrite the sentence: Who made it?",
       "accept": [
         "By whom was it made?"
       ],
@@ -350,7 +350,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(c): The man is repairing the chairs.",
+      "prompt": "Grammar Practice 5-(c): Rewrite in the passive: The man is repairing the chairs.",
       "accept": [
         "The chairs are being repaired by the man."
       ],
@@ -361,7 +361,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 5-(d): She made him pick it",
+      "prompt": "Grammar Practice 5-(d): Rewrite the sentence: She made him pick it",
       "accept": [
         "He was made to pick it up."
       ],

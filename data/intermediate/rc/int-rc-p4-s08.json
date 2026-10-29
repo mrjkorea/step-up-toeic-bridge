@@ -97,58 +97,60 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): playing ______  ______  surfing",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — playing ______ pets",
       "accept": [
-        "Internet surfing : Internet surfing"
+        "with",
+        "playing with pets"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
       "label": "2-(a)",
-      "stem": "playing ______  ______  surfing"
+      "stem": "playing ______ pets"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Internet  ______  diving ______",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — Internet ______ surfing",
       "accept": [
-        "scuba diving: scuba diving"
+        "Internet surfing"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
       "label": "2-(b)",
-      "stem": "Internet  ______  diving ______"
+      "stem": "Internet ______ surfing"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): scuba ______  ______  whit h pets ______",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — scuba ______ diving",
       "accept": [
-        "playing with pets"
+        "scuba diving"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
       "label": "2-(c)",
-      "stem": "scuba ______  ______  whit h pets ______"
+      "stem": "scuba ______ diving"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): water ______  ______  skiing ______",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — water ______ skiing",
       "accept": [
-        "waterskiing : water-skiing"
+        "water-skiing",
+        "waterskiing"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
       "label": "2-(d)",
-      "stem": "water ______  ______  skiing ______"
+      "stem": "water ______ skiing"
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 3-(a): I like reading ______  They are som",
+      "prompt": "Vocabulary Practice 3-(a): Fill in the blank — I like reading ______. They are some of my favorites.",
       "accept": [
         "comic books"
       ],
       "section": "Vocabulary Practice",
       "id": "q13",
       "label": "3-(a)",
-      "stem": "I like reading ______  They are som"
+      "stem": "I like reading ______. They are some of my favorites."
     },
     {
       "type": "text",

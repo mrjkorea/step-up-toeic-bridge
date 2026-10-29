@@ -11,7 +11,7 @@
   "items": [
     {
       "type": "choice",
-      "prompt": "Words and Idioms Check-Up (a): Iam ______ tomorrow.",
+      "prompt": "Words and Idioms Check-Up (a): I'm ______ tomorrow.",
       "choices": {
         "A": "leaving",
         "B": "looking at",
@@ -21,7 +21,7 @@
       "section": "Words and Idioms Check-Up",
       "id": "q1",
       "label": "(a)",
-      "stem": "Iam ______ tomorrow."
+      "stem": "I'm ______ tomorrow."
     },
     {
       "type": "choice",

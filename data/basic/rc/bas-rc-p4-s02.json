@@ -5,7 +5,7 @@
   "level": "basic",
   "skill": "rc",
   "stub": false,
-  "introEn": "Choose the best answer to complete the sentence or question.",
+  "introEn": "Read each item carefully. For multiple-choice items, choose the best answer. For Warm-Up and Grammar Practice, follow the instruction in each prompt and type your answer (rewritten sentence, correction, or word/phrase as asked).",
   "items": [
     {
       "type": "choice",
@@ -135,9 +135,10 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 1-(c): She is very smart.",
+      "prompt": "Warm-Up 1-(c): Put a slash (/) between the subject and the verb: She is very smart.",
       "accept": [
-        "She is very smart."
+        "She / is very smart.",
+        "She/is very smart."
       ],
       "section": "Warm-Up",
       "id": "q9",
@@ -146,7 +147,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(a): ______ is cute.",
+      "prompt": "Warm-Up 2-(a): Fill in the blank: ______ is cute.",
       "accept": [
         "My sister"
       ],
@@ -157,7 +158,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(b): ______ is very happy.",
+      "prompt": "Warm-Up 2-(b): Fill in the blank: ______ is very happy.",
       "accept": [
         "He"
       ],
@@ -168,7 +169,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 2-(c): ______ is shining.",
+      "prompt": "Warm-Up 2-(c): Fill in the blank: ______ is shining.",
       "accept": [
         "The sun"
       ],
@@ -179,7 +180,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(a): She teaches ______.",
+      "prompt": "Warm-Up 3-(a): Fill in the blank: She teaches ______.",
       "accept": [
         "English"
       ],
@@ -190,29 +191,29 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(b): He picked",
+      "prompt": "Warm-Up 3-(b): Fill in the blank — He picked up the ______.",
       "accept": [
         "ball"
       ],
       "section": "Warm-Up",
       "id": "q14",
       "label": "3-(b)",
-      "stem": "He picked"
+      "stem": "He picked up the ______."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 3-(c): He sanga ______.",
+      "prompt": "Warm-Up 3-(c): Fill in the blank — He sang a ______.",
       "accept": [
         "song"
       ],
       "section": "Warm-Up",
       "id": "q15",
       "label": "3-(c)",
-      "stem": "He sanga ______."
+      "stem": "He sang a ______."
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(a): It ______ bad.",
+      "prompt": "Warm-Up 4-(a): Fill in the blank: It ______ bad.",
       "accept": [
         "smells"
       ],
@@ -234,7 +235,7 @@
     },
     {
       "type": "text",
-      "prompt": "Warm-Up 4-(c): He ______ famous.",
+      "prompt": "Warm-Up 4-(c): Fill in the blank: He ______ famous.",
       "accept": [
         "became"
       ],
@@ -245,7 +246,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(a): She closed the window last night. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(a): Rewrite the sentence: She closed the window last night. Type the English word that matches the blank in the Korean translation.",
       "accept": [
         "window"
       ],
@@ -255,7 +256,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(b): Birds fly in the sky. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(b): Rewrite the sentence: Birds fly in the sky. Type the English word that matches the blank in the Korean translation.",
       "accept": [
         "fly"
       ],
@@ -265,7 +266,7 @@
     },
     {
       "type": "text",
-      "prompt": "Grammar Practice 1-(c): He can play the piano. Type the English word that matches the blank in the Korean translation.",
+      "prompt": "Grammar Practice 1-(c): Rewrite the sentence: He can play the piano. Type the English word that matches the blank in the Korean translation.",
       "accept": [
         "He"
       ],
