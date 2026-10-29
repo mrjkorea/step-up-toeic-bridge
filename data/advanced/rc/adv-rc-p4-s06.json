@@ -102,7 +102,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as'sense - word' — touch ______ rock",
+      "prompt": "Vocabulary Practice 2-(a): Match the related words; write as 'sense - word'. Word bank: rock, chocolate, perfume, excited. — touch ______",
       "accept": [
         "touch - rock",
         "touch, rock",
@@ -116,7 +116,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): Match the related words; write as'sense - word' — taste ______ chocolate",
+      "prompt": "Vocabulary Practice 2-(b): Match the related words; write as 'sense - word'. — taste ______",
       "accept": [
         "taste - chocolate",
         "taste, chocolate",
@@ -130,7 +130,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): Match the related words; write as'sense - word' — smell ______ perfume",
+      "prompt": "Vocabulary Practice 2-(c): Match the related words; write as 'sense - word'. — smell ______",
       "accept": [
         "smell - perfume",
         "smell, perfume",
@@ -144,7 +144,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): Match the related words; write as'sense - word' — feel ______ excited",
+      "prompt": "Vocabulary Practice 2-(d): Match the related words; write as 'sense - word'. — feel ______",
       "accept": [
         "feel - excited",
         "feel, excited",

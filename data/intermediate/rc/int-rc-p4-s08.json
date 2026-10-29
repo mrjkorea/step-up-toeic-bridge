@@ -97,7 +97,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — playing ______ pets",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — playing ______",
       "accept": [
         "with",
         "playing with pets"
@@ -109,7 +109,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — Internet ______ surfing",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — Internet ______",
       "accept": [
         "Internet surfing"
       ],
@@ -120,7 +120,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — scuba ______ diving",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — scuba ______",
       "accept": [
         "scuba diving"
       ],
@@ -131,7 +131,7 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — water ______ skiing",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — water ______",
       "accept": [
         "water-skiing",
         "waterskiing"

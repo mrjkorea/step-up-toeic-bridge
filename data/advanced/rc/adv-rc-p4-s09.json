@@ -102,9 +102,10 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(a): correct or complete it — department ______ store",
+      "prompt": "Vocabulary Practice 2-(a): correct or complete it — department ______",
       "accept": [
-        "department store"
+        "department store",
+        "store"
       ],
       "section": "Vocabulary Practice",
       "id": "q9",
@@ -113,9 +114,10 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(b): correct or complete it — movie ______ theater",
+      "prompt": "Vocabulary Practice 2-(b): correct or complete it — movie ______",
       "accept": [
-        "movie theater"
+        "movie theater",
+        "theater"
       ],
       "section": "Vocabulary Practice",
       "id": "q10",
@@ -124,9 +126,10 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(c): correct or complete it — post ______ office",
+      "prompt": "Vocabulary Practice 2-(c): correct or complete it — post ______",
       "accept": [
-        "post office"
+        "post office",
+        "office"
       ],
       "section": "Vocabulary Practice",
       "id": "q11",
@@ -135,9 +138,10 @@
     },
     {
       "type": "text",
-      "prompt": "Vocabulary Practice 2-(d): correct or complete it — parking ______ lot",
+      "prompt": "Vocabulary Practice 2-(d): correct or complete it — parking ______",
       "accept": [
-        "parking lot"
+        "parking lot",
+        "lot"
       ],
       "section": "Vocabulary Practice",
       "id": "q12",
