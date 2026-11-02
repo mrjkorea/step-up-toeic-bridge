@@ -3,6 +3,9 @@
   "use strict";
 
   var PROGRAM = "step-up-toeic-bridge";
+  // TEMP (Jay): unlock all path/unit/sections for every signed-in student until
+  // a proper teacher unlock UI exists. Set false to restore sequential locks.
+  var UNLOCK_ALL = true;
   var RETRY_PCT = 50;
   var PASS_PCT = 80;
   var LS_RESUME = "stepup.resume.v1";
@@ -259,6 +262,7 @@
   }
 
   function isUnlocked(practices, practiceId) {
+    if (UNLOCK_ALL) return true;
     if (!practices || !practices.length) return true;
     var idx = -1;
     for (var i = 0; i < practices.length; i++) {
@@ -283,6 +287,7 @@
   }
 
   function isGroupUnlocked(practices, groupName) {
+    if (UNLOCK_ALL) return true;
     if (!practices || !practices.length) return true;
     var groupOrder = [];
     var seen = {};
@@ -356,6 +361,7 @@
 
   root.STEPUP_PROGRESS = {
     PROGRAM: PROGRAM,
+    UNLOCK_ALL: UNLOCK_ALL,
     RETRY_PCT: RETRY_PCT,
     PASS_PCT: PASS_PCT,
     getScore: getScore,
