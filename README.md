@@ -50,10 +50,10 @@ Part II / Part IV theme subtitles follow the LearnWorlds day-split cheat sheet (
 
 ## Audio
 
-- **55 section MP4s** (Drive exports) live under `audio/<level>/` and are wired through `audio/manifest.json` (`practiceId` / `audioRef` → file paths).
+- **55 section M4A tracks** (AAC-LC, remuxed from Drive/VLC exports) live under `audio/<level>/` and are wired through `audio/manifest.json` (`practiceId` / `audioRef` → file paths).
 - The in-quiz player loads those files for LC practices (`audioRef` on the JSON; Actual Test chunks share `<prefix>-lc-at`).
-- **Intermediate Part II §06** uses two files: `p2-s06a.mp4` + `p2-s06b.mp4` (two players in the UI).
-- After adding or renaming tracks only: `node scripts/generate-stubs.mjs` updates manifest paths (existing MP4 files are left in place).
+- **Intermediate Part II §06** uses two files: `p2-s06a.m4a` + `p2-s06b.m4a` (two players in the UI).
+- After adding or renaming tracks only: `node scripts/generate-stubs.mjs` updates manifest paths (existing audio files are left in place). To remux legacy MP3-in-MP4 exports: `bash scripts/remux-lc-audio.sh`.
 
 ## Part I photos (student UI)
 

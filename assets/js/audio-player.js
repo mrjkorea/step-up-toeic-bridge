@@ -8,7 +8,7 @@
   function loadManifest() {
     if (manifest) return Promise.resolve(manifest);
     if (loadPromise) return loadPromise;
-    var url = root.stepupUrl("audio/manifest.json?v=1");
+    var url = root.stepupUrl("audio/manifest.json?v=2");
     loadPromise = fetch(url, { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("manifest");

@@ -412,7 +412,7 @@
       var note = el(
         "p",
         "footnote",
-        "Finish each section at 50% or higher to unlock the next. Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed Drive MP4s."
+        "Finish each section at 50% or higher to unlock the next. Practice content from YBM Step Up TOEIC Bridge answer keys; section audio plays from committed tracks in each practice."
       );
       app.appendChild(note);
     });

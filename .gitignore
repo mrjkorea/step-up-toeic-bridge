@@ -151,3 +151,5 @@ vite.config.ts.timestamp-*
 # Turbo Repo
 .turbo
 __pycache__/
+.playwright-mcp/
+sense_out.json

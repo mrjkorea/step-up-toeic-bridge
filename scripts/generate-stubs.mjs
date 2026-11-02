@@ -218,22 +218,22 @@ function audioManifestEntries() {
     const p = level.prefix;
     for (let s = 1; s <= 4; s++) {
       const id = `${p}-lc-p1-s${pad2(s)}`;
-      practices[id] = { files: [`${folder}/p1-s${pad2(s)}.mp4`] };
+      practices[id] = { files: [`${folder}/p1-s${pad2(s)}.m4a`] };
     }
     for (let s = 1; s <= 7; s++) {
       const id = `${p}-lc-p2-s${pad2(s)}`;
       if (level.id === "intermediate" && s === 6) {
-        practices[id] = { files: [`${folder}/p2-s06a.mp4`, `${folder}/p2-s06b.mp4`] };
+        practices[id] = { files: [`${folder}/p2-s06a.m4a`, `${folder}/p2-s06b.m4a`] };
       } else {
-        practices[id] = { files: [`${folder}/p2-s${pad2(s)}.mp4`] };
+        practices[id] = { files: [`${folder}/p2-s${pad2(s)}.m4a`] };
       }
     }
     for (let s = 1; s <= 6; s++) {
       const id = `${p}-lc-p3-s${pad2(s)}`;
-      practices[id] = { files: [`${folder}/p3-s${pad2(s)}.mp4`] };
+      practices[id] = { files: [`${folder}/p3-s${pad2(s)}.m4a`] };
     }
     const atId = `${p}-lc-at`;
-    practices[atId] = { files: [`${folder}/actual-test.mp4`] };
+    practices[atId] = { files: [`${folder}/actual-test.m4a`] };
   }
   return practices;
 }
@@ -280,7 +280,7 @@ function main() {
 
   const manifest = {
     version: 1,
-    note: "practiceId or audioRef keys map to mp4 paths relative to audio/",
+    note: "practiceId or audioRef keys map to m4a paths relative to audio/",
     practices: audioManifestEntries(),
   };
   writeJson(path.join(ROOT, "audio/manifest.json"), manifest);
