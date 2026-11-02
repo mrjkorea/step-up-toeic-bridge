@@ -9,6 +9,8 @@
   var RETRY_PCT = 50;
   var PASS_PCT = 80;
   var LS_RESUME = "stepup.resume.v1";
+  var LS_TEACHER = "stepup.teacherUnlock.v1";
+  var teacherUnlocked = {};
   var cloudScores = {};
   var resumeTarget = null;
   var packLoaded = false;
@@ -51,6 +53,54 @@
     try {
       localStorage.setItem(LS_RESUME, JSON.stringify(entry));
     } catch (e) {}
+  }
+
+  function readLocalTeacherMap() {
+    try {
+      var raw = localStorage.getItem(LS_TEACHER);
+      return raw ? JSON.parse(raw) : {};
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function writeLocalTeacherMap(map) {
+    try {
+      localStorage.setItem(LS_TEACHER, JSON.stringify(map));
+    } catch (e) {}
+  }
+
+  function resetTeacherUnlockState() {
+    teacherUnlocked = {};
+  }
+
+  function ingestTeacherIds(ids) {
+    (ids || []).forEach(function (id) {
+      var key = String(id || "").trim();
+      if (key) teacherUnlocked[key] = true;
+    });
+  }
+
+  function loadTeacherFromLocalStorage() {
+    resetTeacherUnlockState();
+    var sid = student();
+    if (!sid) return;
+    var map = readLocalTeacherMap();
+    var entry = map[sid];
+    if (entry && entry.practices) ingestTeacherIds(entry.practices);
+  }
+
+  function persistTeacherToLocalStorage() {
+    var sid = student();
+    if (!sid) return;
+    var map = readLocalTeacherMap();
+    map[sid] = { practices: Object.keys(teacherUnlocked) };
+    writeLocalTeacherMap(map);
+  }
+
+  function applyTeacherFromPack(pack) {
+    if (!pack || !pack.teacher) return;
+    ingestTeacherIds(pack.teacher.practices);
   }
 
   function rowPracticeId(row) {
@@ -173,13 +223,15 @@
       if (pack && pack.last && pack.last.practiceId) {
         resumeTarget = pack.last;
       }
+      applyTeacherFromPack(pack);
     } catch (e) {}
   }
 
   function packPayload() {
     return JSON.stringify({
-      v: 1,
+      v: 2,
       last: resumeTarget || readLocalResume() || null,
+      teacher: { practices: Object.keys(teacherUnlocked) },
     });
   }
 
@@ -261,8 +313,21 @@
     return !isComplete(practiceId);
   }
 
+  function isTeacherUnlocked(practiceId) {
+    return !!teacherUnlocked[String(practiceId || "").trim()];
+  }
+
+  function groupHasTeacherUnlock(practices, groupName) {
+    var found = false;
+    (practices || []).forEach(function (p) {
+      if (p.group === groupName && isTeacherUnlocked(p.id)) found = true;
+    });
+    return found;
+  }
+
   function isUnlocked(practices, practiceId) {
     if (UNLOCK_ALL) return true;
+    if (isTeacherUnlocked(practiceId)) return true;
     if (!practices || !practices.length) return true;
     var idx = -1;
     for (var i = 0; i < practices.length; i++) {
@@ -288,6 +353,7 @@
 
   function isGroupUnlocked(practices, groupName) {
     if (UNLOCK_ALL) return true;
+    if (groupHasTeacherUnlock(practices, groupName)) return true;
     if (!practices || !practices.length) return true;
     var groupOrder = [];
     var seen = {};
@@ -314,6 +380,40 @@
       String(a.practiceId || "") === String(b.practiceId || "") &&
       String(a.trackId || "") === String(b.trackId || "")
     );
+  }
+
+  function teacherUnlockFromHere(practices, practiceId, trackId) {
+    if (!practices || !practiceId) return false;
+    var idx = -1;
+    for (var i = 0; i < practices.length; i++) {
+      if (practices[i].id === practiceId) {
+        idx = i;
+        break;
+      }
+    }
+    if (idx < 0) return false;
+    for (var j = 0; j <= idx; j++) {
+      teacherUnlocked[practices[j].id] = true;
+    }
+    touch(practiceId, trackId);
+    persistTeacherToLocalStorage();
+    savePackToCloud();
+    notifyChange();
+    return true;
+  }
+
+  function teacherRelock(practiceId) {
+    var id = String(practiceId || "").trim();
+    if (!id || !teacherUnlocked[id]) return false;
+    delete teacherUnlocked[id];
+    persistTeacherToLocalStorage();
+    savePackToCloud();
+    notifyChange();
+    return true;
+  }
+
+  function listTeacherUnlocks() {
+    return Object.keys(teacherUnlocked);
   }
 
   function touch(practiceId, trackId) {
@@ -353,11 +453,15 @@
 
   root.addEventListener("mrj-auth-ready", function (ev) {
     packLoadStarted = false;
+    resetTeacherUnlockState();
+    loadTeacherFromLocalStorage();
     if (ev && ev.detail && ev.detail.progress) {
       ingestProgressRows(ev.detail.progress);
     }
     loadCloudState();
   });
+
+  loadTeacherFromLocalStorage();
 
   root.STEPUP_PROGRESS = {
     PROGRAM: PROGRAM,
@@ -370,8 +474,12 @@
     isComplete: isComplete,
     mustRetry: mustRetry,
     isUnlocked: isUnlocked,
+    isTeacherUnlocked: isTeacherUnlocked,
     isGroupUnlocked: isGroupUnlocked,
     groupComplete: groupComplete,
+    teacherUnlockFromHere: teacherUnlockFromHere,
+    teacherRelock: teacherRelock,
+    listTeacherUnlocks: listTeacherUnlocks,
     getResume: getResume,
     touch: touch,
     onScorePersisted: onScorePersisted,

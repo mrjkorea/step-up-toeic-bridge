@@ -79,6 +79,13 @@ Items marked `"blocked": true` in the content pack are hidden from students unti
 - **mrj-signin** loads from `mrjkorea.github.io/mrj-signin` (`data-mrj-app="step-up-toeic-bridge"`).
 - **mrj-scores** posts to the shared Classroom Metrics sheet when a student is signed in; otherwise scores are stored in `localStorage` (`stepup.score.<practiceId>`).
 
+### Progress locks & teacher start points
+
+- Sequential unlock: each practice opens after the previous section reaches **50%** (`RETRY_PCT` in `assets/js/progress-bridge.js`).
+- **TEMP `UNLOCK_ALL`** (same file, `var UNLOCK_ALL = true`): bypasses all locks for every student until teacher tooling is verified in class. Set to **`false`** when you want progress + teacher unlocks only.
+- A section is open when **`UNLOCK_ALL` OR progress OR teacher-unlocked** (teacher unlock ids live in the app pack `teacher.practices[]` and `localStorage` key `stepup.teacherUnlock.v1` per student id).
+- In **Teacher** mode (Teacher chip → PIN), open the teacher panel from the Teacher chip to set **Start from here** on any section; re-lock from the panel list.
+
 ## GitHub Pages
 
 - `.nojekyll` is present for static assets.

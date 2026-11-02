@@ -7,6 +7,9 @@
   var startedAt = 0;
   var progressUnsub = null;
   var practiceTimerId = null;
+  var teacherPanelRoot = null;
+  var teacherPanelOpen = false;
+  var teacherBtnCapture = null;
 
   function clearPracticeTimer() {
     if (practiceTimerId != null) {
@@ -116,6 +119,179 @@
     return "";
   }
 
+  function isTeacherRole() {
+    return !!(root.MRJ_AUTH && root.MRJ_AUTH.isTeacher && root.MRJ_AUTH.isTeacher());
+  }
+
+  function teacherUnlockFromHere(practices, practiceId, trackId) {
+    if (!root.STEPUP_PROGRESS || !root.STEPUP_PROGRESS.teacherUnlockFromHere) return;
+    root.STEPUP_PROGRESS.teacherUnlockFromHere(practices, practiceId, trackId);
+  }
+
+  function closeTeacherPanel() {
+    teacherPanelOpen = false;
+    if (teacherPanelRoot && teacherPanelRoot.parentNode) {
+      teacherPanelRoot.parentNode.removeChild(teacherPanelRoot);
+    }
+    teacherPanelRoot = null;
+    if (root.document && root.document.body) {
+      root.document.body.classList.remove("stepup-teacher-panel-open");
+    }
+  }
+
+  function renderTeacherPanelBody(panel) {
+    var body = panel.querySelector(".teacher-panel__body");
+    if (!body) return;
+    body.innerHTML = "";
+    var sid = studentLabel();
+    body.appendChild(
+      el(
+        "p",
+        "teacher-panel__lead",
+        sid
+          ? "Signed in as <strong>" + sid + "</strong>. Pick where this student may start."
+          : "Sign in as a student first, then use Teacher mode."
+      )
+    );
+    var resume =
+      root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.getResume
+        ? root.STEPUP_PROGRESS.getResume()
+        : null;
+    if (resume && resume.practiceId) {
+      body.appendChild(
+        el(
+          "p",
+          "teacher-panel__resume",
+          "Start point: <strong>" + resume.practiceId + "</strong>" +
+            (resume.trackId ? " (" + resume.trackId + ")" : "")
+        )
+      );
+    }
+    var unlockIds =
+      root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.listTeacherUnlocks
+        ? root.STEPUP_PROGRESS.listTeacherUnlocks()
+        : [];
+    var listHead = el("h3", "teacher-panel__subhead", "Teacher-open sections");
+    body.appendChild(listHead);
+    if (!unlockIds.length) {
+      body.appendChild(
+        el(
+          "p",
+          "teacher-panel__empty",
+          "No teacher unlocks yet. Tap “Start from here” on a section in the map."
+        )
+      );
+    } else {
+      loadCatalog().then(function (c) {
+        if (!teacherPanelOpen || !panel.parentNode) return;
+        var ul = el("ul", "teacher-unlock-list");
+        unlockIds.sort().forEach(function (pid) {
+          var meta = c.practiceIndex && c.practiceIndex[pid];
+          var li = el("li", "teacher-unlock-list__item");
+          var label = meta ? meta.title || pid : pid;
+          if (meta && meta.subtitle) label += " — " + meta.subtitle;
+          li.appendChild(el("span", "teacher-unlock-list__label", label));
+          var relock = el("button", "btn-teacher-relock", "Re-lock");
+          relock.type = "button";
+          relock.addEventListener("click", function () {
+            if (root.STEPUP_PROGRESS && root.STEPUP_PROGRESS.teacherRelock) {
+              root.STEPUP_PROGRESS.teacherRelock(pid);
+            }
+            renderTeacherPanelBody(panel);
+            render();
+          });
+          li.appendChild(relock);
+          ul.appendChild(li);
+        });
+        body.appendChild(ul);
+      });
+    }
+    var note = el(
+      "p",
+      "teacher-panel__note",
+      "Unlocks save to this student’s app pack (cloud when signed in) and localStorage backup."
+    );
+    body.appendChild(note);
+  }
+
+  function openTeacherPanel() {
+    if (!isTeacherRole()) return;
+    if (teacherPanelOpen) return;
+    teacherPanelOpen = true;
+    teacherPanelRoot = el("div", "teacher-panel-backdrop");
+    teacherPanelRoot.setAttribute("role", "presentation");
+    var dialog = el("div", "teacher-panel");
+    dialog.setAttribute("role", "dialog");
+    dialog.setAttribute("aria-label", "Teacher start point");
+    var head = el("div", "teacher-panel__head");
+    head.appendChild(el("h2", "teacher-panel__title", "Teacher — start from here"));
+    var closeBtn = el("button", "teacher-panel__close", "Close");
+    closeBtn.type = "button";
+    closeBtn.addEventListener("click", closeTeacherPanel);
+    head.appendChild(closeBtn);
+    dialog.appendChild(head);
+    dialog.appendChild(el("div", "teacher-panel__body"));
+    var actions = el("div", "teacher-panel__actions");
+    var exitBtn = el("button", "btn-secondary btn-teacher-exit", "Exit teacher mode");
+    exitBtn.type = "button";
+    exitBtn.addEventListener("click", function () {
+      closeTeacherPanel();
+      var btn = root.document && root.document.querySelector(".mrj-auth-teacher-btn");
+      if (btn && teacherBtnCapture && root.document.removeEventListener) {
+        root.document.removeEventListener("click", teacherBtnCapture, true);
+        btn.click();
+        root.document.addEventListener("click", teacherBtnCapture, true);
+      }
+    });
+    actions.appendChild(exitBtn);
+    dialog.appendChild(actions);
+    teacherPanelRoot.appendChild(dialog);
+    teacherPanelRoot.addEventListener("click", function (ev) {
+      if (ev.target === teacherPanelRoot) closeTeacherPanel();
+    });
+    root.document.body.appendChild(teacherPanelRoot);
+    root.document.body.classList.add("stepup-teacher-panel-open");
+    renderTeacherPanelBody(dialog);
+  }
+
+  function toggleTeacherPanel() {
+    if (teacherPanelOpen) closeTeacherPanel();
+    else openTeacherPanel();
+  }
+
+  function wireTeacherChrome() {
+    if (teacherBtnCapture || !root.document) return;
+    teacherBtnCapture = function (ev) {
+      var btn =
+        ev.target && ev.target.closest && ev.target.closest(".mrj-auth-teacher-btn");
+      if (!btn || !isTeacherRole()) return;
+      ev.preventDefault();
+      ev.stopPropagation();
+      toggleTeacherPanel();
+    };
+    root.document.addEventListener("click", teacherBtnCapture, true);
+    root.addEventListener("mrj-teacher", function () {
+      openTeacherPanel();
+    });
+  }
+
+  function appendTeacherStartBtn(card, p, practices, trackId) {
+    if (!isTeacherRole()) return;
+    var btn = el("button", "btn-teacher-start", "Start from here");
+    btn.type = "button";
+    btn.setAttribute("aria-label", "Allow start from " + (p.title || p.id));
+    btn.addEventListener("click", function (ev) {
+      ev.preventDefault();
+      ev.stopPropagation();
+      teacherUnlockFromHere(practices, p.id, trackId);
+      if (teacherPanelOpen && teacherPanelRoot) {
+        var dialog = teacherPanelRoot.querySelector(".teacher-panel");
+        if (dialog) renderTeacherPanelBody(dialog);
+      }
+    });
+    card.appendChild(btn);
+  }
+
   function loadCatalog() {
     if (catalog) return Promise.resolve(catalog);
     if (catalogPromise) return catalogPromise;
@@ -157,6 +333,7 @@
     var name = studentLabel();
     if (name) {
       var pill = el("span", "student-pill", name);
+      pill.setAttribute("data-mrj-name-pill", "1");
       bar.appendChild(pill);
     }
     return bar;
@@ -273,11 +450,13 @@
       row.innerHTML = inner;
       row.setAttribute("aria-disabled", "true");
       row.title = "Finish the previous section at " + retryPct() + "% or higher to unlock.";
+      appendTeacherStartBtn(row, p, practices, trackId);
       return row;
     }
     var a = el("a", cls);
     a.href = "#/practice/" + p.id;
     a.innerHTML = inner;
+    appendTeacherStartBtn(a, p, practices, trackId);
     return a;
   }
 
@@ -1083,6 +1262,7 @@
   });
   root.addEventListener("DOMContentLoaded", function () {
     if (!root.location.hash) root.location.hash = "#/";
+    wireTeacherChrome();
     bindProgressRefresh();
     render();
     if (root.MRJ_SCORES && root.MRJ_SCORES.flush) root.MRJ_SCORES.flush();
